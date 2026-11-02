@@ -1,0 +1,6 @@
+{
+  "lib/project-inventory.json": "9ffc28f06a9dfc80150bc68b02b43dfa12c667d48743f27bdd7baff9510f606e",
+  "lib/project-content.ts": "f87459680694f233e58b88febea5a7fc40c3e9f20236dbf1db600d04b12cb472",
+  "lib/project-assets.json": "5b6bb0f94d2c0fa35a2d89e05f779a5372ad86282fa373361aace006b060c0c6",
+  "lib/asset-exclusions.json": "165a8d6554048ecea84a4f3eb3823b54b9a2de92af7a309fed7d31977eb59b87"
+}

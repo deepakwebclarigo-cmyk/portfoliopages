@@ -1,0 +1,35 @@
+{
+  "name": "clarigo-portfolio-redesign",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start --port 3100",
+    "typecheck": "tsc --noEmit --incremental false",
+    "test:e2e": "playwright test",
+    "audit:assets": "node scripts/verify-assets.mjs",
+    "postbuild": "node scripts/validate-build.mjs"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^9.8.2",
+    "framer-motion": "^12.0.0",
+    "gsap": "^3.15.0",
+    "lucide-react": "^0.468.0",
+    "next": "^15.3.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/three": "^0.187.0",
+    "typescript": "^5.7.0"
+  },
+  "overrides": {
+    "postcss": "^8.5.32"
+  }
+}

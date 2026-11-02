@@ -1,0 +1,577 @@
+{
+  "verifiedAt": "2026-11-02T13:21:22.039Z",
+  "projects": 47,
+  "web": 19,
+  "mobile": 28,
+  "browserChecks": 104,
+  "passed": 104,
+  "failed": 0,
+  "viewports": {
+    "desktop": {
+      "width": 1440,
+      "height": 1000
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844
+    },
+    "narrow": {
+      "width": 320,
+      "height": 800
+    }
+  },
+  "note": "Full run passed 103/104. One transient streamed-metadata assertion was updated to require the settled unique metadata set; its targeted rerun passed. No application source changed between the full run and targeted rerun.",
+  "assets": {
+    "projects": 47,
+    "assets": 324,
+    "sourceBytes": 207597826,
+    "localBytes": 32244670,
+    "errors": []
+  },
+  "runs": [
+    {
+      "file": "browser-tests-full-run.json",
+      "stats": {
+        "startTime": "2026-11-02T13:13:33.782Z",
+        "duration": 267971.729,
+        "expected": 103,
+        "skipped": 0,
+        "unexpected": 1,
+        "flaky": 0
+      }
+    },
+    {
+      "file": "browser-tests.json",
+      "stats": {
+        "startTime": "2026-11-02T13:18:49.166Z",
+        "duration": 4687.0650000000005,
+        "expected": 1,
+        "skipped": 0,
+        "unexpected": 0,
+        "flaky": 0
+      }
+    }
+  ],
+  "checks": [
+    {
+      "project": "desktop",
+      "title": "inventory and all listing cards remain complete",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "search, empty state, mobile menu, and listing alias",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "livsocial — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "streamdatax — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "little-butterflies — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "tukeeconnect — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "beliri — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "printlific — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "nerdrabbit — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "parachute — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "glocal-expert — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "mercury-mailroom — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "umeed — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "alum-connect — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "kegelklock — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "br-tennis — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "network-capital — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "whizara — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "es-platform — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "been-there — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "lead-management — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-livsocial — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-simply-recruited — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-infinote — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-silasync — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-digital-habit-tracker — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-tukeeconnect — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-pace-of-play — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-qcop-app — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-little-butterflies — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-case-management-ase — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-printlific — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-law-legend — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-racepace — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-been-there — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-one-pantry — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-escapethehoa — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-dateflow — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-meravyaah — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-beliri — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-fynmate — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-street-sheets — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-ummed — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-bubble — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-kegalklock — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-gymbet — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-gobroker — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-heartsync — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "app-supplement-management — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "404, preserved old slugs, sitemap, and robots",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "gallery state resets when navigating to the next project",
+      "status": "passed"
+    },
+    {
+      "project": "desktop",
+      "title": "reduced motion and 320px layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "inventory and all listing cards remain complete",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "search, empty state, mobile menu, and listing alias",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "livsocial — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "streamdatax — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "little-butterflies — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "tukeeconnect — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "beliri — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "printlific — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "nerdrabbit — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "parachute — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "glocal-expert — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "mercury-mailroom — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "umeed — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "alum-connect — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "kegelklock — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "br-tennis — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "network-capital — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "whizara — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "es-platform — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "been-there — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "lead-management — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-livsocial — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-simply-recruited — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-infinote — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-silasync — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-digital-habit-tracker — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-tukeeconnect — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-pace-of-play — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-qcop-app — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-little-butterflies — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-case-management-ase — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-printlific — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-law-legend — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-racepace — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-been-there — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-one-pantry — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-escapethehoa — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-dateflow — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-meravyaah — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-beliri — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-fynmate — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-street-sheets — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-ummed — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-bubble — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-kegalklock — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-gymbet — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-gobroker — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-heartsync — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "app-supplement-management — route, content, images, gallery, and layout",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "404, preserved old slugs, sitemap, and robots",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "gallery state resets when navigating to the next project",
+      "status": "passed"
+    },
+    {
+      "project": "mobile",
+      "title": "reduced motion and 320px layout",
+      "status": "passed"
+    }
+  ]
+}
