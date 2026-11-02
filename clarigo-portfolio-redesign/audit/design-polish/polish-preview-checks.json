@@ -1,0 +1,177 @@
+[
+  {
+    "name": "home-desktop-after",
+    "path": "/",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "errors": [],
+    "overflow": false,
+    "pageHeight": 9257,
+    "h1": {
+      "size": "78px",
+      "tracking": "-3.12px"
+    },
+    "nav": [
+      {
+        "text": "",
+        "width": 136,
+        "height": 40.6875
+      },
+      {
+        "text": "Home",
+        "width": 38.265625,
+        "height": 18
+      },
+      {
+        "text": "Services",
+        "width": 56.765625,
+        "height": 18
+      },
+      {
+        "text": "Work",
+        "width": 34.6875,
+        "height": 18
+      },
+      {
+        "text": "Contact",
+        "width": 52.34375,
+        "height": 18
+      },
+      {
+        "text": "Book Free AI ConsultationLet's talk",
+        "width": 228.328125,
+        "height": 44
+      }
+    ]
+  },
+  {
+    "name": "case-desktop-after",
+    "path": "/portfolio/livsocial",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "errors": [],
+    "overflow": false,
+    "pageHeight": 5661,
+    "h1": {
+      "size": "74px",
+      "tracking": "-2.96px"
+    },
+    "nav": [
+      {
+        "text": "",
+        "width": 136,
+        "height": 40.6875
+      },
+      {
+        "text": "Home",
+        "width": 38.265625,
+        "height": 18
+      },
+      {
+        "text": "Services",
+        "width": 56.765625,
+        "height": 18
+      },
+      {
+        "text": "Work",
+        "width": 34.6875,
+        "height": 18
+      },
+      {
+        "text": "Contact",
+        "width": 52.34375,
+        "height": 18
+      },
+      {
+        "text": "Book Free AI ConsultationLet's talk",
+        "width": 228.328125,
+        "height": 44
+      }
+    ]
+  },
+  {
+    "name": "case-tablet-after",
+    "path": "/portfolio/app-case-management-ase",
+    "viewport": {
+      "width": 768,
+      "height": 1024
+    },
+    "errors": [],
+    "overflow": false,
+    "pageHeight": 4384,
+    "h1": {
+      "size": "44.544px",
+      "tracking": "-1.78176px"
+    },
+    "nav": [
+      {
+        "text": "",
+        "width": 136,
+        "height": 40.6875
+      },
+      {
+        "text": "Book Free AI ConsultationLet's talk",
+        "width": 218.328125,
+        "height": 44
+      }
+    ]
+  },
+  {
+    "name": "case-mobile-after",
+    "path": "/portfolio/app-digital-habit-tracker",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "errors": [],
+    "overflow": false,
+    "pageHeight": 7047,
+    "h1": {
+      "size": "42.9px",
+      "tracking": "-1.716px"
+    },
+    "nav": [
+      {
+        "text": "",
+        "width": 119,
+        "height": 35.609375
+      },
+      {
+        "text": "Book Free AI ConsultationLet's talk",
+        "width": 112.09375,
+        "height": 42
+      }
+    ]
+  },
+  {
+    "name": "home-narrow-after",
+    "path": "/",
+    "viewport": {
+      "width": 320,
+      "height": 800
+    },
+    "errors": [],
+    "overflow": false,
+    "pageHeight": 21105,
+    "h1": {
+      "size": "42px",
+      "tracking": "-1.68px"
+    },
+    "nav": [
+      {
+        "text": "",
+        "width": 105,
+        "height": 31.421875
+      },
+      {
+        "text": "Book Free AI ConsultationLet's talk",
+        "width": 104.09375,
+        "height": 42
+      }
+    ]
+  }
+]

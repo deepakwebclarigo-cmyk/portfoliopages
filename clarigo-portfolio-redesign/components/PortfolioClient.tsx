@@ -102,12 +102,10 @@ export default function PortfolioClient({ projects }: { projects: PortfolioCard[
             {visible.map((project, index) => (
               <motion.article
                 key={project.slug}
-                className={`projectCard ${index % 5 === 1 || index % 5 === 4 ? 'projectCardOffset' : ''}`}
+                className="projectCard"
                 initial={false}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true, amount: 0.1 }}
-                transition={{ duration: 0.5, delay: (index % 3) * 0.06 }}
-                whileHover={reducedMotion ? undefined : { y: -5 }}
+                transition={{ duration: .22, ease: [.22, 1, .36, 1] }}
+                whileHover={reducedMotion ? undefined : { y: -3 }}
               >
                 <Link href={`/portfolio/${project.slug}`} className="projectLink" prefetch={false}>
                   <div className="projectArt">

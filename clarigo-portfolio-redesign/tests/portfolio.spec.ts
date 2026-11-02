@@ -39,7 +39,7 @@ test('search, empty state, mobile menu, and listing alias', async ({ page }, tes
   await expect(page.locator('.projectCard')).toHaveCount(1);
   await expect(page.locator('.projectCard h3')).toHaveText('Examined Life');
   await page.getByRole('searchbox').clear();
-  if (testInfo.project.name === 'mobile') {
+  if (testInfo.project.name !== 'desktop') {
     await page.getByLabel('Open navigation').click();
     await expect(page.getByRole('navigation', { name: 'Mobile navigation' })).toBeVisible();
     await page.getByRole('navigation', { name: 'Mobile navigation' }).getByText('Work', { exact: true }).click();

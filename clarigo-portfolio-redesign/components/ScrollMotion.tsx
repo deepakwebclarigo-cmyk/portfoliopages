@@ -8,25 +8,23 @@ import { usePathname } from 'next/navigation';
 export default function ScrollMotion() {
   const pathname = usePathname();
   useEffect(() => {
-    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
     gsap.registerPlugin(ScrollTrigger);
-    const context = gsap.context(() => {
+    const media = gsap.matchMedia();
+    let mounted = true;
+    media.add('(prefers-reduced-motion: no-preference)', () => {
       gsap.utils.toArray<HTMLElement>('[data-reveal]').forEach((element) => {
-        gsap.fromTo(
-          element,
-          { y: 24 },
-          {
-            y: 0,
-            duration: 0.65,
-            ease: 'power2.out',
-            immediateRender: false,
-            scrollTrigger: { trigger: element, start: 'top 88%', once: true },
-          },
-        );
+        // Above-the-fold content remains immediately readable; reveal only incoming sections.
+        if (element.getBoundingClientRect().top < window.innerHeight * .92) return;
+        gsap.fromTo(element, { y: 16, opacity: 0 }, {
+          y: 0, opacity: 1, duration: .55, ease: 'power2.out',
+          scrollTrigger: { trigger: element, start: 'top 94%', once: true },
+        });
       });
+      const refresh = () => { if (mounted) ScrollTrigger.refresh(); };
+      document.fonts.ready.then(refresh);
     });
 
-    return () => context.revert();
+    return () => { mounted = false; media.revert(); };
   }, [pathname]);
 
   return null;

@@ -23,7 +23,7 @@ export default function SiteHeader() {
         </Link>
         <nav className="desktopNav" aria-label="Main navigation">{links}</nav>
         <a className="navCta" href="https://clarigoinfotech.com/contact" aria-label="Book a free AI consultation">
-          Book Free AI Consultation <ArrowUpRight size={15} />
+          <span className="navCtaFull">Book Free AI Consultation</span><span className="navCtaShort">Let&apos;s talk</span><ArrowUpRight size={15} />
         </a>
         <details className="mobileNav" ref={mobileMenu} onKeyDown={(event) => { if (event.key === 'Escape') mobileMenu.current?.removeAttribute('open'); }}>
           <summary aria-label="Open navigation"><Menu size={22} /></summary>

@@ -6,6 +6,7 @@ import { ArrowLeft, ArrowRight, ArrowUpRight, Check } from 'lucide-react';
 import SiteHeader from '../../../components/SiteHeader';
 import ProjectVisual from '../../../components/ProjectVisual';
 import ProjectGallery from '../../../components/ProjectGallery';
+import CaseNavigation from '../../../components/CaseNavigation';
 import { mobileProjects, projects, webProjects } from '../../../lib/projects';
 import { projectContent } from '../../../lib/project-content';
 
@@ -68,10 +69,7 @@ export default async function Detail({ params }: DetailProps) {
             </div>
           </div>
         </section>
-        <nav className="caseNav shell" aria-label="Case study sections">
-          <a href="#overview">Overview</a><a href="#features">Key features</a><a href="#design">Design</a><a href="#screens">Screenshots</a>
-          {project.kind === 'web' && <a href="#responsive">Device views</a>}
-        </nav>
+        <CaseNavigation key={project.slug + '-navigation'} showDeviceViews={project.kind === 'web'} />
         <section className="caseSection shell" id="overview" data-reveal>
           <div className="sectionLabel"><span>01</span> PROJECT OVERVIEW</div>
           <div className="caseTwoCol"><h2>{content.headline}</h2><div className="caseBody"><p>{content.overview}</p>{project.note && <aside className="sourceNote"><p>{project.note}</p></aside>}</div></div>
