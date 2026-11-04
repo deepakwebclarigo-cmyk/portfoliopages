@@ -1,0 +1,72 @@
+{
+  "generatedRoutesChecked": 47,
+  "compiledRepresentationsChecked": 94,
+  "browserChecks": [
+    {
+      "device": "desktop",
+      "slug": "livsocial",
+      "status": 200,
+      "removed": true,
+      "precedingSection": "responsive",
+      "gap": 0,
+      "overflow": false,
+      "nextLinkWorks": true,
+      "errors": []
+    },
+    {
+      "device": "desktop",
+      "slug": "app-habitstride",
+      "status": 200,
+      "removed": true,
+      "precedingSection": "screens",
+      "gap": 0,
+      "overflow": false,
+      "nextLinkWorks": true,
+      "errors": []
+    },
+    {
+      "device": "tablet",
+      "slug": "livsocial",
+      "status": 200,
+      "removed": true,
+      "precedingSection": "responsive",
+      "gap": 0,
+      "overflow": false,
+      "nextLinkWorks": true,
+      "errors": []
+    },
+    {
+      "device": "tablet",
+      "slug": "app-habitstride",
+      "status": 200,
+      "removed": true,
+      "precedingSection": "screens",
+      "gap": 0,
+      "overflow": false,
+      "nextLinkWorks": true,
+      "errors": []
+    },
+    {
+      "device": "mobile",
+      "slug": "livsocial",
+      "status": 200,
+      "removed": true,
+      "precedingSection": "responsive",
+      "gap": 0,
+      "overflow": false,
+      "nextLinkWorks": true,
+      "errors": []
+    },
+    {
+      "device": "mobile",
+      "slug": "app-habitstride",
+      "status": 200,
+      "removed": true,
+      "precedingSection": "screens",
+      "gap": 0,
+      "overflow": false,
+      "nextLinkWorks": true,
+      "errors": []
+    }
+  ]
+}

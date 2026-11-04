@@ -64,9 +64,6 @@ p { text-wrap: pretty; }
 .devicePresentation img { width: auto; height: auto; max-width: 100%; max-height: 620px; display: block; margin: auto; border-radius: 8px; }
 .devicePresentation figcaption { padding: 20px 0 0; color: var(--muted); font-size: 11px; }
 .caseBody .subtleCopy { font-size: 12px; }
-.projectSource { display: flex; justify-content: space-between; align-items: center; gap: 32px; padding-top: 35px; padding-bottom: 40px; border-top: 1px solid var(--line); }
-.projectSource p { max-width: 670px; margin: 10px 0 0; color: var(--muted); font-size: 11px; line-height: 1.8; }
-.projectSource>a { display: inline-flex; gap: 8px; align-items: center; flex-shrink: 0; font-size: 12px; font-weight: 600; }
 .nextProjectBand { background: #282a35; color: white; }
 .nextProjectLink { display: flex; justify-content: space-between; align-items: center; gap: 28px; padding-top: 40px; padding-bottom: 45px; }
 .nextProjectLink span { display: grid; gap: 14px; }
@@ -94,7 +91,6 @@ p { text-wrap: pretty; }
   .galleryDialogBar>span { font-size: 12px; }
   .galleryDialogBar small { display: block; margin: 4px 0 0; }
   .galleryDialogBar button { width: 40px; height: 40px; }
-  .projectSource { align-items: flex-start; flex-direction: column; gap: 20px; }
   .devicePresentation { padding: 12px; margin-top: 25px; }
   .nextProjectLink>svg { width: 26px; }
 }

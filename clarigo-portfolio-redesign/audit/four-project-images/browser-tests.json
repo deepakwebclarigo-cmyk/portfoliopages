@@ -1,0 +1,726 @@
+{
+  "config": {
+    "argv": [
+      "C:\\Program Files\\nodejs\\node.exe",
+      "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\node_modules\\@playwright\\test\\cli.js",
+      "test",
+      "tests/portfolio.spec.ts",
+      "--grep",
+      "(glocal-expert|mercury-mailroom|network-capital|app-supplement-management) —|inventory and all listing"
+    ],
+    "configFile": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\playwright.config.ts",
+    "rootDir": "D:/Clarigo_Portfolio_NextJS_Fixed/clarigo-portfolio-redesign/tests",
+    "failOnFlakyTests": false,
+    "forbidOnly": false,
+    "fullyParallel": true,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "projects": [
+      {
+        "outputDir": "D:/Clarigo_Portfolio_NextJS_Fixed/clarigo-portfolio-redesign/audit/four-project-images/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "desktop",
+        "name": "desktop",
+        "testDir": "D:/Clarigo_Portfolio_NextJS_Fixed/clarigo-portfolio-redesign/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 45000
+      },
+      {
+        "outputDir": "D:/Clarigo_Portfolio_NextJS_Fixed/clarigo-portfolio-redesign/audit/four-project-images/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "tablet",
+        "name": "tablet",
+        "testDir": "D:/Clarigo_Portfolio_NextJS_Fixed/clarigo-portfolio-redesign/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 45000
+      },
+      {
+        "outputDir": "D:/Clarigo_Portfolio_NextJS_Fixed/clarigo-portfolio-redesign/audit/four-project-images/test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "id": "mobile",
+        "name": "mobile",
+        "testDir": "D:/Clarigo_Portfolio_NextJS_Fixed/clarigo-portfolio-redesign/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 45000
+      }
+    ],
+    "filteredProjects": [
+      {
+        "grep": {},
+        "grepInvert": null,
+        "outputDir": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\four-project-images\\test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "name": "desktop",
+        "testDir": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests",
+        "snapshotDir": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests",
+        "testIgnore": [],
+        "testMatch": "**/*.@(spec|test).?(c|m)[jt]s?(x)",
+        "timeout": 45000,
+        "use": {
+          "baseURL": "http://127.0.0.1:3100",
+          "channel": "chrome",
+          "headless": true,
+          "screenshot": "only-on-failure",
+          "trace": "retain-on-failure",
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          }
+        },
+        "dependencies": [],
+        "ignoreSnapshots": false,
+        "__projectId": "desktop"
+      },
+      {
+        "grep": {},
+        "grepInvert": null,
+        "outputDir": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\four-project-images\\test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "name": "tablet",
+        "testDir": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests",
+        "snapshotDir": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests",
+        "testIgnore": [],
+        "testMatch": "**/*.@(spec|test).?(c|m)[jt]s?(x)",
+        "timeout": 45000,
+        "use": {
+          "baseURL": "http://127.0.0.1:3100",
+          "channel": "chrome",
+          "headless": true,
+          "screenshot": "only-on-failure",
+          "trace": "retain-on-failure",
+          "viewport": {
+            "width": 768,
+            "height": 1024
+          },
+          "hasTouch": true
+        },
+        "dependencies": [],
+        "ignoreSnapshots": false,
+        "__projectId": "tablet"
+      },
+      {
+        "grep": {},
+        "grepInvert": null,
+        "outputDir": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\four-project-images\\test-results",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 1
+        },
+        "name": "mobile",
+        "testDir": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests",
+        "snapshotDir": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests",
+        "testIgnore": [],
+        "testMatch": "**/*.@(spec|test).?(c|m)[jt]s?(x)",
+        "timeout": 45000,
+        "use": {
+          "baseURL": "http://127.0.0.1:3100",
+          "channel": "chrome",
+          "headless": true,
+          "screenshot": "only-on-failure",
+          "trace": "retain-on-failure",
+          "viewport": {
+            "width": 390,
+            "height": 844
+          },
+          "isMobile": true,
+          "hasTouch": true,
+          "deviceScaleFactor": 1
+        },
+        "dependencies": [],
+        "ignoreSnapshots": false,
+        "__projectId": "mobile"
+      }
+    ],
+    "quiet": false,
+    "reporter": [
+      [
+        "list",
+        null
+      ],
+      [
+        "json",
+        {
+          "outputFile": "audit/four-project-images/browser-tests.json"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "shard": null,
+    "tags": [],
+    "updateSnapshots": "default",
+    "updateSourceMethod": "patch",
+    "version": "1.64.1",
+    "workers": 1,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "portfolio.spec.ts",
+      "file": "portfolio.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "inventory and all listing cards remain complete",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 7806,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-04T08:27:45.425Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "34cb4603fa9a5b79d30c-6c362cc7bd5032170777",
+          "file": "portfolio.spec.ts",
+          "line": 7,
+          "column": 5
+        },
+        {
+          "title": "glocal-expert — route, content, images, gallery, and layout",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 3796,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-04T08:27:54.280Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "34cb4603fa9a5b79d30c-4faddf6d156bb52705bd",
+          "file": "portfolio.spec.ts",
+          "line": 63,
+          "column": 7
+        },
+        {
+          "title": "mercury-mailroom — route, content, images, gallery, and layout",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 4098,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-04T08:27:58.101Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "34cb4603fa9a5b79d30c-91729da9555e1c6066ca",
+          "file": "portfolio.spec.ts",
+          "line": 63,
+          "column": 7
+        },
+        {
+          "title": "network-capital — route, content, images, gallery, and layout",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 3805,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-04T08:28:02.217Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "34cb4603fa9a5b79d30c-a699d9190f31bd32cb23",
+          "file": "portfolio.spec.ts",
+          "line": 63,
+          "column": 7
+        },
+        {
+          "title": "app-supplement-management — route, content, images, gallery, and layout",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 3673,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-04T08:28:06.038Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "34cb4603fa9a5b79d30c-053f1646f78940b7180b",
+          "file": "portfolio.spec.ts",
+          "line": 63,
+          "column": 7
+        },
+        {
+          "title": "inventory and all listing cards remain complete",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "tablet",
+              "projectName": "tablet",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 5490,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-04T08:28:11.156Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "34cb4603fa9a5b79d30c-06cb5243291f22057b90",
+          "file": "portfolio.spec.ts",
+          "line": 7,
+          "column": 5
+        },
+        {
+          "title": "glocal-expert — route, content, images, gallery, and layout",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "tablet",
+              "projectName": "tablet",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 3331,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-04T08:28:17.051Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "34cb4603fa9a5b79d30c-e37b99a42a0202c744fa",
+          "file": "portfolio.spec.ts",
+          "line": 63,
+          "column": 7
+        },
+        {
+          "title": "mercury-mailroom — route, content, images, gallery, and layout",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "tablet",
+              "projectName": "tablet",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 3276,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-04T08:28:20.402Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "34cb4603fa9a5b79d30c-ac53c2feb39d01095cc0",
+          "file": "portfolio.spec.ts",
+          "line": 63,
+          "column": 7
+        },
+        {
+          "title": "network-capital — route, content, images, gallery, and layout",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "tablet",
+              "projectName": "tablet",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 3348,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-04T08:28:23.695Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "34cb4603fa9a5b79d30c-759176b014de6421ffd7",
+          "file": "portfolio.spec.ts",
+          "line": 63,
+          "column": 7
+        },
+        {
+          "title": "app-supplement-management — route, content, images, gallery, and layout",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "tablet",
+              "projectName": "tablet",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 3514,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-04T08:28:27.063Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "34cb4603fa9a5b79d30c-852495594e349ebf70c2",
+          "file": "portfolio.spec.ts",
+          "line": 63,
+          "column": 7
+        },
+        {
+          "title": "inventory and all listing cards remain complete",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "mobile",
+              "projectName": "mobile",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 3766,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-04T08:28:32.148Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "34cb4603fa9a5b79d30c-bb8cf172c597881d486c",
+          "file": "portfolio.spec.ts",
+          "line": 7,
+          "column": 5
+        },
+        {
+          "title": "glocal-expert — route, content, images, gallery, and layout",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "mobile",
+              "projectName": "mobile",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 3151,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-04T08:28:36.355Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "34cb4603fa9a5b79d30c-087b62cd1b3d4edfaa90",
+          "file": "portfolio.spec.ts",
+          "line": 63,
+          "column": 7
+        },
+        {
+          "title": "mercury-mailroom — route, content, images, gallery, and layout",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "mobile",
+              "projectName": "mobile",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 3261,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-04T08:28:39.527Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "34cb4603fa9a5b79d30c-5a9e10e5789c894d3ff8",
+          "file": "portfolio.spec.ts",
+          "line": 63,
+          "column": 7
+        },
+        {
+          "title": "network-capital — route, content, images, gallery, and layout",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "mobile",
+              "projectName": "mobile",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 3718,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-04T08:28:42.872Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "34cb4603fa9a5b79d30c-fae849d214cd116e6dd5",
+          "file": "portfolio.spec.ts",
+          "line": 63,
+          "column": 7
+        },
+        {
+          "title": "app-supplement-management — route, content, images, gallery, and layout",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "mobile",
+              "projectName": "mobile",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 0,
+                  "status": "passed",
+                  "duration": 4753,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-04T08:28:46.722Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "34cb4603fa9a5b79d30c-6b67f08feb9bcfc3f39a",
+          "file": "portfolio.spec.ts",
+          "line": 63,
+          "column": 7
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2026-11-04T08:27:44.470Z",
+    "duration": 68700.70300000001,
+    "expected": 15,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  }
+}

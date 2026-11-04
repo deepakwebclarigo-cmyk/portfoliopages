@@ -68,12 +68,11 @@ const originalContent: Record<string, ProjectContent> = {
     features: [['Find a nanny', 'A dedicated navigation path addresses people seeking childcare support.'], ['Find employment', 'A second path addresses prospective caregivers.'], ['Service introduction', 'Illustrated sections introduce the product’s central proposition.'], ['About information', 'Supporting navigation provides a place for organizational context.']],
   },
   'glocal-expert': {
-    discipline: 'Education interface', headline: 'Explore the original Glocal presentation.',
-    summary: 'Clarigo’s Glocal Expert portfolio artwork presents a colorful education website with learning content and service information.',
-    overview: 'The supplied Glocal Expert artwork shows an education-oriented interface with science imagery, service panels, and introductory content. This page follows that visible material. The separate legacy detail text describes legal advice, so those conflicting claims have been excluded from this presentation.',
-    design: 'A bright yellow presentation frame surrounds a multicolored website. Distinct content bands and large educational illustrations divide the interface into recognizable sections, with compact navigation across the top.',
-    features: [['Educational imagery', 'Science and learning illustrations lead the supplied web composition.'], ['Service panels', 'Colored content blocks separate the offering into sections.'], ['Introductory navigation', 'Top-level links organize the public website.'], ['Device artwork', 'The original source pairs desktop and tablet views.']],
-    note: 'The original listing pairs this artwork with Glocal Expert. Its legacy description refers to a different subject; this page describes the supplied artwork only.',
+    discipline: 'Legal-adviser workspace', headline: 'Bring legal requests into focus.',
+    summary: 'A legal-advice workspace presenting requests, case details, adviser information, and account settings in one clear interface.',
+    overview: 'Glocal Expert’s original branded screens organize legal-advice requests alongside case information, contact details, and profile settings. A dashboard distinguishes criminal, civil, and statutory-law requests, while the selected request expands into client context and a case description. Adviser information appears in a separate contact view, and account screens group personal details, notification preferences, and password controls. The recovered artwork provides a consistent view of this legal-services workspace.',
+    design: 'Warm orange highlights identify the selected request, active navigation, and primary actions against pale surfaces. A persistent sidebar separates the dashboard, profile, and settings, while aligned labels divide detailed records into readable groups. The original laptop and multi-screen compositions show how the same visual system connects these views.',
+    features: [['Request dashboard', 'Distinct request cards organize the legal-advice categories shown in the interface.'], ['Case context', 'The selected request groups client type, country, legal field, and descriptive case information.'], ['Contact and profile views', 'Dedicated layouts present adviser contact information and editable personal details.'], ['Account preferences', 'Settings screens organize notification choices, password fields, and account controls.']],
   },
   'mercury-mailroom': {
     discipline: 'Workplace operations', headline: 'Give every mail piece a place.',
