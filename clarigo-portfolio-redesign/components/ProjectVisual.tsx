@@ -21,6 +21,7 @@ export default function ProjectVisual({
         <Image
           src={large ? project.image : project.image.replace('.webp', '-card.webp')}
           unoptimized
+          style={{ objectFit: 'contain', objectPosition: 'center' }}
           alt={`${project.name} — original project artwork`}
           fill
           sizes={large ? '(max-width: 700px) 100vw, 50vw' : '(max-width: 700px) 100vw, (max-width: 1000px) 50vw, 33vw'}

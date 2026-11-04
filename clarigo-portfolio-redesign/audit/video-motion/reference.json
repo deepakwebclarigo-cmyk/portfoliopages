@@ -1,0 +1,65 @@
+{
+  "source": "C:/Users/lenovo/Downloads/WhatsApp Video 2026-11-03 at 6.59.00 PM.mp4",
+  "bytes": 2793483,
+  "duration": 13.266667,
+  "width": 576,
+  "height": 1024,
+  "frames": [
+    {
+      "time": 0,
+      "path": "audit/video-motion/frames/0.00.png"
+    },
+    {
+      "time": 1,
+      "path": "audit/video-motion/frames/1.00.png"
+    },
+    {
+      "time": 2,
+      "path": "audit/video-motion/frames/2.00.png"
+    },
+    {
+      "time": 3,
+      "path": "audit/video-motion/frames/3.00.png"
+    },
+    {
+      "time": 4,
+      "path": "audit/video-motion/frames/4.00.png"
+    },
+    {
+      "time": 5,
+      "path": "audit/video-motion/frames/5.00.png"
+    },
+    {
+      "time": 6,
+      "path": "audit/video-motion/frames/6.00.png"
+    },
+    {
+      "time": 7,
+      "path": "audit/video-motion/frames/7.00.png"
+    },
+    {
+      "time": 8,
+      "path": "audit/video-motion/frames/8.00.png"
+    },
+    {
+      "time": 9,
+      "path": "audit/video-motion/frames/9.00.png"
+    },
+    {
+      "time": 10,
+      "path": "audit/video-motion/frames/10.00.png"
+    },
+    {
+      "time": 11,
+      "path": "audit/video-motion/frames/11.00.png"
+    },
+    {
+      "time": 12,
+      "path": "audit/video-motion/frames/12.00.png"
+    },
+    {
+      "time": 13,
+      "path": "audit/video-motion/frames/13.00.png"
+    }
+  ]
+}

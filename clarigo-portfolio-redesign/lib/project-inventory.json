@@ -7,11 +7,11 @@
     "slug": "livsocial"
   },
   {
-    "name": "StreamDataX",
-    "image": "StreamDataX.png",
-    "page": "StreamDataX-web.html",
+    "name": "StreamDexa",
+    "image": "/images/projects/streamdexa-preview-06a41782d5.webp",
     "kind": "web",
-    "slug": "streamdatax"
+    "slug": "streamdexa",
+    "rebranded": true
   },
   {
     "name": "Little Butterflies",
@@ -21,11 +21,11 @@
     "slug": "little-butterflies"
   },
   {
-    "name": "TukeeConnect",
-    "image": "TukeeConnect.png",
-    "page": "TukeeConnect-web.html",
+    "name": "TukioConnect",
+    "image": "/images/projects/tukioconnect-preview-b03a1c3f96.webp",
     "kind": "web",
-    "slug": "tukeeconnect"
+    "slug": "tukioconnect",
+    "rebranded": true
   },
   {
     "name": "Beliri",
@@ -49,11 +49,11 @@
     "slug": "nerdrabbit"
   },
   {
-    "name": "Parachute",
-    "image": "parachute.png",
-    "page": "parachute-web-n.html",
+    "name": "ParaNest",
+    "image": "/images/projects/paranest-preview-eea8a9ab8f.webp",
     "kind": "web",
-    "slug": "parachute"
+    "slug": "paranest",
+    "rebranded": true
   },
   {
     "name": "Glocal Expert",
@@ -91,11 +91,11 @@
     "slug": "kegelklock"
   },
   {
-    "name": "BR-tennis",
-    "image": "BR-tennis.png",
-    "page": "BR-tennis-web-n.html",
+    "name": "RallyBridge",
+    "image": "/images/projects/rallybridge-preview-67f205f925.webp",
     "kind": "web",
-    "slug": "br-tennis"
+    "slug": "rallybridge",
+    "rebranded": true
   },
   {
     "name": "Network Capital",
@@ -105,18 +105,18 @@
     "slug": "network-capital"
   },
   {
-    "name": "Whizara",
-    "image": "whizara.png",
-    "page": "whizara-n.html",
+    "name": "Whizora",
+    "image": "/images/projects/whizora-preview-89e6fa4af4.webp",
     "kind": "web",
-    "slug": "whizara"
+    "slug": "whizora",
+    "rebranded": true
   },
   {
-    "name": "Es-Platform",
-    "image": "es-platform.png",
-    "page": "es-platform-n.html",
+    "name": "EStrata",
+    "image": "/images/projects/estrata-preview-71028bd2da.webp",
     "kind": "web",
-    "slug": "es-platform"
+    "slug": "estrata",
+    "rebranded": true
   },
   {
     "name": "Been There",
@@ -126,11 +126,11 @@
     "slug": "been-there"
   },
   {
-    "name": "Lead Management",
-    "image": "Lead.png",
-    "page": "Lead-Management.html",
+    "name": "LeadForma",
+    "image": "/images/projects/leadforma-preview-76d088504c.webp",
     "kind": "web",
-    "slug": "lead-management"
+    "slug": "leadforma",
+    "rebranded": true
   },
   {
     "name": "LivSocial",
@@ -140,39 +140,39 @@
     "slug": "app-livsocial"
   },
   {
-    "name": "Simply Recruited",
-    "image": "Simply_Recruited_App.png",
-    "page": "SimplyRecruited.html",
+    "name": "SimplyScouted",
+    "image": "/images/projects/app-simplyscouted-preview-e4ae14e776.webp",
     "kind": "mobile",
-    "slug": "app-simply-recruited"
+    "slug": "app-simplyscouted",
+    "rebranded": true
   },
   {
-    "name": "Infinote",
-    "image": "Infinote_App.png",
-    "page": "infinote.html",
+    "name": "InfiScribe",
+    "image": "/images/projects/app-infiscribe-preview-4622ceea52.webp",
     "kind": "mobile",
-    "slug": "app-infinote"
+    "slug": "app-infiscribe",
+    "rebranded": true
   },
   {
-    "name": "Silasync",
-    "image": "Silasync_App.png",
-    "page": "Silasync.html",
+    "name": "SilaFlow",
+    "image": "/images/projects/app-silaflow-preview-2881215e70.webp",
     "kind": "mobile",
-    "slug": "app-silasync"
+    "slug": "app-silaflow",
+    "rebranded": true
   },
   {
-    "name": "Digital Habit Tracker",
-    "image": "Digital_Habit_Tracker_App.png",
-    "page": "digital-habit-tracker.html",
+    "name": "HabitStride",
+    "image": "/images/projects/app-habitstride-preview-4f2287587a.webp",
     "kind": "mobile",
-    "slug": "app-digital-habit-tracker"
+    "slug": "app-habitstride",
+    "rebranded": true
   },
   {
-    "name": "TukeeConnect",
-    "image": "TukeeConnect_App.png",
-    "page": "TukeeConnect.html",
+    "name": "TukioConnect",
+    "image": "/images/projects/app-tukioconnect-preview-ca536c83f7.webp",
     "kind": "mobile",
-    "slug": "app-tukeeconnect"
+    "slug": "app-tukioconnect",
+    "rebranded": true
   },
   {
     "name": "Pace of Play",
@@ -231,11 +231,11 @@
     "slug": "app-been-there"
   },
   {
-    "name": "One Pantry",
-    "image": "ONE_PANTRY_App.png",
-    "page": "one-pantry.html",
+    "name": "PantryOne",
+    "image": "/images/projects/app-pantryone-preview-0a7994a06a.webp",
     "kind": "mobile",
-    "slug": "app-one-pantry"
+    "slug": "app-pantryone",
+    "rebranded": true
   },
   {
     "name": "EscapeTheHOA",
@@ -273,11 +273,11 @@
     "slug": "app-fynmate"
   },
   {
-    "name": "Street Sheets",
-    "image": "streetsheets.png",
-    "page": "street-sheets-app-1.html",
+    "name": "StreetSlate",
+    "image": "/images/projects/app-streetslate-preview-cf7af19a83.webp",
     "kind": "mobile",
-    "slug": "app-street-sheets"
+    "slug": "app-streetslate",
+    "rebranded": true
   },
   {
     "name": "Ummed",

@@ -16,7 +16,7 @@ test('section navigation follows scrolling and returns to overview', async ({ pa
 });
 
 test('screenshot viewer fits the viewport and supports keyboard controls', async ({ page }) => {
-  for (const slug of ['livsocial', 'app-digital-habit-tracker']) {
+  for (const slug of ['livsocial', 'app-habitstride']) {
     await page.goto('/portfolio/' + slug);
     const first = page.locator('.galleryOpen').first();
     await first.click();
@@ -39,7 +39,7 @@ test('screenshot viewer fits the viewport and supports keyboard controls', async
 });
 
 test('changing reduced motion keeps revealed content readable', async ({ page }) => {
-  await page.goto('/portfolio/app-digital-habit-tracker');
+  await page.goto('/portfolio/app-habitstride');
   await page.emulateMedia({ reducedMotion: 'reduce' });
   for (const id of ['overview', 'features', 'design', 'screens']) {
     await expect.poll(() => page.locator('#' + id).evaluate((element) => getComputedStyle(element).opacity)).toBe('1');

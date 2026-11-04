@@ -1,0 +1,337 @@
+{
+  "projects": 47,
+  "uniquePosters": 47,
+  "validThumbnails": 47,
+  "thumbnailBytes": 1927738,
+  "results": [
+    {
+      "slug": "livsocial",
+      "poster": "/images/projects/livsocial-preview-3f919d0b24.webp",
+      "thumbnail": "/images/projects/livsocial-preview-3f919d0b24-card.webp",
+      "bytes": 26842,
+      "hash": "a8561f11d532e641e7fb3e039b16d834e39b2360ce64be809b6d80dde09ac035"
+    },
+    {
+      "slug": "streamdatax",
+      "poster": "/images/projects/streamdatax-preview-213cfd1ade.webp",
+      "thumbnail": "/images/projects/streamdatax-preview-213cfd1ade-card.webp",
+      "bytes": 24876,
+      "hash": "297600b17f321c7fea361f380ed94b3e365d1bb4c99a3962c6cf3bdccf486113"
+    },
+    {
+      "slug": "little-butterflies",
+      "poster": "/images/projects/little-butterflies-preview-4c22d5cddb.webp",
+      "thumbnail": "/images/projects/little-butterflies-preview-4c22d5cddb-card.webp",
+      "bytes": 20004,
+      "hash": "fab313a800833c68896982fd83e41b24ed8151bf4a7767b89081b0ffdcdcaf37"
+    },
+    {
+      "slug": "tukeeconnect",
+      "poster": "/images/projects/tukeeconnect-preview-44938bec29.webp",
+      "thumbnail": "/images/projects/tukeeconnect-preview-44938bec29-card.webp",
+      "bytes": 22054,
+      "hash": "4d951525f80de4c17a69ed95e5b4f6a3818001b26f796b086356c96b951688d9"
+    },
+    {
+      "slug": "beliri",
+      "poster": "/images/projects/beliri-preview-cee6d97850.webp",
+      "thumbnail": "/images/projects/beliri-preview-cee6d97850-card.webp",
+      "bytes": 20348,
+      "hash": "5228b69d5733e8d72c3b31a9e3bcad7abdc12139f917269826712ea777ec78db"
+    },
+    {
+      "slug": "printlific",
+      "poster": "/images/projects/printlific-preview-9d28f53428.webp",
+      "thumbnail": "/images/projects/printlific-preview-9d28f53428-card.webp",
+      "bytes": 29534,
+      "hash": "43aca1b20eea5cab37686d876152f139a3f405ce405420ff6fa4fa2d71749f04"
+    },
+    {
+      "slug": "nerdrabbit",
+      "poster": "/images/projects/nerdrabbit-preview-ca11233800.webp",
+      "thumbnail": "/images/projects/nerdrabbit-preview-ca11233800-card.webp",
+      "bytes": 19558,
+      "hash": "841620de5a1b6639c63ce2a3cb0519dafce7327bd8c3ebedb472976249b826b7"
+    },
+    {
+      "slug": "parachute",
+      "poster": "/images/projects/parachute-preview-bc6302dbb6.webp",
+      "thumbnail": "/images/projects/parachute-preview-bc6302dbb6-card.webp",
+      "bytes": 16404,
+      "hash": "1a99ed40fa611ac6dd1650aa75873b9a3b840014414cf293fb80437a62b48657"
+    },
+    {
+      "slug": "glocal-expert",
+      "poster": "/images/projects/glocal-expert-preview-3060362f18.webp",
+      "thumbnail": "/images/projects/glocal-expert-preview-3060362f18-card.webp",
+      "bytes": 32210,
+      "hash": "4bd5f985a7762363c08d99d29ad56a9d1252df19372011899d9b5837c5586c29"
+    },
+    {
+      "slug": "mercury-mailroom",
+      "poster": "/images/projects/mercury-mailroom-preview-66800cd4af.webp",
+      "thumbnail": "/images/projects/mercury-mailroom-preview-66800cd4af-card.webp",
+      "bytes": 18948,
+      "hash": "23eb92e62f79bb519c2e79ee7fe323e85f47cde4499cadc9e00ffc7f7bd156e2"
+    },
+    {
+      "slug": "umeed",
+      "poster": "/images/projects/umeed-1cd14b2de8.webp",
+      "thumbnail": "/images/projects/umeed-1cd14b2de8-card.webp",
+      "bytes": 22894,
+      "hash": "db0f712a4d6187f40a9f4c3a16364383de4f9c4321be30e20622a72f7325b95c"
+    },
+    {
+      "slug": "alum-connect",
+      "poster": "/images/projects/alum-connect-preview-1d5319ec06.webp",
+      "thumbnail": "/images/projects/alum-connect-preview-1d5319ec06-card.webp",
+      "bytes": 23178,
+      "hash": "1bf2afa0e248c4d0bd16c94fc23a9f293e2a83877d848ddd5a6b466c6dbed267"
+    },
+    {
+      "slug": "kegelklock",
+      "poster": "/images/projects/kegelklock-preview-611a87ce86.webp",
+      "thumbnail": "/images/projects/kegelklock-preview-611a87ce86-card.webp",
+      "bytes": 29592,
+      "hash": "a5413908dba486dfe9acb32de4df3fcb6f19ad8968a956587b8780560723ee43"
+    },
+    {
+      "slug": "br-tennis",
+      "poster": "/images/projects/br-tennis-preview-82e34bc83e.webp",
+      "thumbnail": "/images/projects/br-tennis-preview-82e34bc83e-card.webp",
+      "bytes": 22232,
+      "hash": "89bdd014ccb5c4cc1f374d862694cdf65294ac172357ceabbc902dd75bfaba8e"
+    },
+    {
+      "slug": "network-capital",
+      "poster": "/images/projects/network-capital-preview-c5de891397.webp",
+      "thumbnail": "/images/projects/network-capital-preview-c5de891397-card.webp",
+      "bytes": 26264,
+      "hash": "bf1c29ab310ba677832ae394b826ffa83e20d34d08c97ed932d183dd4a8c2567"
+    },
+    {
+      "slug": "whizara",
+      "poster": "/images/projects/whizara-preview-93dfa29b6d.webp",
+      "thumbnail": "/images/projects/whizara-preview-93dfa29b6d-card.webp",
+      "bytes": 22040,
+      "hash": "db8f971e652e215dcd6fc8fdf163a60499e28a68296aa30b0fd23915214a6e46"
+    },
+    {
+      "slug": "es-platform",
+      "poster": "/images/projects/es-platform-preview-75eb6a2122.webp",
+      "thumbnail": "/images/projects/es-platform-preview-75eb6a2122-card.webp",
+      "bytes": 20918,
+      "hash": "537bb6b85f50bef69514114bea08a0ddb02e2daca3f8222286c73b200afee8a2"
+    },
+    {
+      "slug": "been-there",
+      "poster": "/images/projects/been-there-preview-a92962c2de.webp",
+      "thumbnail": "/images/projects/been-there-preview-a92962c2de-card.webp",
+      "bytes": 23340,
+      "hash": "990a4cbd54b41216b66dfaa80723ae0aa529bf1a33805b0fe5656e426ac90b9c"
+    },
+    {
+      "slug": "lead-management",
+      "poster": "/images/projects/lead-management-preview-b0eed98d93.webp",
+      "thumbnail": "/images/projects/lead-management-preview-b0eed98d93-card.webp",
+      "bytes": 17134,
+      "hash": "b9d474683dc8937e025b16de3a2ba358871a015e16b6fba0b49cf3a9ac6b213f"
+    },
+    {
+      "slug": "app-livsocial",
+      "poster": "/images/projects/app-livsocial-preview-c4cd27e5d1.webp",
+      "thumbnail": "/images/projects/app-livsocial-preview-c4cd27e5d1-card.webp",
+      "bytes": 75416,
+      "hash": "d7fc76b38baac465e3717659a0dc12e31ce40e7e172b96de04671c86f3041c63"
+    },
+    {
+      "slug": "app-simply-recruited",
+      "poster": "/images/projects/app-simply-recruited-preview-e6932eb88f.webp",
+      "thumbnail": "/images/projects/app-simply-recruited-preview-e6932eb88f-card.webp",
+      "bytes": 64684,
+      "hash": "66d6a94f905d5d3a0342c5c8658effee26a911a17418401ec853ae340b961600"
+    },
+    {
+      "slug": "app-infinote",
+      "poster": "/images/projects/app-infinote-preview-ac6036682a.webp",
+      "thumbnail": "/images/projects/app-infinote-preview-ac6036682a-card.webp",
+      "bytes": 56072,
+      "hash": "7db549d8d522f86b9ea186a16b8a174ee408baa236af5c070d605ee00907a0f0"
+    },
+    {
+      "slug": "app-silasync",
+      "poster": "/images/projects/app-silasync-preview-8211eba95f.webp",
+      "thumbnail": "/images/projects/app-silasync-preview-8211eba95f-card.webp",
+      "bytes": 44172,
+      "hash": "69758f17553f5424d9e2d36a3b2279d3a561ef462191bc5485b819c64ddfa16e"
+    },
+    {
+      "slug": "app-digital-habit-tracker",
+      "poster": "/images/projects/app-digital-habit-tracker-preview-97f6478474.webp",
+      "thumbnail": "/images/projects/app-digital-habit-tracker-preview-97f6478474-card.webp",
+      "bytes": 57870,
+      "hash": "9643a01b90543a02821c34d5ccf2d807bf48d967e5190319d5e98ed8595ee139"
+    },
+    {
+      "slug": "app-tukeeconnect",
+      "poster": "/images/projects/app-tukeeconnect-preview-3246549684.webp",
+      "thumbnail": "/images/projects/app-tukeeconnect-preview-3246549684-card.webp",
+      "bytes": 61334,
+      "hash": "2d2b5ae10ad355a9021ffc60e8fcefded41c9c9d7076b04aea2d28881326b32c"
+    },
+    {
+      "slug": "app-pace-of-play",
+      "poster": "/images/projects/app-pace-of-play-preview-a2e70a7ffe.webp",
+      "thumbnail": "/images/projects/app-pace-of-play-preview-a2e70a7ffe-card.webp",
+      "bytes": 63376,
+      "hash": "b81e4360d90a549e442caa6b13f250e650750aaa07f6411a8308187e3ea15300"
+    },
+    {
+      "slug": "app-qcop-app",
+      "poster": "/images/projects/app-qcop-app-preview-f3c9ac0af8.webp",
+      "thumbnail": "/images/projects/app-qcop-app-preview-f3c9ac0af8-card.webp",
+      "bytes": 57784,
+      "hash": "3cf2a59fd64d2bff8504263b2b5a7705b6b4fd646e7929dde0e9d92d760c9e4b"
+    },
+    {
+      "slug": "app-little-butterflies",
+      "poster": "/images/projects/app-little-butterflies-preview-967ef0794d.webp",
+      "thumbnail": "/images/projects/app-little-butterflies-preview-967ef0794d-card.webp",
+      "bytes": 63630,
+      "hash": "f6593b9b40d9997fa6e0199a59c6513e325507ca7d3b68b512e38ac142e22a92"
+    },
+    {
+      "slug": "app-case-management-ase",
+      "poster": "/images/projects/app-case-management-ase-preview-c674fa09c5.webp",
+      "thumbnail": "/images/projects/app-case-management-ase-preview-c674fa09c5-card.webp",
+      "bytes": 60608,
+      "hash": "b7ad00581cf75d364f474802fce6f101185080eb4f40579fdc9d41008a7e9dc1"
+    },
+    {
+      "slug": "app-printlific",
+      "poster": "/images/projects/app-printlific-preview-ebd002c50f.webp",
+      "thumbnail": "/images/projects/app-printlific-preview-ebd002c50f-card.webp",
+      "bytes": 70096,
+      "hash": "7b8067d601b7b9b67cf0383d5ba58bf2329ffcf964615b4f09d0d40de97a8b5d"
+    },
+    {
+      "slug": "app-law-legend",
+      "poster": "/images/projects/app-law-legend-preview-fe1e9fa54a.webp",
+      "thumbnail": "/images/projects/app-law-legend-preview-fe1e9fa54a-card.webp",
+      "bytes": 74530,
+      "hash": "2738f841c3126e3e841119e3cd49d14d9a8a8ebec7be744883012f604cac229b"
+    },
+    {
+      "slug": "app-racepace",
+      "poster": "/images/projects/app-racepace-preview-e21b93abb1.webp",
+      "thumbnail": "/images/projects/app-racepace-preview-e21b93abb1-card.webp",
+      "bytes": 72506,
+      "hash": "9664d5e31da1279960ad5cc0f8b75f5a1ab9a3b4c4741a3b97c2c366f8d1271b"
+    },
+    {
+      "slug": "app-been-there",
+      "poster": "/images/projects/app-been-there-preview-09a10a00a0.webp",
+      "thumbnail": "/images/projects/app-been-there-preview-09a10a00a0-card.webp",
+      "bytes": 65444,
+      "hash": "fc73beb5b76aebfd03875726a3a9503db5410a6c45590164b0c73282175393d9"
+    },
+    {
+      "slug": "app-one-pantry",
+      "poster": "/images/projects/app-one-pantry-preview-5ce2d7bf2e.webp",
+      "thumbnail": "/images/projects/app-one-pantry-preview-5ce2d7bf2e-card.webp",
+      "bytes": 59290,
+      "hash": "a92eb8ffac1fafd42a5340a13de18f5df8cae8d06961393a323ba218b6d783cf"
+    },
+    {
+      "slug": "app-escapethehoa",
+      "poster": "/images/projects/app-escapethehoa-preview-f5aec6c676.webp",
+      "thumbnail": "/images/projects/app-escapethehoa-preview-f5aec6c676-card.webp",
+      "bytes": 71046,
+      "hash": "73e4487277ef809bf0e1d7f05b957f063336f734e8841b7cca9b4defce3150c2"
+    },
+    {
+      "slug": "app-dateflow",
+      "poster": "/images/projects/app-dateflow-preview-69f5944420.webp",
+      "thumbnail": "/images/projects/app-dateflow-preview-69f5944420-card.webp",
+      "bytes": 53862,
+      "hash": "35b96a714645279123996e1d0e3a18d0edc5096dceeed2724609ea81897b50c8"
+    },
+    {
+      "slug": "app-meravyaah",
+      "poster": "/images/projects/app-meravyaah-preview-cdcccb8e32.webp",
+      "thumbnail": "/images/projects/app-meravyaah-preview-cdcccb8e32-card.webp",
+      "bytes": 60114,
+      "hash": "3a7a665ec4c307955b5cd93ddf1f5fcbb81353e5207bcbdc5657016d730a9054"
+    },
+    {
+      "slug": "app-beliri",
+      "poster": "/images/projects/app-beliri-preview-60e4d2579c.webp",
+      "thumbnail": "/images/projects/app-beliri-preview-60e4d2579c-card.webp",
+      "bytes": 35244,
+      "hash": "5449239fa20f135cc3d2e40cb54ebd8dbfaf87a7ceb2cf3eb16024d5989f21d2"
+    },
+    {
+      "slug": "app-fynmate",
+      "poster": "/images/projects/app-fynmate-preview-2bfe5eaf56.webp",
+      "thumbnail": "/images/projects/app-fynmate-preview-2bfe5eaf56-card.webp",
+      "bytes": 34490,
+      "hash": "337e7d78286e9730786afe3dbc69672ef1a550e4c56ef882f6d79dfd0e55caea"
+    },
+    {
+      "slug": "app-street-sheets",
+      "poster": "/images/projects/app-street-sheets-preview-f7cda29ff5.webp",
+      "thumbnail": "/images/projects/app-street-sheets-preview-f7cda29ff5-card.webp",
+      "bytes": 37986,
+      "hash": "a38866be6b70dbb9cf21f35e638548ef1586b86ba5c2396e2659032e2388060e"
+    },
+    {
+      "slug": "app-ummed",
+      "poster": "/images/projects/app-ummed-preview-4ce5f812ce.webp",
+      "thumbnail": "/images/projects/app-ummed-preview-4ce5f812ce-card.webp",
+      "bytes": 33450,
+      "hash": "1584f44fad484b12c92aae3025c720fcd2a887ec8f9b66a37a4bd4bc488b855c"
+    },
+    {
+      "slug": "app-bubble",
+      "poster": "/images/projects/app-bubble-preview-198d0ccaa6.webp",
+      "thumbnail": "/images/projects/app-bubble-preview-198d0ccaa6-card.webp",
+      "bytes": 27660,
+      "hash": "4999433c904f4436ee9f4c6c5e2db7614393f0032d71b132a467271b9ab7a541"
+    },
+    {
+      "slug": "app-kegalklock",
+      "poster": "/images/projects/app-kegalklock-preview-920316dfe4.webp",
+      "thumbnail": "/images/projects/app-kegalklock-preview-920316dfe4-card.webp",
+      "bytes": 40022,
+      "hash": "d8d790e32087e21fac1cd0e46a03fa9fcbff732cbe65ebe5bd46b1ac665fe65a"
+    },
+    {
+      "slug": "app-gymbet",
+      "poster": "/images/projects/app-gymbet-preview-5ab84b8737.webp",
+      "thumbnail": "/images/projects/app-gymbet-preview-5ab84b8737-card.webp",
+      "bytes": 32128,
+      "hash": "009f881fa4f49b0fa14f43823243f707b24351f7cd50d842f1373238d646c78a"
+    },
+    {
+      "slug": "app-gobroker",
+      "poster": "/images/projects/app-gobroker-preview-1e34f77871.webp",
+      "thumbnail": "/images/projects/app-gobroker-preview-1e34f77871-card.webp",
+      "bytes": 36668,
+      "hash": "dee32fb2defa3fec0045af9bddab6c44cd81cffda7957f602ce9dd2e5c25432d"
+    },
+    {
+      "slug": "app-heartsync",
+      "poster": "/images/projects/app-heartsync-preview-747e9a3e97.webp",
+      "thumbnail": "/images/projects/app-heartsync-preview-747e9a3e97-card.webp",
+      "bytes": 50456,
+      "hash": "fc7d4a1e41a878aac67acbf809fe49ebfca04222d6e031ec2586320c62495730"
+    },
+    {
+      "slug": "app-supplement-management",
+      "poster": "/images/projects/app-supplement-management-preview-6ce8da463d.webp",
+      "thumbnail": "/images/projects/app-supplement-management-preview-6ce8da463d-card.webp",
+      "bytes": 29430,
+      "hash": "0d477c31f1e409f5dfa0558e0600368c971a9238cb06f5b51c63ec41de4113a8"
+    }
+  ]
+}

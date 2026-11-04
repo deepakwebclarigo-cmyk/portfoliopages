@@ -1,0 +1,97 @@
+/* Motion extends the existing brand; it does not control layout or scrolling. */
+:root { --motion-reveal: .75s; --motion-interaction: .3s; }
+.motionWordMask, .motionWord { color: inherit !important; display: inline-block; max-width: 100%; vertical-align: bottom; }
+.motionWordMask { overflow: clip; padding-block: .08em .12em; margin-block: -.08em -.12em; }
+.motionWord { overflow-wrap: anywhere; }
+.motionDepth { min-width: 0; perspective: 1200px; }
+.depthSurface { width: 100%; height: 100%; }
+.projectEntrance { display: flex; width: 100%; height: 100%; }
+.projectEntrance>.depthSurface { display: flex; }
+.projectArt { flex: 0 0 auto; }
+.projectArt .visual img, .relatedImage .visual img { object-fit: contain; object-position: 50% 50%; transform: none !important; }
+.heroSection, .caseHero, [data-motion-reveal] { overflow-anchor: none; }
+.inventory .heroCount { display: inline-block; color: inherit; font-size: inherit; }
+/* Ambient artwork is entirely outside the content flow and the hit-testing layer. */
+.heroAmbient { position: absolute; inset: 0 0 0 50%; z-index: 0; overflow: hidden; pointer-events: none; contain: layout style paint; }
+.heroAmbientStage { position: absolute; inset: 12% 7% 12% 2%; }
+.heroWebglViewport, .heroSculpture { position: absolute; width: 100%; height: 100%; inset: 0; }
+.heroWebglViewport[data-renderer='three'] .heroSculpture { opacity: 0; }
+.heroShowcaseFallback { position: absolute; inset: 0; transition: opacity .2s ease; }
+.heroShowcaseFallback>svg { display: block; width: 100%; height: 100%; }
+.heroWebglViewport[data-renderer='three'] .heroShowcaseFallback { opacity: 0; }
+.showcaseFallbackBrowser { position: absolute; left: 3%; top: 20%; width: 79%; height: 50%; padding: 8px; background: white; border: 1px solid #eee5ef; border-radius: 12px; box-shadow: 0 16px 35px #70223c12; overflow: hidden; }
+.showcaseFallbackBrowser>span { display: block; padding: 2px 0 7px; color: var(--muted); font-size: 10px; }
+.showcaseFallbackBrowser svg { width: 100%; height: calc(100% - 20px); border-radius: 5px; }
+.showcaseFallbackPhone { position: absolute; right: 4%; top: 36%; width: 23%; aspect-ratio: .462; border: 5px solid white; border-radius: 18px; background: white; overflow: hidden; box-shadow: 0 14px 26px #70223c1a; }
+.showcaseFallbackPhone svg { display: block; width: 100%; height: 100%; }
+.showcaseFallbackLabel { position: absolute; left: 8%; bottom: 12%; padding: 12px 18px; border-radius: 12px; background: white; color: var(--ink); font-size: 12px; box-shadow: 0 6px 20px #70223c0c; }
+.heroSculpture { transition: opacity .2s ease; }
+.portfolioWebgl { position: fixed; inset: 0; width: 100vw; height: 100vh; pointer-events: none; z-index: 20; }
+.visual[data-webgl-artwork='active'] img { opacity: 0; }
+.heroSculptureFloat { width: 100%; height: 100%; }
+.heroSculpture svg { display: block; width: 100%; height: 100%; overflow: visible; filter: drop-shadow(0 12px 14px rgba(223,44,73,.06)); }
+.heroCopy .motionWordMask { perspective: 900px; }
+.heroBlob { display: block; position: absolute; border-radius: 48% 52% 60% 40% / 54% 40% 60% 46%; }
+.heroBlobRose { width: 77%; height: 70%; left: 10%; top: 20%; background: radial-gradient(ellipse at 34% 29%,rgba(255,255,255,.64),rgba(244,65,90,.14) 38%,rgba(244,65,90,.06) 62%,transparent 78%); filter: blur(18px); }
+.heroBlobLavender { width: 66%; height: 78%; left: 23%; top: 1%; background: radial-gradient(ellipse at 58% 40%,rgba(217,211,255,.45),rgba(207,203,255,.17) 44%,transparent 74%); filter: blur(22px); }
+.heroBlobLight { width: 48%; height: 42%; left: 5%; top: 14%; background: radial-gradient(ellipse at 50% 45%,rgba(255,255,255,.6),rgba(255,255,255,.12) 48%,transparent 74%); filter: blur(12px); }
+.heroParticle { position: absolute; display: block; width: var(--particle-size); height: var(--particle-size); border-radius: 50%; background: var(--accent); opacity: .25; }
+.heroParticle:nth-of-type(even) { background: #9993c4; }
+@media (hover: hover) and (pointer: fine) and (min-width: 1001px) and (prefers-reduced-motion: no-preference) {
+  .projectArt .visual img, .relatedImage .visual img, .caseVisual .visual img { transform: scale(.955) !important; }
+  .projectLink:hover { border-color: rgba(244,65,90,.22); box-shadow: 0 14px 34px rgba(38,40,51,.09); }
+}
+@media (max-width: 1000px) { .heroAmbient { left: 60%; opacity: .65; } }
+@media (max-width: 700px) { .heroAmbient { display: none; } }
+.portfolioProgress { position: fixed; z-index: 80; inset: 0 0 auto; height: 2px; pointer-events: none; background: linear-gradient(90deg,var(--accent),#f77296); transform: scaleX(0); transform-origin: left; }
+
+@keyframes clarigoWordIn {
+  from { opacity: .2; transform: translateY(105%) rotate(2deg); }
+  to { opacity: 1; transform: none; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .heroCopy .motionWord, .caseIntro .motionWord { animation: clarigoWordIn .8s var(--ease-out) both; animation-delay: calc(.06s + var(--word-index) * .07s); transform-origin: 0 100%; }
+  [data-motion-skip-hero] .motionWord, .motionWord[data-word-revealed] { animation: none; }
+  [data-hero-timeline] .heroCopy .motionWord { animation: none; }
+  .galleryDialogImageFrame { max-width: 100%; display: flex; align-items: center; justify-content: center; }
+  .mobileNav[open] nav { animation: viewerIn .25s var(--ease-out) both; }
+}
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  .motionDepth:hover>.depthSurface { will-change: transform; }
+  .galleryOpen:hover img { transform: translateY(-4px) scale(1.015); }
+  .projectLink:active, .galleryOpen:active .galleryExpand { transform: scale(.995); }
+}
+.galleryDialogImageFrame { display: flex; align-items: center; justify-content: center; min-width: 0; max-width: 100%; }
+.galleryOpen img, .visual img { transition-duration: .55s; transition-timing-function: var(--ease-out); }
+.desktopNav a { position: relative; }
+.desktopNav a::after { content: ''; position: absolute; height: 1px; left: 0; right: 0; bottom: -5px; background: var(--accent); transform: scaleX(0); transform-origin: left; transition: transform var(--motion-interaction) var(--ease-out); }
+.desktopNav a:hover::after, .desktopNav a:focus-visible::after { transform: scaleX(1); }
+
+/* Preference changes remain safe even during a GSAP/compositor teardown frame. */
+html[data-motion='reduced'] :is(.motionWord,.depthSurface,.caseIntro>*,.heroCopy>*,.heroActions>a,.inventory>div,.heroScroll,.heroScroll>span,.caseVisual,.projectEntrance,.featureColumn>article,.workflowSteps>li,.solutionList>li,.toolkitTags>span,.featureArtwork,.solutionArtwork,.devicePresentation,.relatedCard,.projectGallery>figure,.galleryDialogImageFrame) {
+  opacity: 1 !important; transform: none !important; clip-path: none !important; animation: none !important; will-change: auto !important;
+}
+
+@keyframes clarigoDocumentIn { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: none; } }
+@keyframes clarigoDocumentOut { to { opacity: 0; } }
+::view-transition-old(root) { animation: clarigoDocumentOut .18s ease-out both; }
+::view-transition-new(root) { animation: clarigoDocumentIn .3s var(--ease-out) both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .motionWord, .depthSurface, [data-motion-reveal], [data-motion-parallax], .galleryDialogImageFrame { animation: none !important; transform: none !important; opacity: 1 !important; clip-path: none !important; will-change: auto !important; }
+  .portfolioProgress { display: none; }
+  .heroAmbient *, .heroParticle { animation: none !important; transform: none !important; will-change: auto !important; }
+  .heroAmbientArrival { opacity: 1 !important; }
+  .heroSculpture, .heroLayerEntrance { opacity: 1 !important; }
+  .heroWebglViewport[data-renderer='three'] .heroSculpture { opacity: 0 !important; }
+  .heroWebglViewport[data-renderer='three'] .heroShowcaseFallback { opacity: 0 !important; }
+  .heroParticle { display: none; }
+  .navCta:hover, .buttonPrimary:hover, .nextProjectLink:hover>svg { transform: none !important; }
+  ::view-transition-old(root), ::view-transition-new(root) { animation: none !important; }
+}
+@media print {
+  [data-motion-reveal], .motionWord { transform: none !important; opacity: 1 !important; clip-path: none !important; animation: none !important; }
+  .portfolioProgress { display: none; }
+  .heroAmbient { display: none; }
+  .portfolioWebgl { display: none; }
+}

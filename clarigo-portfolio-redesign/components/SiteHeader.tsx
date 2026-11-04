@@ -1,6 +1,6 @@
 'use client';
 
-import Link from 'next/link';
+import Link from './PortfolioLink';
 import { useRef } from 'react';
 import { ArrowUpRight, Menu } from 'lucide-react';
 

@@ -1,0 +1,162 @@
+{
+  "base": "http://127.0.0.1:3100",
+  "results": [
+    {
+      "width": 1440,
+      "errors": [],
+      "engine": {
+        "engine": "three",
+        "geometry": "ExtrudeGeometry",
+        "scene": "uiux-ecosystem",
+        "heroObjects": "5",
+        "assets": "ready",
+        "pixelRatio": "1",
+        "state": "running",
+        "frame": "108",
+        "heroHover": "false",
+        "heroExpansion": "0.0000",
+        "heroRotation": "0.0170",
+        "drawCalls": "121",
+        "triangles": "31520"
+      },
+      "overflow": false,
+      "context": {
+        "version": "WebGL 2.0 (OpenGL ES 3.0 Chromium)",
+        "renderer": "WebKit WebGL",
+        "antialias": true
+      },
+      "hover": {
+        "engine": "three",
+        "geometry": "ExtrudeGeometry",
+        "scene": "uiux-ecosystem",
+        "heroObjects": "5",
+        "assets": "ready",
+        "pixelRatio": "1",
+        "state": "running",
+        "frame": "162",
+        "heroHover": "true",
+        "heroExpansion": "0.9985",
+        "heroRotation": "0.0551",
+        "drawCalls": "121",
+        "triangles": "31520"
+      },
+      "performance": {
+        "samples": 144,
+        "medianFrameMs": 16.699999999999818,
+        "p95FrameMs": 16.800000000000182,
+        "framesOver32Ms": 0
+      },
+      "card": {
+        "engine": "three",
+        "geometry": "ExtrudeGeometry",
+        "scene": "uiux-ecosystem",
+        "heroObjects": "5",
+        "assets": "ready",
+        "pixelRatio": "1",
+        "state": "paused",
+        "frame": "318",
+        "heroHover": "true",
+        "heroExpansion": "1.0000",
+        "heroRotation": "0.0690",
+        "drawCalls": "121",
+        "triangles": "31520"
+      },
+      "reduced": {
+        "engine": "three",
+        "geometry": "ExtrudeGeometry",
+        "scene": "uiux-ecosystem",
+        "heroObjects": "5",
+        "assets": "ready",
+        "pixelRatio": "1",
+        "state": "reduced",
+        "frame": "321",
+        "heroHover": "false",
+        "heroExpansion": "0.0000",
+        "heroRotation": "0.0385",
+        "drawCalls": "121",
+        "triangles": "31520"
+      }
+    },
+    {
+      "width": 1195,
+      "errors": [],
+      "engine": {
+        "engine": "three",
+        "geometry": "ExtrudeGeometry",
+        "scene": "uiux-ecosystem",
+        "heroObjects": "5",
+        "assets": "ready",
+        "pixelRatio": "1",
+        "state": "running",
+        "frame": "114",
+        "heroHover": "false",
+        "heroExpansion": "0.0000",
+        "heroRotation": "0.0178",
+        "drawCalls": "121",
+        "triangles": "31520"
+      },
+      "overflow": false,
+      "reduced": {
+        "engine": "three",
+        "geometry": "ExtrudeGeometry",
+        "scene": "uiux-ecosystem",
+        "heroObjects": "5",
+        "assets": "ready",
+        "pixelRatio": "1",
+        "state": "reduced",
+        "frame": "117",
+        "heroHover": "false",
+        "heroExpansion": "0.0000",
+        "heroRotation": "0.0182",
+        "drawCalls": "121",
+        "triangles": "31520"
+      }
+    },
+    {
+      "width": 768,
+      "errors": [],
+      "engine": {
+        "engine": "three",
+        "geometry": "ExtrudeGeometry",
+        "scene": "uiux-ecosystem",
+        "heroObjects": "5",
+        "assets": "ready",
+        "pixelRatio": "1",
+        "state": "running",
+        "frame": "114",
+        "heroHover": "false",
+        "heroExpansion": "0.0000",
+        "heroRotation": "0.0178",
+        "drawCalls": "121",
+        "triangles": "31520"
+      },
+      "overflow": false,
+      "reduced": {
+        "engine": "three",
+        "geometry": "ExtrudeGeometry",
+        "scene": "uiux-ecosystem",
+        "heroObjects": "5",
+        "assets": "ready",
+        "pixelRatio": "1",
+        "state": "reduced",
+        "frame": "117",
+        "heroHover": "false",
+        "heroExpansion": "0.0000",
+        "heroRotation": "0.0180",
+        "drawCalls": "121",
+        "triangles": "31520"
+      }
+    },
+    {
+      "width": 390,
+      "errors": [],
+      "engine": {
+        "engine": "static"
+      },
+      "overflow": false,
+      "reduced": {
+        "engine": "static"
+      }
+    }
+  ]
+}

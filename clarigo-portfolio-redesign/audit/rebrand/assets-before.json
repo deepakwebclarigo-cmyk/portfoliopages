@@ -1,0 +1,2537 @@
+[
+  {
+    "id": "001",
+    "slug": "streamdatax",
+    "newSlug": "streamdexa",
+    "oldName": "StreamDataX",
+    "name": "StreamDexa",
+    "tokens": [
+      "streamdatax",
+      "streamdata"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/StreamDataX.png",
+      "status": 200,
+      "src": "/images/projects/streamdatax-preview-213cfd1ade.webp",
+      "width": 1600,
+      "height": 1334,
+      "bytes": 97392,
+      "originalBytes": 2655902,
+      "sha256": "213cfd1ade03f6b9ff3853a518793f8659b7134e195597e7b36b3d1fe780975c"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\streamdatax-preview-213cfd1ade.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\001.png",
+    "scale": 2.25
+  },
+  {
+    "id": "002",
+    "slug": "streamdatax",
+    "newSlug": "streamdexa",
+    "oldName": "StreamDataX",
+    "name": "StreamDexa",
+    "tokens": [
+      "streamdatax",
+      "streamdata"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/StreamDataX-web-main.png",
+      "status": 200,
+      "src": "/images/projects/streamdatax-186575fe8f.webp",
+      "width": 1600,
+      "height": 1325,
+      "bytes": 79672,
+      "originalBytes": 834159,
+      "sha256": "186575fe8ff36581bedd288abd975877fd29216090cbcb0a9029b3250e154eb1"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\streamdatax-186575fe8f.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\002.png",
+    "scale": 2.25
+  },
+  {
+    "id": "003",
+    "slug": "streamdatax",
+    "newSlug": "streamdexa",
+    "oldName": "StreamDataX",
+    "name": "StreamDexa",
+    "tokens": [
+      "streamdatax",
+      "streamdata"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/StreamDataX-web-2nd.png",
+      "status": 200,
+      "src": "/images/projects/streamdatax-4ef36b028b.webp",
+      "width": 1495,
+      "height": 2200,
+      "bytes": 311544,
+      "originalBytes": 738736,
+      "sha256": "4ef36b028b40a4fa496e0ffb9cb5135793c52185e417c59058bfd3a0ab32a024"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\streamdatax-4ef36b028b.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\003.png",
+    "scale": 1.6361204013377926
+  },
+  {
+    "id": "004",
+    "slug": "streamdatax",
+    "newSlug": "streamdexa",
+    "oldName": "StreamDataX",
+    "name": "StreamDexa",
+    "tokens": [
+      "streamdatax",
+      "streamdata"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/StreamDataX-web-3rd.png",
+      "status": 200,
+      "src": "/images/projects/streamdatax-61a7c107ce.webp",
+      "width": 998,
+      "height": 1273,
+      "bytes": 189890,
+      "originalBytes": 657835,
+      "sha256": "61a7c107cea5451d5248767157535d6ffa0ded8325b6c9e6dfe297e44a62aca8"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\streamdatax-61a7c107ce.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\004.png",
+    "scale": 2.8276553106212425
+  },
+  {
+    "id": "005",
+    "slug": "streamdatax",
+    "newSlug": "streamdexa",
+    "oldName": "StreamDataX",
+    "name": "StreamDexa",
+    "tokens": [
+      "streamdatax",
+      "streamdata"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/StreamDataX-web-1.png",
+      "status": 200,
+      "src": "/images/projects/streamdatax-ba9ee81cd5.webp",
+      "width": 1495,
+      "height": 2200,
+      "bytes": 194552,
+      "originalBytes": 798433,
+      "sha256": "ba9ee81cd55a3356d15500e7d4ec3f0039933fd122b24e54185beac8c4cbc632"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\streamdatax-ba9ee81cd5.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\005.png",
+    "scale": 1.6361204013377926
+  },
+  {
+    "id": "006",
+    "slug": "streamdatax",
+    "newSlug": "streamdexa",
+    "oldName": "StreamDataX",
+    "name": "StreamDexa",
+    "tokens": [
+      "streamdatax",
+      "streamdata"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/StreamDataX-web-2.png",
+      "status": 200,
+      "src": "/images/projects/streamdatax-f8b1822a92.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 240478,
+      "originalBytes": 535896,
+      "sha256": "f8b1822a92551777f0d00cc1f73ca66f872b29a9f679930af9b2f33af4aa1c01"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\streamdatax-f8b1822a92.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\006.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "007",
+    "slug": "streamdatax",
+    "newSlug": "streamdexa",
+    "oldName": "StreamDataX",
+    "name": "StreamDexa",
+    "tokens": [
+      "streamdatax",
+      "streamdata"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/StreamDataX-web-3.png",
+      "status": 200,
+      "src": "/images/projects/streamdatax-949032b848.webp",
+      "width": 1495,
+      "height": 2200,
+      "bytes": 312930,
+      "originalBytes": 733440,
+      "sha256": "949032b848c78beb74d83399a5add2faf6646fa3466bf9c789aee45500a82b52"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\streamdatax-949032b848.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\007.png",
+    "scale": 1.6361204013377926
+  },
+  {
+    "id": "008",
+    "slug": "streamdatax",
+    "newSlug": "streamdexa",
+    "oldName": "StreamDataX",
+    "name": "StreamDexa",
+    "tokens": [
+      "streamdatax",
+      "streamdata"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/StreamDataX-web-4.png",
+      "status": 200,
+      "src": "/images/projects/streamdatax-58b39e36af.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 317794,
+      "originalBytes": 726854,
+      "sha256": "58b39e36af31ab623473c95f66f53e10314d220e20c3b9b295921770dd65a09f"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\streamdatax-58b39e36af.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\008.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "009",
+    "slug": "streamdatax",
+    "newSlug": "streamdexa",
+    "oldName": "StreamDataX",
+    "name": "StreamDexa",
+    "tokens": [
+      "streamdatax",
+      "streamdata"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/StreamDataX-web-5.png",
+      "status": 200,
+      "src": "/images/projects/streamdatax-2d42276596.webp",
+      "width": 1493,
+      "height": 2200,
+      "bytes": 172314,
+      "originalBytes": 1203141,
+      "sha256": "2d4227659667f3ee699a2b59c48df83a4a4d001fbfddbd7ca9c2d2e62fb72861"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\streamdatax-2d42276596.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\009.png",
+    "scale": 1.6363027461486939
+  },
+  {
+    "id": "010",
+    "slug": "tukeeconnect",
+    "newSlug": "tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/TukeeConnect.png",
+      "status": 200,
+      "src": "/images/projects/tukeeconnect-preview-44938bec29.webp",
+      "width": 1600,
+      "height": 1334,
+      "bytes": 88854,
+      "originalBytes": 1652215,
+      "sha256": "44938bec29ba121f90eb9051afc3a7de76b92ef44b132a385e6c80be136b44da"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\tukeeconnect-preview-44938bec29.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\010.png",
+    "scale": 2.25
+  },
+  {
+    "id": "011",
+    "slug": "tukeeconnect",
+    "newSlug": "tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/TukeeConnect%20-main.png",
+      "status": 200,
+      "src": "/images/projects/tukeeconnect-826311973a.webp",
+      "width": 1600,
+      "height": 1326,
+      "bytes": 72142,
+      "originalBytes": 1027482,
+      "sha256": "826311973ac09c68d993fd443fc38b5f99fc5e50ec4cdc3e33ce5e483d8d4b9b"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\tukeeconnect-826311973a.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\011.png",
+    "scale": 2.25
+  },
+  {
+    "id": "012",
+    "slug": "tukeeconnect",
+    "newSlug": "tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/TukeeConnect-2nd.png",
+      "status": 200,
+      "src": "/images/projects/tukeeconnect-21f8878e48.webp",
+      "width": 1495,
+      "height": 2200,
+      "bytes": 95588,
+      "originalBytes": 604107,
+      "sha256": "21f8878e4806961dce879cbf0f80a404e0545be8ae9d2d6b71ff66c211efef88"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\tukeeconnect-21f8878e48.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\012.png",
+    "scale": 1.6361204013377926
+  },
+  {
+    "id": "013",
+    "slug": "tukeeconnect",
+    "newSlug": "tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/TukeeConnect-3rd.png",
+      "status": 200,
+      "src": "/images/projects/tukeeconnect-adc4cf3d2f.webp",
+      "width": 999,
+      "height": 1273,
+      "bytes": 146674,
+      "originalBytes": 440491,
+      "sha256": "adc4cf3d2f3dd7f4e2a374462fda2e234df4e99366a8d3b5e92be88a83bed7b1"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\tukeeconnect-adc4cf3d2f.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\013.png",
+    "scale": 2.8278278278278277
+  },
+  {
+    "id": "014",
+    "slug": "tukeeconnect",
+    "newSlug": "tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/TukeeConnect-web-1.png",
+      "status": 200,
+      "src": "/images/projects/tukeeconnect-4abfd77001.webp",
+      "width": 1495,
+      "height": 2200,
+      "bytes": 132626,
+      "originalBytes": 658803,
+      "sha256": "4abfd77001ad9218db0738ca2b1af1ca4ebbdf6172d28a8b07c0915fab27afdb"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\tukeeconnect-4abfd77001.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\014.png",
+    "scale": 1.6361204013377926
+  },
+  {
+    "id": "015",
+    "slug": "tukeeconnect",
+    "newSlug": "tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/TukeeConnect-web-2.png",
+      "status": 200,
+      "src": "/images/projects/tukeeconnect-d42a8c4bde.webp",
+      "width": 1495,
+      "height": 2200,
+      "bytes": 136672,
+      "originalBytes": 601366,
+      "sha256": "d42a8c4bde4d171bfe8eff65e50401caafca76e6d251c5cae805e08aef6c2475"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\tukeeconnect-d42a8c4bde.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\015.png",
+    "scale": 1.6361204013377926
+  },
+  {
+    "id": "016",
+    "slug": "tukeeconnect",
+    "newSlug": "tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/TukeeConnect-web-3.png",
+      "status": 200,
+      "src": "/images/projects/tukeeconnect-750a78458c.webp",
+      "width": 1495,
+      "height": 2200,
+      "bytes": 78268,
+      "originalBytes": 360260,
+      "sha256": "750a78458cdeb8f7fa33d41c533e13bf580e34c90dfa72f73db70c144508a65c"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\tukeeconnect-750a78458c.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\016.png",
+    "scale": 1.6361204013377926
+  },
+  {
+    "id": "017",
+    "slug": "tukeeconnect",
+    "newSlug": "tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/TukeeConnect-web-4.png",
+      "status": 200,
+      "src": "/images/projects/tukeeconnect-c7bd8862aa.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 126526,
+      "originalBytes": 599615,
+      "sha256": "c7bd8862aa2b7e5bbaf796361fe30769e40f97e06d81af98dcf872a7e0dce931"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\tukeeconnect-c7bd8862aa.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\017.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "018",
+    "slug": "tukeeconnect",
+    "newSlug": "tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/TukeeConnect-web-5.png",
+      "status": 200,
+      "src": "/images/projects/tukeeconnect-3513b00c30.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 127878,
+      "originalBytes": 660189,
+      "sha256": "3513b00c3025f21d99c585153581139b879248b613cc8870220056bb9e687fb6"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\tukeeconnect-3513b00c30.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\018.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "019",
+    "slug": "app-tukeeconnect",
+    "newSlug": "app-tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/TukeeConnect_App.png",
+      "status": 200,
+      "src": "/images/projects/app-tukeeconnect-preview-3246549684.webp",
+      "width": 1600,
+      "height": 1199,
+      "bytes": 290014,
+      "originalBytes": 1834788,
+      "sha256": "3246549684dd10d185bd1810617867057a840508e835568b818efc86c0d94924"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-tukeeconnect-preview-3246549684.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\019.png",
+    "scale": 2.25
+  },
+  {
+    "id": "020",
+    "slug": "app-tukeeconnect",
+    "newSlug": "app-tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Tukee-1.png",
+      "status": 200,
+      "src": "/images/projects/app-tukeeconnect-33757142ee.webp",
+      "width": 1600,
+      "height": 1312,
+      "bytes": 112492,
+      "originalBytes": 690066,
+      "sha256": "33757142eee3e87b1c3e870234340f414415b2dda11295b42d744da0009b5b8c"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-tukeeconnect-33757142ee.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\020.png",
+    "scale": 2.25
+  },
+  {
+    "id": "021",
+    "slug": "app-tukeeconnect",
+    "newSlug": "app-tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Tukee-2.png",
+      "status": 200,
+      "src": "/images/projects/app-tukeeconnect-a269079b20.webp",
+      "width": 1077,
+      "height": 2180,
+      "bytes": 136216,
+      "originalBytes": 1285031,
+      "sha256": "a269079b20303daa30d01c0aa9fd8654fce580021fcfd772dddc3172710edacb"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-tukeeconnect-a269079b20.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\021.png",
+    "scale": 1.6518105849582172
+  },
+  {
+    "id": "022",
+    "slug": "app-tukeeconnect",
+    "newSlug": "app-tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Tukee-3.png",
+      "status": 200,
+      "src": "/images/projects/app-tukeeconnect-0d6ad8194d.webp",
+      "width": 711,
+      "height": 711,
+      "bytes": 52548,
+      "originalBytes": 175977,
+      "sha256": "0d6ad8194dc4294c618f684a1b674c139216a53508b35c650d181bbafee2adec"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-tukeeconnect-0d6ad8194d.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\022.png",
+    "scale": 3
+  },
+  {
+    "id": "023",
+    "slug": "app-tukeeconnect",
+    "newSlug": "app-tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Tukee-11.png",
+      "status": 200,
+      "src": "/images/projects/app-tukeeconnect-07e61e2324.webp",
+      "width": 375,
+      "height": 812,
+      "bytes": 18620,
+      "originalBytes": 54744,
+      "sha256": "07e61e23244d458d8b62bfc36984544220e05ae0d8e64b769f0babd2724c9808"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-tukeeconnect-07e61e2324.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\023.png",
+    "scale": 3
+  },
+  {
+    "id": "024",
+    "slug": "app-tukeeconnect",
+    "newSlug": "app-tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Tukee-12.png",
+      "status": 200,
+      "src": "/images/projects/app-tukeeconnect-ea14209c8e.webp",
+      "width": 375,
+      "height": 812,
+      "bytes": 31778,
+      "originalBytes": 113981,
+      "sha256": "ea14209c8ea8c087027a98c6a262e2f89a1532309414a8a824b5b7239b7fd3bb"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-tukeeconnect-ea14209c8e.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\024.png",
+    "scale": 3
+  },
+  {
+    "id": "025",
+    "slug": "app-tukeeconnect",
+    "newSlug": "app-tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Tukee-13.png",
+      "status": 200,
+      "src": "/images/projects/app-tukeeconnect-b2b7dc7630.webp",
+      "width": 375,
+      "height": 812,
+      "bytes": 35308,
+      "originalBytes": 131637,
+      "sha256": "b2b7dc763065c3bc5dbf355c843817ca975f191f6adf6bd53b2f4adc144d7105"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-tukeeconnect-b2b7dc7630.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\025.png",
+    "scale": 3
+  },
+  {
+    "id": "026",
+    "slug": "app-tukeeconnect",
+    "newSlug": "app-tukioconnect",
+    "oldName": "TukeeConnect",
+    "name": "TukioConnect",
+    "tokens": [
+      "tukeeconnect",
+      "tukee",
+      "tukec"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Tukee-15.png",
+      "status": 200,
+      "src": "/images/projects/app-tukeeconnect-fb9ab3bda0.webp",
+      "width": 375,
+      "height": 812,
+      "bytes": 41986,
+      "originalBytes": 361379,
+      "sha256": "fb9ab3bda03515dff332d9c2155debbef7bcb4d8e08f612871f69f15535fa739"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-tukeeconnect-fb9ab3bda0.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\026.png",
+    "scale": 3
+  },
+  {
+    "id": "027",
+    "slug": "parachute",
+    "newSlug": "paranest",
+    "oldName": "Parachute",
+    "name": "ParaNest",
+    "tokens": [
+      "parachute"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/parachute.png",
+      "status": 200,
+      "src": "/images/projects/parachute-preview-bc6302dbb6.webp",
+      "width": 1501,
+      "height": 1232,
+      "bytes": 59234,
+      "originalBytes": 105643,
+      "sha256": "bc6302dbb627d3cbfc9668fe0f2710dfc277df344ea629bb93442e068131f3c9"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\parachute-preview-bc6302dbb6.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\027.png",
+    "scale": 2.3984010659560293
+  },
+  {
+    "id": "028",
+    "slug": "parachute",
+    "newSlug": "paranest",
+    "oldName": "Parachute",
+    "name": "ParaNest",
+    "tokens": [
+      "parachute"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/parachute-main.png",
+      "status": 200,
+      "src": "/images/projects/parachute-5fe57f8e3a.webp",
+      "width": 1600,
+      "height": 1325,
+      "bytes": 59794,
+      "originalBytes": 349200,
+      "sha256": "5fe57f8e3a4b9b3b7f6ac0d2650ab5b8a0e234e3848f784cae7e02726ea027ee"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\parachute-5fe57f8e3a.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\028.png",
+    "scale": 2.25
+  },
+  {
+    "id": "029",
+    "slug": "parachute",
+    "newSlug": "paranest",
+    "oldName": "Parachute",
+    "name": "ParaNest",
+    "tokens": [
+      "parachute"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/parachute-2nd.png",
+      "status": 200,
+      "src": "/images/projects/parachute-870aa26b87.webp",
+      "width": 1495,
+      "height": 2200,
+      "bytes": 171952,
+      "originalBytes": 324619,
+      "sha256": "870aa26b8734d2a02626cded4f42b12e7a71bd143b580ac991d0b49333b9393e"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\parachute-870aa26b87.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\029.png",
+    "scale": 1.6361204013377926
+  },
+  {
+    "id": "030",
+    "slug": "parachute",
+    "newSlug": "paranest",
+    "oldName": "Parachute",
+    "name": "ParaNest",
+    "tokens": [
+      "parachute"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/parachute-3rd.png",
+      "status": 200,
+      "src": "/images/projects/parachute-0da22b3519.webp",
+      "width": 999,
+      "height": 1273,
+      "bytes": 173298,
+      "originalBytes": 571647,
+      "sha256": "0da22b3519a006532b8c237b135c514cc4fd941e2f65b685291152a244294194"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\parachute-0da22b3519.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\030.png",
+    "scale": 2.8278278278278277
+  },
+  {
+    "id": "031",
+    "slug": "parachute",
+    "newSlug": "paranest",
+    "oldName": "Parachute",
+    "name": "ParaNest",
+    "tokens": [
+      "parachute"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/parachute-web-1.png",
+      "status": 200,
+      "src": "/images/projects/parachute-a4aef87e87.webp",
+      "width": 1495,
+      "height": 2200,
+      "bytes": 152100,
+      "originalBytes": 948337,
+      "sha256": "a4aef87e871db0bef9d5c24c3b80bd3153a631fa47ff074f5544735ad8557082"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\parachute-a4aef87e87.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\031.png",
+    "scale": 1.6361204013377926
+  },
+  {
+    "id": "032",
+    "slug": "parachute",
+    "newSlug": "paranest",
+    "oldName": "Parachute",
+    "name": "ParaNest",
+    "tokens": [
+      "parachute"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/parachute-web-2.png",
+      "status": 200,
+      "src": "/images/projects/parachute-ee4fe37ef2.webp",
+      "width": 1495,
+      "height": 2200,
+      "bytes": 225086,
+      "originalBytes": 442243,
+      "sha256": "ee4fe37ef2b0e34c73963a882738a8be2c566412d5204603d2f4f40d3b78ce7b"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\parachute-ee4fe37ef2.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\032.png",
+    "scale": 1.6361204013377926
+  },
+  {
+    "id": "033",
+    "slug": "parachute",
+    "newSlug": "paranest",
+    "oldName": "Parachute",
+    "name": "ParaNest",
+    "tokens": [
+      "parachute"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/parachute-web-3.png",
+      "status": 200,
+      "src": "/images/projects/parachute-bb7351963a.webp",
+      "width": 1495,
+      "height": 2200,
+      "bytes": 142346,
+      "originalBytes": 292062,
+      "sha256": "bb7351963af284f515d54554054c49edef47d8d0e57016c692d1d30c84956c76"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\parachute-bb7351963a.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\033.png",
+    "scale": 1.6361204013377926
+  },
+  {
+    "id": "034",
+    "slug": "parachute",
+    "newSlug": "paranest",
+    "oldName": "Parachute",
+    "name": "ParaNest",
+    "tokens": [
+      "parachute"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/parachute-web-4.png",
+      "status": 200,
+      "src": "/images/projects/parachute-df96c67842.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 151714,
+      "originalBytes": 970564,
+      "sha256": "df96c67842fd750d26fc1e44c7d1a39d395925534e9ffc44d5877cf84d95ed25"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\parachute-df96c67842.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\034.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "035",
+    "slug": "parachute",
+    "newSlug": "paranest",
+    "oldName": "Parachute",
+    "name": "ParaNest",
+    "tokens": [
+      "parachute"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/parachute-web-5.png",
+      "status": 200,
+      "src": "/images/projects/parachute-e7dc5f168c.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 175918,
+      "originalBytes": 423748,
+      "sha256": "e7dc5f168cf0b01d8b50a4d28448262b426dcdc6dc478255397e69ecbde18e1d"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\parachute-e7dc5f168c.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\035.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "036",
+    "slug": "whizara",
+    "newSlug": "whizora",
+    "oldName": "Whizara",
+    "name": "Whizora",
+    "tokens": [
+      "whizara"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/whizara.png",
+      "status": 200,
+      "src": "/images/projects/whizara-preview-93dfa29b6d.webp",
+      "width": 1600,
+      "height": 1333,
+      "bytes": 83604,
+      "originalBytes": 1616249,
+      "sha256": "93dfa29b6d4cb17420d0093d656796e42543556e0bfa52dae0035338d330fccf"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\whizara-preview-93dfa29b6d.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\036.png",
+    "scale": 2.25
+  },
+  {
+    "id": "037",
+    "slug": "whizara",
+    "newSlug": "whizora",
+    "oldName": "Whizara",
+    "name": "Whizora",
+    "tokens": [
+      "whizara"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/whizara-main.png",
+      "status": 200,
+      "src": "/images/projects/whizara-4f824ed884.webp",
+      "width": 1600,
+      "height": 1326,
+      "bytes": 91912,
+      "originalBytes": 584322,
+      "sha256": "4f824ed88404e0462e060f6a5d7951d204b155ad6cc43d08029077d83bf82237"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\whizara-4f824ed884.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\037.png",
+    "scale": 2.25
+  },
+  {
+    "id": "038",
+    "slug": "whizara",
+    "newSlug": "whizora",
+    "oldName": "Whizara",
+    "name": "Whizora",
+    "tokens": [
+      "whizara"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/whizara-3rd.png",
+      "status": 200,
+      "src": "/images/projects/whizara-3f0b9d0b6d.webp",
+      "width": 999,
+      "height": 1274,
+      "bytes": 184972,
+      "originalBytes": 791686,
+      "sha256": "3f0b9d0b6d4de10dce2fe901ffcfefda4e06a9bb68eb735527481dff5a56f535"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\whizara-3f0b9d0b6d.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\038.png",
+    "scale": 2.825825825825826
+  },
+  {
+    "id": "039",
+    "slug": "whizara",
+    "newSlug": "whizora",
+    "oldName": "Whizara",
+    "name": "Whizora",
+    "tokens": [
+      "whizara"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/whizara-web-1.png",
+      "status": 200,
+      "src": "/images/projects/whizara-053ab60649.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 155344,
+      "originalBytes": 504194,
+      "sha256": "053ab606495aa5f649b41a0caa5efbbcbf7cd60f05dc69fa0f0739fc5223b92f"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\whizara-053ab60649.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\039.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "040",
+    "slug": "whizara",
+    "newSlug": "whizora",
+    "oldName": "Whizara",
+    "name": "Whizora",
+    "tokens": [
+      "whizara"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/whizara-web-2.png",
+      "status": 200,
+      "src": "/images/projects/whizara-e3d3f1f91f.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 103710,
+      "originalBytes": 648690,
+      "sha256": "e3d3f1f91f61aad1e14d779b1af7d939b2d2767d2c6105068d83a4318a39e6c7"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\whizara-e3d3f1f91f.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\040.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "041",
+    "slug": "whizara",
+    "newSlug": "whizora",
+    "oldName": "Whizara",
+    "name": "Whizora",
+    "tokens": [
+      "whizara"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/whizara-web-3.png",
+      "status": 200,
+      "src": "/images/projects/whizara-03afb30883.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 115838,
+      "originalBytes": 667115,
+      "sha256": "03afb30883a257d1e0983f8e9f9622ef8b2efd79832c9af21db722c9a1aa3ce5"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\whizara-03afb30883.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\041.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "042",
+    "slug": "whizara",
+    "newSlug": "whizora",
+    "oldName": "Whizara",
+    "name": "Whizora",
+    "tokens": [
+      "whizara"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/whizara-web-4.png",
+      "status": 200,
+      "src": "/images/projects/whizara-b506c23c88.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 121186,
+      "originalBytes": 826574,
+      "sha256": "b506c23c88bf674feef90d458ef22d104a9bd3d296019dc1830ee9f08e945f8e"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\whizara-b506c23c88.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\042.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "043",
+    "slug": "whizara",
+    "newSlug": "whizora",
+    "oldName": "Whizara",
+    "name": "Whizora",
+    "tokens": [
+      "whizara"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/whizara-web-5.png",
+      "status": 200,
+      "src": "/images/projects/whizara-519e3aca95.webp",
+      "width": 1493,
+      "height": 2200,
+      "bytes": 109674,
+      "originalBytes": 712647,
+      "sha256": "519e3aca9515b5c667bcc01bf364b2dbe20da09e2d60355a2ecac69ec58d7bc3"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\whizara-519e3aca95.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\043.png",
+    "scale": 1.6363027461486939
+  },
+  {
+    "id": "044",
+    "slug": "es-platform",
+    "newSlug": "estrata",
+    "oldName": "Es-Platform",
+    "name": "EStrata",
+    "tokens": [
+      "esplatform"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/es-platform.png",
+      "status": 200,
+      "src": "/images/projects/es-platform-preview-75eb6a2122.webp",
+      "width": 1600,
+      "height": 1333,
+      "bytes": 83118,
+      "originalBytes": 1523184,
+      "sha256": "75eb6a21220c94d1ef1b17724811bbd35afce1546bad991da43cf202cc81ab3d"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\es-platform-preview-75eb6a2122.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\044.png",
+    "scale": 2.25
+  },
+  {
+    "id": "045",
+    "slug": "es-platform",
+    "newSlug": "estrata",
+    "oldName": "Es-Platform",
+    "name": "EStrata",
+    "tokens": [
+      "esplatform"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/ES-main.png",
+      "status": 200,
+      "src": "/images/projects/es-platform-4da3d3fcc7.webp",
+      "width": 1600,
+      "height": 1326,
+      "bytes": 79534,
+      "originalBytes": 916702,
+      "sha256": "4da3d3fcc7bb85f7d9902764fc8844c1f87cf6c3a8883c51cdba909d0307032f"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\es-platform-4da3d3fcc7.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\045.png",
+    "scale": 2.25
+  },
+  {
+    "id": "046",
+    "slug": "es-platform",
+    "newSlug": "estrata",
+    "oldName": "Es-Platform",
+    "name": "EStrata",
+    "tokens": [
+      "esplatform"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/ES-2nd.png",
+      "status": 200,
+      "src": "/images/projects/es-platform-4ef3f8ef2e.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 130068,
+      "originalBytes": 677919,
+      "sha256": "4ef3f8ef2e980be32c8841d245a4aa61b8f20a7d0ff35aae0278c987a545253e"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\es-platform-4ef3f8ef2e.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\046.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "047",
+    "slug": "es-platform",
+    "newSlug": "estrata",
+    "oldName": "Es-Platform",
+    "name": "EStrata",
+    "tokens": [
+      "esplatform"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/ES-3rd.png",
+      "status": 200,
+      "src": "/images/projects/es-platform-bdc4dfb347.webp",
+      "width": 999,
+      "height": 1274,
+      "bytes": 176022,
+      "originalBytes": 524766,
+      "sha256": "bdc4dfb347c4c3c126377b8c76c3427ea68747ed6a9815c8aba153fc1208959e"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\es-platform-bdc4dfb347.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\047.png",
+    "scale": 2.825825825825826
+  },
+  {
+    "id": "048",
+    "slug": "es-platform",
+    "newSlug": "estrata",
+    "oldName": "Es-Platform",
+    "name": "EStrata",
+    "tokens": [
+      "esplatform"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/ES-web-1.png",
+      "status": 200,
+      "src": "/images/projects/es-platform-45c8411a15.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 131358,
+      "originalBytes": 656850,
+      "sha256": "45c8411a156083183fceb03cc6405e046e6f54ba3858e5e65fb7f6e545bea4c6"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\es-platform-45c8411a15.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\048.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "049",
+    "slug": "es-platform",
+    "newSlug": "estrata",
+    "oldName": "Es-Platform",
+    "name": "EStrata",
+    "tokens": [
+      "esplatform"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/ES-web-2.png",
+      "status": 200,
+      "src": "/images/projects/es-platform-304b0e0874.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 67732,
+      "originalBytes": 323632,
+      "sha256": "304b0e08743317138620dfb94180b2c129d977d642b43fe057abfb070a233984"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\es-platform-304b0e0874.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\049.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "050",
+    "slug": "es-platform",
+    "newSlug": "estrata",
+    "oldName": "Es-Platform",
+    "name": "EStrata",
+    "tokens": [
+      "esplatform"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/ES-web-3.png",
+      "status": 200,
+      "src": "/images/projects/es-platform-d26bd5c866.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 209950,
+      "originalBytes": 971195,
+      "sha256": "d26bd5c8666088de0420952153a36e62427a420e9957fb202bf66b80b9cf11f6"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\es-platform-d26bd5c866.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\050.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "051",
+    "slug": "es-platform",
+    "newSlug": "estrata",
+    "oldName": "Es-Platform",
+    "name": "EStrata",
+    "tokens": [
+      "esplatform"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/ES-web-4.png",
+      "status": 200,
+      "src": "/images/projects/es-platform-5153f77335.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 174824,
+      "originalBytes": 812151,
+      "sha256": "5153f773350558052b63fa3d81d099d96d9a32ba68fd5a1756351326f7124f3e"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\es-platform-5153f77335.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\051.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "052",
+    "slug": "lead-management",
+    "newSlug": "leadforma",
+    "oldName": "Lead Management",
+    "name": "LeadForma",
+    "tokens": [
+      "leadmanagement"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/Lead.png",
+      "status": 200,
+      "src": "/images/projects/lead-management-preview-b0eed98d93.webp",
+      "width": 1600,
+      "height": 1333,
+      "bytes": 66652,
+      "originalBytes": 1514695,
+      "sha256": "b0eed98d93cb091e6dbd550ffad92d8d9b2416b94c6470f16d1e425bad4947f2"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\lead-management-preview-b0eed98d93.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\052.png",
+    "scale": 2.25
+  },
+  {
+    "id": "053",
+    "slug": "app-simply-recruited",
+    "newSlug": "app-simplyscouted",
+    "oldName": "Simply Recruited",
+    "name": "SimplyScouted",
+    "tokens": [
+      "simplyrecruited"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Simply_Recruited_App.png",
+      "status": 200,
+      "src": "/images/projects/app-simply-recruited-preview-e6932eb88f.webp",
+      "width": 1600,
+      "height": 1251,
+      "bytes": 256634,
+      "originalBytes": 2130326,
+      "sha256": "e6932eb88f62eded61287866292e920d3ff8ddb472efdf93b6681dd15bb89d1c"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-simply-recruited-preview-e6932eb88f.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\053.png",
+    "scale": 2.25
+  },
+  {
+    "id": "054",
+    "slug": "app-simply-recruited",
+    "newSlug": "app-simplyscouted",
+    "oldName": "Simply Recruited",
+    "name": "SimplyScouted",
+    "tokens": [
+      "simplyrecruited"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/simply.png",
+      "status": 200,
+      "src": "/images/projects/app-simply-recruited-5b8638586f.webp",
+      "width": 1600,
+      "height": 1440,
+      "bytes": 134232,
+      "originalBytes": 1673447,
+      "sha256": "5b8638586fdfd9063fd928647d382b42c3c40c9ff1836a134cd205b3aa5dab89"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-simply-recruited-5b8638586f.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\054.png",
+    "scale": 2.25
+  },
+  {
+    "id": "055",
+    "slug": "app-simply-recruited",
+    "newSlug": "app-simplyscouted",
+    "oldName": "Simply Recruited",
+    "name": "SimplyScouted",
+    "tokens": [
+      "simplyrecruited"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/simply-feature-4.png",
+      "status": 200,
+      "src": "/images/projects/app-simply-recruited-ea46e8ac73.webp",
+      "width": 710,
+      "height": 711,
+      "bytes": 53286,
+      "originalBytes": 284040,
+      "sha256": "ea46e8ac73af4c636627622f2bff57a47a01b25720626e3c1c7167a4ebd732ef"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-simply-recruited-ea46e8ac73.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\055.png",
+    "scale": 3
+  },
+  {
+    "id": "056",
+    "slug": "app-simply-recruited",
+    "newSlug": "app-simplyscouted",
+    "oldName": "Simply Recruited",
+    "name": "SimplyScouted",
+    "tokens": [
+      "simplyrecruited"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/sim-assets-1.png",
+      "status": 200,
+      "src": "/images/projects/app-simply-recruited-71ddc42ce8.webp",
+      "width": 375,
+      "height": 812,
+      "bytes": 23360,
+      "originalBytes": 163270,
+      "sha256": "71ddc42ce8b1b7ac34d0d9ed87bf4c183c1d07f006e6a36b56423b901e4787bb"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-simply-recruited-71ddc42ce8.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\056.png",
+    "scale": 3
+  },
+  {
+    "id": "057",
+    "slug": "app-simply-recruited",
+    "newSlug": "app-simplyscouted",
+    "oldName": "Simply Recruited",
+    "name": "SimplyScouted",
+    "tokens": [
+      "simplyrecruited"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/sim-assets-2.png",
+      "status": 200,
+      "src": "/images/projects/app-simply-recruited-4ef0fae5d6.webp",
+      "width": 375,
+      "height": 812,
+      "bytes": 39534,
+      "originalBytes": 258764,
+      "sha256": "4ef0fae5d68192dd96f99a884dd22ed040aa8e1ede3661917f8bc9b7e21bf508"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-simply-recruited-4ef0fae5d6.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\057.png",
+    "scale": 3
+  },
+  {
+    "id": "058",
+    "slug": "app-simply-recruited",
+    "newSlug": "app-simplyscouted",
+    "oldName": "Simply Recruited",
+    "name": "SimplyScouted",
+    "tokens": [
+      "simplyrecruited"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/sim-assets-4.png",
+      "status": 200,
+      "src": "/images/projects/app-simply-recruited-263448eb0d.webp",
+      "width": 375,
+      "height": 812,
+      "bytes": 36896,
+      "originalBytes": 301332,
+      "sha256": "263448eb0d465e66b6987422eac91738caef27c30a7cd9ccd567ab12d5672544"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-simply-recruited-263448eb0d.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\058.png",
+    "scale": 3
+  },
+  {
+    "id": "059",
+    "slug": "app-simply-recruited",
+    "newSlug": "app-simplyscouted",
+    "oldName": "Simply Recruited",
+    "name": "SimplyScouted",
+    "tokens": [
+      "simplyrecruited"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/sim-assets-4-1.png",
+      "status": 200,
+      "src": "/images/projects/app-simply-recruited-c531571019.webp",
+      "width": 375,
+      "height": 812,
+      "bytes": 37746,
+      "originalBytes": 290587,
+      "sha256": "c531571019495982f75f5b92d199411b04419832baf2a5077520a5051e753043"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-simply-recruited-c531571019.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\059.png",
+    "scale": 3
+  },
+  {
+    "id": "060",
+    "slug": "app-simply-recruited",
+    "newSlug": "app-simplyscouted",
+    "oldName": "Simply Recruited",
+    "name": "SimplyScouted",
+    "tokens": [
+      "simplyrecruited"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/sim-assets-5.png",
+      "status": 200,
+      "src": "/images/projects/app-simply-recruited-4ce2a17a76.webp",
+      "width": 375,
+      "height": 812,
+      "bytes": 44598,
+      "originalBytes": 260127,
+      "sha256": "4ce2a17a764886b46c7815dd903ee537111e35826f8e152e26b7ec554251c591"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-simply-recruited-4ce2a17a76.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\060.png",
+    "scale": 3
+  },
+  {
+    "id": "061",
+    "slug": "app-infinote",
+    "newSlug": "app-infiscribe",
+    "oldName": "Infinote",
+    "name": "InfiScribe",
+    "tokens": [
+      "infinote"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Infinote_App.png",
+      "status": 200,
+      "src": "/images/projects/app-infinote-preview-ac6036682a.webp",
+      "width": 1600,
+      "height": 1251,
+      "bytes": 223860,
+      "originalBytes": 1707460,
+      "sha256": "ac6036682a9a794fdf63482637842d07e3c6085cdda493d24f9bcf1671bc5974"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-preview-ac6036682a.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\061.png",
+    "scale": 2.25
+  },
+  {
+    "id": "062",
+    "slug": "app-infinote",
+    "newSlug": "app-infiscribe",
+    "oldName": "Infinote",
+    "name": "InfiScribe",
+    "tokens": [
+      "infinote"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Infinote-1.png",
+      "status": 200,
+      "src": "/images/projects/app-infinote-0d3f5f0fd9.webp",
+      "width": 1600,
+      "height": 1313,
+      "bytes": 100244,
+      "originalBytes": 687700,
+      "sha256": "0d3f5f0fd91bdfda057a42d2d5b3f556853431752de022ebd8d7e31fde96e535"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-0d3f5f0fd9.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\062.png",
+    "scale": 2.25
+  },
+  {
+    "id": "063",
+    "slug": "app-infinote",
+    "newSlug": "app-infiscribe",
+    "oldName": "Infinote",
+    "name": "InfiScribe",
+    "tokens": [
+      "infinote"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Infinote-2.png",
+      "status": 200,
+      "src": "/images/projects/app-infinote-6cb57b3f25.webp",
+      "width": 1076,
+      "height": 2180,
+      "bytes": 176548,
+      "originalBytes": 1083683,
+      "sha256": "6cb57b3f25ab58b918992099110739272d5f78bebe8f8b76cb7d5a56fad3ee97"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-6cb57b3f25.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\063.png",
+    "scale": 1.6514869888475836
+  },
+  {
+    "id": "064",
+    "slug": "app-infinote",
+    "newSlug": "app-infiscribe",
+    "oldName": "Infinote",
+    "name": "InfiScribe",
+    "tokens": [
+      "infinote"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Infinote-3.png",
+      "status": 200,
+      "src": "/images/projects/app-infinote-edeacb53b7.webp",
+      "width": 710,
+      "height": 711,
+      "bytes": 52462,
+      "originalBytes": 233342,
+      "sha256": "edeacb53b7f48b8b4d5b5762734a5b9d9eadacad7337ef3a79c7edc5e863cd48"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-edeacb53b7.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\064.png",
+    "scale": 3
+  },
+  {
+    "id": "065",
+    "slug": "app-infinote",
+    "newSlug": "app-infiscribe",
+    "oldName": "Infinote",
+    "name": "InfiScribe",
+    "tokens": [
+      "infinote"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/infinote-assets-1.png",
+      "status": 200,
+      "src": "/images/projects/app-infinote-c8b2fdc959.webp",
+      "width": 375,
+      "height": 812,
+      "bytes": 16568,
+      "originalBytes": 43938,
+      "sha256": "c8b2fdc9593a8d8262ca15e1ed58061e084830753fde2cc64cec32a244b5f0f9"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-c8b2fdc959.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\065.png",
+    "scale": 3
+  },
+  {
+    "id": "066",
+    "slug": "app-infinote",
+    "newSlug": "app-infiscribe",
+    "oldName": "Infinote",
+    "name": "InfiScribe",
+    "tokens": [
+      "infinote"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/infinote-assets-2.png",
+      "status": 200,
+      "src": "/images/projects/app-infinote-26ac09bee8.webp",
+      "width": 375,
+      "height": 812,
+      "bytes": 25612,
+      "originalBytes": 80794,
+      "sha256": "26ac09bee888a6df2d3b94f587907db339cf28f844cf148ba2edd05eb6839b72"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-26ac09bee8.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\066.png",
+    "scale": 3
+  },
+  {
+    "id": "067",
+    "slug": "app-infinote",
+    "newSlug": "app-infiscribe",
+    "oldName": "Infinote",
+    "name": "InfiScribe",
+    "tokens": [
+      "infinote"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/infinote-assets-3.png",
+      "status": 200,
+      "src": "/images/projects/app-infinote-6a375c93b1.webp",
+      "width": 375,
+      "height": 812,
+      "bytes": 23214,
+      "originalBytes": 72078,
+      "sha256": "6a375c93b15dbd6b55a38a43157c2db2e670bab36bf79b548fbab9c12b0e6db5"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-6a375c93b1.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\067.png",
+    "scale": 3
+  },
+  {
+    "id": "068",
+    "slug": "app-infinote",
+    "newSlug": "app-infiscribe",
+    "oldName": "Infinote",
+    "name": "InfiScribe",
+    "tokens": [
+      "infinote"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/infinote-assets-4.png",
+      "status": 200,
+      "src": "/images/projects/app-infinote-60ed3c2071.webp",
+      "width": 375,
+      "height": 812,
+      "bytes": 31312,
+      "originalBytes": 108161,
+      "sha256": "60ed3c207191bd7b2947385f07bb34fdde46dff2bab4b2869d8b169ba20c2295"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-60ed3c2071.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\068.png",
+    "scale": 3
+  },
+  {
+    "id": "069",
+    "slug": "app-infinote",
+    "newSlug": "app-infiscribe",
+    "oldName": "Infinote",
+    "name": "InfiScribe",
+    "tokens": [
+      "infinote"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/infinote-assets-5.png",
+      "status": 200,
+      "src": "/images/projects/app-infinote-596ad8eca9.webp",
+      "width": 375,
+      "height": 812,
+      "bytes": 50140,
+      "originalBytes": 249299,
+      "sha256": "596ad8eca97cb2d5563539b6b85e149795dec41c6fd21a8581a5a68fefc82b9b"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-596ad8eca9.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\069.png",
+    "scale": 3
+  },
+  {
+    "id": "070",
+    "slug": "app-silasync",
+    "newSlug": "app-silaflow",
+    "oldName": "Silasync",
+    "name": "SilaFlow",
+    "tokens": [
+      "silasync",
+      "silasyn"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Silasync_App.png",
+      "status": 200,
+      "src": "/images/projects/app-silasync-preview-8211eba95f.webp",
+      "width": 1600,
+      "height": 1251,
+      "bytes": 193106,
+      "originalBytes": 1520112,
+      "sha256": "8211eba95ff30b74990ce7593c67fdb90b1ec9ab445236a9824e2d5a8bad0a6d"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-silasync-preview-8211eba95f.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\070.png",
+    "scale": 2.25
+  },
+  {
+    "id": "071",
+    "slug": "app-silasync",
+    "newSlug": "app-silaflow",
+    "oldName": "Silasync",
+    "name": "SilaFlow",
+    "tokens": [
+      "silasync",
+      "silasyn"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Silasync-1.png",
+      "status": 200,
+      "src": "/images/projects/app-silasync-e9bd27cebe.webp",
+      "width": 1600,
+      "height": 1313,
+      "bytes": 141302,
+      "originalBytes": 1498659,
+      "sha256": "e9bd27cebe8d8703e82c2a5d52fc256ff125fd12250c475fb0c2b93fd98f50e6"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-silasync-e9bd27cebe.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\071.png",
+    "scale": 2.25
+  },
+  {
+    "id": "072",
+    "slug": "app-silasync",
+    "newSlug": "app-silaflow",
+    "oldName": "Silasync",
+    "name": "SilaFlow",
+    "tokens": [
+      "silasync",
+      "silasyn"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Silasync-2.png",
+      "status": 200,
+      "src": "/images/projects/app-silasync-547ebd681b.webp",
+      "width": 1076,
+      "height": 2180,
+      "bytes": 112956,
+      "originalBytes": 489652,
+      "sha256": "547ebd681b915610d5e390609c8b0ad63d6d474792ef38721cd8e6762e82a28c"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-silasync-547ebd681b.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\072.png",
+    "scale": 1.6514869888475836
+  },
+  {
+    "id": "073",
+    "slug": "app-silasync",
+    "newSlug": "app-silaflow",
+    "oldName": "Silasync",
+    "name": "SilaFlow",
+    "tokens": [
+      "silasync",
+      "silasyn"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Silasync-3.png",
+      "status": 200,
+      "src": "/images/projects/app-silasync-8de5654c8b.webp",
+      "width": 710,
+      "height": 711,
+      "bytes": 57064,
+      "originalBytes": 216692,
+      "sha256": "8de5654c8bc965596550a72ba7a46cb537b9e72f15d1933b27b9bb7017cdb407"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-silasync-8de5654c8b.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\073.png",
+    "scale": 3
+  },
+  {
+    "id": "074",
+    "slug": "app-silasync",
+    "newSlug": "app-silaflow",
+    "oldName": "Silasync",
+    "name": "SilaFlow",
+    "tokens": [
+      "silasync",
+      "silasyn"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Silasync-11.png",
+      "status": 200,
+      "src": "/images/projects/app-silasync-53b4f469dd.webp",
+      "width": 375,
+      "height": 813,
+      "bytes": 36580,
+      "originalBytes": 118074,
+      "sha256": "53b4f469dd42f571d27735aa737d5b89b90dd742c594cb81a228c3cb1ec95c68"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-silasync-53b4f469dd.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\074.png",
+    "scale": 3
+  },
+  {
+    "id": "075",
+    "slug": "app-silasync",
+    "newSlug": "app-silaflow",
+    "oldName": "Silasync",
+    "name": "SilaFlow",
+    "tokens": [
+      "silasync",
+      "silasyn"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Silasync-12.png",
+      "status": 200,
+      "src": "/images/projects/app-silasync-f56fdaf853.webp",
+      "width": 375,
+      "height": 813,
+      "bytes": 38780,
+      "originalBytes": 185981,
+      "sha256": "f56fdaf853401d04c4b0fe3cb934039cc8c193c144f111595664c570ded03be3"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-silasync-f56fdaf853.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\075.png",
+    "scale": 3
+  },
+  {
+    "id": "076",
+    "slug": "app-silasync",
+    "newSlug": "app-silaflow",
+    "oldName": "Silasync",
+    "name": "SilaFlow",
+    "tokens": [
+      "silasync",
+      "silasyn"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Silasync-13.png",
+      "status": 200,
+      "src": "/images/projects/app-silasync-1af8e03fd5.webp",
+      "width": 375,
+      "height": 813,
+      "bytes": 47738,
+      "originalBytes": 240802,
+      "sha256": "1af8e03fd532e448600d6313b274c230e3b350a6d71f931b4796565e06d0f901"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-silasync-1af8e03fd5.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\076.png",
+    "scale": 3
+  },
+  {
+    "id": "077",
+    "slug": "app-silasync",
+    "newSlug": "app-silaflow",
+    "oldName": "Silasync",
+    "name": "SilaFlow",
+    "tokens": [
+      "silasync",
+      "silasyn"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Silasync-15.png",
+      "status": 200,
+      "src": "/images/projects/app-silasync-ac714c35d5.webp",
+      "width": 375,
+      "height": 813,
+      "bytes": 45784,
+      "originalBytes": 151658,
+      "sha256": "ac714c35d5b172751249614ba81a8e7f6e1bf5b2de9c53a8c2e4de41b61efd8f"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-silasync-ac714c35d5.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\077.png",
+    "scale": 3
+  },
+  {
+    "id": "078",
+    "slug": "app-digital-habit-tracker",
+    "newSlug": "app-habitstride",
+    "oldName": "Digital Habit Tracker",
+    "name": "HabitStride",
+    "tokens": [
+      "digitalhabittracker"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Digital_Habit_Tracker_App.png",
+      "status": 200,
+      "src": "/images/projects/app-digital-habit-tracker-preview-97f6478474.webp",
+      "width": 1600,
+      "height": 1251,
+      "bytes": 212308,
+      "originalBytes": 1801374,
+      "sha256": "97f647847466c7068c5da5e1539a476052ceafdb3ffbefe86d424d7efc7538b8"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-digital-habit-tracker-preview-97f6478474.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\078.png",
+    "scale": 2.25
+  },
+  {
+    "id": "079",
+    "slug": "app-digital-habit-tracker",
+    "newSlug": "app-habitstride",
+    "oldName": "Digital Habit Tracker",
+    "name": "HabitStride",
+    "tokens": [
+      "digitalhabittracker"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/habit-1.png",
+      "status": 200,
+      "src": "/images/projects/app-digital-habit-tracker-6a5d166a01.webp",
+      "width": 1600,
+      "height": 1313,
+      "bytes": 100328,
+      "originalBytes": 1109546,
+      "sha256": "6a5d166a01ef9fb8ccd03cb67bd467dd0291044c26bf401989b30d2b28fa412c"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-digital-habit-tracker-6a5d166a01.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\079.png",
+    "scale": 2.25
+  },
+  {
+    "id": "080",
+    "slug": "app-digital-habit-tracker",
+    "newSlug": "app-habitstride",
+    "oldName": "Digital Habit Tracker",
+    "name": "HabitStride",
+    "tokens": [
+      "digitalhabittracker"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/habit-2.png",
+      "status": 200,
+      "src": "/images/projects/app-digital-habit-tracker-bcf93c80de.webp",
+      "width": 1076,
+      "height": 2180,
+      "bytes": 72452,
+      "originalBytes": 482912,
+      "sha256": "bcf93c80dedbc0b436e59ef2a5c2ec8e8ebe64efb1ca28f773210b63689c07b1"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-digital-habit-tracker-bcf93c80de.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\080.png",
+    "scale": 1.6514869888475836
+  },
+  {
+    "id": "081",
+    "slug": "app-digital-habit-tracker",
+    "newSlug": "app-habitstride",
+    "oldName": "Digital Habit Tracker",
+    "name": "HabitStride",
+    "tokens": [
+      "digitalhabittracker"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/habit-3.png",
+      "status": 200,
+      "src": "/images/projects/app-digital-habit-tracker-5779008eb0.webp",
+      "width": 710,
+      "height": 711,
+      "bytes": 41930,
+      "originalBytes": 191773,
+      "sha256": "5779008eb06540cd2228c8bca0626eaad8acfa32ae72647c7577afa0ca5bfc5b"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-digital-habit-tracker-5779008eb0.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\081.png",
+    "scale": 3
+  },
+  {
+    "id": "082",
+    "slug": "app-digital-habit-tracker",
+    "newSlug": "app-habitstride",
+    "oldName": "Digital Habit Tracker",
+    "name": "HabitStride",
+    "tokens": [
+      "digitalhabittracker"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Habit-11.png",
+      "status": 200,
+      "src": "/images/projects/app-digital-habit-tracker-f7a43fc117.webp",
+      "width": 376,
+      "height": 813,
+      "bytes": 23832,
+      "originalBytes": 76606,
+      "sha256": "f7a43fc117bf1cf3862c2eeb1a3ca44b227d54982cfe896ca701195cd1e07e91"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-digital-habit-tracker-f7a43fc117.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\082.png",
+    "scale": 3
+  },
+  {
+    "id": "083",
+    "slug": "app-digital-habit-tracker",
+    "newSlug": "app-habitstride",
+    "oldName": "Digital Habit Tracker",
+    "name": "HabitStride",
+    "tokens": [
+      "digitalhabittracker"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Habit-12.png",
+      "status": 200,
+      "src": "/images/projects/app-digital-habit-tracker-8871e3fed8.webp",
+      "width": 376,
+      "height": 813,
+      "bytes": 20404,
+      "originalBytes": 183471,
+      "sha256": "8871e3fed8e23e496f8a5a4b2864af6bcd3b0925c98be3bd2c786949c0921bf7"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-digital-habit-tracker-8871e3fed8.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\083.png",
+    "scale": 3
+  },
+  {
+    "id": "084",
+    "slug": "app-digital-habit-tracker",
+    "newSlug": "app-habitstride",
+    "oldName": "Digital Habit Tracker",
+    "name": "HabitStride",
+    "tokens": [
+      "digitalhabittracker"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Habit-13.png",
+      "status": 200,
+      "src": "/images/projects/app-digital-habit-tracker-7a54ee650b.webp",
+      "width": 376,
+      "height": 813,
+      "bytes": 23602,
+      "originalBytes": 65783,
+      "sha256": "7a54ee650b0cf98e4ab462d4b8ae2f1bd4a95514d3c160ca4a163eceb9b4a23e"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-digital-habit-tracker-7a54ee650b.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\084.png",
+    "scale": 3
+  },
+  {
+    "id": "085",
+    "slug": "app-digital-habit-tracker",
+    "newSlug": "app-habitstride",
+    "oldName": "Digital Habit Tracker",
+    "name": "HabitStride",
+    "tokens": [
+      "digitalhabittracker"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Habit-15.png",
+      "status": 200,
+      "src": "/images/projects/app-digital-habit-tracker-7570ab4ca6.webp",
+      "width": 376,
+      "height": 813,
+      "bytes": 26208,
+      "originalBytes": 95275,
+      "sha256": "7570ab4ca62bdd869b0f4569aa64170ae21846c89bfb5e3621447ad1005e261c"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-digital-habit-tracker-7570ab4ca6.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\085.png",
+    "scale": 3
+  },
+  {
+    "id": "086",
+    "slug": "app-one-pantry",
+    "newSlug": "app-pantryone",
+    "oldName": "One Pantry",
+    "name": "PantryOne",
+    "tokens": [
+      "onepantry"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/ONE_PANTRY_App.png",
+      "status": 200,
+      "src": "/images/projects/app-one-pantry-preview-5ce2d7bf2e.webp",
+      "width": 1600,
+      "height": 1199,
+      "bytes": 284666,
+      "originalBytes": 1758188,
+      "sha256": "5ce2d7bf2eb013ca776e9f3bf189d02064efd3059bb00e89b6cd72952d6adf36"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-one-pantry-preview-5ce2d7bf2e.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\086.png",
+    "scale": 2.25
+  },
+  {
+    "id": "087",
+    "slug": "app-one-pantry",
+    "newSlug": "app-pantryone",
+    "oldName": "One Pantry",
+    "name": "PantryOne",
+    "tokens": [
+      "onepantry"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/One-pantry-1.png",
+      "status": 200,
+      "src": "/images/projects/app-one-pantry-7a5eed8a80.webp",
+      "width": 1600,
+      "height": 1312,
+      "bytes": 102350,
+      "originalBytes": 935709,
+      "sha256": "7a5eed8a8029e8a85bf60c503465270ff5dee85d055e0474132c918a089ec871"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-one-pantry-7a5eed8a80.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\087.png",
+    "scale": 2.25
+  },
+  {
+    "id": "088",
+    "slug": "app-one-pantry",
+    "newSlug": "app-pantryone",
+    "oldName": "One Pantry",
+    "name": "PantryOne",
+    "tokens": [
+      "onepantry"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/One-pantry-2.png",
+      "status": 200,
+      "src": "/images/projects/app-one-pantry-992eb56989.webp",
+      "width": 331,
+      "height": 669,
+      "bytes": 12084,
+      "originalBytes": 144058,
+      "sha256": "992eb56989b21086ca33cc13cae00dcfbe2b4fe9fe7ee93c9799165445579753"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-one-pantry-992eb56989.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\088.png",
+    "scale": 3
+  },
+  {
+    "id": "089",
+    "slug": "app-one-pantry",
+    "newSlug": "app-pantryone",
+    "oldName": "One Pantry",
+    "name": "PantryOne",
+    "tokens": [
+      "onepantry"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/One-pantry-3.png",
+      "status": 200,
+      "src": "/images/projects/app-one-pantry-43e3132e45.webp",
+      "width": 711,
+      "height": 711,
+      "bytes": 44478,
+      "originalBytes": 178292,
+      "sha256": "43e3132e45ab1a5bb7fd2e12af89627fda2eb155e958b010dbb92d3168edb0f7"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-one-pantry-43e3132e45.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\089.png",
+    "scale": 3
+  },
+  {
+    "id": "090",
+    "slug": "app-one-pantry",
+    "newSlug": "app-pantryone",
+    "oldName": "One Pantry",
+    "name": "PantryOne",
+    "tokens": [
+      "onepantry"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/One-pantry-11.png",
+      "status": 200,
+      "src": "/images/projects/app-one-pantry-f66e9a3356.webp",
+      "width": 376,
+      "height": 813,
+      "bytes": 21604,
+      "originalBytes": 209483,
+      "sha256": "f66e9a335639516df320246afea22f39c78fb67dc83540042dd22b30c836bafe"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-one-pantry-f66e9a3356.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\090.png",
+    "scale": 3
+  },
+  {
+    "id": "091",
+    "slug": "app-one-pantry",
+    "newSlug": "app-pantryone",
+    "oldName": "One Pantry",
+    "name": "PantryOne",
+    "tokens": [
+      "onepantry"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/One-pantry-12.png",
+      "status": 200,
+      "src": "/images/projects/app-one-pantry-32ebcb4332.webp",
+      "width": 376,
+      "height": 813,
+      "bytes": 34332,
+      "originalBytes": 122686,
+      "sha256": "32ebcb4332d59684cccd0362c38b92c964590537c535c2aa5fecf963906ff3b2"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-one-pantry-32ebcb4332.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\091.png",
+    "scale": 3
+  },
+  {
+    "id": "092",
+    "slug": "app-one-pantry",
+    "newSlug": "app-pantryone",
+    "oldName": "One Pantry",
+    "name": "PantryOne",
+    "tokens": [
+      "onepantry"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/One-pantry-13.png",
+      "status": 200,
+      "src": "/images/projects/app-one-pantry-c2ed8acc39.webp",
+      "width": 376,
+      "height": 813,
+      "bytes": 40606,
+      "originalBytes": 172827,
+      "sha256": "c2ed8acc39812ffc35acaef326637ab2b5b30aaf226304383c81cee4bb4ffb74"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-one-pantry-c2ed8acc39.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\092.png",
+    "scale": 3
+  },
+  {
+    "id": "093",
+    "slug": "app-one-pantry",
+    "newSlug": "app-pantryone",
+    "oldName": "One Pantry",
+    "name": "PantryOne",
+    "tokens": [
+      "onepantry"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/One-pantry-15.png",
+      "status": 200,
+      "src": "/images/projects/app-one-pantry-094375d3ba.webp",
+      "width": 376,
+      "height": 813,
+      "bytes": 28980,
+      "originalBytes": 94262,
+      "sha256": "094375d3ba9d1f2286f6998a71980e2c6329880b7a0f876f634fcdbd3fd9afb3"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-one-pantry-094375d3ba.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\093.png",
+    "scale": 3
+  },
+  {
+    "id": "094",
+    "slug": "app-street-sheets",
+    "newSlug": "app-streetslate",
+    "oldName": "Street Sheets",
+    "name": "StreetSlate",
+    "tokens": [
+      "streetsheets"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/streetsheets.png",
+      "status": 200,
+      "src": "/images/projects/app-street-sheets-preview-f7cda29ff5.webp",
+      "width": 1499,
+      "height": 1250,
+      "bytes": 121494,
+      "originalBytes": 261401,
+      "sha256": "f7cda29ff53027be790b41afe8265e58f51912578cbb4309fd6d3120fa587a02"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-street-sheets-preview-f7cda29ff5.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\094.png",
+    "scale": 2.401601067378252
+  },
+  {
+    "id": "095",
+    "slug": "app-street-sheets",
+    "newSlug": "app-streetslate",
+    "oldName": "Street Sheets",
+    "name": "StreetSlate",
+    "tokens": [
+      "streetsheets"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/sheets.png",
+      "status": 200,
+      "src": "/images/projects/app-street-sheets-4c66c599c7.webp",
+      "width": 842,
+      "height": 1611,
+      "bytes": 22626,
+      "originalBytes": 149670,
+      "sha256": "4c66c599c7619859f8a90c5086177ae049e0f666583f74b2da571c1b1838b25c"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-street-sheets-4c66c599c7.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\095.png",
+    "scale": 2.2351543942992875
+  },
+  {
+    "id": "096",
+    "slug": "app-street-sheets",
+    "newSlug": "app-streetslate",
+    "oldName": "Street Sheets",
+    "name": "StreetSlate",
+    "tokens": [
+      "streetsheets"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/s-sheets-1.png",
+      "status": 200,
+      "src": "/images/projects/app-street-sheets-86476da8a6.webp",
+      "width": 331,
+      "height": 669,
+      "bytes": 10890,
+      "originalBytes": 46492,
+      "sha256": "86476da8a67f10e7ccbaafbd21d0e62fe23fe2689779aa4f1fa2474664f008bf"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-street-sheets-86476da8a6.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\096.png",
+    "scale": 3
+  },
+  {
+    "id": "097",
+    "slug": "app-street-sheets",
+    "newSlug": "app-streetslate",
+    "oldName": "Street Sheets",
+    "name": "StreetSlate",
+    "tokens": [
+      "streetsheets"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/s-sheets-2.png",
+      "status": 200,
+      "src": "/images/projects/app-street-sheets-5f778a2604.webp",
+      "width": 331,
+      "height": 669,
+      "bytes": 24178,
+      "originalBytes": 100513,
+      "sha256": "5f778a26044f1ba5469ccc9a077ec4414d5a5fa3d33b5942bc9a3b09b65f11fc"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-street-sheets-5f778a2604.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\097.png",
+    "scale": 3
+  },
+  {
+    "id": "098",
+    "slug": "app-street-sheets",
+    "newSlug": "app-streetslate",
+    "oldName": "Street Sheets",
+    "name": "StreetSlate",
+    "tokens": [
+      "streetsheets"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/s-sheets-3.png",
+      "status": 200,
+      "src": "/images/projects/app-street-sheets-7f5272d273.webp",
+      "width": 331,
+      "height": 669,
+      "bytes": 14454,
+      "originalBytes": 81310,
+      "sha256": "7f5272d27340585d957888d6bdb24c81cee811b04bdecd7e1563027c2b6f199f"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-street-sheets-7f5272d273.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\098.png",
+    "scale": 3
+  },
+  {
+    "id": "099",
+    "slug": "app-street-sheets",
+    "newSlug": "app-streetslate",
+    "oldName": "Street Sheets",
+    "name": "StreetSlate",
+    "tokens": [
+      "streetsheets"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/s-sheets-4.png",
+      "status": 200,
+      "src": "/images/projects/app-street-sheets-14a543d4d3.webp",
+      "width": 331,
+      "height": 669,
+      "bytes": 23108,
+      "originalBytes": 99281,
+      "sha256": "14a543d4d3e55bd7617346552dcb202f1e073014db2b71d3f221eb10f161e5a0"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-street-sheets-14a543d4d3.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\099.png",
+    "scale": 3
+  },
+  {
+    "id": "100",
+    "slug": "app-street-sheets",
+    "newSlug": "app-streetslate",
+    "oldName": "Street Sheets",
+    "name": "StreetSlate",
+    "tokens": [
+      "streetsheets"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/s-sheets-5.png",
+      "status": 200,
+      "src": "/images/projects/app-street-sheets-d5ea9d23ee.webp",
+      "width": 331,
+      "height": 669,
+      "bytes": 25792,
+      "originalBytes": 128717,
+      "sha256": "d5ea9d23ee7129db0665629775211f9699517dae0ed29bc397c0e6166d01f1ff"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-street-sheets-d5ea9d23ee.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\100.png",
+    "scale": 3
+  },
+  {
+    "id": "101",
+    "slug": "br-tennis",
+    "newSlug": "rallybridge",
+    "oldName": "BR-tennis",
+    "name": "RallyBridge",
+    "tokens": [
+      "brtennis"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/BR-tennis.png",
+      "status": 200,
+      "src": "/images/projects/br-tennis-preview-82e34bc83e.webp",
+      "width": 1456,
+      "height": 1232,
+      "bytes": 79842,
+      "originalBytes": 209866,
+      "sha256": "82e34bc83eca2992bb789a15b6b8a9a8113b893c116b953bc80cf5066d113e65"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\br-tennis-preview-82e34bc83e.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\101.png",
+    "scale": 2.4725274725274726
+  },
+  {
+    "id": "102",
+    "slug": "br-tennis",
+    "newSlug": "rallybridge",
+    "oldName": "BR-tennis",
+    "name": "RallyBridge",
+    "tokens": [
+      "brtennis"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/BR-tennis-main.png",
+      "status": 200,
+      "src": "/images/projects/br-tennis-0d17f1323a.webp",
+      "width": 1600,
+      "height": 1326,
+      "bytes": 76014,
+      "originalBytes": 1212829,
+      "sha256": "0d17f1323a2df121612df0be6e0d2dd8e62fd50bd439571ff6aa9bed3b187b30"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\br-tennis-0d17f1323a.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\102.png",
+    "scale": 2.25
+  },
+  {
+    "id": "103",
+    "slug": "br-tennis",
+    "newSlug": "rallybridge",
+    "oldName": "BR-tennis",
+    "name": "RallyBridge",
+    "tokens": [
+      "brtennis"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/BR-tennis-2nd.png",
+      "status": 200,
+      "src": "/images/projects/br-tennis-f20b896728.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 75720,
+      "originalBytes": 725206,
+      "sha256": "f20b89672865b197172dc4c7991ab60e5660ba8f8d8f9a6a88f398672cff4b0a"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\br-tennis-f20b896728.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\103.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "104",
+    "slug": "br-tennis",
+    "newSlug": "rallybridge",
+    "oldName": "BR-tennis",
+    "name": "RallyBridge",
+    "tokens": [
+      "brtennis"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/BR-tennis-3rd.png",
+      "status": 200,
+      "src": "/images/projects/br-tennis-e5ac015f41.webp",
+      "width": 999,
+      "height": 1274,
+      "bytes": 152248,
+      "originalBytes": 437934,
+      "sha256": "e5ac015f411593b5f11281ba83d69735c1396327f8d51b228807e5b8646075bf"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\br-tennis-e5ac015f41.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\104.png",
+    "scale": 2.825825825825826
+  },
+  {
+    "id": "105",
+    "slug": "br-tennis",
+    "newSlug": "rallybridge",
+    "oldName": "BR-tennis",
+    "name": "RallyBridge",
+    "tokens": [
+      "brtennis"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/BR-tennis-web-1.png",
+      "status": 200,
+      "src": "/images/projects/br-tennis-e31c7dc479.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 192218,
+      "originalBytes": 610267,
+      "sha256": "e31c7dc479e50e3f6667bd4538128a7bc08645464cb7ea31e7a705f32b3b12ce"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\br-tennis-e31c7dc479.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\105.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "106",
+    "slug": "br-tennis",
+    "newSlug": "rallybridge",
+    "oldName": "BR-tennis",
+    "name": "RallyBridge",
+    "tokens": [
+      "brtennis"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/BR-tennis-web-2.png",
+      "status": 200,
+      "src": "/images/projects/br-tennis-b97325f676.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 76762,
+      "originalBytes": 703955,
+      "sha256": "b97325f67600c26879a9bf539a2ac84d0d0fbec628c5ef5f74223f61505fc215"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\br-tennis-b97325f676.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\106.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "107",
+    "slug": "br-tennis",
+    "newSlug": "rallybridge",
+    "oldName": "BR-tennis",
+    "name": "RallyBridge",
+    "tokens": [
+      "brtennis"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/BR-tennis-web-3.png",
+      "status": 200,
+      "src": "/images/projects/br-tennis-3591b7b054.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 122760,
+      "originalBytes": 939670,
+      "sha256": "3591b7b0542ab45abf62266e86ac9b63c9ddfd2b76f283b11db8c65bab2f261e"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\br-tennis-3591b7b054.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\107.png",
+    "scale": 1.6365461847389557
+  },
+  {
+    "id": "108",
+    "slug": "br-tennis",
+    "newSlug": "rallybridge",
+    "oldName": "BR-tennis",
+    "name": "RallyBridge",
+    "tokens": [
+      "brtennis"
+    ],
+    "asset": {
+      "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/BR-tennis-web-5.png",
+      "status": 200,
+      "src": "/images/projects/br-tennis-287a4c5595.webp",
+      "width": 1494,
+      "height": 2200,
+      "bytes": 74738,
+      "originalBytes": 726564,
+      "sha256": "287a4c5595bed760bc41b0c807049acd3a38a01d0d98edb0de51eceb69462399"
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\br-tennis-287a4c5595.webp",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-input\\108.png",
+    "scale": 1.6365461847389557
+  }
+]

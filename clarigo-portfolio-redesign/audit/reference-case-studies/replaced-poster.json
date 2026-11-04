@@ -1,0 +1,24 @@
+{
+  "slug": "umeed",
+  "previous": {
+    "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/umeed.png",
+    "status": 200,
+    "src": "/images/projects/umeed-preview-71b53ccd4d.webp",
+    "width": 1501,
+    "height": 1232,
+    "bytes": 121126,
+    "originalBytes": 162633,
+    "sha256": "71b53ccd4d5b3cf52121c9d58a7585057e5088a6f1d63723b60ede6f1ea384ae"
+  },
+  "replacement": {
+    "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/umeed-main.png",
+    "status": 200,
+    "src": "/images/projects/umeed-1cd14b2de8.webp",
+    "width": 1600,
+    "height": 1325,
+    "bytes": 81766,
+    "originalBytes": 588530,
+    "sha256": "1cd14b2de82169265258ccf674f0bc1477ce66fd25646769846b6609404aeba1"
+  },
+  "reason": "Previous archive poster contains UMANG branding; replacement is the source Umeed-branded website composition."
+}

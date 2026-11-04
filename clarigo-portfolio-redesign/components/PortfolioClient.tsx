@@ -1,24 +1,19 @@
 'use client';
 
-import dynamic from 'next/dynamic';
-import Link from 'next/link';
+import Link from './PortfolioLink';
 import { useMemo, useState } from 'react';
-import { motion, useReducedMotion } from 'framer-motion';
 import { ArrowDown, ArrowRight, ArrowUpRight, Search } from 'lucide-react';
 import type { Project } from '../lib/projects';
 import ProjectVisual from './ProjectVisual';
-
-const PortfolioScene = dynamic(() => import('./PortfolioScene'), {
-  ssr: false,
-  loading: () => <div className="sceneFallback" aria-hidden="true" />,
-});
+import MotionDepth from './MotionDepth';
+import RevealWords from './RevealWords';
+import HeroAmbient from './HeroAmbient';
 
 const filters = ['All projects', 'Web & web apps', 'Mobile apps'] as const;
 
 export type PortfolioCard = Pick<Project, 'slug' | 'name' | 'archiveName' | 'category' | 'kind' | 'image' | 'accent' | 'summary' | 'discipline'>;
 
 export default function PortfolioClient({ projects }: { projects: PortfolioCard[] }) {
-  const reducedMotion = useReducedMotion();
   const webProjects = projects.filter((project) => project.kind === 'web');
   const mobileProjects = projects.filter((project) => project.kind === 'mobile');
   const [category, setCategory] = useState<(typeof filters)[number]>('All projects');
@@ -35,22 +30,22 @@ export default function PortfolioClient({ projects }: { projects: PortfolioCard[
     <>
       <section className="heroSection">
         <div className="heroGlow" aria-hidden="true" />
+        <HeroAmbient />
         <div className="heroInner shell">
           <div className="heroCopy">
             <div className="eyebrow"><span className="statusDot" /> AI-FIRST ENGINEERING · 10+ YEARS OF DELIVERY</div>
-            <h1>Built for what&apos;s <span>next.</span></h1>
+            <h1 aria-label="Built for what's next."><RevealWords text="Built for what's" /> <span><RevealWords text="next." start={3} /></span></h1>
             <p>Explore selected web and mobile projects from Clarigo&apos;s public portfolio.</p>
             <div className="heroActions">
               <a className="buttonPrimary" href="#portfolio">Explore selected work <ArrowDown size={17} /></a>
               <a className="buttonSecondary" href="https://clarigoinfotech.com/contact">Let&apos;s build together <ArrowUpRight size={17} /></a>
             </div>
             <div className="inventory" aria-label="Portfolio inventory">
-              <div><strong>{webProjects.length}</strong><span>Web projects</span></div>
-              <div><strong>{mobileProjects.length}</strong><span>Mobile projects</span></div>
-              <div><strong>20+</strong><span>Countries served</span></div>
+              <div><strong><span className="heroCount" data-count-to={webProjects.length}>{webProjects.length}</span></strong><span>Web projects</span></div>
+              <div><strong><span className="heroCount" data-count-to={mobileProjects.length}>{mobileProjects.length}</span></strong><span>Mobile projects</span></div>
+              <div><strong><span className="heroCount" data-count-to={20}>20</span>+</strong><span>Countries served</span></div>
             </div>
           </div>
-          <div className="heroScene" aria-hidden="true"><PortfolioScene /></div>
           <div className="heroScroll"><span /> SCROLL TO EXPLORE</div>
         </div>
       </section>
@@ -100,17 +95,14 @@ export default function PortfolioClient({ projects }: { projects: PortfolioCard[
         {visible.length ? (
           <div className="projectGrid">
             {visible.map((project, index) => (
-              <motion.article
+              <article
                 key={project.slug}
                 className="projectCard"
-                initial={false}
-                transition={{ duration: .22, ease: [.22, 1, .36, 1] }}
-                whileHover={reducedMotion ? undefined : { y: -3 }}
               >
-                <Link href={`/portfolio/${project.slug}`} className="projectLink" prefetch={false}>
+                <MotionDepth className="projectEntrance" tilt={0} lift={0}>
+                <Link href={`/portfolio/${project.slug}`} className="projectLink">
                   <div className="projectArt">
                     <ProjectVisual project={project} />
-                    <span className="projectOpen" aria-hidden="true"><ArrowUpRight size={20} /></span>
                     <span className="projectIndex">{String(index + 1).padStart(2, '0')}</span>
                   </div>
                   <div className="projectInfo">
@@ -123,7 +115,8 @@ export default function PortfolioClient({ projects }: { projects: PortfolioCard[
                   </div>
                   <p className="projectSummary">{project.summary}</p>
                 </Link>
-              </motion.article>
+                </MotionDepth>
+              </article>
             ))}
           </div>
         ) : (

@@ -1,0 +1,56 @@
+﻿{
+    "projects":  47,
+    "web":  19,
+    "mobile":  28,
+    "checkpoint":  "audit/motion/source-before.zip",
+    "unchangedSourceFiles":  [
+                                 {
+                                     "file":  "lib/asset-exclusions.json",
+                                     "unchanged":  true
+                                 },
+                                 {
+                                     "file":  "lib/project-assets.json",
+                                     "unchanged":  true
+                                 },
+                                 {
+                                     "file":  "lib/project-content.ts",
+                                     "unchanged":  true
+                                 },
+                                 {
+                                     "file":  "lib/project-inventory.json",
+                                     "unchanged":  true
+                                 },
+                                 {
+                                     "file":  "lib/project-stories-mobile.ts",
+                                     "unchanged":  true
+                                 },
+                                 {
+                                     "file":  "lib/project-stories-web.ts",
+                                     "unchanged":  true
+                                 },
+                                 {
+                                     "file":  "lib/project-story.ts",
+                                     "unchanged":  true
+                                 },
+                                 {
+                                     "file":  "lib/projects.ts",
+                                     "unchanged":  true
+                                 },
+                                 {
+                                     "file":  "package.json",
+                                     "unchanged":  true
+                                 },
+                                 {
+                                     "file":  "package-lock.json",
+                                     "unchanged":  true
+                                 },
+                                 {
+                                     "file":  "next.config.ts",
+                                     "unchanged":  true
+                                 }
+                             ],
+    "selectedArtworkHashesVerified":  316,
+    "errors":  [
+
+               ]
+}

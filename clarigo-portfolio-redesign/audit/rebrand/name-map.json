@@ -1,0 +1,15 @@
+[
+ {"oldName":"StreamDataX","name":"StreamDexa","oldSlugs":["streamdatax"],"slugs":["streamdexa"],"tokens":["streamdatax","streamdata"]},
+ {"oldName":"TukeeConnect","name":"TukioConnect","oldSlugs":["tukeeconnect","app-tukeeconnect"],"slugs":["tukioconnect","app-tukioconnect"],"tokens":["tukeeconnect","tukee","tukec"]},
+ {"oldName":"Parachute","name":"ParaNest","oldSlugs":["parachute"],"slugs":["paranest"],"tokens":["parachute"]},
+ {"oldName":"Whizara","name":"Whizora","oldSlugs":["whizara"],"slugs":["whizora"],"tokens":["whizara"]},
+ {"oldName":"Es-Platform","name":"EStrata","oldSlugs":["es-platform"],"slugs":["estrata"],"tokens":["esplatform"]},
+ {"oldName":"Lead Management","name":"LeadForma","oldSlugs":["lead-management"],"slugs":["leadforma"],"tokens":["leadmanagement"]},
+ {"oldName":"Simply Recruited","name":"SimplyScouted","oldSlugs":["app-simply-recruited"],"slugs":["app-simplyscouted"],"tokens":["simplyrecruited"]},
+ {"oldName":"Infinote","name":"InfiScribe","oldSlugs":["app-infinote"],"slugs":["app-infiscribe"],"tokens":["infinote"]},
+ {"oldName":"Silasync","name":"SilaFlow","oldSlugs":["app-silasync"],"slugs":["app-silaflow"],"tokens":["silasync","silasyn"]},
+ {"oldName":"Digital Habit Tracker","name":"HabitStride","oldSlugs":["app-digital-habit-tracker"],"slugs":["app-habitstride"],"tokens":["digitalhabittracker"]},
+ {"oldName":"One Pantry","name":"PantryOne","oldSlugs":["app-one-pantry"],"slugs":["app-pantryone"],"tokens":["onepantry"]},
+ {"oldName":"Street Sheets","name":"StreetSlate","oldSlugs":["app-street-sheets"],"slugs":["app-streetslate"],"tokens":["streetsheets"]},
+ {"oldName":"BR-tennis","name":"RallyBridge","oldSlugs":["br-tennis"],"slugs":["rallybridge"],"tokens":["brtennis"]}
+]

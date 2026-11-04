@@ -1,0 +1,3861 @@
+{
+  "inventory": [
+    {
+      "name": "LivSocial",
+      "image": "LivSocial.png",
+      "page": "livSocial-web.html",
+      "kind": "web",
+      "slug": "livsocial"
+    },
+    {
+      "name": "StreamDataX",
+      "image": "StreamDataX.png",
+      "page": "StreamDataX-web.html",
+      "kind": "web",
+      "slug": "streamdatax"
+    },
+    {
+      "name": "Little Butterflies",
+      "image": "Little-Butterflies-Poster.png",
+      "page": "Little-Butterflies-n.html",
+      "kind": "web",
+      "slug": "little-butterflies"
+    },
+    {
+      "name": "TukeeConnect",
+      "image": "TukeeConnect.png",
+      "page": "TukeeConnect-web.html",
+      "kind": "web",
+      "slug": "tukeeconnect"
+    },
+    {
+      "name": "Beliri",
+      "image": "Beliri.png",
+      "page": "Beliri-web-n.html",
+      "kind": "web",
+      "slug": "beliri"
+    },
+    {
+      "name": "Printlific",
+      "image": "Printlific.png",
+      "page": "Printlific.html",
+      "kind": "web",
+      "slug": "printlific"
+    },
+    {
+      "name": "Nerdrabbit",
+      "image": "nerdrabbit.png",
+      "page": "Nerdrabbit-web-n.html",
+      "kind": "web",
+      "slug": "nerdrabbit"
+    },
+    {
+      "name": "Parachute",
+      "image": "parachute.png",
+      "page": "parachute-web-n.html",
+      "kind": "web",
+      "slug": "parachute"
+    },
+    {
+      "name": "Glocal Expert",
+      "image": "global.png",
+      "page": "glocal-expert-web.html",
+      "kind": "web",
+      "slug": "glocal-expert"
+    },
+    {
+      "name": "Mercury Mailroom",
+      "image": "mercury.jpg",
+      "page": "mercury-web.html",
+      "kind": "web",
+      "slug": "mercury-mailroom"
+    },
+    {
+      "name": "Umeed",
+      "image": "umeed.png",
+      "page": "ummed-web-n.html",
+      "kind": "web",
+      "slug": "umeed"
+    },
+    {
+      "name": "Alum-connect",
+      "image": "Alum-connect.png",
+      "page": "alum-connect-web.html",
+      "kind": "web",
+      "slug": "alum-connect"
+    },
+    {
+      "name": "Kegelklock",
+      "image": "Kegelklock.png",
+      "page": "kegelklock-web.html",
+      "kind": "web",
+      "slug": "kegelklock"
+    },
+    {
+      "name": "BR-tennis",
+      "image": "BR-tennis.png",
+      "page": "BR-tennis-web-n.html",
+      "kind": "web",
+      "slug": "br-tennis"
+    },
+    {
+      "name": "Network Capital",
+      "image": "network-capital.jpg",
+      "page": "network-capital-web.html",
+      "kind": "web",
+      "slug": "network-capital"
+    },
+    {
+      "name": "Whizara",
+      "image": "whizara.png",
+      "page": "whizara-n.html",
+      "kind": "web",
+      "slug": "whizara"
+    },
+    {
+      "name": "Es-Platform",
+      "image": "es-platform.png",
+      "page": "es-platform-n.html",
+      "kind": "web",
+      "slug": "es-platform"
+    },
+    {
+      "name": "Been There",
+      "image": "Been_there.png",
+      "page": "been-there-n.html",
+      "kind": "web",
+      "slug": "been-there"
+    },
+    {
+      "name": "Lead Management",
+      "image": "Lead.png",
+      "page": "Lead-Management.html",
+      "kind": "web",
+      "slug": "lead-management"
+    },
+    {
+      "name": "LivSocial",
+      "image": "LivSocial-app.png",
+      "page": "livsocial.html",
+      "kind": "mobile",
+      "slug": "app-livsocial"
+    },
+    {
+      "name": "Simply Recruited",
+      "image": "Simply_Recruited_App.png",
+      "page": "SimplyRecruited.html",
+      "kind": "mobile",
+      "slug": "app-simply-recruited"
+    },
+    {
+      "name": "Infinote",
+      "image": "Infinote_App.png",
+      "page": "infinote.html",
+      "kind": "mobile",
+      "slug": "app-infinote"
+    },
+    {
+      "name": "Silasync",
+      "image": "Silasync_App.png",
+      "page": "Silasync.html",
+      "kind": "mobile",
+      "slug": "app-silasync"
+    },
+    {
+      "name": "Digital Habit Tracker",
+      "image": "Digital_Habit_Tracker_App.png",
+      "page": "digital-habit-tracker.html",
+      "kind": "mobile",
+      "slug": "app-digital-habit-tracker"
+    },
+    {
+      "name": "TukeeConnect",
+      "image": "TukeeConnect_App.png",
+      "page": "TukeeConnect.html",
+      "kind": "mobile",
+      "slug": "app-tukeeconnect"
+    },
+    {
+      "name": "Pace of Play",
+      "image": "Pace_of_Play_App.png",
+      "page": "pop.html",
+      "kind": "mobile",
+      "slug": "app-pace-of-play"
+    },
+    {
+      "name": "Qcop App",
+      "image": "Qcop_App.png",
+      "page": "qcop.html",
+      "kind": "mobile",
+      "slug": "app-qcop-app"
+    },
+    {
+      "name": "Little Butterflies",
+      "image": "Little_Butterflies_App.png",
+      "page": "Little-Butterflies.html",
+      "kind": "mobile",
+      "slug": "app-little-butterflies"
+    },
+    {
+      "name": "Case Management ASE",
+      "image": "Case_Managment_ASE_App.png",
+      "page": "Case-Management.html",
+      "kind": "mobile",
+      "slug": "app-case-management-ase"
+    },
+    {
+      "name": "Printlific",
+      "image": "Printlific_App.png",
+      "page": "Printlific.html",
+      "kind": "mobile",
+      "slug": "app-printlific"
+    },
+    {
+      "name": "Law Legend",
+      "image": "Law_Legend_App.png",
+      "page": "law-Legends.html",
+      "kind": "mobile",
+      "slug": "app-law-legend"
+    },
+    {
+      "name": "Racepace",
+      "image": "Racepace_App.png",
+      "page": "racepace-app.html",
+      "kind": "mobile",
+      "slug": "app-racepace"
+    },
+    {
+      "name": "Been There",
+      "image": "Been_There_App.png",
+      "page": "Been-There.html",
+      "kind": "mobile",
+      "slug": "app-been-there"
+    },
+    {
+      "name": "One Pantry",
+      "image": "ONE_PANTRY_App.png",
+      "page": "one-pantry.html",
+      "kind": "mobile",
+      "slug": "app-one-pantry"
+    },
+    {
+      "name": "EscapeTheHOA",
+      "image": "EscapeTheHOA_App.png",
+      "page": "Escape.html",
+      "kind": "mobile",
+      "slug": "app-escapethehoa"
+    },
+    {
+      "name": "Dateflow",
+      "image": "Dateflow_App.png",
+      "page": "dateflow-n.html",
+      "kind": "mobile",
+      "slug": "app-dateflow"
+    },
+    {
+      "name": "Meravyaah",
+      "image": "meravyaah_App.png",
+      "page": "meravyaah.html",
+      "kind": "mobile",
+      "slug": "app-meravyaah"
+    },
+    {
+      "name": "Beliri",
+      "image": "Belleri.png",
+      "page": "beliri-n.html",
+      "kind": "mobile",
+      "slug": "app-beliri"
+    },
+    {
+      "name": "Fynmate",
+      "image": "Fynmate.png",
+      "page": "fynmate-app.html",
+      "kind": "mobile",
+      "slug": "app-fynmate"
+    },
+    {
+      "name": "Street Sheets",
+      "image": "streetsheets.png",
+      "page": "street-sheets-app-1.html",
+      "kind": "mobile",
+      "slug": "app-street-sheets"
+    },
+    {
+      "name": "Ummed",
+      "image": "ummid.png",
+      "page": "umeed-n.html",
+      "kind": "mobile",
+      "slug": "app-ummed"
+    },
+    {
+      "name": "Bubble",
+      "image": "Bubble.png",
+      "page": "bubble-n.html",
+      "kind": "mobile",
+      "slug": "app-bubble"
+    },
+    {
+      "name": "Kegalklock",
+      "image": "kegalklock.png",
+      "page": "kegalklock-app.html",
+      "kind": "mobile",
+      "slug": "app-kegalklock"
+    },
+    {
+      "name": "Gymbet",
+      "image": "Gymbet.png",
+      "page": "gymbet-app.html",
+      "kind": "mobile",
+      "slug": "app-gymbet"
+    },
+    {
+      "name": "GoBroker",
+      "image": "GoBroker-app.png",
+      "page": "GoBroker-app.html",
+      "kind": "mobile",
+      "slug": "app-gobroker"
+    },
+    {
+      "name": "Heartsync",
+      "image": "heartsync.png",
+      "page": "heartsync.html",
+      "kind": "mobile",
+      "slug": "app-heartsync"
+    },
+    {
+      "name": "Supplement Management",
+      "image": "suppliment.png",
+      "page": null,
+      "kind": "mobile",
+      "slug": "app-supplement-management"
+    }
+  ],
+  "assets": {
+    "livsocial": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/LivSocial.png",
+        "status": 200,
+        "src": "/images/projects/livsocial-preview-3f919d0b24.webp",
+        "width": 1600,
+        "height": 1334,
+        "bytes": 119446,
+        "originalBytes": 3013321,
+        "sha256": "3f919d0b242b45a5209b5cacca18517b8d358766959a1805c83a4b3155d795d0"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/liv-main.png",
+          "status": 200,
+          "src": "/images/projects/livsocial-fdfbbb1686.webp",
+          "width": 1600,
+          "height": 1326,
+          "bytes": 140976,
+          "originalBytes": 785619,
+          "sha256": "fdfbbb16861b5ec9666f22f53a711683db19676881c5535bf6af46cf0f479d0d"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/livsocial-1.png",
+          "status": 200,
+          "src": "/images/projects/livsocial-4c70c73e27.webp",
+          "width": 999,
+          "height": 1274,
+          "bytes": 216518,
+          "originalBytes": 247728,
+          "sha256": "4c70c73e27485d977fda52ea1d10297005d323f54f5f0f725e0628499227e04d"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/liv-web-1.png",
+          "status": 200,
+          "src": "/images/projects/livsocial-6ea93b709a.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 359576,
+          "originalBytes": 784959,
+          "sha256": "6ea93b709a0e14aa16dfce06e10c4ff8d72cb9471684d7084f0c3c85f22af1b6"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/liv-web-2.png",
+          "status": 200,
+          "src": "/images/projects/livsocial-0a0431c56c.webp",
+          "width": 1493,
+          "height": 2200,
+          "bytes": 170452,
+          "originalBytes": 318710,
+          "sha256": "0a0431c56c1e8cc2cdb91e10e715b4224c2c3d861661a7183e92b11e8e4f7542"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/liv-web-3.png",
+          "status": 200,
+          "src": "/images/projects/livsocial-da444b8255.webp",
+          "width": 1493,
+          "height": 2200,
+          "bytes": 181560,
+          "originalBytes": 462712,
+          "sha256": "da444b8255fb4627f3fdd835b210c4eb815cfc5a06b96bc9edc7b264e8a83acb"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/liv-web-4.png",
+          "status": 200,
+          "src": "/images/projects/livsocial-aa61803c2f.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 207218,
+          "originalBytes": 570761,
+          "sha256": "aa61803c2fb6fc1983a562de7c1ed047057cda7aaf0b29451fec53dce3dda20b"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/liv-web-5.png",
+          "status": 200,
+          "src": "/images/projects/livsocial-0d06b8fba9.webp",
+          "width": 1493,
+          "height": 2200,
+          "bytes": 261460,
+          "originalBytes": 612463,
+          "sha256": "0d06b8fba9c2fdfa213099ee402c566e8563b19775cc878727b73731468424c1"
+        }
+      ]
+    },
+    "streamdatax": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/StreamDataX.png",
+        "status": 200,
+        "src": "/images/projects/streamdatax-preview-213cfd1ade.webp",
+        "width": 1600,
+        "height": 1334,
+        "bytes": 97392,
+        "originalBytes": 2655902,
+        "sha256": "213cfd1ade03f6b9ff3853a518793f8659b7134e195597e7b36b3d1fe780975c"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/StreamDataX-web-main.png",
+          "status": 200,
+          "src": "/images/projects/streamdatax-186575fe8f.webp",
+          "width": 1600,
+          "height": 1325,
+          "bytes": 79672,
+          "originalBytes": 834159,
+          "sha256": "186575fe8ff36581bedd288abd975877fd29216090cbcb0a9029b3250e154eb1"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/StreamDataX-web-2nd.png",
+          "status": 200,
+          "src": "/images/projects/streamdatax-4ef36b028b.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 311544,
+          "originalBytes": 738736,
+          "sha256": "4ef36b028b40a4fa496e0ffb9cb5135793c52185e417c59058bfd3a0ab32a024"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/StreamDataX-web-3rd.png",
+          "status": 200,
+          "src": "/images/projects/streamdatax-61a7c107ce.webp",
+          "width": 998,
+          "height": 1273,
+          "bytes": 189890,
+          "originalBytes": 657835,
+          "sha256": "61a7c107cea5451d5248767157535d6ffa0ded8325b6c9e6dfe297e44a62aca8"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/StreamDataX-web-1.png",
+          "status": 200,
+          "src": "/images/projects/streamdatax-ba9ee81cd5.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 194552,
+          "originalBytes": 798433,
+          "sha256": "ba9ee81cd55a3356d15500e7d4ec3f0039933fd122b24e54185beac8c4cbc632"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/StreamDataX-web-2.png",
+          "status": 200,
+          "src": "/images/projects/streamdatax-f8b1822a92.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 240478,
+          "originalBytes": 535896,
+          "sha256": "f8b1822a92551777f0d00cc1f73ca66f872b29a9f679930af9b2f33af4aa1c01"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/StreamDataX-web-3.png",
+          "status": 200,
+          "src": "/images/projects/streamdatax-949032b848.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 312930,
+          "originalBytes": 733440,
+          "sha256": "949032b848c78beb74d83399a5add2faf6646fa3466bf9c789aee45500a82b52"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/StreamDataX-web-4.png",
+          "status": 200,
+          "src": "/images/projects/streamdatax-58b39e36af.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 317794,
+          "originalBytes": 726854,
+          "sha256": "58b39e36af31ab623473c95f66f53e10314d220e20c3b9b295921770dd65a09f"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/StreamDataX-web-5.png",
+          "status": 200,
+          "src": "/images/projects/streamdatax-2d42276596.webp",
+          "width": 1493,
+          "height": 2200,
+          "bytes": 172314,
+          "originalBytes": 1203141,
+          "sha256": "2d4227659667f3ee699a2b59c48df83a4a4d001fbfddbd7ca9c2d2e62fb72861"
+        }
+      ]
+    },
+    "little-butterflies": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/Little-Butterflies-Poster.png",
+        "status": 200,
+        "src": "/images/projects/little-butterflies-preview-4c22d5cddb.webp",
+        "width": 1600,
+        "height": 1334,
+        "bytes": 85430,
+        "originalBytes": 2161445,
+        "sha256": "4c22d5cddbf579013262426d03b7b39ddb3f39cbbce03e6d9b9176632234d26d"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/Little-Butterflies-main.png",
+          "status": 200,
+          "src": "/images/projects/little-butterflies-693269e9cb.webp",
+          "width": 1600,
+          "height": 1326,
+          "bytes": 79484,
+          "originalBytes": 523026,
+          "sha256": "693269e9cb0fb5848a6e06d4075ccf50488157875206cb795d0249a99279049c"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/Little-Butterflies-2nd.png",
+          "status": 200,
+          "src": "/images/projects/little-butterflies-5ead2e8c7a.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 190350,
+          "originalBytes": 376706,
+          "sha256": "5ead2e8c7a079312c39ab27535c2b32ced53d8fdd8f9ec933ab5066ce16feda9"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/Little-Butterflies-3rd.png",
+          "status": 200,
+          "src": "/images/projects/little-butterflies-20a244f5cb.webp",
+          "width": 998,
+          "height": 1274,
+          "bytes": 191942,
+          "originalBytes": 759806,
+          "sha256": "20a244f5cb591a8d677c32c3b248c471997a1e5e9409ad9f300edcefaceb9570"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/Little-Butterflies-web-1.png",
+          "status": 200,
+          "src": "/images/projects/little-butterflies-2034bb6d7b.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 73426,
+          "originalBytes": 420756,
+          "sha256": "2034bb6d7b8e604dacf2056e9472e80ddc773096b7ce3959dd57d24f612d7f11"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/Little-Butterflies-web-2.png",
+          "status": 200,
+          "src": "/images/projects/little-butterflies-ae426fa0c8.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 203148,
+          "originalBytes": 419585,
+          "sha256": "ae426fa0c8390a401f4ed155e8621a8325e094809e4e5c022373625f7c9d0dae"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/Little-Butterflies-web-4.png",
+          "status": 200,
+          "src": "/images/projects/little-butterflies-3dc1d6e522.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 183020,
+          "originalBytes": 399432,
+          "sha256": "3dc1d6e522cc4454634764901d144c9126f7020a49c6c6e7852beaf11e5549e5"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/Little-Butterflies-web-5.png",
+          "status": 200,
+          "src": "/images/projects/little-butterflies-c2dc7a58ec.webp",
+          "width": 1493,
+          "height": 2200,
+          "bytes": 201280,
+          "originalBytes": 434132,
+          "sha256": "c2dc7a58ecbd1b280247e4f054c5b0fb213d266faa45d53cdf15e2a6e476cb45"
+        }
+      ]
+    },
+    "tukeeconnect": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/TukeeConnect.png",
+        "status": 200,
+        "src": "/images/projects/tukeeconnect-preview-44938bec29.webp",
+        "width": 1600,
+        "height": 1334,
+        "bytes": 88854,
+        "originalBytes": 1652215,
+        "sha256": "44938bec29ba121f90eb9051afc3a7de76b92ef44b132a385e6c80be136b44da"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/TukeeConnect%20-main.png",
+          "status": 200,
+          "src": "/images/projects/tukeeconnect-826311973a.webp",
+          "width": 1600,
+          "height": 1326,
+          "bytes": 72142,
+          "originalBytes": 1027482,
+          "sha256": "826311973ac09c68d993fd443fc38b5f99fc5e50ec4cdc3e33ce5e483d8d4b9b"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/TukeeConnect-2nd.png",
+          "status": 200,
+          "src": "/images/projects/tukeeconnect-21f8878e48.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 95588,
+          "originalBytes": 604107,
+          "sha256": "21f8878e4806961dce879cbf0f80a404e0545be8ae9d2d6b71ff66c211efef88"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/TukeeConnect-3rd.png",
+          "status": 200,
+          "src": "/images/projects/tukeeconnect-adc4cf3d2f.webp",
+          "width": 999,
+          "height": 1273,
+          "bytes": 146674,
+          "originalBytes": 440491,
+          "sha256": "adc4cf3d2f3dd7f4e2a374462fda2e234df4e99366a8d3b5e92be88a83bed7b1"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/TukeeConnect-web-1.png",
+          "status": 200,
+          "src": "/images/projects/tukeeconnect-4abfd77001.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 132626,
+          "originalBytes": 658803,
+          "sha256": "4abfd77001ad9218db0738ca2b1af1ca4ebbdf6172d28a8b07c0915fab27afdb"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/TukeeConnect-web-2.png",
+          "status": 200,
+          "src": "/images/projects/tukeeconnect-d42a8c4bde.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 136672,
+          "originalBytes": 601366,
+          "sha256": "d42a8c4bde4d171bfe8eff65e50401caafca76e6d251c5cae805e08aef6c2475"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/TukeeConnect-web-3.png",
+          "status": 200,
+          "src": "/images/projects/tukeeconnect-750a78458c.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 78268,
+          "originalBytes": 360260,
+          "sha256": "750a78458cdeb8f7fa33d41c533e13bf580e34c90dfa72f73db70c144508a65c"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/TukeeConnect-web-4.png",
+          "status": 200,
+          "src": "/images/projects/tukeeconnect-c7bd8862aa.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 126526,
+          "originalBytes": 599615,
+          "sha256": "c7bd8862aa2b7e5bbaf796361fe30769e40f97e06d81af98dcf872a7e0dce931"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/TukeeConnect-web-5.png",
+          "status": 200,
+          "src": "/images/projects/tukeeconnect-3513b00c30.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 127878,
+          "originalBytes": 660189,
+          "sha256": "3513b00c3025f21d99c585153581139b879248b613cc8870220056bb9e687fb6"
+        }
+      ]
+    },
+    "beliri": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/Beliri.png",
+        "status": 200,
+        "src": "/images/projects/beliri-preview-cee6d97850.webp",
+        "width": 1600,
+        "height": 1333,
+        "bytes": 87756,
+        "originalBytes": 2677398,
+        "sha256": "cee6d9785079683da107dd99d3a6d13127ef2324a301a0c0d322c5ba8d46af0e"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/beliri-main.png",
+          "status": 200,
+          "src": "/images/projects/beliri-22aeeac94c.webp",
+          "width": 1600,
+          "height": 1325,
+          "bytes": 87940,
+          "originalBytes": 805284,
+          "sha256": "22aeeac94cc79cbbd6a1df3a834ea7a8f8872f63c32895ef4d03e3239dfd0f77"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/beliri-2nd.png",
+          "status": 200,
+          "src": "/images/projects/beliri-06aecadfe0.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 88876,
+          "originalBytes": 627307,
+          "sha256": "06aecadfe0f121424bb466a0287700d6bf287a6bd207899446ba29cf177bf0db"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/beliri-3rd.png",
+          "status": 200,
+          "src": "/images/projects/beliri-2fc8b199c9.webp",
+          "width": 999,
+          "height": 1273,
+          "bytes": 187734,
+          "originalBytes": 722279,
+          "sha256": "2fc8b199c9ba592e068ed3e9133f90c5473547beba754fabbc13e6bed941febd"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/beliri-web-1.png",
+          "status": 200,
+          "src": "/images/projects/beliri-87bd5f5b64.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 151118,
+          "originalBytes": 468252,
+          "sha256": "87bd5f5b64e084fbb8de16f309968f66d35c142d6a8770268568c9eb7770aa75"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/beliri-web-2.png",
+          "status": 200,
+          "src": "/images/projects/beliri-894569aa9b.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 127046,
+          "originalBytes": 674610,
+          "sha256": "894569aa9ba69d51523f49761213a7ddf015bc4f2dcdb62bc46aa7885f27ad76"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/beliri-web-3.png",
+          "status": 200,
+          "src": "/images/projects/beliri-4eeaa356b3.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 160496,
+          "originalBytes": 423307,
+          "sha256": "4eeaa356b3723cc3238676de85edf8d40237a7ee28d15770068a61a3acd89ecb"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/beliri-web-4.png",
+          "status": 200,
+          "src": "/images/projects/beliri-60953c50e3.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 180748,
+          "originalBytes": 563273,
+          "sha256": "60953c50e36975dd7044275446cc785f3b1ecfffa37a17b32bbd587afd1acf90"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/beliri-web-5.png",
+          "status": 200,
+          "src": "/images/projects/beliri-14ae63e2d2.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 142294,
+          "originalBytes": 1007351,
+          "sha256": "14ae63e2d26e611f5ecab4d0a2d00ccfdf8c4cea212520b7b84fe7056df36579"
+        }
+      ]
+    },
+    "printlific": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/Printlific.png",
+        "status": 200,
+        "src": "/images/projects/printlific-preview-9d28f53428.webp",
+        "width": 1600,
+        "height": 1334,
+        "bytes": 129286,
+        "originalBytes": 3144703,
+        "sha256": "9d28f534288dd33e9170be37c1f39ad09add94fa85ac97a92da408f1f44ae3bb"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/printlific-1.png",
+          "status": 200,
+          "src": "/images/projects/printlific-76682bc195.webp",
+          "width": 1600,
+          "height": 1312,
+          "bytes": 129252,
+          "originalBytes": 1184826,
+          "sha256": "76682bc1957c5ae1b02e3228e087461a86077e092de44ce44a5b03ac2b0b1008"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/printlific-2.png",
+          "status": 200,
+          "src": "/images/projects/printlific-64c987ec7d.webp",
+          "width": 1077,
+          "height": 2180,
+          "bytes": 108978,
+          "originalBytes": 1445406,
+          "sha256": "64c987ec7d13d2babb527f40acc6dd9a7c793bc86e7b7ec275504ef6d249edd9"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/printlific-3.png",
+          "status": 200,
+          "src": "/images/projects/printlific-21d7913341.webp",
+          "width": 711,
+          "height": 711,
+          "bytes": 39216,
+          "originalBytes": 248350,
+          "sha256": "21d7913341f54e939a095f4087890154dbf0084080b1725404a3314a43df6026"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/printlific-web-1.png",
+          "status": 200,
+          "src": "/images/projects/printlific-9dec39045c.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 181150,
+          "originalBytes": 570118,
+          "sha256": "9dec39045ce451f2af605389e5273a646cab09b94527fdd1cdeb478be74c1045"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/printlific-web-2.png",
+          "status": 200,
+          "src": "/images/projects/printlific-a2e3c553cf.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 254862,
+          "originalBytes": 697829,
+          "sha256": "a2e3c553cf27a6ac588e649dcbb27632516cb60eb6ef13cf6063ba1f6fffe811"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/printlific-web-3.png",
+          "status": 200,
+          "src": "/images/projects/printlific-e6681d2469.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 233066,
+          "originalBytes": 805105,
+          "sha256": "e6681d24691bcbec264355996bff6679ea738d9c319eba527c0dc37d88f2fb6d"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/printlific-web-4.png",
+          "status": 200,
+          "src": "/images/projects/printlific-8783d4f6ad.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 191282,
+          "originalBytes": 714942,
+          "sha256": "8783d4f6ad8a93776257245ef6e947e88977c8f80266be848a2eb49519d69906"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/printlific-web-5.png",
+          "status": 200,
+          "src": "/images/projects/printlific-b00fe5af89.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 201596,
+          "originalBytes": 608526,
+          "sha256": "b00fe5af892105b19c586cffb9c25894e340c830346c5e37d3178c13e6a5df1c"
+        }
+      ]
+    },
+    "nerdrabbit": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/nerdrabbit.png",
+        "status": 200,
+        "src": "/images/projects/nerdrabbit-preview-ca11233800.webp",
+        "width": 1500,
+        "height": 1232,
+        "bytes": 68742,
+        "originalBytes": 128617,
+        "sha256": "ca1123380099efc5ab3157f2638609794ebd718cf5272ccb59bbab2a75b48431"
+      },
+      "images": []
+    },
+    "parachute": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/parachute.png",
+        "status": 200,
+        "src": "/images/projects/parachute-preview-bc6302dbb6.webp",
+        "width": 1501,
+        "height": 1232,
+        "bytes": 59234,
+        "originalBytes": 105643,
+        "sha256": "bc6302dbb627d3cbfc9668fe0f2710dfc277df344ea629bb93442e068131f3c9"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/parachute-main.png",
+          "status": 200,
+          "src": "/images/projects/parachute-5fe57f8e3a.webp",
+          "width": 1600,
+          "height": 1325,
+          "bytes": 59794,
+          "originalBytes": 349200,
+          "sha256": "5fe57f8e3a4b9b3b7f6ac0d2650ab5b8a0e234e3848f784cae7e02726ea027ee"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/parachute-2nd.png",
+          "status": 200,
+          "src": "/images/projects/parachute-870aa26b87.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 171952,
+          "originalBytes": 324619,
+          "sha256": "870aa26b8734d2a02626cded4f42b12e7a71bd143b580ac991d0b49333b9393e"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/parachute-3rd.png",
+          "status": 200,
+          "src": "/images/projects/parachute-0da22b3519.webp",
+          "width": 999,
+          "height": 1273,
+          "bytes": 173298,
+          "originalBytes": 571647,
+          "sha256": "0da22b3519a006532b8c237b135c514cc4fd941e2f65b685291152a244294194"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/parachute-web-1.png",
+          "status": 200,
+          "src": "/images/projects/parachute-a4aef87e87.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 152100,
+          "originalBytes": 948337,
+          "sha256": "a4aef87e871db0bef9d5c24c3b80bd3153a631fa47ff074f5544735ad8557082"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/parachute-web-2.png",
+          "status": 200,
+          "src": "/images/projects/parachute-ee4fe37ef2.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 225086,
+          "originalBytes": 442243,
+          "sha256": "ee4fe37ef2b0e34c73963a882738a8be2c566412d5204603d2f4f40d3b78ce7b"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/parachute-web-3.png",
+          "status": 200,
+          "src": "/images/projects/parachute-bb7351963a.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 142346,
+          "originalBytes": 292062,
+          "sha256": "bb7351963af284f515d54554054c49edef47d8d0e57016c692d1d30c84956c76"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/parachute-web-4.png",
+          "status": 200,
+          "src": "/images/projects/parachute-df96c67842.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 151714,
+          "originalBytes": 970564,
+          "sha256": "df96c67842fd750d26fc1e44c7d1a39d395925534e9ffc44d5877cf84d95ed25"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/parachute-web-5.png",
+          "status": 200,
+          "src": "/images/projects/parachute-e7dc5f168c.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 175918,
+          "originalBytes": 423748,
+          "sha256": "e7dc5f168cf0b01d8b50a4d28448262b426dcdc6dc478255397e69ecbde18e1d"
+        }
+      ]
+    },
+    "glocal-expert": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/global.png",
+        "status": 200,
+        "src": "/images/projects/glocal-expert-preview-3060362f18.webp",
+        "width": 1600,
+        "height": 1314,
+        "bytes": 137214,
+        "originalBytes": 3695802,
+        "sha256": "3060362f180e98b3a14c7bc963bd2b559276489c915d787d4653a5aea6b637ca"
+      },
+      "images": []
+    },
+    "mercury-mailroom": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/mercury.jpg",
+        "status": 200,
+        "src": "/images/projects/mercury-mailroom-preview-66800cd4af.webp",
+        "width": 1600,
+        "height": 1354,
+        "bytes": 74974,
+        "originalBytes": 1614259,
+        "sha256": "66800cd4af86686635e6cc33280e0e16e2334949e8da7553e6d02980d71e5fa8"
+      },
+      "images": []
+    },
+    "alum-connect": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/Alum-connect.png",
+        "status": 200,
+        "src": "/images/projects/alum-connect-preview-1d5319ec06.webp",
+        "width": 1456,
+        "height": 1232,
+        "bytes": 75552,
+        "originalBytes": 188231,
+        "sha256": "1d5319ec0663371cf0b9195e343f219b483c10d4cd35c4c5cfdcb493a2990252"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/alum-c-1.png",
+          "status": 200,
+          "src": "/images/projects/alum-connect-86ed77c67f.webp",
+          "width": 1600,
+          "height": 1326,
+          "bytes": 80814,
+          "originalBytes": 1649021,
+          "sha256": "86ed77c67f65c7a8df88b5651b963bf4aef09efe856d2493267ab76dd40dfa6d"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/alum-c-2.png",
+          "status": 200,
+          "src": "/images/projects/alum-connect-d8edac54cb.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 109474,
+          "originalBytes": 587256,
+          "sha256": "d8edac54cb9dec105a0b1ec78963d029fa2913c5ce166d5d7d96b507c16ec576"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/alum-c-3.png",
+          "status": 200,
+          "src": "/images/projects/alum-connect-2bf4e4ff31.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 112856,
+          "originalBytes": 562851,
+          "sha256": "2bf4e4ff31ffeccb000a7059d46600fe30d42046875e2873be387a75f9b9e514"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/alum-c-4.png",
+          "status": 200,
+          "src": "/images/projects/alum-connect-b084c45623.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 144752,
+          "originalBytes": 771574,
+          "sha256": "b084c45623a08d909d18df05266f2b20e0b2f57b668de70bfc651a89b291fd80"
+        }
+      ]
+    },
+    "kegelklock": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/Kegelklock.png",
+        "status": 200,
+        "src": "/images/projects/kegelklock-preview-611a87ce86.webp",
+        "width": 1456,
+        "height": 1232,
+        "bytes": 112440,
+        "originalBytes": 266073,
+        "sha256": "611a87ce8694adf64778766c49ab031ed132d0e48cc7be32c965063480f822f7"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/kegelklock-main.png",
+          "status": 200,
+          "src": "/images/projects/kegelklock-58aa766a8a.webp",
+          "width": 1600,
+          "height": 1326,
+          "bytes": 116658,
+          "originalBytes": 1252242,
+          "sha256": "58aa766a8a9cad95c804a8b0da30276af6321ad9d90d83e9efba5f4257a30127"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/kegelklock-2nd.png",
+          "status": 200,
+          "src": "/images/projects/kegelklock-6bcf53fd54.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 80104,
+          "originalBytes": 440762,
+          "sha256": "6bcf53fd54909a845f820e29753c78716554e199e887781f30e944101e65634d"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/kegelklock-3rd.png",
+          "status": 200,
+          "src": "/images/projects/kegelklock-2151be632e.webp",
+          "width": 999,
+          "height": 1274,
+          "bytes": 211458,
+          "originalBytes": 717335,
+          "sha256": "2151be632e7b0fa63bd0084adf9dab67a5257de7833161effedec5ec111b3434"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/kegelklock-web-1.png",
+          "status": 200,
+          "src": "/images/projects/kegelklock-5b9e474e68.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 145992,
+          "originalBytes": 852798,
+          "sha256": "5b9e474e68c6309068be6a90fde624d7dad6dfdc948956783e16ee70df8831c4"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/kegelklock-web-2.png",
+          "status": 200,
+          "src": "/images/projects/kegelklock-5cdbc9db01.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 200822,
+          "originalBytes": 426076,
+          "sha256": "5cdbc9db01197db86c835a240733f7ac0752f12371c4fc23e621b3c48d2b9ab8"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/kegelklock-web-3.png",
+          "status": 200,
+          "src": "/images/projects/kegelklock-4e899b44c2.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 80688,
+          "originalBytes": 471709,
+          "sha256": "4e899b44c295ebe4a944f66d8fb1b0f491002e97c91d84a45fcfbbd86b2754d4"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/kegelklock-web-4.png",
+          "status": 200,
+          "src": "/images/projects/kegelklock-c318d8f05e.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 213512,
+          "originalBytes": 930191,
+          "sha256": "c318d8f05ebe1150a560a5030f0d38bec06650cf01ad3d37fdbe1c4e6d23b6f4"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/kegelklock-web-5.png",
+          "status": 200,
+          "src": "/images/projects/kegelklock-1478320c4c.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 188632,
+          "originalBytes": 314401,
+          "sha256": "1478320c4c33e83f8f6c2b3c458f0c222eff2e348a1278fc2a69a3614bd7f1db"
+        }
+      ]
+    },
+    "br-tennis": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/BR-tennis.png",
+        "status": 200,
+        "src": "/images/projects/br-tennis-preview-82e34bc83e.webp",
+        "width": 1456,
+        "height": 1232,
+        "bytes": 79842,
+        "originalBytes": 209866,
+        "sha256": "82e34bc83eca2992bb789a15b6b8a9a8113b893c116b953bc80cf5066d113e65"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/BR-tennis-main.png",
+          "status": 200,
+          "src": "/images/projects/br-tennis-0d17f1323a.webp",
+          "width": 1600,
+          "height": 1326,
+          "bytes": 76014,
+          "originalBytes": 1212829,
+          "sha256": "0d17f1323a2df121612df0be6e0d2dd8e62fd50bd439571ff6aa9bed3b187b30"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/BR-tennis-2nd.png",
+          "status": 200,
+          "src": "/images/projects/br-tennis-f20b896728.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 75720,
+          "originalBytes": 725206,
+          "sha256": "f20b89672865b197172dc4c7991ab60e5660ba8f8d8f9a6a88f398672cff4b0a"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/BR-tennis-3rd.png",
+          "status": 200,
+          "src": "/images/projects/br-tennis-e5ac015f41.webp",
+          "width": 999,
+          "height": 1274,
+          "bytes": 152248,
+          "originalBytes": 437934,
+          "sha256": "e5ac015f411593b5f11281ba83d69735c1396327f8d51b228807e5b8646075bf"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/BR-tennis-web-1.png",
+          "status": 200,
+          "src": "/images/projects/br-tennis-e31c7dc479.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 192218,
+          "originalBytes": 610267,
+          "sha256": "e31c7dc479e50e3f6667bd4538128a7bc08645464cb7ea31e7a705f32b3b12ce"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/BR-tennis-web-2.png",
+          "status": 200,
+          "src": "/images/projects/br-tennis-b97325f676.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 76762,
+          "originalBytes": 703955,
+          "sha256": "b97325f67600c26879a9bf539a2ac84d0d0fbec628c5ef5f74223f61505fc215"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/BR-tennis-web-3.png",
+          "status": 200,
+          "src": "/images/projects/br-tennis-3591b7b054.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 122760,
+          "originalBytes": 939670,
+          "sha256": "3591b7b0542ab45abf62266e86ac9b63c9ddfd2b76f283b11db8c65bab2f261e"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/BR-tennis-web-4.png",
+          "status": 200,
+          "src": "/images/projects/br-tennis-1d9850b06e.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 216718,
+          "originalBytes": 931663,
+          "sha256": "1d9850b06e56de42856a7e448dea37c8ef15c634c75382efd5e247687f03524f"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/BR-tennis-web-5.png",
+          "status": 200,
+          "src": "/images/projects/br-tennis-287a4c5595.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 74738,
+          "originalBytes": 726564,
+          "sha256": "287a4c5595bed760bc41b0c807049acd3a38a01d0d98edb0de51eceb69462399"
+        }
+      ]
+    },
+    "network-capital": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/network-capital.jpg",
+        "status": 200,
+        "src": "/images/projects/network-capital-preview-c5de891397.webp",
+        "width": 1600,
+        "height": 1354,
+        "bytes": 100454,
+        "originalBytes": 2181094,
+        "sha256": "c5de891397a3305206bc470bdfc35603b8bf918078cf754c96628187c2916c8e"
+      },
+      "images": []
+    },
+    "whizara": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/whizara.png",
+        "status": 200,
+        "src": "/images/projects/whizara-preview-93dfa29b6d.webp",
+        "width": 1600,
+        "height": 1333,
+        "bytes": 83604,
+        "originalBytes": 1616249,
+        "sha256": "93dfa29b6d4cb17420d0093d656796e42543556e0bfa52dae0035338d330fccf"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/whizara-main.png",
+          "status": 200,
+          "src": "/images/projects/whizara-4f824ed884.webp",
+          "width": 1600,
+          "height": 1326,
+          "bytes": 91912,
+          "originalBytes": 584322,
+          "sha256": "4f824ed88404e0462e060f6a5d7951d204b155ad6cc43d08029077d83bf82237"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/whizara-3rd.png",
+          "status": 200,
+          "src": "/images/projects/whizara-3f0b9d0b6d.webp",
+          "width": 999,
+          "height": 1274,
+          "bytes": 184972,
+          "originalBytes": 791686,
+          "sha256": "3f0b9d0b6d4de10dce2fe901ffcfefda4e06a9bb68eb735527481dff5a56f535"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/whizara-web-1.png",
+          "status": 200,
+          "src": "/images/projects/whizara-053ab60649.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 155344,
+          "originalBytes": 504194,
+          "sha256": "053ab606495aa5f649b41a0caa5efbbcbf7cd60f05dc69fa0f0739fc5223b92f"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/whizara-web-2.png",
+          "status": 200,
+          "src": "/images/projects/whizara-e3d3f1f91f.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 103710,
+          "originalBytes": 648690,
+          "sha256": "e3d3f1f91f61aad1e14d779b1af7d939b2d2767d2c6105068d83a4318a39e6c7"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/whizara-web-3.png",
+          "status": 200,
+          "src": "/images/projects/whizara-03afb30883.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 115838,
+          "originalBytes": 667115,
+          "sha256": "03afb30883a257d1e0983f8e9f9622ef8b2efd79832c9af21db722c9a1aa3ce5"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/whizara-web-4.png",
+          "status": 200,
+          "src": "/images/projects/whizara-b506c23c88.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 121186,
+          "originalBytes": 826574,
+          "sha256": "b506c23c88bf674feef90d458ef22d104a9bd3d296019dc1830ee9f08e945f8e"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/whizara-web-5.png",
+          "status": 200,
+          "src": "/images/projects/whizara-519e3aca95.webp",
+          "width": 1493,
+          "height": 2200,
+          "bytes": 109674,
+          "originalBytes": 712647,
+          "sha256": "519e3aca9515b5c667bcc01bf364b2dbe20da09e2d60355a2ecac69ec58d7bc3"
+        }
+      ]
+    },
+    "es-platform": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/es-platform.png",
+        "status": 200,
+        "src": "/images/projects/es-platform-preview-75eb6a2122.webp",
+        "width": 1600,
+        "height": 1333,
+        "bytes": 83118,
+        "originalBytes": 1523184,
+        "sha256": "75eb6a21220c94d1ef1b17724811bbd35afce1546bad991da43cf202cc81ab3d"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/ES-main.png",
+          "status": 200,
+          "src": "/images/projects/es-platform-4da3d3fcc7.webp",
+          "width": 1600,
+          "height": 1326,
+          "bytes": 79534,
+          "originalBytes": 916702,
+          "sha256": "4da3d3fcc7bb85f7d9902764fc8844c1f87cf6c3a8883c51cdba909d0307032f"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/ES-2nd.png",
+          "status": 200,
+          "src": "/images/projects/es-platform-4ef3f8ef2e.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 130068,
+          "originalBytes": 677919,
+          "sha256": "4ef3f8ef2e980be32c8841d245a4aa61b8f20a7d0ff35aae0278c987a545253e"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/ES-3rd.png",
+          "status": 200,
+          "src": "/images/projects/es-platform-bdc4dfb347.webp",
+          "width": 999,
+          "height": 1274,
+          "bytes": 176022,
+          "originalBytes": 524766,
+          "sha256": "bdc4dfb347c4c3c126377b8c76c3427ea68747ed6a9815c8aba153fc1208959e"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/ES-web-1.png",
+          "status": 200,
+          "src": "/images/projects/es-platform-45c8411a15.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 131358,
+          "originalBytes": 656850,
+          "sha256": "45c8411a156083183fceb03cc6405e046e6f54ba3858e5e65fb7f6e545bea4c6"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/ES-web-2.png",
+          "status": 200,
+          "src": "/images/projects/es-platform-304b0e0874.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 67732,
+          "originalBytes": 323632,
+          "sha256": "304b0e08743317138620dfb94180b2c129d977d642b43fe057abfb070a233984"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/ES-web-3.png",
+          "status": 200,
+          "src": "/images/projects/es-platform-d26bd5c866.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 209950,
+          "originalBytes": 971195,
+          "sha256": "d26bd5c8666088de0420952153a36e62427a420e9957fb202bf66b80b9cf11f6"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/ES-web-4.png",
+          "status": 200,
+          "src": "/images/projects/es-platform-5153f77335.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 174824,
+          "originalBytes": 812151,
+          "sha256": "5153f773350558052b63fa3d81d099d96d9a32ba68fd5a1756351326f7124f3e"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/ES-web-5.png",
+          "status": 200,
+          "src": "/images/projects/es-platform-64a0faf1f6.webp",
+          "width": 1493,
+          "height": 2200,
+          "bytes": 129532,
+          "originalBytes": 655048,
+          "sha256": "64a0faf1f68391adf3ef97d1017b302240d2ab00cc32aa6a4e8e40bd04a2adfe"
+        }
+      ]
+    },
+    "been-there": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/Been_there.png",
+        "status": 200,
+        "src": "/images/projects/been-there-preview-a92962c2de.webp",
+        "width": 1600,
+        "height": 1334,
+        "bytes": 89814,
+        "originalBytes": 2135835,
+        "sha256": "a92962c2deb73c461c95b683f96f66ebfac3ff240eb68b0c2f0884f9572a122e"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/been-there-main.png",
+          "status": 200,
+          "src": "/images/projects/been-there-f14e703894.webp",
+          "width": 1600,
+          "height": 1326,
+          "bytes": 113314,
+          "originalBytes": 663405,
+          "sha256": "f14e7038940ebae3582a53a8ab508a0031b672a6e46912bd6923d12e1c562c2e"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/been-there-2nd.png",
+          "status": 200,
+          "src": "/images/projects/been-there-9d2dfdb17e.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 100180,
+          "originalBytes": 662925,
+          "sha256": "9d2dfdb17ea98538a15119577097da869ccc96c2402282457bf12cc7e22f76cc"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/been-there-3rd.png",
+          "status": 200,
+          "src": "/images/projects/been-there-d9944382e4.webp",
+          "width": 998,
+          "height": 1273,
+          "bytes": 156218,
+          "originalBytes": 533334,
+          "sha256": "d9944382e4fd591a08d07cc5051fa86071ed347f643d64ec9dc11d8d95dae2cd"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/been-there-web-1.png",
+          "status": 200,
+          "src": "/images/projects/been-there-c67c5cb5b2.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 78204,
+          "originalBytes": 406308,
+          "sha256": "c67c5cb5b26331b18a38234b966e5fd47d9821f75498f08bef570adbaa2a0865"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/been-there-web-2.png",
+          "status": 200,
+          "src": "/images/projects/been-there-1949126c48.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 82430,
+          "originalBytes": 459727,
+          "sha256": "1949126c48423b8ce6037382760d838c20a2dbbac7fd865b0a43f20dc93858ee"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/been-there-web-3.png",
+          "status": 200,
+          "src": "/images/projects/been-there-9718363a57.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 91270,
+          "originalBytes": 580652,
+          "sha256": "9718363a576a85dde4da73101ca8d4cb53e7fea0ffef1a1dbfdf2146bbba3792"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/been-there-web-4.png",
+          "status": 200,
+          "src": "/images/projects/been-there-78a9b39334.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 110328,
+          "originalBytes": 643049,
+          "sha256": "78a9b39334c78192b59c2115c6c6f6227d9bea960e1df00ac95f5370ef854264"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/been-there-web-5.png",
+          "status": 200,
+          "src": "/images/projects/been-there-b83fe473da.webp",
+          "width": 1493,
+          "height": 2200,
+          "bytes": 137704,
+          "originalBytes": 917748,
+          "sha256": "b83fe473daaa5036468895b56289cbc9c1deb0ba7d4cefd80d4a41c079de4165"
+        }
+      ]
+    },
+    "lead-management": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/website-projects/Lead.png",
+        "status": 200,
+        "src": "/images/projects/lead-management-preview-b0eed98d93.webp",
+        "width": 1600,
+        "height": 1333,
+        "bytes": 66652,
+        "originalBytes": 1514695,
+        "sha256": "b0eed98d93cb091e6dbd550ffad92d8d9b2416b94c6470f16d1e425bad4947f2"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/Lead-Management-main.png",
+          "status": 200,
+          "src": "/images/projects/lead-management-46ff345abd.webp",
+          "width": 1600,
+          "height": 1326,
+          "bytes": 82406,
+          "originalBytes": 615676,
+          "sha256": "46ff345abdb5e691c27b5b7263f9634e176caf3ce28df2ad26859863080a4da1"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/Lead-Management-3rd.png",
+          "status": 200,
+          "src": "/images/projects/lead-management-5cea73db48.webp",
+          "width": 999,
+          "height": 1274,
+          "bytes": 175092,
+          "originalBytes": 535002,
+          "sha256": "5cea73db48aa73980ab408150d7cb94c73c982f7cacaea2ffbb5b9a02303cb21"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/Lead-Management-web-1.png",
+          "status": 200,
+          "src": "/images/projects/lead-management-20c1e481bd.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 101400,
+          "originalBytes": 687841,
+          "sha256": "20c1e481bdca1187750a36bb6ab5454309be0cbc81487f8be503ffd69c19ce3b"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/Lead-Management-web-2.png",
+          "status": 200,
+          "src": "/images/projects/lead-management-729683f90a.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 266712,
+          "originalBytes": 679555,
+          "sha256": "729683f90a67bdcd639adc029513f73f5598a3a1cd6938443dbcd6b9b3839dbc"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/Lead-Management-web-3.png",
+          "status": 200,
+          "src": "/images/projects/lead-management-f2bd69f38a.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 112986,
+          "originalBytes": 616354,
+          "sha256": "f2bd69f38a80ecd8b7a9bd906234b035fc8b66d410a833e2b597f931ab1981ba"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/Lead-Management-web-4.png",
+          "status": 200,
+          "src": "/images/projects/lead-management-69bd5f346f.webp",
+          "width": 1494,
+          "height": 2200,
+          "bytes": 94086,
+          "originalBytes": 524642,
+          "sha256": "69bd5f346f76a2cf27e993cf89715cf930d998c39f9b4627e2f47d4c1ad7de49"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/Lead-Management-web-5.png",
+          "status": 200,
+          "src": "/images/projects/lead-management-01b154468d.webp",
+          "width": 1493,
+          "height": 2200,
+          "bytes": 118364,
+          "originalBytes": 710089,
+          "sha256": "01b154468dcf952954685835e8dd38c7571b6632f95f257cfbc76b2de18db055"
+        }
+      ]
+    },
+    "app-livsocial": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/LivSocial-app.png",
+        "status": 200,
+        "src": "/images/projects/app-livsocial-preview-c4cd27e5d1.webp",
+        "width": 1600,
+        "height": 1251,
+        "bytes": 328232,
+        "originalBytes": 2219869,
+        "sha256": "c4cd27e5d1c193bcccedbcacb6e0ec110bb38c36e59980702fd5342e81303782"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/liv-main.png",
+          "status": 200,
+          "src": "/images/projects/app-livsocial-1a2472176a.webp",
+          "width": 711,
+          "height": 711,
+          "bytes": 64006,
+          "originalBytes": 305510,
+          "sha256": "1a2472176a4d5e2109b8470061739d7beac0c5b8c84ec609b157c96c6648bd18"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/landing-page-assets/livsocial-1.png",
+          "status": 200,
+          "src": "/images/projects/app-livsocial-3cd64caf50.webp",
+          "width": 1600,
+          "height": 1592,
+          "bytes": 234872,
+          "originalBytes": 1640977,
+          "sha256": "3cd64caf506b88cdecaaf92d60bd6e2638e5dfb5c230772b6bacb902d9c5e82f"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/livsocial-assets.png",
+          "status": 200,
+          "src": "/images/projects/app-livsocial-3c5b36b36a.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 62484,
+          "originalBytes": 279617,
+          "sha256": "3c5b36b36ab844113d87c6f291d3d59144dcd5f66a517eef0460a355577fa09a"
+        }
+      ]
+    },
+    "app-simply-recruited": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Simply_Recruited_App.png",
+        "status": 200,
+        "src": "/images/projects/app-simply-recruited-preview-e6932eb88f.webp",
+        "width": 1600,
+        "height": 1251,
+        "bytes": 256634,
+        "originalBytes": 2130326,
+        "sha256": "e6932eb88f62eded61287866292e920d3ff8ddb472efdf93b6681dd15bb89d1c"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/simply.png",
+          "status": 200,
+          "src": "/images/projects/app-simply-recruited-5b8638586f.webp",
+          "width": 1600,
+          "height": 1440,
+          "bytes": 134232,
+          "originalBytes": 1673447,
+          "sha256": "5b8638586fdfd9063fd928647d382b42c3c40c9ff1836a134cd205b3aa5dab89"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/simply-feature-4.png",
+          "status": 200,
+          "src": "/images/projects/app-simply-recruited-ea46e8ac73.webp",
+          "width": 710,
+          "height": 711,
+          "bytes": 53286,
+          "originalBytes": 284040,
+          "sha256": "ea46e8ac73af4c636627622f2bff57a47a01b25720626e3c1c7167a4ebd732ef"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/sim-assets-1.png",
+          "status": 200,
+          "src": "/images/projects/app-simply-recruited-71ddc42ce8.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 23360,
+          "originalBytes": 163270,
+          "sha256": "71ddc42ce8b1b7ac34d0d9ed87bf4c183c1d07f006e6a36b56423b901e4787bb"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/sim-assets-2.png",
+          "status": 200,
+          "src": "/images/projects/app-simply-recruited-4ef0fae5d6.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 39534,
+          "originalBytes": 258764,
+          "sha256": "4ef0fae5d68192dd96f99a884dd22ed040aa8e1ede3661917f8bc9b7e21bf508"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/sim-assets-4.png",
+          "status": 200,
+          "src": "/images/projects/app-simply-recruited-263448eb0d.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 36896,
+          "originalBytes": 301332,
+          "sha256": "263448eb0d465e66b6987422eac91738caef27c30a7cd9ccd567ab12d5672544"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/sim-assets-4-1.png",
+          "status": 200,
+          "src": "/images/projects/app-simply-recruited-c531571019.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 37746,
+          "originalBytes": 290587,
+          "sha256": "c531571019495982f75f5b92d199411b04419832baf2a5077520a5051e753043"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/sim-assets-5.png",
+          "status": 200,
+          "src": "/images/projects/app-simply-recruited-4ce2a17a76.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 44598,
+          "originalBytes": 260127,
+          "sha256": "4ce2a17a764886b46c7815dd903ee537111e35826f8e152e26b7ec554251c591"
+        }
+      ]
+    },
+    "app-infinote": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Infinote_App.png",
+        "status": 200,
+        "src": "/images/projects/app-infinote-preview-ac6036682a.webp",
+        "width": 1600,
+        "height": 1251,
+        "bytes": 223860,
+        "originalBytes": 1707460,
+        "sha256": "ac6036682a9a794fdf63482637842d07e3c6085cdda493d24f9bcf1671bc5974"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Infinote-1.png",
+          "status": 200,
+          "src": "/images/projects/app-infinote-0d3f5f0fd9.webp",
+          "width": 1600,
+          "height": 1313,
+          "bytes": 100244,
+          "originalBytes": 687700,
+          "sha256": "0d3f5f0fd91bdfda057a42d2d5b3f556853431752de022ebd8d7e31fde96e535"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Infinote-2.png",
+          "status": 200,
+          "src": "/images/projects/app-infinote-6cb57b3f25.webp",
+          "width": 1076,
+          "height": 2180,
+          "bytes": 176548,
+          "originalBytes": 1083683,
+          "sha256": "6cb57b3f25ab58b918992099110739272d5f78bebe8f8b76cb7d5a56fad3ee97"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Infinote-3.png",
+          "status": 200,
+          "src": "/images/projects/app-infinote-edeacb53b7.webp",
+          "width": 710,
+          "height": 711,
+          "bytes": 52462,
+          "originalBytes": 233342,
+          "sha256": "edeacb53b7f48b8b4d5b5762734a5b9d9eadacad7337ef3a79c7edc5e863cd48"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/infinote-assets-1.png",
+          "status": 200,
+          "src": "/images/projects/app-infinote-c8b2fdc959.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 16568,
+          "originalBytes": 43938,
+          "sha256": "c8b2fdc9593a8d8262ca15e1ed58061e084830753fde2cc64cec32a244b5f0f9"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/infinote-assets-2.png",
+          "status": 200,
+          "src": "/images/projects/app-infinote-26ac09bee8.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 25612,
+          "originalBytes": 80794,
+          "sha256": "26ac09bee888a6df2d3b94f587907db339cf28f844cf148ba2edd05eb6839b72"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/infinote-assets-3.png",
+          "status": 200,
+          "src": "/images/projects/app-infinote-6a375c93b1.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 23214,
+          "originalBytes": 72078,
+          "sha256": "6a375c93b15dbd6b55a38a43157c2db2e670bab36bf79b548fbab9c12b0e6db5"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/infinote-assets-4.png",
+          "status": 200,
+          "src": "/images/projects/app-infinote-60ed3c2071.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 31312,
+          "originalBytes": 108161,
+          "sha256": "60ed3c207191bd7b2947385f07bb34fdde46dff2bab4b2869d8b169ba20c2295"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/infinote-assets-5.png",
+          "status": 200,
+          "src": "/images/projects/app-infinote-596ad8eca9.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 50140,
+          "originalBytes": 249299,
+          "sha256": "596ad8eca97cb2d5563539b6b85e149795dec41c6fd21a8581a5a68fefc82b9b"
+        }
+      ]
+    },
+    "app-silasync": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Silasync_App.png",
+        "status": 200,
+        "src": "/images/projects/app-silasync-preview-8211eba95f.webp",
+        "width": 1600,
+        "height": 1251,
+        "bytes": 193106,
+        "originalBytes": 1520112,
+        "sha256": "8211eba95ff30b74990ce7593c67fdb90b1ec9ab445236a9824e2d5a8bad0a6d"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Silasync-1.png",
+          "status": 200,
+          "src": "/images/projects/app-silasync-e9bd27cebe.webp",
+          "width": 1600,
+          "height": 1313,
+          "bytes": 141302,
+          "originalBytes": 1498659,
+          "sha256": "e9bd27cebe8d8703e82c2a5d52fc256ff125fd12250c475fb0c2b93fd98f50e6"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Silasync-2.png",
+          "status": 200,
+          "src": "/images/projects/app-silasync-547ebd681b.webp",
+          "width": 1076,
+          "height": 2180,
+          "bytes": 112956,
+          "originalBytes": 489652,
+          "sha256": "547ebd681b915610d5e390609c8b0ad63d6d474792ef38721cd8e6762e82a28c"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Silasync-3.png",
+          "status": 200,
+          "src": "/images/projects/app-silasync-8de5654c8b.webp",
+          "width": 710,
+          "height": 711,
+          "bytes": 57064,
+          "originalBytes": 216692,
+          "sha256": "8de5654c8bc965596550a72ba7a46cb537b9e72f15d1933b27b9bb7017cdb407"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Silasync-11.png",
+          "status": 200,
+          "src": "/images/projects/app-silasync-53b4f469dd.webp",
+          "width": 375,
+          "height": 813,
+          "bytes": 36580,
+          "originalBytes": 118074,
+          "sha256": "53b4f469dd42f571d27735aa737d5b89b90dd742c594cb81a228c3cb1ec95c68"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Silasync-12.png",
+          "status": 200,
+          "src": "/images/projects/app-silasync-f56fdaf853.webp",
+          "width": 375,
+          "height": 813,
+          "bytes": 38780,
+          "originalBytes": 185981,
+          "sha256": "f56fdaf853401d04c4b0fe3cb934039cc8c193c144f111595664c570ded03be3"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Silasync-13.png",
+          "status": 200,
+          "src": "/images/projects/app-silasync-1af8e03fd5.webp",
+          "width": 375,
+          "height": 813,
+          "bytes": 47738,
+          "originalBytes": 240802,
+          "sha256": "1af8e03fd532e448600d6313b274c230e3b350a6d71f931b4796565e06d0f901"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Silasync-15.png",
+          "status": 200,
+          "src": "/images/projects/app-silasync-ac714c35d5.webp",
+          "width": 375,
+          "height": 813,
+          "bytes": 45784,
+          "originalBytes": 151658,
+          "sha256": "ac714c35d5b172751249614ba81a8e7f6e1bf5b2de9c53a8c2e4de41b61efd8f"
+        }
+      ]
+    },
+    "app-digital-habit-tracker": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Digital_Habit_Tracker_App.png",
+        "status": 200,
+        "src": "/images/projects/app-digital-habit-tracker-preview-97f6478474.webp",
+        "width": 1600,
+        "height": 1251,
+        "bytes": 212308,
+        "originalBytes": 1801374,
+        "sha256": "97f647847466c7068c5da5e1539a476052ceafdb3ffbefe86d424d7efc7538b8"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/habit-1.png",
+          "status": 200,
+          "src": "/images/projects/app-digital-habit-tracker-6a5d166a01.webp",
+          "width": 1600,
+          "height": 1313,
+          "bytes": 100328,
+          "originalBytes": 1109546,
+          "sha256": "6a5d166a01ef9fb8ccd03cb67bd467dd0291044c26bf401989b30d2b28fa412c"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/habit-2.png",
+          "status": 200,
+          "src": "/images/projects/app-digital-habit-tracker-bcf93c80de.webp",
+          "width": 1076,
+          "height": 2180,
+          "bytes": 72452,
+          "originalBytes": 482912,
+          "sha256": "bcf93c80dedbc0b436e59ef2a5c2ec8e8ebe64efb1ca28f773210b63689c07b1"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/habit-3.png",
+          "status": 200,
+          "src": "/images/projects/app-digital-habit-tracker-5779008eb0.webp",
+          "width": 710,
+          "height": 711,
+          "bytes": 41930,
+          "originalBytes": 191773,
+          "sha256": "5779008eb06540cd2228c8bca0626eaad8acfa32ae72647c7577afa0ca5bfc5b"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Habit-11.png",
+          "status": 200,
+          "src": "/images/projects/app-digital-habit-tracker-f7a43fc117.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 23832,
+          "originalBytes": 76606,
+          "sha256": "f7a43fc117bf1cf3862c2eeb1a3ca44b227d54982cfe896ca701195cd1e07e91"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Habit-12.png",
+          "status": 200,
+          "src": "/images/projects/app-digital-habit-tracker-8871e3fed8.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 20404,
+          "originalBytes": 183471,
+          "sha256": "8871e3fed8e23e496f8a5a4b2864af6bcd3b0925c98be3bd2c786949c0921bf7"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Habit-13.png",
+          "status": 200,
+          "src": "/images/projects/app-digital-habit-tracker-7a54ee650b.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 23602,
+          "originalBytes": 65783,
+          "sha256": "7a54ee650b0cf98e4ab462d4b8ae2f1bd4a95514d3c160ca4a163eceb9b4a23e"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Habit-15.png",
+          "status": 200,
+          "src": "/images/projects/app-digital-habit-tracker-7570ab4ca6.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 26208,
+          "originalBytes": 95275,
+          "sha256": "7570ab4ca62bdd869b0f4569aa64170ae21846c89bfb5e3621447ad1005e261c"
+        }
+      ]
+    },
+    "app-tukeeconnect": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/TukeeConnect_App.png",
+        "status": 200,
+        "src": "/images/projects/app-tukeeconnect-preview-3246549684.webp",
+        "width": 1600,
+        "height": 1199,
+        "bytes": 290014,
+        "originalBytes": 1834788,
+        "sha256": "3246549684dd10d185bd1810617867057a840508e835568b818efc86c0d94924"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Tukee-1.png",
+          "status": 200,
+          "src": "/images/projects/app-tukeeconnect-33757142ee.webp",
+          "width": 1600,
+          "height": 1312,
+          "bytes": 112492,
+          "originalBytes": 690066,
+          "sha256": "33757142eee3e87b1c3e870234340f414415b2dda11295b42d744da0009b5b8c"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Tukee-2.png",
+          "status": 200,
+          "src": "/images/projects/app-tukeeconnect-a269079b20.webp",
+          "width": 1077,
+          "height": 2180,
+          "bytes": 136216,
+          "originalBytes": 1285031,
+          "sha256": "a269079b20303daa30d01c0aa9fd8654fce580021fcfd772dddc3172710edacb"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Tukee-3.png",
+          "status": 200,
+          "src": "/images/projects/app-tukeeconnect-0d6ad8194d.webp",
+          "width": 711,
+          "height": 711,
+          "bytes": 52548,
+          "originalBytes": 175977,
+          "sha256": "0d6ad8194dc4294c618f684a1b674c139216a53508b35c650d181bbafee2adec"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Tukee-11.png",
+          "status": 200,
+          "src": "/images/projects/app-tukeeconnect-07e61e2324.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 18620,
+          "originalBytes": 54744,
+          "sha256": "07e61e23244d458d8b62bfc36984544220e05ae0d8e64b769f0babd2724c9808"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Tukee-12.png",
+          "status": 200,
+          "src": "/images/projects/app-tukeeconnect-ea14209c8e.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 31778,
+          "originalBytes": 113981,
+          "sha256": "ea14209c8ea8c087027a98c6a262e2f89a1532309414a8a824b5b7239b7fd3bb"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Tukee-13.png",
+          "status": 200,
+          "src": "/images/projects/app-tukeeconnect-b2b7dc7630.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 35308,
+          "originalBytes": 131637,
+          "sha256": "b2b7dc763065c3bc5dbf355c843817ca975f191f6adf6bd53b2f4adc144d7105"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Tukee-15.png",
+          "status": 200,
+          "src": "/images/projects/app-tukeeconnect-fb9ab3bda0.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 41986,
+          "originalBytes": 361379,
+          "sha256": "fb9ab3bda03515dff332d9c2155debbef7bcb4d8e08f612871f69f15535fa739"
+        }
+      ]
+    },
+    "app-pace-of-play": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Pace_of_Play_App.png",
+        "status": 200,
+        "src": "/images/projects/app-pace-of-play-preview-a2e70a7ffe.webp",
+        "width": 1600,
+        "height": 1200,
+        "bytes": 222204,
+        "originalBytes": 1939826,
+        "sha256": "a2e70a7ffef48586a76448303b04ccff4472d83a359da5dce0b4005a619e4361"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/pop-1.png",
+          "status": 200,
+          "src": "/images/projects/app-pace-of-play-d2f0307339.webp",
+          "width": 1600,
+          "height": 1312,
+          "bytes": 159502,
+          "originalBytes": 1533054,
+          "sha256": "d2f03073399ffe716d1e76b112deb6245ce7c09de87686f3db0f673c268e6c70"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/pop-2.png",
+          "status": 200,
+          "src": "/images/projects/app-pace-of-play-e471ce5418.webp",
+          "width": 1077,
+          "height": 2180,
+          "bytes": 71258,
+          "originalBytes": 445718,
+          "sha256": "e471ce5418610428405787e07c40f572b29f2a0efb5849530807d28aa5cb1c7a"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/pop-3.png",
+          "status": 200,
+          "src": "/images/projects/app-pace-of-play-a2ec9a6e6d.webp",
+          "width": 711,
+          "height": 711,
+          "bytes": 53868,
+          "originalBytes": 254697,
+          "sha256": "a2ec9a6e6d1f3042c7069e9a871c33963729002308d7b6653d0f006d686b3a7c"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/pop-11.png",
+          "status": 200,
+          "src": "/images/projects/app-pace-of-play-5954738d17.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 53052,
+          "originalBytes": 373166,
+          "sha256": "5954738d17cf78b83b61bb7743fa3f0cab7662e00ecf8f0e711d68d2db66c892"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/pop-12.png",
+          "status": 200,
+          "src": "/images/projects/app-pace-of-play-66e66a0922.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 35664,
+          "originalBytes": 126639,
+          "sha256": "66e66a0922ab9873d2c7530b35742cd7d83615ae45b1cf4a42a3ffd8fe8e960f"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/pop-13.png",
+          "status": 200,
+          "src": "/images/projects/app-pace-of-play-69c03deb1f.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 43842,
+          "originalBytes": 230690,
+          "sha256": "69c03deb1f95b435909d2f04290bf6c00a7f34b92ea0305c397fb26fabdaa14b"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/pop-15.png",
+          "status": 200,
+          "src": "/images/projects/app-pace-of-play-df09b6bfa1.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 29628,
+          "originalBytes": 120711,
+          "sha256": "df09b6bfa15c2f94c9e0c36b0b5e6e6062b9f0895446c4fc1650a14a38aab20b"
+        }
+      ]
+    },
+    "app-qcop-app": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Qcop_App.png",
+        "status": 200,
+        "src": "/images/projects/app-qcop-app-preview-f3c9ac0af8.webp",
+        "width": 1600,
+        "height": 1250,
+        "bytes": 286862,
+        "originalBytes": 1721215,
+        "sha256": "f3c9ac0af8192fffe3ee80b51db0822dc3dad2582d5ec0162ccf61528e82a19d"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/qcop-1.png",
+          "status": 200,
+          "src": "/images/projects/app-qcop-app-b978d2523b.webp",
+          "width": 1600,
+          "height": 1312,
+          "bytes": 109730,
+          "originalBytes": 746314,
+          "sha256": "b978d2523ba38292902add6a1803e39f53f1096de0690870066eb4db09a896e6"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/qcop-2.png",
+          "status": 200,
+          "src": "/images/projects/app-qcop-app-7db55b6b6a.webp",
+          "width": 1077,
+          "height": 2180,
+          "bytes": 106298,
+          "originalBytes": 443252,
+          "sha256": "7db55b6b6ae558c73f79ecd7fa6af36b8e11f6f795e8b8686d520c1e0b3385e8"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/qcop-3.png",
+          "status": 200,
+          "src": "/images/projects/app-qcop-app-b49aab8dd7.webp",
+          "width": 711,
+          "height": 711,
+          "bytes": 45826,
+          "originalBytes": 172656,
+          "sha256": "b49aab8dd71ba0a08ed110b2c5b577a26a46e6b3511fd214f00035ac554c8723"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/qcop-11.png",
+          "status": 200,
+          "src": "/images/projects/app-qcop-app-0cf8c1c846.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 22704,
+          "originalBytes": 83995,
+          "sha256": "0cf8c1c8465a57e0c813bcd1c69205b9be30d9ab3e9326bed4cef125684a3c1e"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/qcop-12.png",
+          "status": 200,
+          "src": "/images/projects/app-qcop-app-571dc2f817.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 27128,
+          "originalBytes": 90250,
+          "sha256": "571dc2f817b0214c8369cc162b796e7537970adf06bb02eb3775a89929bed4a2"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/qcop-13.png",
+          "status": 200,
+          "src": "/images/projects/app-qcop-app-ceef78c4ad.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 35756,
+          "originalBytes": 146944,
+          "sha256": "ceef78c4ad2efe75c345eb08b86eba6505944838ea196bd6c34c5dd2e3763305"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/qcop-15.png",
+          "status": 200,
+          "src": "/images/projects/app-qcop-app-9e220187c3.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 25924,
+          "originalBytes": 76720,
+          "sha256": "9e220187c3c341f687918c7fd4b7f15768240cfdf3da7e52f62411fc6a1fd25e"
+        }
+      ]
+    },
+    "app-little-butterflies": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Little_Butterflies_App.png",
+        "status": 200,
+        "src": "/images/projects/app-little-butterflies-preview-967ef0794d.webp",
+        "width": 1600,
+        "height": 1250,
+        "bytes": 296654,
+        "originalBytes": 1706133,
+        "sha256": "967ef0794deab686ce21e2684c0f113946adef6911494eff29526f82623984ee"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/lb-1.png",
+          "status": 200,
+          "src": "/images/projects/app-little-butterflies-009c9bbe25.webp",
+          "width": 1600,
+          "height": 1312,
+          "bytes": 123732,
+          "originalBytes": 745473,
+          "sha256": "009c9bbe258a4eee59fb1ddb0e807a64c03d66abcf290183e2550adcda819521"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/lb-2.png",
+          "status": 200,
+          "src": "/images/projects/app-little-butterflies-e1b408cae8.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 13980,
+          "originalBytes": 48059,
+          "sha256": "e1b408cae8ce85b7666a4cf2d692a275a7ebde3692aec50899d0d0dc97aae1bc"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/lb-3.png",
+          "status": 200,
+          "src": "/images/projects/app-little-butterflies-df649ddb29.webp",
+          "width": 711,
+          "height": 711,
+          "bytes": 42734,
+          "originalBytes": 153002,
+          "sha256": "df649ddb29195561d8ca4bee6bd6b655dbd8432af55c99170916f47282476c3d"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/lb-11.png",
+          "status": 200,
+          "src": "/images/projects/app-little-butterflies-ff77d40d85.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 18970,
+          "originalBytes": 53962,
+          "sha256": "ff77d40d85629c1ed6ff1b018758e630ace43036817bd4df828013dd4021360c"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/lb-12.png",
+          "status": 200,
+          "src": "/images/projects/app-little-butterflies-9df5860952.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 39860,
+          "originalBytes": 159947,
+          "sha256": "9df5860952ab9beda7e02a8d8890818023c3f17665956b0082157c03657df865"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/lb-13.png",
+          "status": 200,
+          "src": "/images/projects/app-little-butterflies-a790c41d6c.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 23566,
+          "originalBytes": 70890,
+          "sha256": "a790c41d6c32fcf7911f4d51c554251f990e1f92a1631c2137e5eb6ce5bccef3"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/lb-15.png",
+          "status": 200,
+          "src": "/images/projects/app-little-butterflies-222f15760f.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 34644,
+          "originalBytes": 142729,
+          "sha256": "222f15760f2b71d9086a595e91b09a191a1cc5d279f9e1acebf070d45828d969"
+        }
+      ]
+    },
+    "app-case-management-ase": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Case_Managment_ASE_App.png",
+        "status": 200,
+        "src": "/images/projects/app-case-management-ase-preview-c674fa09c5.webp",
+        "width": 1600,
+        "height": 1199,
+        "bytes": 248452,
+        "originalBytes": 1609014,
+        "sha256": "c674fa09c5c8d71d3d12f097dd4b93e9167d8569025d94eeb35a216d7db1de00"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Case-Management-ASE-1.png",
+          "status": 200,
+          "src": "/images/projects/app-case-management-ase-fa0e25bd03.webp",
+          "width": 1600,
+          "height": 1313,
+          "bytes": 107800,
+          "originalBytes": 614534,
+          "sha256": "fa0e25bd03193dae7defa795eccf3b89b8312736bcbc854a7e3d317b362baebe"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Case-Management-ASE-2.png",
+          "status": 200,
+          "src": "/images/projects/app-case-management-ase-c57f572ee0.webp",
+          "width": 1076,
+          "height": 2180,
+          "bytes": 73182,
+          "originalBytes": 306130,
+          "sha256": "c57f572ee0837fa9eb39655bb8f8654bdcea3c402ac34b13e7a7b09810574cf8"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Case-Management-ASE-3.png",
+          "status": 200,
+          "src": "/images/projects/app-case-management-ase-85b478e42c.webp",
+          "width": 710,
+          "height": 711,
+          "bytes": 38166,
+          "originalBytes": 142449,
+          "sha256": "85b478e42cf197ebcc65872f592f7fa0700b00c7ccabe38d238f9452c12bf73e"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Case-Management-ASE-11.png",
+          "status": 200,
+          "src": "/images/projects/app-case-management-ase-fbd07fbc00.webp",
+          "width": 375,
+          "height": 813,
+          "bytes": 24948,
+          "originalBytes": 75812,
+          "sha256": "fbd07fbc0067750b0cb9ad70db70b09313797f6d247455f4715ddf4e2a74ab96"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Case-Management-ASE-12.png",
+          "status": 200,
+          "src": "/images/projects/app-case-management-ase-3ccf70f9cb.webp",
+          "width": 375,
+          "height": 813,
+          "bytes": 23156,
+          "originalBytes": 96047,
+          "sha256": "3ccf70f9cb2e227e65fc8e5aee05219ebe4a9d33cb773644e51c3b16cf255775"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Case-Management-ASE-13.png",
+          "status": 200,
+          "src": "/images/projects/app-case-management-ase-d711ca601b.webp",
+          "width": 375,
+          "height": 813,
+          "bytes": 29968,
+          "originalBytes": 90568,
+          "sha256": "d711ca601b0af67468d7581ded5690422dfbc51c75a128fe382a6dcb97c773ea"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Case-Management-ASE-15.png",
+          "status": 200,
+          "src": "/images/projects/app-case-management-ase-d009d6a701.webp",
+          "width": 375,
+          "height": 813,
+          "bytes": 31386,
+          "originalBytes": 88446,
+          "sha256": "d009d6a7010ca639c769c2c0728dc66248096413d03da3fca46df163d52f9dd3"
+        }
+      ]
+    },
+    "app-printlific": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Printlific_App.png",
+        "status": 200,
+        "src": "/images/projects/app-printlific-preview-ebd002c50f.webp",
+        "width": 1600,
+        "height": 1250,
+        "bytes": 298486,
+        "originalBytes": 2051023,
+        "sha256": "ebd002c50f30d837e30274b6ccdaaa9b6d727cb0dcbae6032a6275026f80e505"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/printlific-1.png",
+          "status": 200,
+          "src": "/images/projects/printlific-76682bc195.webp",
+          "width": 1600,
+          "height": 1312,
+          "bytes": 129252,
+          "originalBytes": 1184826,
+          "sha256": "76682bc1957c5ae1b02e3228e087461a86077e092de44ce44a5b03ac2b0b1008"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/printlific-2.png",
+          "status": 200,
+          "src": "/images/projects/printlific-64c987ec7d.webp",
+          "width": 1077,
+          "height": 2180,
+          "bytes": 108978,
+          "originalBytes": 1445406,
+          "sha256": "64c987ec7d13d2babb527f40acc6dd9a7c793bc86e7b7ec275504ef6d249edd9"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/printlific-3.png",
+          "status": 200,
+          "src": "/images/projects/printlific-21d7913341.webp",
+          "width": 711,
+          "height": 711,
+          "bytes": 39216,
+          "originalBytes": 248350,
+          "sha256": "21d7913341f54e939a095f4087890154dbf0084080b1725404a3314a43df6026"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/printlific-11.png",
+          "status": 200,
+          "src": "/images/projects/app-printlific-f3b27eeb5b.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 20144,
+          "originalBytes": 172454,
+          "sha256": "f3b27eeb5b9062534d945045bad454e5aeee702388f3a72504bce8dfbe87c2b2"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/printlific-12.png",
+          "status": 200,
+          "src": "/images/projects/app-printlific-41335bfd83.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 40312,
+          "originalBytes": 266122,
+          "sha256": "41335bfd83287bd83ce2cdc2fe22e891f54b54705ea7e9730ec6bba4c6607dd9"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/printlific-13.png",
+          "status": 200,
+          "src": "/images/projects/app-printlific-5059b3605e.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 43674,
+          "originalBytes": 257899,
+          "sha256": "5059b3605ec06cbf6eceb9291c0a0dee8d1db5737c3c349a849a7553326c25cd"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/printlific-15.png",
+          "status": 200,
+          "src": "/images/projects/app-printlific-406b954911.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 42432,
+          "originalBytes": 134602,
+          "sha256": "406b9549112f7340facaf91a322d9fdf42a8bd97a38fcd9f36af6a2ec3bf31c3"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/printlific-16.png",
+          "status": 200,
+          "src": "/images/projects/app-printlific-71c494383c.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 45812,
+          "originalBytes": 226140,
+          "sha256": "71c494383cc0bf55af2447e1dbede43bf06b4277ef68e17bc86694b4b5e79940"
+        }
+      ]
+    },
+    "app-law-legend": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Law_Legend_App.png",
+        "status": 200,
+        "src": "/images/projects/app-law-legend-preview-fe1e9fa54a.webp",
+        "width": 1600,
+        "height": 1250,
+        "bytes": 320314,
+        "originalBytes": 1961540,
+        "sha256": "fe1e9fa54a7ddf10caaf3ecb99ffe3b8c5daa15ab187631e7035a85fff767aef"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/law-legends-1.png",
+          "status": 200,
+          "src": "/images/projects/app-law-legend-790ab735b2.webp",
+          "width": 1600,
+          "height": 1313,
+          "bytes": 95818,
+          "originalBytes": 613264,
+          "sha256": "790ab735b2d2628c7e8c580e4b4f67b45b0fa17e1ee23d6ccf36eebcef5f73a2"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/law-legends-2.png",
+          "status": 200,
+          "src": "/images/projects/app-law-legend-358fa6eee1.webp",
+          "width": 331,
+          "height": 670,
+          "bytes": 43824,
+          "originalBytes": 261420,
+          "sha256": "358fa6eee124f69b22e8761089a441391dbf90cc48c9bf70d3e3d86119adf6b6"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/law-legends-3.png",
+          "status": 200,
+          "src": "/images/projects/app-law-legend-e304bad883.webp",
+          "width": 711,
+          "height": 712,
+          "bytes": 57344,
+          "originalBytes": 191864,
+          "sha256": "e304bad883124d6902d065ec247c5076cd934e3bdbac26073b37902880be6513"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/law-legends-11.png",
+          "status": 200,
+          "src": "/images/projects/app-law-legend-81443398fd.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 20768,
+          "originalBytes": 83471,
+          "sha256": "81443398fdce16fa9ccdb60ac20661d7f29b946ed84eeeaeb0c04b3481dd9301"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/law-legends-12.png",
+          "status": 200,
+          "src": "/images/projects/app-law-legend-d760600ff9.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 27034,
+          "originalBytes": 75050,
+          "sha256": "d760600ff921860411819bb0c41460f2c91e4ae802a8d45d63792f576f26e1aa"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/law-legends-13.png",
+          "status": 200,
+          "src": "/images/projects/app-law-legend-4f8205ad08.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 58292,
+          "originalBytes": 306939,
+          "sha256": "4f8205ad08f64fb43baad5461bdbb577d471fb2a32334cf475616f8c1e6f10cb"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/law-legends-15.png",
+          "status": 200,
+          "src": "/images/projects/app-law-legend-0adfcf817d.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 27082,
+          "originalBytes": 89332,
+          "sha256": "0adfcf817d2c4988506c5c697082ca19c616ee9fad9c59f237e986bf8365f042"
+        }
+      ]
+    },
+    "app-racepace": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Racepace_App.png",
+        "status": 200,
+        "src": "/images/projects/app-racepace-preview-e21b93abb1.webp",
+        "width": 1600,
+        "height": 1199,
+        "bytes": 303772,
+        "originalBytes": 2163421,
+        "sha256": "e21b93abb17e23332c1f98285e08bb8a19f89ae0f80067f77f7ed9fcfb0d540a"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/welcome/racepace-home-team.png",
+          "status": 200,
+          "src": "/images/projects/app-racepace-5f124f9b72.webp",
+          "width": 287,
+          "height": 554,
+          "bytes": 23116,
+          "originalBytes": 139435,
+          "sha256": "5f124f9b72de224ddfced8e03468cc746fbe20daa65c1d1378923cd5d9bc0949"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/race-1.png",
+          "status": 200,
+          "src": "/images/projects/app-racepace-033541e3d2.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 94224,
+          "originalBytes": 391043,
+          "sha256": "033541e3d21c0ab70392c2492e3b737e05283d395cadf88951a5925e6e6af626"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/race-2.png",
+          "status": 200,
+          "src": "/images/projects/app-racepace-64a9786a12.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 90560,
+          "originalBytes": 850037,
+          "sha256": "64a9786a12c3e7e1656bc762941fd52d5d277e4895358f21405df20f45eeb1d9"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/race-7.png",
+          "status": 200,
+          "src": "/images/projects/app-racepace-b59edca679.webp",
+          "width": 750,
+          "height": 1660,
+          "bytes": 69652,
+          "originalBytes": 580271,
+          "sha256": "b59edca6797a65b35287fc5813ae8054fd12de49f4a918e7075d3b8725eaeaee"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/race-6.png",
+          "status": 200,
+          "src": "/images/projects/app-racepace-db11c0bea2.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 78396,
+          "originalBytes": 344887,
+          "sha256": "db11c0bea24387fa96bf903fa3f9d536ef14636cddb0946b7f5184fb57f182b7"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/race-5.png",
+          "status": 200,
+          "src": "/images/projects/app-racepace-cd44c34b0b.webp",
+          "width": 750,
+          "height": 1624,
+          "bytes": 35872,
+          "originalBytes": 88063,
+          "sha256": "cd44c34b0b934f4624c12dd83d7eef2cb65a884c63ef47a739d86902e1e62629"
+        }
+      ]
+    },
+    "app-been-there": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Been_There_App.png",
+        "status": 200,
+        "src": "/images/projects/app-been-there-preview-09a10a00a0.webp",
+        "width": 1600,
+        "height": 1250,
+        "bytes": 274900,
+        "originalBytes": 1964628,
+        "sha256": "09a10a00a0ad5481880471aa014e84077d9aa99b686449ac616a39d078700403"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/been-there-1.png",
+          "status": 200,
+          "src": "/images/projects/app-been-there-dd9a4f0748.webp",
+          "width": 1600,
+          "height": 1312,
+          "bytes": 112228,
+          "originalBytes": 1227106,
+          "sha256": "dd9a4f0748d1d79809b6f3ef8a945186b37fb83ba50d1aa44cf2750e7cf0e556"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/been-there-2.png",
+          "status": 200,
+          "src": "/images/projects/app-been-there-7dc91d10b0.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 27056,
+          "originalBytes": 109026,
+          "sha256": "7dc91d10b0f25088436e821fcb65530555c1fff2797b711874cd4971a212cc36"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/been-there-3.png",
+          "status": 200,
+          "src": "/images/projects/app-been-there-9f3cde63b4.webp",
+          "width": 711,
+          "height": 711,
+          "bytes": 44194,
+          "originalBytes": 178144,
+          "sha256": "9f3cde63b41177bd730ed6b45fe61d76a306d32c934522f71c100f2c1698c742"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/been-there-11.png",
+          "status": 200,
+          "src": "/images/projects/app-been-there-66455b674f.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 18524,
+          "originalBytes": 248140,
+          "sha256": "66455b674f27a91fc56feaddc7f6312ce1ea86b3ffd981f4920874cd0dae4ca5"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/been-there-12.png",
+          "status": 200,
+          "src": "/images/projects/app-been-there-a13056bcb4.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 40478,
+          "originalBytes": 171197,
+          "sha256": "a13056bcb4916382fd7d42e36445f3883040d32c8219983d48f7cb7e3cb30858"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/been-there-13.png",
+          "status": 200,
+          "src": "/images/projects/app-been-there-0435845176.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 22818,
+          "originalBytes": 69076,
+          "sha256": "04358451766c605ed43da0c244e0ffa2ca9f256743dc164db254cf2329d481cf"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/been-there-15.png",
+          "status": 200,
+          "src": "/images/projects/app-been-there-446720a75f.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 37668,
+          "originalBytes": 136281,
+          "sha256": "446720a75f51e92865dd8cdeb3e8a0d65bc343f5d9195ed30a4671219d82b039"
+        }
+      ]
+    },
+    "app-one-pantry": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/ONE_PANTRY_App.png",
+        "status": 200,
+        "src": "/images/projects/app-one-pantry-preview-5ce2d7bf2e.webp",
+        "width": 1600,
+        "height": 1199,
+        "bytes": 284666,
+        "originalBytes": 1758188,
+        "sha256": "5ce2d7bf2eb013ca776e9f3bf189d02064efd3059bb00e89b6cd72952d6adf36"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/One-pantry-1.png",
+          "status": 200,
+          "src": "/images/projects/app-one-pantry-7a5eed8a80.webp",
+          "width": 1600,
+          "height": 1312,
+          "bytes": 102350,
+          "originalBytes": 935709,
+          "sha256": "7a5eed8a8029e8a85bf60c503465270ff5dee85d055e0474132c918a089ec871"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/One-pantry-2.png",
+          "status": 200,
+          "src": "/images/projects/app-one-pantry-992eb56989.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 12084,
+          "originalBytes": 144058,
+          "sha256": "992eb56989b21086ca33cc13cae00dcfbe2b4fe9fe7ee93c9799165445579753"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/One-pantry-3.png",
+          "status": 200,
+          "src": "/images/projects/app-one-pantry-43e3132e45.webp",
+          "width": 711,
+          "height": 711,
+          "bytes": 44478,
+          "originalBytes": 178292,
+          "sha256": "43e3132e45ab1a5bb7fd2e12af89627fda2eb155e958b010dbb92d3168edb0f7"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/One-pantry-11.png",
+          "status": 200,
+          "src": "/images/projects/app-one-pantry-f66e9a3356.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 21604,
+          "originalBytes": 209483,
+          "sha256": "f66e9a335639516df320246afea22f39c78fb67dc83540042dd22b30c836bafe"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/One-pantry-12.png",
+          "status": 200,
+          "src": "/images/projects/app-one-pantry-32ebcb4332.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 34332,
+          "originalBytes": 122686,
+          "sha256": "32ebcb4332d59684cccd0362c38b92c964590537c535c2aa5fecf963906ff3b2"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/One-pantry-13.png",
+          "status": 200,
+          "src": "/images/projects/app-one-pantry-c2ed8acc39.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 40606,
+          "originalBytes": 172827,
+          "sha256": "c2ed8acc39812ffc35acaef326637ab2b5b30aaf226304383c81cee4bb4ffb74"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/One-pantry-15.png",
+          "status": 200,
+          "src": "/images/projects/app-one-pantry-094375d3ba.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 28980,
+          "originalBytes": 94262,
+          "sha256": "094375d3ba9d1f2286f6998a71980e2c6329880b7a0f876f634fcdbd3fd9afb3"
+        }
+      ]
+    },
+    "app-escapethehoa": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/EscapeTheHOA_App.png",
+        "status": 200,
+        "src": "/images/projects/app-escapethehoa-preview-f5aec6c676.webp",
+        "width": 1600,
+        "height": 1199,
+        "bytes": 307148,
+        "originalBytes": 2316213,
+        "sha256": "f5aec6c6767f83cca91909642fed5f3aeb6b45e46f4851d7e5fcca52fb18b748"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Escape-1.png",
+          "status": 200,
+          "src": "/images/projects/app-escapethehoa-6ab0892c68.webp",
+          "width": 1600,
+          "height": 1312,
+          "bytes": 234360,
+          "originalBytes": 2463710,
+          "sha256": "6ab0892c6832e2f070047c06c37dbb459bc7908936ef4ebb60232f157356e880"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Escape-2.png",
+          "status": 200,
+          "src": "/images/projects/app-escapethehoa-823350ef22.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 36570,
+          "originalBytes": 197534,
+          "sha256": "823350ef225af7ad30707d0329ef5bed7712a6e550a64f60b90feffb56fdc03b"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/Escape-3.png",
+          "status": 200,
+          "src": "/images/projects/app-escapethehoa-3a14bd7098.webp",
+          "width": 711,
+          "height": 711,
+          "bytes": 81474,
+          "originalBytes": 464576,
+          "sha256": "3a14bd7098732b5cc81076e6f8c9f2dda1181748f242fb8e2157ff86c118381c"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Escape-11.png",
+          "status": 200,
+          "src": "/images/projects/app-escapethehoa-eab8f075c0.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 51900,
+          "originalBytes": 369302,
+          "sha256": "eab8f075c00090d8b43a190daefed4fe16b92d20b671f73fd929463e81a2f922"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Escape-12.png",
+          "status": 200,
+          "src": "/images/projects/app-escapethehoa-9632458d93.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 67320,
+          "originalBytes": 413042,
+          "sha256": "9632458d938de5b7cb0af07487bb1171fb19f2b91f4f7db12a988011e3b5a248"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Escape-13.png",
+          "status": 200,
+          "src": "/images/projects/app-escapethehoa-8d37d099d7.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 71088,
+          "originalBytes": 404910,
+          "sha256": "8d37d099d7ec74c8bdbfda56f83db695743b347531b38c5abfb8865c17e31f49"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/Escape-15.png",
+          "status": 200,
+          "src": "/images/projects/app-escapethehoa-7ae452a703.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 56158,
+          "originalBytes": 330011,
+          "sha256": "7ae452a7033625fcf2b82702c5918adba3f0a2aed73b23bb5be793ddc227461e"
+        }
+      ]
+    },
+    "app-dateflow": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Dateflow_App.png",
+        "status": 200,
+        "src": "/images/projects/app-dateflow-preview-69f5944420.webp",
+        "width": 1600,
+        "height": 1200,
+        "bytes": 190382,
+        "originalBytes": 1596007,
+        "sha256": "69f594442015c655dc62c3f8a543dd369f15119dc6bd238de095fbecd87306c9"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/dateflow-1.png",
+          "status": 200,
+          "src": "/images/projects/app-dateflow-a19288dbdd.webp",
+          "width": 1600,
+          "height": 1312,
+          "bytes": 79486,
+          "originalBytes": 455968,
+          "sha256": "a19288dbdda3da9c39ce196a93abdfb55a12f7848c9340e78cb36d319babb8e3"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/dateflow-2.png",
+          "status": 200,
+          "src": "/images/projects/app-dateflow-70ad2adb1a.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 22700,
+          "originalBytes": 157433,
+          "sha256": "70ad2adb1a5fc69a0e2435a061b16cc2d2f39eef101aff5c06751acdbdfbfc9a"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/dateflow-3.png",
+          "status": 200,
+          "src": "/images/projects/app-dateflow-33020d3acf.webp",
+          "width": 711,
+          "height": 711,
+          "bytes": 46182,
+          "originalBytes": 177748,
+          "sha256": "33020d3acfbdf0810af8fed18057d15a62933dd9f5191d8ae06ca90560d42b94"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/dateflow-11.png",
+          "status": 200,
+          "src": "/images/projects/app-dateflow-806c579753.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 23898,
+          "originalBytes": 63051,
+          "sha256": "806c5797536f669d427efc570054c8e1f6a955a309e6d52db2a8b881b38143d9"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/dateflow-12.png",
+          "status": 200,
+          "src": "/images/projects/app-dateflow-10e8f2ab0b.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 22808,
+          "originalBytes": 62203,
+          "sha256": "10e8f2ab0b05de7d652914c274aa37d2e1e781cf24a0cf6ae2102e10ca67a64b"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/dateflow-13.png",
+          "status": 200,
+          "src": "/images/projects/app-dateflow-846731973e.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 37234,
+          "originalBytes": 213786,
+          "sha256": "846731973ef3a6ddaf403a9c8f57da2e1e56bb0a9f667c4b2f9679430db1e34c"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/dateflow-15.png",
+          "status": 200,
+          "src": "/images/projects/app-dateflow-f705073b97.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 31162,
+          "originalBytes": 81632,
+          "sha256": "f705073b97c257f736a4b86dc2c5d16b9847d521b882b96d0be2a331112941e7"
+        }
+      ]
+    },
+    "app-meravyaah": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/meravyaah_App.png",
+        "status": 200,
+        "src": "/images/projects/app-meravyaah-preview-cdcccb8e32.webp",
+        "width": 1600,
+        "height": 1200,
+        "bytes": 217360,
+        "originalBytes": 1896162,
+        "sha256": "cdcccb8e32a974a5f1a04d0293b08af8f9390f3eab7335bce2b7299c78efa09f"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/meravyaah-1.png",
+          "status": 200,
+          "src": "/images/projects/app-meravyaah-79209c3e95.webp",
+          "width": 1600,
+          "height": 1312,
+          "bytes": 146574,
+          "originalBytes": 1541366,
+          "sha256": "79209c3e95e2445af9e21a2880b29aac8b3ff315ebc4c174d8ee5b508f24bacd"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/meravyaah-2.png",
+          "status": 200,
+          "src": "/images/projects/app-meravyaah-2a3ce84349.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 21262,
+          "originalBytes": 112852,
+          "sha256": "2a3ce84349564220cd4fa4f4857fdf8ae3568b35c84f067d0e5cd9b7e9ee9fcc"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/meravyaah-3.png",
+          "status": 200,
+          "src": "/images/projects/app-meravyaah-489593bea1.webp",
+          "width": 711,
+          "height": 711,
+          "bytes": 56848,
+          "originalBytes": 265265,
+          "sha256": "489593bea1e9d0fb09423b728c11c6d4eea5ad83e5203a319ae2d8a7fcd9ff09"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/meravyaah-11.png",
+          "status": 200,
+          "src": "/images/projects/app-meravyaah-1d3654537c.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 59268,
+          "originalBytes": 371784,
+          "sha256": "1d3654537cdde0e0f84c36af1212237f6c3639b52dfe19a39db5cdfffa6985e2"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/meravyaah-12.png",
+          "status": 200,
+          "src": "/images/projects/app-meravyaah-8c2624eb95.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 40940,
+          "originalBytes": 274090,
+          "sha256": "8c2624eb95132d7004cf60cf6c9d487235aa9b65f0b43bf4563ac67fc8875987"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/meravyaah-13.png",
+          "status": 200,
+          "src": "/images/projects/app-meravyaah-2f3c691bc8.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 32292,
+          "originalBytes": 124378,
+          "sha256": "2f3c691bc89d4553bd1b9b68959947c93859df539b91743a1adf9fbd93243ce6"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/meravyaah-15.png",
+          "status": 200,
+          "src": "/images/projects/app-meravyaah-44cf0e411b.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 28820,
+          "originalBytes": 92546,
+          "sha256": "44cf0e411ba01357f3005020fe698edf61cb8056b42b0f7016d48778364baf4f"
+        }
+      ]
+    },
+    "app-beliri": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Belleri.png",
+        "status": 200,
+        "src": "/images/projects/app-beliri-preview-60e4d2579c.webp",
+        "width": 1500,
+        "height": 1251,
+        "bytes": 142652,
+        "originalBytes": 238124,
+        "sha256": "60e4d2579c3ead7c05f4a44f9fae970e2a680a520fc913798d45555fdfcefa3a"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/beliri-new-1.png",
+          "status": 200,
+          "src": "/images/projects/app-beliri-c67f4584ed.webp",
+          "width": 1600,
+          "height": 1312,
+          "bytes": 120502,
+          "originalBytes": 949251,
+          "sha256": "c67f4584edbbbbc91592da3362583d5006dd8a5a61ca8f925738c1bf7d1e48c0"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/beliri-new-2.png",
+          "status": 200,
+          "src": "/images/projects/app-beliri-98639d8e1a.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 26162,
+          "originalBytes": 224784,
+          "sha256": "98639d8e1a7a5ef37ca709223761c3525ad35cca502a46e33733f9f0ae9c85e3"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/beliri-new-3.png",
+          "status": 200,
+          "src": "/images/projects/app-beliri-874cce1f9b.webp",
+          "width": 711,
+          "height": 711,
+          "bytes": 65116,
+          "originalBytes": 308177,
+          "sha256": "874cce1f9bd5a8dbed0656435cfc2628827c524ca50a0fdacb5d04d38278513a"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/beliri-new-11.png",
+          "status": 200,
+          "src": "/images/projects/app-beliri-ab2d360790.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 15672,
+          "originalBytes": 36626,
+          "sha256": "ab2d36079033d851c18e99b221672b5663bc0ab7e8a90c9bf12ea39095a89c45"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/beliri-new-12.png",
+          "status": 200,
+          "src": "/images/projects/app-beliri-6ce4647fac.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 27422,
+          "originalBytes": 84408,
+          "sha256": "6ce4647fac5a779a91270c9a3ac41b1bc4e326f34bf68eadf6b2e27f2afc9fe3"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/beliri-new-13.png",
+          "status": 200,
+          "src": "/images/projects/app-beliri-1c1afc56f3.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 39854,
+          "originalBytes": 297808,
+          "sha256": "1c1afc56f39eb8c9a5cc8bacb98f6fa81e36e9a4bea8cffd12d57aec93b877fc"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/beliri-new-15.png",
+          "status": 200,
+          "src": "/images/projects/app-beliri-53f8b92c5f.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 40060,
+          "originalBytes": 175934,
+          "sha256": "53f8b92c5fbe94eb606821b9e67093919e1c0fbdaf0824e9ff436cbd571db289"
+        }
+      ]
+    },
+    "app-fynmate": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Fynmate.png",
+        "status": 200,
+        "src": "/images/projects/app-fynmate-preview-2bfe5eaf56.webp",
+        "width": 1499,
+        "height": 1249,
+        "bytes": 123210,
+        "originalBytes": 272421,
+        "sha256": "2bfe5eaf56399b7a563cbdf0b9ba24439a52c0121f590633d22e05b23b027088"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/fynmate-2.png",
+          "status": 200,
+          "src": "/images/projects/app-fynmate-8cce9e8e19.webp",
+          "width": 1088,
+          "height": 1043,
+          "bytes": 121204,
+          "originalBytes": 655151,
+          "sha256": "8cce9e8e19ad653163c5a40acab17c20996870d6f2ea7bc0e81ef11921fadb66"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/fynmate-e.png",
+          "status": 200,
+          "src": "/images/projects/app-fynmate-c30dc4b853.webp",
+          "width": 660,
+          "height": 980,
+          "bytes": 39970,
+          "originalBytes": 309323,
+          "sha256": "c30dc4b85357268882354a39d99882bd0304cab0e642ea7577e9f359d326532d"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/fyn-assets-1.png",
+          "status": 200,
+          "src": "/images/projects/app-fynmate-1da15f8089.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 27182,
+          "originalBytes": 137040,
+          "sha256": "1da15f8089115cda5130781290a1ac7e699341933b230a8a8f51b0c8d3bc9388"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/fyn-assets-2.png",
+          "status": 200,
+          "src": "/images/projects/app-fynmate-05299eccd3.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 34898,
+          "originalBytes": 180183,
+          "sha256": "05299eccd3f257380d66798e8c56a997f885f3a5511c0695a92d0e1aa4861f07"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/fyn-assets-3.png",
+          "status": 200,
+          "src": "/images/projects/app-fynmate-0645b532f1.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 36086,
+          "originalBytes": 155571,
+          "sha256": "0645b532f1389d32844af94f431f1e138aa11e60020058e9d816dfd0c4ac5896"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/fyn-assets-4.png",
+          "status": 200,
+          "src": "/images/projects/app-fynmate-cceaaee4dc.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 32704,
+          "originalBytes": 139102,
+          "sha256": "cceaaee4dc29c44baf3b4c02227548be00423f47bee53047db72dc762ee6bb00"
+        }
+      ]
+    },
+    "app-street-sheets": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/streetsheets.png",
+        "status": 200,
+        "src": "/images/projects/app-street-sheets-preview-f7cda29ff5.webp",
+        "width": 1499,
+        "height": 1250,
+        "bytes": 121494,
+        "originalBytes": 261401,
+        "sha256": "f7cda29ff53027be790b41afe8265e58f51912578cbb4309fd6d3120fa587a02"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/sheets.png",
+          "status": 200,
+          "src": "/images/projects/app-street-sheets-4c66c599c7.webp",
+          "width": 842,
+          "height": 1611,
+          "bytes": 22626,
+          "originalBytes": 149670,
+          "sha256": "4c66c599c7619859f8a90c5086177ae049e0f666583f74b2da571c1b1838b25c"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/s-sheets-1.png",
+          "status": 200,
+          "src": "/images/projects/app-street-sheets-86476da8a6.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 10890,
+          "originalBytes": 46492,
+          "sha256": "86476da8a67f10e7ccbaafbd21d0e62fe23fe2689779aa4f1fa2474664f008bf"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/s-sheets-2.png",
+          "status": 200,
+          "src": "/images/projects/app-street-sheets-5f778a2604.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 24178,
+          "originalBytes": 100513,
+          "sha256": "5f778a26044f1ba5469ccc9a077ec4414d5a5fa3d33b5942bc9a3b09b65f11fc"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/s-sheets-3.png",
+          "status": 200,
+          "src": "/images/projects/app-street-sheets-7f5272d273.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 14454,
+          "originalBytes": 81310,
+          "sha256": "7f5272d27340585d957888d6bdb24c81cee811b04bdecd7e1563027c2b6f199f"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/s-sheets-4.png",
+          "status": 200,
+          "src": "/images/projects/app-street-sheets-14a543d4d3.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 23108,
+          "originalBytes": 99281,
+          "sha256": "14a543d4d3e55bd7617346552dcb202f1e073014db2b71d3f221eb10f161e5a0"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/s-sheets-5.png",
+          "status": 200,
+          "src": "/images/projects/app-street-sheets-d5ea9d23ee.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 25792,
+          "originalBytes": 128717,
+          "sha256": "d5ea9d23ee7129db0665629775211f9699517dae0ed29bc397c0e6166d01f1ff"
+        }
+      ]
+    },
+    "app-ummed": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/ummid.png",
+        "status": 200,
+        "src": "/images/projects/app-ummed-preview-4ce5f812ce.webp",
+        "width": 1600,
+        "height": 1333,
+        "bytes": 135772,
+        "originalBytes": 3221878,
+        "sha256": "4ce5f812ce5aee920ae27393050c1a78b8ec0147af19e60a552f955bf9d183f5"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/umeed-c1.png",
+          "status": 200,
+          "src": "/images/projects/app-ummed-10eb070504.webp",
+          "width": 941,
+          "height": 1611,
+          "bytes": 85584,
+          "originalBytes": 677580,
+          "sha256": "10eb07050412d081ab4ddf37d83af45b59004eb5e2fcd0ea406aa0c0f6422ad1"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/umeed-assets-1.png",
+          "status": 200,
+          "src": "/images/projects/app-ummed-30639d6882.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 20784,
+          "originalBytes": 113916,
+          "sha256": "30639d688221ba628c5328193a3708e59b0c76b339d6f1b09c0977a89bd10beb"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/umeed-assets-2.png",
+          "status": 200,
+          "src": "/images/projects/app-ummed-c10acde756.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 47044,
+          "originalBytes": 241936,
+          "sha256": "c10acde756456801c482d514ab552ee8fbd58831b52a254314d828b6775be096"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/umeed-assets-3.png",
+          "status": 200,
+          "src": "/images/projects/app-ummed-e93a3caf7c.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 49176,
+          "originalBytes": 248977,
+          "sha256": "e93a3caf7c094a8076f99682d706b38901c19a7ec4ae3ae330308ffd370d644f"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/umeed-assets-4.png",
+          "status": 200,
+          "src": "/images/projects/app-ummed-03574967cb.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 31702,
+          "originalBytes": 167376,
+          "sha256": "03574967cbbd000ede44896a5d662d01d8a26400780b894ffb1e48c548aaf214"
+        }
+      ]
+    },
+    "app-bubble": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Bubble.png",
+        "status": 200,
+        "src": "/images/projects/app-bubble-preview-198d0ccaa6.webp",
+        "width": 1500,
+        "height": 1250,
+        "bytes": 101372,
+        "originalBytes": 322893,
+        "sha256": "198d0ccaa68414d27668912cb49258806181914448bee8ecf943f61c2bd3e972"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/bubble-1.png",
+          "status": 200,
+          "src": "/images/projects/app-bubble-cc4e768d42.webp",
+          "width": 1600,
+          "height": 1312,
+          "bytes": 99808,
+          "originalBytes": 896227,
+          "sha256": "cc4e768d4263802ed3fe0642cab66d111ed888b073cca8ee6ee9f9cfb1dd5112"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/bubble-2.png",
+          "status": 200,
+          "src": "/images/projects/app-bubble-728f449019.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 30572,
+          "originalBytes": 172403,
+          "sha256": "728f449019940aea997822fcd487cb18a64a4e54e90144fecfa37aee7ec2c417"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/bubble-3.png",
+          "status": 200,
+          "src": "/images/projects/app-bubble-72eb468abc.webp",
+          "width": 711,
+          "height": 711,
+          "bytes": 44010,
+          "originalBytes": 215406,
+          "sha256": "72eb468abc80fcf36f81ba5ddf04003198fac9577711b3bc285c5aa805a4ee0e"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/bubble-11.png",
+          "status": 200,
+          "src": "/images/projects/app-bubble-a2bb0c8f92.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 44704,
+          "originalBytes": 222410,
+          "sha256": "a2bb0c8f928d8bc0d15e7587b9be4b9c88a388e5a9e5bdb563b2dad0496f4845"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/bubble-12.png",
+          "status": 200,
+          "src": "/images/projects/app-bubble-1e7a315c01.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 33568,
+          "originalBytes": 162897,
+          "sha256": "1e7a315c019ace00b8feb059c126423b810c9ea3b01584deb5bd04feb48832d3"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/bubble-13.png",
+          "status": 200,
+          "src": "/images/projects/app-bubble-f51f27bba0.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 37744,
+          "originalBytes": 167318,
+          "sha256": "f51f27bba08248d77589e4820179257f2466c9258a78ac8074b9fa523bbea55f"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/bubble-15.png",
+          "status": 200,
+          "src": "/images/projects/app-bubble-6224b2e4a7.webp",
+          "width": 376,
+          "height": 813,
+          "bytes": 23996,
+          "originalBytes": 123562,
+          "sha256": "6224b2e4a7795227b3ad1d3a44fa4afde3fa4bee71ff708a6662c94180715f2a"
+        }
+      ]
+    },
+    "app-kegalklock": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/kegalklock.png",
+        "status": 200,
+        "src": "/images/projects/app-kegalklock-preview-920316dfe4.webp",
+        "width": 1600,
+        "height": 1334,
+        "bytes": 162624,
+        "originalBytes": 4818767,
+        "sha256": "920316dfe45c35061251c811273e493bc11d46f5e62d9571f2a6765d336b0226"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/KEGEL-KLOCK-1.png",
+          "status": 200,
+          "src": "/images/projects/app-kegalklock-b8736041e2.webp",
+          "width": 1298,
+          "height": 1325,
+          "bytes": 126582,
+          "originalBytes": 1195271,
+          "sha256": "b8736041e23e4f521c05bc2b634e22bad02047c2ec5d668e9f9fa88736d3255e"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/KEGEL-KLOCK-2.png",
+          "status": 200,
+          "src": "/images/projects/app-kegalklock-f8ea35146d.webp",
+          "width": 1267,
+          "height": 2200,
+          "bytes": 205272,
+          "originalBytes": 3548859,
+          "sha256": "f8ea35146d6ff6557489a23001ca06848fd22022ebe1dc85c1b9177ce82d48cf"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/kegel-assets-1.png",
+          "status": 200,
+          "src": "/images/projects/app-kegalklock-3f633e1922.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 24498,
+          "originalBytes": 131576,
+          "sha256": "3f633e19221d3491d8061acdaaf7ed8a003e0ea3ae5ce4a93c6481c3fb9279ef"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/kegel-assets-2.png",
+          "status": 200,
+          "src": "/images/projects/app-kegalklock-5e6bff4576.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 58744,
+          "originalBytes": 323544,
+          "sha256": "5e6bff457663d7277373668d4a16b52df6a85a585f30afd103aaa0f1fe51c9d7"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/kegel-assets-3.png",
+          "status": 200,
+          "src": "/images/projects/app-kegalklock-32b8e1cdcb.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 37762,
+          "originalBytes": 144457,
+          "sha256": "32b8e1cdcbe33faa5bfc1af18337e8862085a0bb9660ea3f9642e8b7bf86035e"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/kegel-assets-4.png",
+          "status": 200,
+          "src": "/images/projects/app-kegalklock-9ac469c36b.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 46526,
+          "originalBytes": 182491,
+          "sha256": "9ac469c36bc2cdeaf23a7d9742bc8f82feac92b71bda8b70d71fd0b0359dd36e"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/kegel-assets-5.png",
+          "status": 200,
+          "src": "/images/projects/app-kegalklock-6ae2ddacd4.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 37546,
+          "originalBytes": 150766,
+          "sha256": "6ae2ddacd4494d8814df8396f71e81ed0735988e127e8827cfb0ddf558435a0b"
+        }
+      ]
+    },
+    "app-gymbet": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/Gymbet.png",
+        "status": 200,
+        "src": "/images/projects/app-gymbet-preview-5ab84b8737.webp",
+        "width": 1498,
+        "height": 1249,
+        "bytes": 103842,
+        "originalBytes": 245804,
+        "sha256": "5ab84b8737b00305442c42181b3f40ae4450b8201ea0d54d3415e497a107082b"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/gym-center-1.png",
+          "status": 200,
+          "src": "/images/projects/app-gymbet-4252d1a39e.webp",
+          "width": 660,
+          "height": 980,
+          "bytes": 24050,
+          "originalBytes": 159884,
+          "sha256": "4252d1a39ebd4cc38912b5fe21a14bdbd4ce47c52dfd0d1813f56e6d4b236c53"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/gym-cen-1.png",
+          "status": 200,
+          "src": "/images/projects/app-gymbet-4204e53f3c.webp",
+          "width": 483,
+          "height": 974,
+          "bytes": 27900,
+          "originalBytes": 171233,
+          "sha256": "4204e53f3c202d8fc6f3aea0de5d89a1441214228e727a02e2fd749107f5bd45"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/gym-center.png",
+          "status": 200,
+          "src": "/images/projects/app-gymbet-1ae4ab2fbf.webp",
+          "width": 1600,
+          "height": 836,
+          "bytes": 82424,
+          "originalBytes": 532439,
+          "sha256": "1ae4ab2fbfa9666882b4b2a8ffdfe23b9ba2ed8f36c7494a81842269748e6cfb"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/gym-assets-1.png",
+          "status": 200,
+          "src": "/images/projects/app-gymbet-ff1b643184.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 16442,
+          "originalBytes": 49958,
+          "sha256": "ff1b643184b48c5ae8c95bd0b93a0c01e18151cc7e58783ddd676651cd8133f5"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/gym-assets-2.png",
+          "status": 200,
+          "src": "/images/projects/app-gymbet-76013ce6d0.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 21206,
+          "originalBytes": 64628,
+          "sha256": "76013ce6d05f2c7a6d6a438f01a816e335d16f523ff78b5a5a745a93c8014e13"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/gym-assets-3.png",
+          "status": 200,
+          "src": "/images/projects/app-gymbet-2fec724d8e.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 27038,
+          "originalBytes": 102070,
+          "sha256": "2fec724d8e08e3938e17e3e51ce8148c7d79ce900bc1909d1e562c76b0aca213"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/gym-assets-4.png",
+          "status": 200,
+          "src": "/images/projects/app-gymbet-0a815d0d4d.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 25228,
+          "originalBytes": 101696,
+          "sha256": "0a815d0d4d2436f8a81cd9a9c1b99b61ff184bd9b74e37745107331ed2b5b7cf"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/gym-assets-5.png",
+          "status": 200,
+          "src": "/images/projects/app-gymbet-c4fc8be742.webp",
+          "width": 375,
+          "height": 812,
+          "bytes": 28806,
+          "originalBytes": 125552,
+          "sha256": "c4fc8be74226642cdbabe52287681cd20b03a447727c8ed013f94b4e3a98d39e"
+        }
+      ]
+    },
+    "app-gobroker": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/GoBroker-app.png",
+        "status": 200,
+        "src": "/images/projects/app-gobroker-preview-1e34f77871.webp",
+        "width": 1600,
+        "height": 1200,
+        "bytes": 145282,
+        "originalBytes": 1686397,
+        "sha256": "1e34f77871f374dd2318adddaf201d6b5d16f8237acbf0ca9594c53645dc50f2"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/gobroker-1.png",
+          "status": 200,
+          "src": "/images/projects/app-gobroker-3f63c2010b.webp",
+          "width": 961,
+          "height": 730,
+          "bytes": 111920,
+          "originalBytes": 467381,
+          "sha256": "3f63c2010bcb8d7c4460e8f06d7b602914d1d1261401bf1e6a59b0de5e478418"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/go-broker-2.png",
+          "status": 200,
+          "src": "/images/projects/app-gobroker-ad45806fba.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 25018,
+          "originalBytes": 124779,
+          "sha256": "ad45806fba15c5a2de0ec051d313147d466f4eafecf22bc0d03d79c852f1827b"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/go-Onboarding-1.1.png",
+          "status": 200,
+          "src": "/images/projects/app-gobroker-707cb89d3b.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 11344,
+          "originalBytes": 141805,
+          "sha256": "707cb89d3bf783f698d51c30c93feab1d250671f967149bb4e7f8a7a61a0c63c"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/go-Details%20_%20Amenities.png",
+          "status": 200,
+          "src": "/images/projects/app-gobroker-7659c21c65.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 35866,
+          "originalBytes": 213909,
+          "sha256": "7659c21c6554dab1e0ad729b4c5077c7861ab5e2a09d5cf41cfbd4bad4d02104"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/go-broker-login.png",
+          "status": 200,
+          "src": "/images/projects/app-gobroker-c141f97e36.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 15882,
+          "originalBytes": 71065,
+          "sha256": "c141f97e368a8486a6fb15e8436e628e64c7c44f83cf08e365091be4ba755bd8"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/screenshots/go-broker-add.png",
+          "status": 200,
+          "src": "/images/projects/app-gobroker-5c4c7c1d82.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 15892,
+          "originalBytes": 94758,
+          "sha256": "5c4c7c1d82272b4ecb33a4ad485fb66fce5e7482f22db654b569d074f333275e"
+        }
+      ]
+    },
+    "app-heartsync": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/heartsync.png",
+        "status": 200,
+        "src": "/images/projects/app-heartsync-preview-747e9a3e97.webp",
+        "width": 1600,
+        "height": 1200,
+        "bytes": 182954,
+        "originalBytes": 2127582,
+        "sha256": "747e9a3e97287f031ae9d6bced0e48ce679207e5ffbe7aadc04a7dfa0f863318"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/heartsync.png",
+          "status": 200,
+          "src": "/images/projects/app-heartsync-1dbcd249e1.webp",
+          "width": 961,
+          "height": 730,
+          "bytes": 111982,
+          "originalBytes": 549249,
+          "sha256": "1dbcd249e13a60b03a7faf70b563b28efae6bc2016eeebf2b99328d22ce5d1e5"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/heartsync-2.png",
+          "status": 200,
+          "src": "/images/projects/app-heartsync-55543424cd.webp",
+          "width": 331,
+          "height": 669,
+          "bytes": 23914,
+          "originalBytes": 140653,
+          "sha256": "55543424cdd46221e8a9aea32a268d51024551aec00d7039819e47a874b41f52"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/features/heartsync-3.png",
+          "status": 200,
+          "src": "/images/projects/app-heartsync-f66077d70b.webp",
+          "width": 961,
+          "height": 730,
+          "bytes": 119620,
+          "originalBytes": 548059,
+          "sha256": "f66077d70b23a73c66794291eb77d6188b77e64009f4cb5af7496847b0429e81"
+        }
+      ]
+    },
+    "app-supplement-management": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/assets/images/projects/applications-projects/suppliment.png",
+        "status": 200,
+        "src": "/images/projects/app-supplement-management-preview-6ce8da463d.webp",
+        "width": 1600,
+        "height": 1334,
+        "bytes": 117612,
+        "originalBytes": 4693927,
+        "sha256": "6ce8da463df5a601c90ad932fd2afda0967f63f09887bada6b89c3f6290d6adf"
+      },
+      "images": []
+    },
+    "umeed": {
+      "poster": {
+        "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/umeed-main.png",
+        "status": 200,
+        "src": "/images/projects/umeed-1cd14b2de8.webp",
+        "width": 1600,
+        "height": 1325,
+        "bytes": 81766,
+        "originalBytes": 588530,
+        "sha256": "1cd14b2de82169265258ccf674f0bc1477ce66fd25646769846b6609404aeba1"
+      },
+      "images": [
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/umeed-main.png",
+          "status": 200,
+          "src": "/images/projects/umeed-1cd14b2de8.webp",
+          "width": 1600,
+          "height": 1325,
+          "bytes": 81766,
+          "originalBytes": 588530,
+          "sha256": "1cd14b2de82169265258ccf674f0bc1477ce66fd25646769846b6609404aeba1"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/umeed-2nd.png",
+          "status": 200,
+          "src": "/images/projects/umeed-95403b46a7.webp",
+          "width": 1495,
+          "height": 2200,
+          "bytes": 154668,
+          "originalBytes": 329685,
+          "sha256": "95403b46a74adc94ffa1c77a60d71f9dd402f0ad70b4162073d8a71abffbdf8a"
+        },
+        {
+          "source": "https://clarigo-voluble-youtiao-e0781d.netlify.app/landing%20page/assets/img/web/umeed-3rd.png",
+          "status": 200,
+          "src": "/images/projects/umeed-89d20b4567.webp",
+          "width": 999,
+          "height": 1273,
+          "bytes": 238666,
+          "originalBytes": 876902,
+          "sha256": "89d20b4567070189932e956d17821d53cfa58b57ab7309122cc78b41056f0414"
+        }
+      ]
+    }
+  },
+  "exclusions": {
+    "br-tennis": {
+      "BR-tennis-web-4.png": "Visually shows KegelKlock, despite its tennis filename."
+    },
+    "been-there": {
+      "been-there-web-5.png": "Visually shows the yellow LivSocial people interface."
+    },
+    "lead-management": {
+      "Lead-Management-main.png": "Apex Finance landing page; different identity from the verified Lead Management enquiry-form poster.",
+      "Lead-Management-3rd.png": "Finance-site review and marketing template, inconsistent with the verified enquiry-form interface.",
+      "Lead-Management-web-1.png": "Contact-page composition carries different brokerage branding; identity is not established.",
+      "Lead-Management-web-2.png": "Apex Finance privacy template with unfilled legal placeholders.",
+      "Lead-Management-web-3.png": "Unrelated product/SKU catalog-management interface, not the project's enquiry form.",
+      "Lead-Management-web-4.png": "Unrelated catalog-platform subscription-plan interface.",
+      "Lead-Management-web-5.png": "Unrelated catalog-platform category-management interface."
+    },
+    "es-platform": {
+      "ES-web-5.png": "Repeats the course-list composition shown in ES-web-1.png."
+    },
+    "umeed": {
+      "Umeed.png": "Archive poster contains UMANG branding. Replaced with the verified Umeed-branded website composition; prior poster metadata is preserved in the image audit."
+    }
+  }
+}

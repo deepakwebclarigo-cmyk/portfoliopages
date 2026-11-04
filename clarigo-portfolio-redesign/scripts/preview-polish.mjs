@@ -2,7 +2,7 @@ import { chromium } from '@playwright/test';
 import { mkdir, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 
-const directory = new URL('../audit/design-polish/', import.meta.url);
+const directory = new URL(process.env.PREVIEW_DIRECTORY || '../audit/design-polish/', import.meta.url);
 await mkdir(directory, { recursive: true });
 const browser = await chromium.launch({ channel: 'chrome', headless: true });
 const results = [];
@@ -13,7 +13,11 @@ for (const [name, path, width, height] of [
   ['home-mobile-after', '/', 390, 844],
   ['case-desktop-after', '/portfolio/livsocial', 1440, 1000],
   ['case-tablet-after', '/portfolio/app-case-management-ase', 768, 1024],
-  ['case-mobile-after', '/portfolio/app-digital-habit-tracker', 390, 844],
+  ['case-mobile-after', '/portfolio/app-habitstride', 390, 844],
+  ['case-form-after', '/portfolio/leadforma', 1440, 1000],
+  ['case-finance-after', '/portfolio/app-fynmate', 390, 844],
+  ['case-umeed-after', '/portfolio/umeed', 1440, 1000],
+  ['case-document-after', '/portfolio/app-infinote', 390, 844],
   ['home-narrow-after', '/', 320, 800],
 ]) {
   const page = await browser.newPage({ viewport: { width, height } });

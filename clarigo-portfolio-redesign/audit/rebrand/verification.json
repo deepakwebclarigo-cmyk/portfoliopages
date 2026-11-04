@@ -1,0 +1,53 @@
+{
+  "buildId": "eAUyviyS4U81JhYQsUFLl",
+  "projects": 47,
+  "web": 19,
+  "mobile": 28,
+  "renamedBrands": 13,
+  "renamedPages": 14,
+  "browser": {
+    "total": 171,
+    "passed": 171,
+    "unresolved": [],
+    "initial": {
+      "startTime": "2026-11-03T10:15:05.219Z",
+      "duration": 542727.221,
+      "expected": 170,
+      "skipped": 0,
+      "unexpected": 1,
+      "flaky": 0
+    },
+    "recheck": {
+      "startTime": "2026-11-03T10:25:50.812Z",
+      "duration": 4386.022,
+      "expected": 1,
+      "skipped": 0,
+      "unexpected": 0,
+      "flaky": 0
+    },
+    "note": "One resource-exhausted desktop test passed on an isolated rerun; both raw reports are retained."
+  },
+  "assets": {
+    "projects": 47,
+    "web": 19,
+    "mobile": 28,
+    "renamedPages": 14,
+    "decodedAssets": 316,
+    "decodedThumbnails": 47,
+    "conservedArtwork": 93,
+    "coverCompositions": 13,
+    "outsideRegionPixelChanges": 0,
+    "errors": []
+  },
+  "ocr": {
+    "expected": 316,
+    "scanned": 316,
+    "findings": [],
+    "method": "Offline Windows English OCR on upscaled current artwork; supplemented by enlarged wordmark and cover review."
+  },
+  "visuals": {
+    "pages": 28,
+    "images": 56,
+    "errors": []
+  }
+}

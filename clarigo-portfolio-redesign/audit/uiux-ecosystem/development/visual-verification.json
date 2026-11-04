@@ -1,0 +1,167 @@
+{
+  "base": "http://127.0.0.1:3000",
+  "results": [
+    {
+      "width": 1440,
+      "errors": [],
+      "engine": {
+        "engine": "three",
+        "geometry": "ExtrudeGeometry",
+        "scene": "uiux-ecosystem",
+        "heroObjects": "5",
+        "assets": "ready",
+        "pixelRatio": "1",
+        "state": "running",
+        "frame": "24",
+        "heroHover": "false",
+        "heroExpansion": "0.0000",
+        "heroRotation": "0.0041",
+        "drawCalls": "121",
+        "triangles": "31520"
+      },
+      "overflow": false,
+      "context": {
+        "version": "WebGL 2.0 (OpenGL ES 3.0 Chromium)",
+        "renderer": "WebKit WebGL",
+        "antialias": true
+      },
+      "hover": {
+        "engine": "three",
+        "geometry": "ExtrudeGeometry",
+        "scene": "uiux-ecosystem",
+        "heroObjects": "5",
+        "assets": "ready",
+        "pixelRatio": "1",
+        "state": "running",
+        "frame": "78",
+        "heroHover": "true",
+        "heroExpansion": "0.9985",
+        "heroRotation": "0.0431",
+        "drawCalls": "121",
+        "triangles": "31520"
+      },
+      "performance": {
+        "samples": 143,
+        "medianFrameMs": 16.69999999999891,
+        "p95FrameMs": 16.80000000000109,
+        "framesOver32Ms": 1
+      },
+      "card": {
+        "engine": "three",
+        "geometry": "ExtrudeGeometry",
+        "scene": "uiux-ecosystem",
+        "heroObjects": "5",
+        "assets": "ready",
+        "pixelRatio": "1",
+        "state": "running",
+        "frame": "312",
+        "heroHover": "false",
+        "heroExpansion": "0.0000",
+        "heroRotation": "0.0327",
+        "drawCalls": "2",
+        "triangles": "14",
+        "cardScale": "0.9849",
+        "cardTilt": "0.0368",
+        "cardActive": "true"
+      },
+      "reduced": {
+        "engine": "three",
+        "geometry": "ExtrudeGeometry",
+        "scene": "uiux-ecosystem",
+        "heroObjects": "5",
+        "assets": "ready",
+        "pixelRatio": "1",
+        "state": "reduced",
+        "frame": "325",
+        "heroHover": "false",
+        "heroExpansion": "0.0000",
+        "heroRotation": "0.0327",
+        "drawCalls": "2",
+        "triangles": "14",
+        "cardScale": "0.9850",
+        "cardTilt": "0.0369"
+      }
+    },
+    {
+      "width": 1195,
+      "errors": [],
+      "engine": {
+        "engine": "three",
+        "geometry": "ExtrudeGeometry",
+        "scene": "uiux-ecosystem",
+        "heroObjects": "5",
+        "assets": "ready",
+        "pixelRatio": "1",
+        "state": "running",
+        "frame": "78",
+        "heroHover": "false",
+        "heroExpansion": "0.0000",
+        "heroRotation": "0.0127",
+        "drawCalls": "121",
+        "triangles": "31520"
+      },
+      "overflow": false,
+      "reduced": {
+        "engine": "three",
+        "geometry": "ExtrudeGeometry",
+        "scene": "uiux-ecosystem",
+        "heroObjects": "5",
+        "assets": "ready",
+        "pixelRatio": "1",
+        "state": "reduced",
+        "frame": "81",
+        "heroHover": "false",
+        "heroExpansion": "0.0000",
+        "heroRotation": "0.0130",
+        "drawCalls": "121",
+        "triangles": "31520"
+      }
+    },
+    {
+      "width": 768,
+      "errors": [],
+      "engine": {
+        "engine": "three",
+        "geometry": "ExtrudeGeometry",
+        "scene": "uiux-ecosystem",
+        "heroObjects": "5",
+        "assets": "ready",
+        "pixelRatio": "1",
+        "state": "running",
+        "frame": "84",
+        "heroHover": "false",
+        "heroExpansion": "0.0000",
+        "heroRotation": "0.0133",
+        "drawCalls": "121",
+        "triangles": "31520"
+      },
+      "overflow": false,
+      "reduced": {
+        "engine": "three",
+        "geometry": "ExtrudeGeometry",
+        "scene": "uiux-ecosystem",
+        "heroObjects": "5",
+        "assets": "ready",
+        "pixelRatio": "1",
+        "state": "reduced",
+        "frame": "87",
+        "heroHover": "false",
+        "heroExpansion": "0.0000",
+        "heroRotation": "0.0138",
+        "drawCalls": "121",
+        "triangles": "31520"
+      }
+    },
+    {
+      "width": 390,
+      "errors": [],
+      "engine": {
+        "engine": "static"
+      },
+      "overflow": false,
+      "reduced": {
+        "engine": "static"
+      }
+    }
+  ]
+}

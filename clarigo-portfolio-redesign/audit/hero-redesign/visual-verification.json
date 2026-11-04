@@ -1,0 +1,38 @@
+{
+  "environment": "Local installed headless Chrome; frame timing includes active hero motion and mouse movement.",
+  "results": [
+    {
+      "width": 1440,
+      "errors": [],
+      "performance": {
+        "samples": 144,
+        "medianFrameMs": 16.699999999999818,
+        "p95FrameMs": 16.800000000000182,
+        "framesOver32Ms": 0
+      },
+      "reducedStatic": true,
+      "overflow": false
+    },
+    {
+      "width": 1195,
+      "errors": [],
+      "performance": null,
+      "reducedStatic": true,
+      "overflow": false
+    },
+    {
+      "width": 768,
+      "errors": [],
+      "performance": null,
+      "reducedStatic": true,
+      "overflow": false
+    },
+    {
+      "width": 390,
+      "errors": [],
+      "performance": null,
+      "reducedStatic": true,
+      "overflow": false
+    }
+  ]
+}

@@ -5,7 +5,10 @@ import { useEffect, useRef, useState } from 'react';
 const sections = [
   { id: 'overview', label: 'Overview' },
   { id: 'features', label: 'Key features' },
+  { id: 'workflow', label: 'How it works' },
+  { id: 'solution', label: 'Solution' },
   { id: 'design', label: 'Design' },
+  { id: 'engineering', label: 'Technical' },
   { id: 'screens', label: 'Screenshots' },
   { id: 'responsive', label: 'Device views' },
 ];

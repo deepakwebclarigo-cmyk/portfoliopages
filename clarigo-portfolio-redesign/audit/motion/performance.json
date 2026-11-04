@@ -1,0 +1,145 @@
+{
+  "environment": "Local headless installed Chrome; sequential 3.2-second real requestAnimationFrame scroll samples. Results describe this machine, not a guarantee for other hardware.",
+  "results": [
+    {
+      "label": "listing",
+      "route": "/",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "medianFrameMs": 16.699999999999818,
+      "p95FrameMs": 16.90000000000009,
+      "medianFps": 59.88023952095874,
+      "framesOver32Ms": 1,
+      "frameSamples": 192,
+      "longTasks": [],
+      "parallaxFrames": 0,
+      "depthEnabled": 47,
+      "overflow": false,
+      "errors": [],
+      "circularCardOverlays": 0,
+      "reducedMotion": {
+        "pending": 0,
+        "depth": 0,
+        "runningAnimations": 12
+      }
+    },
+    {
+      "label": "web",
+      "route": "/portfolio/livsocial",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "medianFrameMs": 16.699999999999818,
+      "p95FrameMs": 16.800000000000182,
+      "medianFps": 59.88023952095874,
+      "framesOver32Ms": 1,
+      "frameSamples": 192,
+      "longTasks": [],
+      "parallaxFrames": 3,
+      "depthEnabled": 1,
+      "overflow": false,
+      "errors": [],
+      "reducedMotion": {
+        "pending": 0,
+        "depth": 0,
+        "runningAnimations": 0
+      }
+    },
+    {
+      "label": "mobile-app",
+      "route": "/portfolio/app-habitstride",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "medianFrameMs": 16.699999999999818,
+      "p95FrameMs": 16.799999999999955,
+      "medianFps": 59.88023952095874,
+      "framesOver32Ms": 0,
+      "frameSamples": 193,
+      "longTasks": [],
+      "parallaxFrames": 2,
+      "depthEnabled": 1,
+      "overflow": false,
+      "errors": [],
+      "reducedMotion": {
+        "pending": 0,
+        "depth": 0,
+        "runningAnimations": 4
+      }
+    },
+    {
+      "label": "phone-listing",
+      "route": "/",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "medianFrameMs": 16.699999999999818,
+      "p95FrameMs": 16.800000000000182,
+      "medianFps": 59.88023952095874,
+      "framesOver32Ms": 0,
+      "frameSamples": 193,
+      "longTasks": [],
+      "parallaxFrames": 0,
+      "depthEnabled": 0,
+      "overflow": false,
+      "errors": [],
+      "circularCardOverlays": 0,
+      "reducedMotion": {
+        "pending": 0,
+        "depth": 0,
+        "runningAnimations": 0
+      }
+    },
+    {
+      "label": "phone-web",
+      "route": "/portfolio/streamdexa",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "medianFrameMs": 16.699999999999818,
+      "p95FrameMs": 16.799999999999727,
+      "medianFps": 59.88023952095874,
+      "framesOver32Ms": 0,
+      "frameSamples": 193,
+      "longTasks": [],
+      "parallaxFrames": 0,
+      "depthEnabled": 0,
+      "overflow": false,
+      "errors": [],
+      "reducedMotion": {
+        "pending": 0,
+        "depth": 0,
+        "runningAnimations": 0
+      }
+    },
+    {
+      "label": "phone-app",
+      "route": "/portfolio/app-infiscribe",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "medianFrameMs": 16.699999999999818,
+      "p95FrameMs": 16.800000000000182,
+      "medianFps": 59.88023952095874,
+      "framesOver32Ms": 0,
+      "frameSamples": 193,
+      "longTasks": [],
+      "parallaxFrames": 0,
+      "depthEnabled": 0,
+      "overflow": false,
+      "errors": [],
+      "reducedMotion": {
+        "pending": 0,
+        "depth": 0,
+        "runningAnimations": 4
+      }
+    }
+  ]
+}

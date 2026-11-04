@@ -1,5 +1,7 @@
 # Clarigo continuation audit — 2026-11-02
 
+Latest continuation: [reference-based case studies, 2026-11-03](reference-case-studies/REVIEW.md). The historical results below describe the earlier portfolio-completion stage. Current source uses 318 selected assets and the extended desktop/tablet/mobile suite.
+
 ## Starting state
 
 The supplied app already contained a working Next.js portfolio, 47 data records, a dynamic project route, responsive styling, a Three.js hero, GSAP reveals, and Framer Motion card interactions. The initial build and TypeScript check passed. The detail content was mostly a repeated missing-information template; project assets were hotlinked. No Git repository or Copilot conversation/checkpoint history was included, so historical diffs could not be reconstructed. A source-only backup was created before implementation changes.

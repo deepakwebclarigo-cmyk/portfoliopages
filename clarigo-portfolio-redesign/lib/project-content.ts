@@ -10,7 +10,7 @@ export type ProjectContent = {
 };
 
 // Editorial descriptions of the supplied interfaces, not undocumented delivery claims.
-export const projectContent: Record<string, ProjectContent> = {
+const originalContent: Record<string, ProjectContent> = {
   livsocial: {
     discipline: 'Social & community', headline: 'A place for conversations to grow.',
     summary: 'A social web experience bringing posts, communities, business discovery, and personal connections into one workspace.',
@@ -18,10 +18,10 @@ export const projectContent: Record<string, ProjectContent> = {
     design: 'Mustard yellow establishes the product identity, while white content panels keep photo posts and conversations readable. A persistent desktop navigation bar and supporting side columns give the main feed a clear position within a much broader community experience.',
     features: [['Content feed', 'Image posts and written updates sit together in the main reading column.'], ['Community navigation', 'Dedicated entry points distinguish communities, businesses, and personal areas.'], ['Social circle', 'A side panel brings people and their profiles into view.'], ['Trending conversations', 'Supporting content helps visitors discover subjects beyond their own feed.']],
   },
-  streamdatax: {
+  streamdexa: {
     discipline: 'Digital assets & discovery', headline: 'A visual gateway to digital collections.',
     summary: 'A digital-asset website presentation with collection discovery, asset details, creator-oriented pages, and registration views.',
-    overview: 'StreamDataX’s supplied website screens present a digital-asset marketplace through collection grids, individual asset information, and profile-style pages. A dark promotional identity sits alongside lighter browsing layouts. The preview caption refers to gig-worker management, but this presentation follows the digital-collection interfaces actually shown in the project-specific screen set.',
+    overview: 'StreamDexa’s website screens present a digital-asset marketplace through collection grids, individual asset information, and profile-style pages. A dark promotional identity introduces the product, while lighter browsing layouts give each collection room to stand out. Creator-oriented headers and structured asset records connect discovery with a closer look at the listed material.',
     design: 'Deep navy, electric blue, and dimensional graphics establish the public-facing visual language. White catalog and detail panels give artwork and structured asset information a quieter setting, with a consistent header linking the different page types.',
     features: [['Collection discovery', 'Image grids introduce the digital collections visible in the source designs.'], ['Asset details', 'A dedicated layout combines artwork with structured asset information.'], ['Profile pages', 'Profile-style headers and collection areas organize a creator-oriented view.'], ['Registration interface', 'A separate form introduces account and onboarding information.']],
   },
@@ -32,10 +32,10 @@ export const projectContent: Record<string, ProjectContent> = {
     design: 'Peach backgrounds, soft illustrated edges, and rounded content blocks create a gentle visual rhythm. The logo’s bright colors remain small accents, allowing family photography and accessible text sections to lead the page.',
     features: [['Family introduction', 'A prominent welcome section establishes the audience and organization.'], ['About information', 'Dedicated content introduces the people and purpose behind the brand.'], ['Service cards', 'Individual cards break the offering into scannable sections.'], ['Device presentations', 'Original desktop and tablet mockups show the site’s visual treatment.']],
   },
-  tukeeconnect: {
+  tukioconnect: {
     discipline: 'Organization & collaboration', headline: 'Bring an organization into focus.',
     summary: 'An organization workspace with people lists, administrative navigation, and a dedicated account-entry experience.',
-    overview: 'TukeeConnect’s web artwork shows the distinction between starting an organization and joining an existing one. Inside the workspace, a persistent sidebar accompanies a structured people table. The interface places everyday organization information within reach of a single administrative view.',
+    overview: 'TukioConnect’s web artwork shows the distinction between starting an organization and joining an existing one. Inside the workspace, a persistent sidebar accompanies a structured people table. The interface places everyday organization information within reach of a single administrative view.',
     design: 'Blue headings and actions anchor a mostly white interface. Compact rows, aligned columns, and a restrained sidebar support information-heavy screens, while the login presentation keeps the same identity in a simpler form.',
     features: [['Organization entry', 'The presentation distinguishes creating and joining an organization.'], ['People directory', 'A tabular view displays people and their associated information.'], ['Workspace navigation', 'A sidebar groups the available administrative areas.'], ['Account access', 'A focused sign-in screen provides a separate entry point.']],
   },
@@ -60,11 +60,11 @@ export const projectContent: Record<string, ProjectContent> = {
     design: 'Black hero panels, lavender accents, and distinctive cloud-like section edges create a recognizable identity. Strong display type gives the product proposition priority over decorative detail, with lighter sections providing room for supporting information.',
     features: [['Hiring proposition', 'The hero introduces the connection between cloud professionals and hiring teams.'], ['Audience pathways', 'Navigation distinguishes ways to explore the platform.'], ['Product explanation', 'Supporting sections expand on the introductory proposition.'], ['Original mockup', 'The archive’s laptop and tablet composition preserves the supplied presentation.']],
   },
-  parachute: {
+  paranest: {
     discipline: 'Childcare & discovery', headline: 'Make room for finding the right support.',
     summary: 'A childcare discovery website with distinct paths for finding a nanny and exploring employment.',
-    overview: 'Parachute’s interface introduces a nanny-focused service through a friendly illustrated website. The visible navigation separates finding a nanny from finding employment, establishing two audiences within one brand experience. Project-specific web screens extend the original laptop and tablet presentation.',
-    design: 'Sky blue, light backgrounds, and playful parachute illustrations set an approachable tone. A short navigation bar and spacious introductory panels keep the first steps visible, while supporting content explains the service below the hero.',
+    overview: 'ParaNest’s interface introduces a nanny-focused service through a friendly illustrated website. The visible navigation separates finding a nanny from finding employment, establishing two audiences within one brand experience. Project-specific web screens extend the original laptop and tablet presentation.',
+    design: 'Sky blue, light backgrounds, and playful paranest illustrations set an approachable tone. A short navigation bar and spacious introductory panels keep the first steps visible, while supporting content explains the service below the hero.',
     features: [['Find a nanny', 'A dedicated navigation path addresses people seeking childcare support.'], ['Find employment', 'A second path addresses prospective caregivers.'], ['Service introduction', 'Illustrated sections introduce the product’s central proposition.'], ['About information', 'Supporting navigation provides a place for organizational context.']],
   },
   'glocal-expert': {
@@ -103,10 +103,10 @@ export const projectContent: Record<string, ProjectContent> = {
     design: 'Yellow is the dominant brand color, paired with white content and lifestyle photography. The website uses a direct introductory headline followed by explanatory sections, keeping program information visually connected to the brand.',
     features: [['Program introduction', 'The landing page introduces the exercise program and its subject.'], ['Course navigation', 'A dedicated route appears for course-related content.'], ['Membership areas', 'Subscription and account-oriented navigation are visible in the designs.'], ['Program information', 'Supporting sections provide space for explaining the offering.']],
   },
-  'br-tennis': {
+  'rallybridge': {
     discipline: 'Sports & coaching', headline: 'Let the game introduce the coaching.',
     summary: 'A tennis and pickleball coaching website with course discovery, contact information, and account navigation.',
-    overview: 'BR-Tennis’ supplied website leads with tennis and pickleball coaching. Court photography introduces the offering, with navigation for courses, frequently asked questions, contact, and account access. The project-specific desktop designs show how the coaching proposition extends beyond the opening screen.',
+    overview: 'RallyBridge’ supplied website leads with tennis and pickleball coaching. Court photography introduces the offering, with navigation for courses, frequently asked questions, contact, and account access. The project-specific desktop designs show how the coaching proposition extends beyond the opening screen.',
     design: 'A dark navy header, yellow-green accents, and full-width court imagery establish an athletic identity. A compact navigation bar leaves room for a large introductory message, while lighter content sections support detailed course information.',
     features: [['Coaching introduction', 'The hero identifies tennis and pickleball as the primary subjects.'], ['Course discovery', 'Course navigation provides a route to the learning offering.'], ['Questions and contact', 'Public information areas support prospective participants.'], ['Account access', 'Sign-in and sign-up entry points appear in the supplied header.']],
   },
@@ -117,19 +117,19 @@ export const projectContent: Record<string, ProjectContent> = {
     design: 'Orange calls to action sit within a clean white navigation system. Lifestyle photography gives the landing page context, while short introductory messages keep the application and refinance pathways visible.',
     features: [['Mortgage pathway', 'The website presentation includes an entry point for mortgage applications.'], ['Refinance pathway', 'Refinancing is presented as a separate visitor goal.'], ['Loan information', 'Navigation provides access to home-loan content.'], ['Account access', 'An account entry appears alongside the application action.']],
   },
-  whizara: {
+  whizora: {
     discipline: 'Courses & learning', headline: 'Make the next course easy to discover.',
     summary: 'A course-focused website using bold educational imagery, course entry points, and a distinct learning identity.',
-    overview: 'Whizara’s web designs introduce a course-based learning experience. A prominent course headline and call to action lead the landing page, followed by educational imagery and supporting sections. The gallery keeps the Whizara-specific graphics and excludes ES-Platform assets copied into the original detail page.',
+    overview: 'Whizora’s web designs introduce a course-based learning experience. A prominent course headline and call to action lead the landing page, followed by educational imagery and supporting sections. The gallery keeps the Whizora-specific graphics and excludes EStrata assets copied into the original detail page.',
     design: 'Deep purple and warm orange create a recognizable learning brand. Large type, illustrated details, and contrasting action buttons establish a confident opening, with white sections allowing the course content room to breathe.',
     features: [['Course entry', 'A clear primary action invites visitors to explore courses.'], ['Learning presentation', 'Educational imagery establishes the subject of the offering.'], ['Introductory content', 'Supporting sections explain the website’s learning proposition.'], ['Website layouts', 'The supplied assets include project-specific browser designs.']],
   },
-  'es-platform': {
-    discipline: 'Learning operations', headline: 'Bring course activity into one view.',
-    summary: 'A learning-platform dashboard presenting course records, summary cards, charts, and account access.',
-    overview: 'ES-Platform’s artwork presents an information-rich dashboard rather than a promotional landing page. Summary cards and charts sit above recent-course records, with a persistent sidebar organizing the workspace. A separate sign-in interface provides the entry point into the platform.',
+  'estrata': {
+    discipline: 'Case operations', headline: 'Bring cases and working records into one view.',
+    summary: 'An operations workspace presenting dashboard summaries, case records, task tables, findings, and account access.',
+    overview: 'EStrata’s artwork connects an information-rich dashboard with detailed case work. A persistent sidebar organizes the workspace, while tabular views align case records and findings for scanning. Summary, task, note, and finding tabs keep different kinds of working information within the same administrative frame. A separate sign-in interface provides the entry point.',
     design: 'Blue highlights, pale surfaces, and compact white cards structure the dashboard. The design uses clear visual separation between headline summaries, charted activity, and tabular records so that different information types can coexist on one screen.',
-    features: [['Summary cards', 'High-level information appears in a row of dashboard modules.'], ['Activity charts', 'Chart panels give the workspace a visual summary area.'], ['Course records', 'A recent-course table provides a more detailed information view.'], ['Sidebar navigation', 'Persistent navigation organizes the platform’s sections.']],
+    features: [['Summary cards', 'High-level information appears in a row of dashboard modules.'], ['Case records', 'Aligned rows and labeled columns organize the displayed cases.'], ['Tasks and findings', 'Dedicated tabs and tables separate working records by their purpose.'], ['Sidebar navigation', 'Persistent navigation organizes the platform’s sections.']],
   },
   'been-there': {
     discipline: 'Services marketplace', headline: 'Connect a job with the person to do it.',
@@ -138,10 +138,10 @@ export const projectContent: Record<string, ProjectContent> = {
     design: 'Deep green anchors a light, image-led website. The search action receives a clear position in the hero, while portrait photography connects the marketplace concept to people. Generous spacing gives the interface an approachable service-oriented character.',
     features: [['Skill search', 'The opening screen includes a search field for exploring skills or jobs.'], ['Freelancer discovery', 'The website presents people as the center of the marketplace.'], ['Audience pathways', 'Navigation distinguishes client and freelancer information.'], ['How-it-works content', 'A dedicated informational route supports first-time visitors.']],
   },
-  'lead-management': {
+  'leadforma': {
     discipline: 'Lead capture & forms', headline: 'A focused space for the first enquiry.',
     summary: 'A form-led web experience presenting lead information fields and a compact set of service choices.',
-    overview: 'The Lead Management artwork centers on a single information-entry form. A short introduction, grouped fields, and a service-choice area create a clear path through the page. The portfolio includes desktop views of this focused form experience rather than evidence of a broader CRM implementation.',
+    overview: 'The LeadForma artwork centers on a single information-entry form. A short introduction, grouped fields, and a service-choice area create a clear path through the page. The portfolio includes desktop views of this focused form experience rather than evidence of a broader CRM implementation.',
     design: 'Orange accents identify the primary action and selected details within a predominantly white layout. A narrow central form keeps the input area contained, with ample surrounding space preventing the interface from competing with its main task.',
     features: [['Enquiry form', 'The central page gathers information through labeled input fields.'], ['Grouped information', 'Field groups separate the different parts of the enquiry.'], ['Service choices', 'Icon-led choices appear below the main form content.'], ['Submission action', 'A contrasting orange button marks the end of the visible flow.']],
   },
@@ -152,38 +152,38 @@ export const projectContent: Record<string, ProjectContent> = {
     design: 'Warm gold accents carry the identity into a smaller screen. Rounded profile images, white post cards, and a compact bottom navigation provide a consistent frame for media-heavy content. The gallery includes the mobile-specific artwork retained from the source.',
     features: [['Post cards', 'Images and written updates share a vertically arranged feed.'], ['Profile discovery', 'People and profile imagery form part of the community interface.'], ['Account entry', 'A dedicated welcome and sign-in view introduces the product.'], ['Mobile navigation', 'Compact navigation keeps the main areas within reach.']],
   },
-  'app-simply-recruited': {
+  'app-simplyscouted': {
     discipline: 'Recruitment & profiles', headline: 'Put people at the center of discovery.',
     summary: 'A recruitment-oriented mobile presentation built around personal profiles, discovery cards, and account entry.',
-    overview: 'Simply Recruited’s supplied screens place people and their profiles at the center of the experience. Portrait-led cards introduce discovery, while profile information screens support a closer look. The artwork presents an account journey alongside these browsing views.',
+    overview: 'SimplyScouted’s supplied screens place people and their profiles at the center of the experience. Portrait-led cards introduce discovery, while profile information screens support a closer look. The artwork presents an account journey alongside these browsing views.',
     design: 'Deep navy gives the mobile brand a strong frame. White information panels contrast with large portraits, and short controls keep the discovery interface focused. The visual treatment remains consistent from the welcome screen to the profile views.',
     features: [['Profile discovery', 'Portrait cards provide a visual way to browse people.'], ['Profile details', 'Dedicated views organize information about an individual.'], ['Account introduction', 'Welcome and sign-in screens establish the entry experience.'], ['Compact actions', 'Small, clear controls sit alongside the primary profile content.']],
   },
-  'app-infinote': {
+  'app-infiscribe': {
     discipline: 'Notes & documents', headline: 'Give everyday information a home.',
     summary: 'A mobile workspace presenting notes, document content, a calendar, and personal account screens.',
-    overview: 'Infinote’s artwork brings calendar-oriented information and document-style content into a single mobile presentation. The screens show a personal home view, information lists, and longer reading content. Its muted identity helps distinguish a work-focused interface from the brighter consumer products in the portfolio.',
+    overview: 'InfiScribe’s artwork brings calendar-oriented information and document-style content into a single mobile presentation. The screens show a personal home view, information lists, and longer reading content. Its muted identity helps distinguish a work-focused interface from the brighter consumer products in the portfolio.',
     design: 'Forest green, cream, and white support a calm reading environment. Compact icons and structured lists create a clear hierarchy, while the calendar introduces a different information pattern within the same restrained visual system.',
     features: [['Personal home', 'A greeting and summary area introduce the user’s workspace.'], ['Calendar view', 'A calendar provides a date-based information surface.'], ['Document reading', 'Longer text content appears in dedicated reading screens.'], ['Information lists', 'Rows and simple icons organize smaller records.']],
   },
-  'app-silasync': {
+  'app-silaflow': {
     discipline: 'Logistics & shipment records', headline: 'Bring shipment information into focus.',
     summary: 'A logistics-oriented mobile workspace presenting shipment records, company information, freight imagery, and account entry.',
-    overview: 'Silasync’s supplied screens introduce a freight-oriented workspace through truck imagery, company views, and structured shipment records. Location and shipment information sit within compact operational layouts. The recognizable green identity connects these detailed screens with the simpler welcome and sign-in presentation.',
+    overview: 'SilaFlow’s supplied screens introduce a freight-oriented workspace through truck imagery, company views, and structured shipment records. Location and shipment information sit within compact operational layouts. The recognizable green identity connects these detailed screens with the simpler welcome and sign-in presentation.',
     design: 'Bright green headers and controls bring consistency to otherwise light screens. White cards, compact labels, and contrasting status colors divide dense information into smaller groups, helping the mobile layouts retain a clear visual order.',
     features: [['Dashboard modules', 'Cards group summary information within a mobile home view.'], ['Structured records', 'List-based screens organize individual information entries.'], ['Form layouts', 'Labeled inputs provide a dedicated information-entry pattern.'], ['Status treatments', 'Colored labels distinguish information within the records.']],
   },
-  'app-digital-habit-tracker': {
+  'app-habitstride': {
     discipline: 'Habits & routines', headline: 'Make daily progress visible.',
     summary: 'A habit-tracking interface with routine lists, calendar context, and a visual progress overview.',
-    overview: 'Digital Habit Tracker’s mobile presentation connects daily routines with a calendar and progress-focused dashboard. The supplied screens include an introductory view, account entry, and a personalized home screen. Routine items and summary graphics make the habit-oriented purpose visible in the interface itself.',
+    overview: 'HabitStride’s mobile presentation connects daily routines with a calendar and progress-focused dashboard. The supplied screens include an introductory view, account entry, and a personalized home screen. Routine items and summary graphics make the habit-oriented purpose visible in the interface itself.',
     design: 'Purple gradients and soft white cards give the product a distinct identity. Circular progress graphics provide contrast to the linear routine list, while compact date controls keep time and daily activity close together.',
     features: [['Routine list', 'Daily activities appear as individual items in the home interface.'], ['Calendar context', 'A compact date view connects routines to the current period.'], ['Progress graphic', 'A circular visualization summarizes the displayed activity.'], ['Onboarding screens', 'Introductory and sign-in layouts establish the account journey.']],
   },
-  'app-tukeeconnect': {
+  'app-tukioconnect': {
     discipline: 'Team communication', headline: 'Keep the team conversation close.',
-    summary: 'TukeeConnect’s mobile presentation combines conversations, contact discovery, profile information, and call interfaces.',
-    overview: 'The mobile TukeeConnect designs focus on communication inside a people-oriented workspace. Conversation views sit alongside contact and profile screens, with a call interface included in the original artwork. These mobile layouts complement the organization-management view shown in the web portfolio.',
+    summary: 'TukioConnect’s mobile presentation combines conversations, contact discovery, profile information, and call interfaces.',
+    overview: 'The mobile TukioConnect designs focus on communication inside a people-oriented workspace. Conversation views sit alongside contact and profile screens, with a call interface included in the original artwork. These mobile layouts complement the organization-management view shown in the web portfolio.',
     design: 'Blue provides continuity with the web product, while white message surfaces make conversation content the focus. Rounded avatars and a compact navigation bar support a familiar people-first hierarchy across the supplied screens.',
     features: [['Conversation views', 'Message bubbles and conversation controls organize written exchanges.'], ['Contact discovery', 'People and their profiles appear in dedicated directory views.'], ['Call interface', 'The supplied artwork includes a screen for a person-to-person call.'], ['Profile information', 'A personal profile area introduces identity and account details.']],
   },
@@ -243,10 +243,10 @@ export const projectContent: Record<string, ProjectContent> = {
     design: 'Green carries the marketplace identity, with colorful category chips providing a distinct discovery surface. Rounded avatars and white task cards keep people and work information visually separate without fragmenting the mobile experience.',
     features: [['Service categories', 'Color-coded choices introduce different kinds of work.'], ['People discovery', 'Profiles and portrait imagery support browsing.'], ['Task records', 'List-based views organize personal work information.'], ['Account navigation', 'A profile area and compact navigation connect the screens.']],
   },
-  'app-one-pantry': {
+  'app-pantryone': {
     discipline: 'Food & groceries', headline: 'A pantry of choices, close at hand.',
     summary: 'A grocery-shopping interface with food categories, product cards, cart controls, and a personal account area.',
-    overview: 'One Pantry’s mobile artwork introduces food ordering through a bright green storefront. Category tiles and product cards lead the shopping interface, while account and sign-in screens support the surrounding journey. Product images remain the main visual language throughout the supplied layouts.',
+    overview: 'PantryOne’s mobile artwork introduces food ordering through a bright green storefront. Category tiles and product cards lead the shopping interface, while account and sign-in screens support the surrounding journey. Product images remain the main visual language throughout the supplied layouts.',
     design: 'Fresh green and white frame a modular shopping interface. Small category illustrations create clear entry points, and compact product cards combine imagery with information and controls. Rounded containers soften the more detailed catalog views.',
     features: [['Food categories', 'Illustrated tiles group the grocery catalog.'], ['Product cards', 'Individual items combine product imagery and short information.'], ['Shopping controls', 'Cart-oriented actions appear within the product experience.'], ['Customer account', 'A personal details screen organizes account information.']],
   },
@@ -285,10 +285,10 @@ export const projectContent: Record<string, ProjectContent> = {
     design: 'Blue-violet provides a consistent frame around white cards. Small icons, grouped choices, and short labels divide detailed financial information into manageable modules, while colored action elements distinguish primary controls.',
     features: [['Finance dashboard', 'Modular cards introduce the main financial interface.'], ['Loan choices', 'Loan-related selections appear in the supplied screens.'], ['Information forms', 'Labeled fields organize personal and application information.'], ['Account views', 'Personal details and navigation form a dedicated account area.']],
   },
-  'app-street-sheets': {
+  'app-streetslate': {
     discipline: 'Maps & activity', headline: 'Put the route in the foreground.',
     summary: 'A map-led mobile interface combining route views, activity records, summary graphics, and account entry.',
-    overview: 'Street Sheets’ artwork places maps and routes at the center of its mobile experience. Activity lists and a charted summary provide alternative ways to inspect the displayed information. The presentation preserves the original purple identity and its distinct mix of geographic and record-based views.',
+    overview: 'StreetSlate’ artwork places maps and routes at the center of its mobile experience. Activity lists and a charted summary provide alternative ways to inspect the displayed information. The presentation preserves the original purple identity and its distinct mix of geographic and record-based views.',
     design: 'Deep purple contrasts with pale maps and white information panels. Route markers create a strong visual thread through the geographic screens, while charts and compact rows support a more analytical view of the same interface family.',
     features: [['Route maps', 'Map surfaces display connected points and route information.'], ['Activity records', 'List-based screens organize individual entries.'], ['Summary graphics', 'Charts provide a visual information summary.'], ['Account entry', 'A branded login screen introduces the workspace.']],
   },
@@ -346,3 +346,80 @@ export const projectContent: Record<string, ProjectContent> = {
     displayName: 'Examined Life',
   },
 };
+
+// Corrections from the second, image-by-image review. Retain original records above for provenance.
+const contentCorrections: Record<string, Partial<ProjectContent>> = {
+  umeed: {
+    headline: 'A clear introduction to a personal connection.',
+    summary: 'A relationship-focused Umeed website with community information, registration messaging, and original mobile product compositions.',
+    overview: 'Umeed’s web presentation introduces a relationship and matrimony-oriented community through a dark public website and companion-app imagery. Introductory sections explain the community focus, while prominent registration messaging and device compositions connect the website with the mobile product. The portfolio documents that public presentation without asserting current download availability.',
+    design: 'Deep navy surfaces and white typography give the website a contained, focused identity. App compositions provide brighter visual contrast, while short explanatory sections keep the community introduction readable across the original device layouts.',
+    features: [['Community introduction', 'Public sections establish Umeed’s relationship-oriented identity and community context.'], ['Registration proposition', 'Prominent introductory messaging identifies registration and connection as visitor goals.'], ['App presentation', 'Original device imagery provides a visual preview of the mobile experience.'], ['Supporting information', 'Longer explanatory content sits within a restrained public website structure.']],
+  },
+  whizora: {
+    summary: 'A learning website with course discovery, program cards, instructor-onboarding forms, and a teaching workspace.',
+    overview: 'Whizora connects a public course introduction with more structured educational working screens. Its artwork includes program cards, tutor-application steps, email-verification layouts, and a communication view. Purple and orange public-facing compositions sit alongside blue-accented workspace screens, showing how the same course brand changes its information density for different tasks.',
+    design: 'The public introduction uses purple, orange, educational imagery, and a prominent course message. The workspace switches to light surfaces, blue panels, and repeated program cards. Staged application forms use progress indicators to divide more detailed instructor information into smaller screens.',
+    features: [['Course discovery', 'The public website gives course exploration a prominent headline and entry action.'], ['Program workspace', 'Repeated cards organize the educational programs shown in the account view.'], ['Instructor application', 'Staged forms present tutor information, supporting documents, and verification screens.'], ['Communication view', 'A dedicated conversation layout appears within the same teaching-oriented workspace.']],
+  },
+  'app-simplyscouted': {
+    discipline: 'Sports recruitment',
+    summary: 'A sports-recruitment app presentation with athlete profiles, college-team discovery, portrait cards, and account introductions.',
+    overview: 'SimplyScouted’s original designs introduce two sports-oriented intentions: recruiting a player and finding a college team. Portrait-led discovery cards combine people with compact profile information and interest controls. Single-profile and multi-profile screens provide different browsing densities, while the introductory sequence establishes the athletic recruitment context.',
+    features: [['Athlete discovery', 'Portrait-led cards introduce people within the sports-recruitment presentation.'], ['Profile information', 'Dedicated views pair photographs with the personal details displayed about each profile.'], ['Audience introductions', 'Original screens distinguish recruiting a player from exploring college-team opportunities.'], ['Compact profile actions', 'Prominent interest controls and smaller navigation elements sit beside the main profile content.']],
+  },
+  'app-infiscribe': {
+    discipline: 'Document capture & files', headline: 'From paper to a personal document space.',
+    summary: 'A document-scanning app presentation with camera capture, file organization, a document preview, and account access.',
+    overview: 'InfiScribe’s original artwork connects paper-document capture with a personal file workspace. A camera-oriented screen outlines the document being captured, while file lists and recent-document cards organize the surrounding library. Dedicated previews give a captured page a separate reading surface, with compact controls positioned around the document.',
+    design: 'Forest green and light neutral surfaces create a restrained frame for paper and document content. The capture view emphasizes the page boundary, while the library uses smaller rows and cards. A largely white preview keeps the document itself visually central.',
+    features: [['Document capture', 'An original camera composition shows a document boundary and a focused capture control.'], ['File library', 'Recent-document cards and list views organize files in the personal workspace.'], ['Document preview', 'A separate reading surface presents the page with compact supporting controls.'], ['Account entry', 'Welcome and sign-in screens carry the same green identity into the entry journey.']],
+  },
+  'app-little-butterflies': {
+    summary: 'A family-oriented mobile presentation with language choices, a personal home, daily information, and conversation screens.',
+    overview: 'Little Butterflies’ mobile artwork extends the family-focused identity into a personal daily-use interface. The supplied screens include a language-selection step, an illustrated home, daily-information rows, and a parent-oriented conversation. Warm colors and rounded content groups connect these different tasks without making the working screens feel as dense as an administrative dashboard.',
+    features: [['Family home', 'Illustrated cards and daily-information rows introduce the personal workspace.'], ['Language choices', 'A dedicated entry screen groups the language options shown in the artwork.'], ['Conversation view', 'The original screen set includes a parent-oriented message and shared-image layout.'], ['Compact navigation', 'A small navigation area connects the surrounding mobile information screens.']],
+  },
+  'app-racepace': {
+    discipline: 'Racing & team selection', headline: 'See the drivers. Shape the lineup.',
+    summary: 'A racing-themed mobile presentation with driver discovery, selection controls, team formation, and race introductions.',
+    overview: 'Racepace’s original artwork presents a racing-oriented team-selection experience. Introductory screens establish the motorsport subject, followed by driver cards, selection lists, and a visual team formation. Compact profile indicators sit alongside the individual people, while the lineup provides a separate view of the assembled roles. Unrelated GymBet fitness copy from the archive is excluded.',
+    design: 'Indigo headers, racing imagery, and light information panels connect the introductory and team-oriented views. The driver catalog uses compact repeated rows, while the formation screen gives the team a more spatial arrangement with clear role positions.',
+    features: [['Racing introduction', 'Motorsport imagery and short competition-oriented content introduce the subject.'], ['Driver discovery', 'Portrait cards and lists organize the people shown in the selection interface.'], ['Team formation', 'A spatial lineup provides a distinct view of the displayed team roles.'], ['Selection controls', 'Compact indicators and actions sit alongside driver and team information.']],
+  },
+  'app-dateflow': {
+    overview: 'Dateflow’s original screens combine a light account introduction with phone entry, portrait-led profile information, and community guidance. Alternative entry choices are grouped on the welcome screen, while a separate phone view gives one input a focused setting. The profile layouts then shift attention to imagery and the personal details displayed about an individual.',
+    features: [['Profile context', 'Portrait-led views pair personal imagery with structured information.'], ['Entry choices', 'The welcome screen groups the account and sign-in options shown in the design.'], ['Phone input', 'A dedicated mobile-number view gives account entry a focused information step.'], ['Introductory guidance', 'A separate screen provides supporting context for the people-oriented experience.']],
+  },
+  'app-fynmate': {
+    discipline: 'Loan-adviser workspace', headline: 'A structured workspace for adviser information.',
+    summary: 'Fynmate’s archived composition shows a Digi-Loans-branded adviser interface with earnings records, profile information, and document fields.',
+    overview: 'The Fynmate composition contains Digi-Loans-branded mobile screens for an adviser-oriented workspace. Earnings summaries and individual records appear alongside a visiting-card profile, document-selection fields, and account entry. The case study follows that visible financial-services interface without attributing lending decisions, payout operation, or external integrations to the project.',
+    design: 'Blue-violet actions, white cards, and small warm accents connect the adviser’s account, profile, and record views. Summary figures sit above denser earnings information, while document choices use repeated rows to keep the entry task organized.',
+    features: [['Earnings records', 'Summary modules and repeated entries organize the displayed financial-service information.'], ['Visiting-card profile', 'A dedicated screen groups contact and personal presentation details.'], ['Document fields', 'Labeled choices divide the information requested in the source document-entry interface.'], ['Adviser account', 'Digi-Loans-branded sign-in screens identify the account context shown in the composition.']],
+    note: 'Archived as Fynmate. The supplied project composition and detail screens contain Digi-Loans branding; this page describes that visible interface without asserting a separate client identity.',
+  },
+  'app-streetslate': {
+    discipline: 'Fieldwork & learning', headline: 'Connect the route with the work around it.',
+    summary: 'A field-oriented app presentation combining route maps, lead-information forms, learning questions, and account screens.',
+    overview: 'StreetSlate’ original screen set combines several field-oriented information patterns. A route map provides geographical context, a lead form groups work and contact details, and a question screen introduces a knowledge-check layout. The distinctive purple identity connects these different tasks, while each screen uses a layout suited to its information.',
+    design: 'Deep purple contrasts with pale maps, white form panels, and clearly separated question choices. A strong route line leads the geographical view, while the form and quiz screens use more contained vertical groups. Repeated accent colors provide continuity across the different content types.',
+    features: [['Route maps', 'A geographical view connects displayed points with a contrasting route.'], ['Lead-information fields', 'A dedicated form groups contact and work-related input areas.'], ['Learning questions', 'Prompts and answer choices appear in a separate knowledge-check screen.'], ['Account entry', 'A branded login view carries the purple identity into the workspace introduction.']],
+  },
+  'app-ummed': {
+    discipline: 'Community & profiles',
+    overview: 'Listed as Ummed in the original mobile archive, the supplied composition is branded Umeed. Its artwork presents a relationship-oriented community through member information, a colorful introduction, supporting informational screens, and account recovery. Portrait-led cards sit within a softer mobile visual system than the dark public website.',
+    design: 'Soft cream and rainbow gradients frame the mobile identity. White content areas keep member and informational text readable, while multicolored actions connect the introduction, supporting pages, and account-recovery views.',
+  },
+  'app-bubble': {
+    discipline: 'Dining offers & rewards', headline: 'Connect a good offer with a clear next view.',
+    summary: 'A dining-and-rewards app presentation with coupon discovery, a points-oriented home, contact views, and QR-related imagery.',
+    overview: 'Bubble’s original artwork combines a rewards-oriented home with dining offers, coupon lists, and contact-related views. Food photography and category choices introduce discovery, while repeated offer rows provide a more focused coupon surface. The supplied people and QR compositions add other interface patterns without establishing payment processing, redemption rules, or transfer operation.',
+    design: 'Aqua and white establish a light identity, with warm promotional imagery providing contrast. The displayed points summary sits above the discovery content, while coupon rows and contact lists use quieter, repeated layouts suited to more detailed browsing.',
+    features: [['Reward summary', 'The home layout gives displayed points information a separate summary area.'], ['Coupon discovery', 'Offer-oriented lists organize individual promotions beneath search controls.'], ['Contact views', 'Portraits and short details appear in people and transfer-oriented interfaces.'], ['QR composition', 'Original artwork includes QR-related imagery within the same product family.']],
+  },
+};
+
+export const projectContent: Record<string, ProjectContent> = Object.fromEntries(
+  Object.entries(originalContent).map(([slug, content]) => [slug, { ...content, ...contentCorrections[slug] }]),
+);

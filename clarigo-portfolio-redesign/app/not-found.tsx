@@ -1,4 +1,4 @@
-import Link from 'next/link';
+import Link from '../components/PortfolioLink';
 import SiteHeader from '../components/SiteHeader';
 
 export default function NotFound() {

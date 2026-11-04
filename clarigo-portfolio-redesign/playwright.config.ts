@@ -7,8 +7,8 @@ export default defineConfig({
   fullyParallel: true,
   workers: 1,
   retries: 0,
-  reporter: [['list'], ['json', { outputFile: 'audit/design-polish/browser-tests.json' }]],
-  outputDir: 'audit/design-polish/test-results',
+  reporter: [['list'], ['json', { outputFile: process.env.MOTION_TEST_REPORT || process.env.REBRAND_TEST_REPORT || 'audit/motion/browser-tests.json' }]],
+  outputDir: process.env.MOTION_TEST_ARTIFACTS || process.env.REBRAND_TEST_ARTIFACTS || 'audit/motion/test-results',
   use: { baseURL: 'http://127.0.0.1:3100', channel: 'chrome', headless: true, screenshot: 'only-on-failure', trace: 'retain-on-failure' },
   projects: [
     { name: 'desktop', use: { viewport: { width: 1440, height: 1000 } } },

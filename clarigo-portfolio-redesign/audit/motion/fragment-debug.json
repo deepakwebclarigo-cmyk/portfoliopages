@@ -1,0 +1,223 @@
+{
+  "log": [
+    {
+      "type": "fonts",
+      "args": [],
+      "y": 0,
+      "t": 30.800000000745058,
+      "stack": [
+        "    at <anonymous>:8:32"
+      ]
+    },
+    {
+      "type": "frame",
+      "args": [],
+      "y": 0,
+      "t": 103.30000000074506,
+      "stack": [
+        "    at frame (<anonymous>:9:53)"
+      ]
+    },
+    {
+      "type": "load",
+      "args": [],
+      "y": 0,
+      "t": 108.89999999850988,
+      "stack": [
+        "    at <anonymous>:7:93"
+      ]
+    },
+    {
+      "type": "scroll",
+      "args": [],
+      "y": 9,
+      "t": 149.69999999925494,
+      "stack": [
+        "    at addEventListener.passive (<anonymous>:7:32)"
+      ]
+    },
+    {
+      "type": "scrollTo",
+      "args": [
+        0,
+        0
+      ],
+      "y": 9,
+      "t": 178.59999999776483,
+      "stack": [
+        "    at window.scrollTo (<anonymous>:5:73)",
+        "    at http://127.0.0.1:3100/_next/static/chunks/849-ab98740632de4c08.js:1:7801",
+        "    at r (http://127.0.0.1:3100/_next/static/chunks/849-ab98740632de4c08.js:1:7316)"
+      ]
+    },
+    {
+      "type": "scrollTo",
+      "args": [
+        0,
+        0
+      ],
+      "y": 0,
+      "t": 178.80000000074506,
+      "stack": [
+        "    at window.scrollTo (<anonymous>:5:73)",
+        "    at http://127.0.0.1:3100/_next/static/chunks/849-ab98740632de4c08.js:1:7618",
+        "    at r (http://127.0.0.1:3100/_next/static/chunks/849-ab98740632de4c08.js:1:7316)"
+      ]
+    },
+    {
+      "type": "scrollTo",
+      "args": [
+        0,
+        9
+      ],
+      "y": 0,
+      "t": 181.5,
+      "stack": [
+        "    at window.scrollTo (<anonymous>:5:73)",
+        "    at http://127.0.0.1:3100/_next/static/chunks/849-ab98740632de4c08.js:1:7801",
+        "    at r (http://127.0.0.1:3100/_next/static/chunks/849-ab98740632de4c08.js:1:7316)"
+      ]
+    },
+    {
+      "type": "scrollTo",
+      "args": [
+        0,
+        0
+      ],
+      "y": 9,
+      "t": 189.89999999850988,
+      "stack": [
+        "    at window.scrollTo (<anonymous>:5:73)",
+        "    at http://127.0.0.1:3100/_next/static/chunks/849-ab98740632de4c08.js:1:7801",
+        "    at r (http://127.0.0.1:3100/_next/static/chunks/849-ab98740632de4c08.js:1:7316)"
+      ]
+    },
+    {
+      "type": "scrollTo",
+      "args": [
+        0,
+        0
+      ],
+      "y": 0,
+      "t": 190,
+      "stack": [
+        "    at window.scrollTo (<anonymous>:5:73)",
+        "    at http://127.0.0.1:3100/_next/static/chunks/849-ab98740632de4c08.js:1:7618",
+        "    at r (http://127.0.0.1:3100/_next/static/chunks/849-ab98740632de4c08.js:1:7316)"
+      ]
+    },
+    {
+      "type": "scrollTo",
+      "args": [
+        0,
+        9
+      ],
+      "y": 0,
+      "t": 192.59999999776483,
+      "stack": [
+        "    at window.scrollTo (<anonymous>:5:73)",
+        "    at http://127.0.0.1:3100/_next/static/chunks/849-ab98740632de4c08.js:1:7801",
+        "    at r (http://127.0.0.1:3100/_next/static/chunks/849-ab98740632de4c08.js:1:7316)"
+      ]
+    },
+    {
+      "type": "scroll",
+      "args": [],
+      "y": 22,
+      "t": 193,
+      "stack": [
+        "    at addEventListener.passive (<anonymous>:7:32)"
+      ]
+    },
+    {
+      "type": "frame",
+      "args": [],
+      "y": 22,
+      "t": 276.8999999985099,
+      "stack": [
+        "    at frame (<anonymous>:9:53)"
+      ]
+    },
+    {
+      "type": "frame",
+      "args": [],
+      "y": 22,
+      "t": 443.80000000074506,
+      "stack": [
+        "    at frame (<anonymous>:9:53)"
+      ]
+    },
+    {
+      "type": "frame",
+      "args": [],
+      "y": 22,
+      "t": 610.5999999977648,
+      "stack": [
+        "    at frame (<anonymous>:9:53)"
+      ]
+    },
+    {
+      "type": "frame",
+      "args": [],
+      "y": 22,
+      "t": 777.3999999985099,
+      "stack": [
+        "    at frame (<anonymous>:9:53)"
+      ]
+    },
+    {
+      "type": "frame",
+      "args": [],
+      "y": 22,
+      "t": 944.0999999977648,
+      "stack": [
+        "    at frame (<anonymous>:9:53)"
+      ]
+    },
+    {
+      "type": "frame",
+      "args": [],
+      "y": 22,
+      "t": 1111.0999999977648,
+      "stack": [
+        "    at frame (<anonymous>:9:53)"
+      ]
+    },
+    {
+      "type": "frame",
+      "args": [],
+      "y": 22,
+      "t": 1277.199999999255,
+      "stack": [
+        "    at frame (<anonymous>:9:53)"
+      ]
+    },
+    {
+      "type": "frame",
+      "args": [],
+      "y": 22,
+      "t": 1444.199999999255,
+      "stack": [
+        "    at frame (<anonymous>:9:53)"
+      ]
+    },
+    {
+      "type": "frame",
+      "args": [],
+      "y": 22,
+      "t": 1611.300000000745,
+      "stack": [
+        "    at frame (<anonymous>:9:53)"
+      ]
+    }
+  ],
+  "nav": [
+    "navigate"
+  ],
+  "y": 22,
+  "root": {
+    "motionSkipHero": "",
+    "motion": "full"
+  },
+  "styles": "translate: none; rotate: none; scale: none; clip-path: inset(0% 0% 7%); transform: translate(0px, 22px) scale(0.99, 0.99); opacity: 0;"
+}

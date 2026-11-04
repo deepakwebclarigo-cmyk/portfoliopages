@@ -1,0 +1,34 @@
+{
+  "viewports": 4,
+  "selectorsPerViewport": 14,
+  "differences": [
+    {
+      "width": 1440,
+      "selector": ".heroSection",
+      "key": "text",
+      "before": "AI-FIRST ENGINEERING · 10+ YEARS OF DELIVERYBuilt for what's next.Explore selected web and mobile projects from Clarigo's public portfolio.Explore selected work Let's build together 19Web projects28Mobile projects20+Countries served SCROLL TO EXPLORE",
+      "after": "Aa AI-FIRST ENGINEERING · 10+ YEARS OF DELIVERYBuilt for what's next.Explore selected web and mobile projects from Clarigo's public portfolio.Explore selected work Let's build together 19Web projects28Mobile projects20+Countries served SCROLL TO EXPLORE"
+    },
+    {
+      "width": 1195,
+      "selector": ".heroSection",
+      "key": "text",
+      "before": "AI-FIRST ENGINEERING · 10+ YEARS OF DELIVERYBuilt for what's next.Explore selected web and mobile projects from Clarigo's public portfolio.Explore selected work Let's build together 19Web projects28Mobile projects20+Countries served SCROLL TO EXPLORE",
+      "after": "Aa AI-FIRST ENGINEERING · 10+ YEARS OF DELIVERYBuilt for what's next.Explore selected web and mobile projects from Clarigo's public portfolio.Explore selected work Let's build together 19Web projects28Mobile projects20+Countries served SCROLL TO EXPLORE"
+    },
+    {
+      "width": 768,
+      "selector": ".heroSection",
+      "key": "text",
+      "before": "AI-FIRST ENGINEERING · 10+ YEARS OF DELIVERYBuilt for what's next.Explore selected web and mobile projects from Clarigo's public portfolio.Explore selected work Let's build together 19Web projects28Mobile projects20+Countries served SCROLL TO EXPLORE",
+      "after": "Aa AI-FIRST ENGINEERING · 10+ YEARS OF DELIVERYBuilt for what's next.Explore selected web and mobile projects from Clarigo's public portfolio.Explore selected work Let's build together 19Web projects28Mobile projects20+Countries served SCROLL TO EXPLORE"
+    },
+    {
+      "width": 390,
+      "selector": ".heroSection",
+      "key": "text",
+      "before": "AI-FIRST ENGINEERING · 10+ YEARS OF DELIVERYBuilt for what's next.Explore selected web and mobile projects from Clarigo's public portfolio.Explore selected work Let's build together 19Web projects28Mobile projects20+Countries served SCROLL TO EXPLORE",
+      "after": "Aa AI-FIRST ENGINEERING · 10+ YEARS OF DELIVERYBuilt for what's next.Explore selected web and mobile projects from Clarigo's public portfolio.Explore selected work Let's build together 19Web projects28Mobile projects20+Countries served SCROLL TO EXPLORE"
+    }
+  ]
+}

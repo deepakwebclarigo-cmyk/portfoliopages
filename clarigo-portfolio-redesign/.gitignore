@@ -4,3 +4,7 @@ node_modules/
 audit/test-results/
 audit/sources/
 audit/*.png
+audit/design-polish/*.png
+audit/design-polish/test-results/
+audit/reference-case-studies/*.png
+audit/reference-case-studies/test-results/

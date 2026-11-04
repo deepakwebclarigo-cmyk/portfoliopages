@@ -25,6 +25,7 @@ function OrbitalArtwork({ reducedMotion }: { reducedMotion: boolean }) {
 
   useFrame(({ pointer }, delta) => {
     if (!group.current || !particles.current || reducedMotion) return;
+    delta = Math.min(delta, .05);
     group.current.rotation.y += delta * 0.06;
     group.current.rotation.x += (pointer.y * 0.12 - group.current.rotation.x) * delta * 0.3;
     group.current.rotation.y += (pointer.x * 0.12 - group.current.rotation.y) * delta * 0.12;

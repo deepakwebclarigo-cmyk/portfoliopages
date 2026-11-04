@@ -1,0 +1,226 @@
+[
+  {
+    "viewport": "desktop",
+    "slug": "streamdexa",
+    "name": "StreamDexa",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "slug": "tukioconnect",
+    "name": "TukioConnect",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "slug": "paranest",
+    "name": "ParaNest",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "slug": "rallybridge",
+    "name": "RallyBridge",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "slug": "whizora",
+    "name": "Whizora",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "slug": "estrata",
+    "name": "EStrata",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "slug": "leadforma",
+    "name": "LeadForma",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "slug": "app-simplyscouted",
+    "name": "SimplyScouted",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "slug": "app-infiscribe",
+    "name": "InfiScribe",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "slug": "app-silaflow",
+    "name": "SilaFlow",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "slug": "app-habitstride",
+    "name": "HabitStride",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "slug": "app-tukioconnect",
+    "name": "TukioConnect",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "slug": "app-pantryone",
+    "name": "PantryOne",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "desktop",
+    "slug": "app-streetslate",
+    "name": "StreetSlate",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "slug": "streamdexa",
+    "name": "StreamDexa",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "slug": "tukioconnect",
+    "name": "TukioConnect",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "slug": "paranest",
+    "name": "ParaNest",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "slug": "rallybridge",
+    "name": "RallyBridge",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "slug": "whizora",
+    "name": "Whizora",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "slug": "estrata",
+    "name": "EStrata",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "slug": "leadforma",
+    "name": "LeadForma",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "slug": "app-simplyscouted",
+    "name": "SimplyScouted",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "slug": "app-infiscribe",
+    "name": "InfiScribe",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "slug": "app-silaflow",
+    "name": "SilaFlow",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "slug": "app-habitstride",
+    "name": "HabitStride",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "slug": "app-tukioconnect",
+    "name": "TukioConnect",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "slug": "app-pantryone",
+    "name": "PantryOne",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "viewport": "mobile",
+    "slug": "app-streetslate",
+    "name": "StreetSlate",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  }
+]

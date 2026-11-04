@@ -5,8 +5,6 @@ import sharp from 'sharp';
 const root = new URL('../', import.meta.url);
 const inventory = JSON.parse(await readFile(new URL('lib/project-inventory.json', root), 'utf8'));
 const assets = JSON.parse(await readFile(new URL('lib/project-assets.json', root), 'utf8'));
-const exclusions = JSON.parse(await readFile(new URL('lib/asset-exclusions.json', root), 'utf8'));
-for (const { slug } of inventory) assets[slug].images = assets[slug].images.filter((asset) => !Object.hasOwn(exclusions[slug] ?? {}, decodeURIComponent(asset.source.split('/').pop())));
 const report = { projects: inventory.length, assets: 0, sourceBytes: 0, localBytes: 0, errors: [] };
 const seen = new Set();
 for (const item of inventory) {
@@ -27,7 +25,7 @@ for (let start = 0; start < inventory.length; start += 8) {
   for (let row = 0; row < Math.min(8, inventory.length - start); row++) {
     const item = inventory[start + row];
     const set = assets[item.slug];
-    const screens = set.images.filter((asset) => item.kind === 'mobile' ? asset.source.includes('/screenshots/') : /\/web\/.*-web-\d\.png$/i.test(asset.source));
+    const screens = set.images.filter((asset) => asset.gallery);
     const gallery = screens.length ? screens : set.images.length ? set.images : [set.poster];
     composites.push({ input: Buffer.from(`<svg width="1500" height="30"><rect width="1500" height="30" fill="#fff"/><text x="10" y="22" font-family="Arial" font-size="19">${item.slug}</text></svg>`), left: 0, top: row * 230 });
     for (let index = 0; index < gallery.length; index++) {

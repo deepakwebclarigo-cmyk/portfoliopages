@@ -1,0 +1,105 @@
+{
+  "reviewDate": "2026-11-03",
+  "build": {
+    "id": "9vpQPyJlxXOQOupjBR4im",
+    "production": "passed",
+    "typecheck": "passed",
+    "postbuild": "passed",
+    "projectRoutes": 47,
+    "singleMetadataSets": 47
+  },
+  "inventory": {
+    "total": 47,
+    "web": 19,
+    "mobile": 28,
+    "originalInventoryUnchanged": true
+  },
+  "content": {
+    "uniqueNarratives": 47,
+    "stepsPerProject": 3,
+    "solutionPointsPerProject": 3,
+    "engineeringTopicsPerProject": 3
+  },
+  "browser": {
+    "startTime": "2026-11-03T07:04:08.895Z",
+    "duration": 524531.693,
+    "expected": 165,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0,
+    "projects": [
+      {
+        "project": "desktop",
+        "passed": 55
+      },
+      {
+        "project": "tablet",
+        "passed": 55
+      },
+      {
+        "project": "mobile",
+        "passed": 55
+      }
+    ],
+    "routeChecks": 141,
+    "report": "browser-tests.json"
+  },
+  "assets": {
+    "selected": 318,
+    "localBytes": 31540610,
+    "uniquePosters": 47,
+    "thumbnails": 47,
+    "thumbnailBytes": 1927738,
+    "decodedFiles": 367,
+    "errors": []
+  },
+  "screenshots": {
+    "views": 12,
+    "widths": [
+      320,
+      390,
+      768,
+      1024,
+      1440
+    ],
+    "errors": [],
+    "overflow": false,
+    "report": "polish-preview-checks.json"
+  },
+  "preview": {
+    "url": "http://localhost:3100",
+    "status": 200
+  },
+  "sourceHashes": {
+    "app/apple-icon.png": "328360836c0dd3fb274488bbf0a823817ffbc9a65f84c5de46fe7dd106660184",
+    "app/brand-fonts.css": "72493222baa13cec55f56a7b787bee8236e618d1a11c484e665cdd96114f54b0",
+    "app/case-stories.css": "adec80b1cbcd4bef5bb43d8769bbd06896e4b7b78b1ad4d7f9fbe2d0aa2e4d90",
+    "app/globals.css": "8318972ed4be7e4e8ea15f16274938af1d735f67eb71056e8c8dece8616fc57c",
+    "app/icon.png": "f84afe850390144c42a58a5179477fef9f5c41408508471cb3277429e780b4e7",
+    "app/layout.tsx": "29703d1d2ed3077a3c30b9bd212127d111e2c8eee886699ec7897b81a5985599",
+    "app/not-found.tsx": "90378560c29f8dc5199298cc1380174fb51379cd55b6634b1fea176198b89ffe",
+    "app/page.tsx": "45e6ebc05cdb6dbb02b8123e7ee89309c9c883a2593a86d7376e1a5af5a1efd0",
+    "app/robots.ts": "ed8451d6c430da128fcfa1df3dca002d83137504d76cf295fe61d95e8417693d",
+    "app/sitemap.ts": "57ce64a6bc05111608d6a04cb145f6b48f1a1a53df88916a735e7aa488184806",
+    "app/portfolio/page.tsx": "64016935ce1f67dd6bb1b2320858bfaf00aecddf5168b4d14af9548d59a8b9e9",
+    "app/portfolio/[slug]/page.tsx": "db5cb8c46ef041c1ee93622e508924cedae42d981cfeca0bf56095a9a2d35275",
+    "components/CaseNavigation.tsx": "72df17045a842e8182430453d899ece3ce0f29b8883c431fe711aab307fa2ad2",
+    "components/CaseStorySections.tsx": "a3a965cc54b263a97c74d5b629b3e9d0162fd6d8e6c93be4f0d6609284bcd275",
+    "components/PortfolioClient.tsx": "4151126f48f440281580ba64a4d3e8f30f8b6823ed1787a49f6023c8648fee68",
+    "components/PortfolioLink.tsx": "8bdcfd250c9b71c88100382fc2b4cb274c8ae4e7ab026a4f290df7f0be2fd5fb",
+    "components/PortfolioScene.tsx": "bc82430b6e32649ffbca91f165a81f5ef0c6ea486c7f764669163e11316bd161",
+    "components/ProjectGallery.tsx": "354afc1ad0326df2990153ab092b353e488771e703988732df2562c91f599487",
+    "components/ProjectVisual.tsx": "f3cdb6d806070754e960d67f6cad0695dcafb70553ebaca8917bd7406b132847",
+    "components/ScrollMotion.tsx": "06343144c35c42c5fc1c82cc32648c9e1221a4241e4c4db0208d79eb5e48a867",
+    "components/SiteHeader.tsx": "90663445b757b48d0bf3f516ff5e8792cd98525eb65a9f12d0edc6b3d70dd8fa",
+    "lib/asset-exclusions.json": "068024ea798c68ce41ed977363c6c1c7472685ece23248168b9b3c44db59312e",
+    "lib/project-assets.json": "a0705291a79eefc2544b97bcf5ed2f2da53dc694dace5b711334edae9ff9d6dc",
+    "lib/project-content.ts": "bba80b0ea1f6fcdf28343cc9cc1dea0602c756cbf2247827a0fef1806af31426",
+    "lib/project-inventory.json": "9ffc28f06a9dfc80150bc68b02b43dfa12c667d48743f27bdd7baff9510f606e",
+    "lib/project-stories-mobile.ts": "b9760172c2f47cd2332dd2ac89226b1cfc1e51be19f73837f6b5638e8f4b683a",
+    "lib/project-stories-web.ts": "6fbf3f60de7c95945940b202f2323611526cd54411aa8785c12b6f333120e436",
+    "lib/project-story.ts": "70567feaf654739f17d2cca1d809612c1756db70c605bfd25b28a475abed328b",
+    "lib/projects.ts": "3106258a0a0537ba60c74e34fee9f403649e740c9cb48032e859ea24d09f65d6",
+    "next.config.ts": "c8d6165e3e9be57ad2fd9a5ff2ef53a900536c3998eb3924aa8c7d6a4afae115"
+  }
+}

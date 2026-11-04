@@ -1,0 +1,16 @@
+[
+  {
+    "source": "https://clarigoinfotech.com/icon?00f30043a37c34d7",
+    "destination": "app/icon.png",
+    "width": 64,
+    "height": 64,
+    "sha256": "f84afe850390144c42a58a5179477fef9f5c41408508471cb3277429e780b4e7"
+  },
+  {
+    "source": "https://clarigoinfotech.com/apple-icon?16ba7bcdf740f9a9",
+    "destination": "app/apple-icon.png",
+    "width": 180,
+    "height": 180,
+    "sha256": "328360836c0dd3fb274488bbf0a823817ffbc9a65f84c5de46fe7dd106660184"
+  }
+]

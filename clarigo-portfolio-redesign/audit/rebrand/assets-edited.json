@@ -1,0 +1,638 @@
+[
+  {
+    "id": "001",
+    "slug": "streamdatax",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\001.png",
+    "scale": 2.25
+  },
+  {
+    "id": "002",
+    "slug": "streamdatax",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\002.png",
+    "scale": 2.25
+  },
+  {
+    "id": "003",
+    "slug": "streamdatax",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\003.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "004",
+    "slug": "streamdatax",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\004.png",
+    "scale": 2.8279654359780046
+  },
+  {
+    "id": "005",
+    "slug": "streamdatax",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\005.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "006",
+    "slug": "streamdatax",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\006.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "007",
+    "slug": "streamdatax",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\007.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "008",
+    "slug": "streamdatax",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\008.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "009",
+    "slug": "streamdatax",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\009.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "010",
+    "slug": "tukeeconnect",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\010.png",
+    "scale": 2.25
+  },
+  {
+    "id": "011",
+    "slug": "tukeeconnect",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\011.png",
+    "scale": 2.25
+  },
+  {
+    "id": "012",
+    "slug": "tukeeconnect",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\012.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "013",
+    "slug": "tukeeconnect",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\013.png",
+    "scale": 2.8279654359780046
+  },
+  {
+    "id": "014",
+    "slug": "tukeeconnect",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\014.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "015",
+    "slug": "tukeeconnect",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\015.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "016",
+    "slug": "tukeeconnect",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\016.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "017",
+    "slug": "tukeeconnect",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\017.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "018",
+    "slug": "tukeeconnect",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\018.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "019",
+    "slug": "app-tukeeconnect",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\019.png",
+    "scale": 2.25
+  },
+  {
+    "id": "020",
+    "slug": "app-tukeeconnect",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\020.png",
+    "scale": 2.25
+  },
+  {
+    "id": "021",
+    "slug": "app-tukeeconnect",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\021.png",
+    "scale": 1.651376146788991
+  },
+  {
+    "id": "023",
+    "slug": "app-tukeeconnect",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\023.png",
+    "scale": 3
+  },
+  {
+    "id": "024",
+    "slug": "app-tukeeconnect",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\024.png",
+    "scale": 3
+  },
+  {
+    "id": "025",
+    "slug": "app-tukeeconnect",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\025.png",
+    "scale": 3
+  },
+  {
+    "id": "026",
+    "slug": "app-tukeeconnect",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\026.png",
+    "scale": 3
+  },
+  {
+    "id": "027",
+    "slug": "parachute",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\027.png",
+    "scale": 2.3984010659560293
+  },
+  {
+    "id": "028",
+    "slug": "parachute",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\028.png",
+    "scale": 2.25
+  },
+  {
+    "id": "029",
+    "slug": "parachute",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\029.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "030",
+    "slug": "parachute",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\030.png",
+    "scale": 2.8279654359780046
+  },
+  {
+    "id": "031",
+    "slug": "parachute",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\031.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "032",
+    "slug": "parachute",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\032.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "033",
+    "slug": "parachute",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\033.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "034",
+    "slug": "parachute",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\034.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "035",
+    "slug": "parachute",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\035.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "036",
+    "slug": "whizara",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\036.png",
+    "scale": 2.25
+  },
+  {
+    "id": "037",
+    "slug": "whizara",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\037.png",
+    "scale": 2.25
+  },
+  {
+    "id": "038",
+    "slug": "whizara",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\038.png",
+    "scale": 2.82574568288854
+  },
+  {
+    "id": "039",
+    "slug": "whizara",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\039.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "040",
+    "slug": "whizara",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\040.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "041",
+    "slug": "whizara",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\041.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "042",
+    "slug": "whizara",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\042.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "043",
+    "slug": "whizara",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\043.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "044",
+    "slug": "es-platform",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\044.png",
+    "scale": 2.25
+  },
+  {
+    "id": "045",
+    "slug": "es-platform",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\045.png",
+    "scale": 2.25
+  },
+  {
+    "id": "046",
+    "slug": "es-platform",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\046.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "047",
+    "slug": "es-platform",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\047.png",
+    "scale": 2.82574568288854
+  },
+  {
+    "id": "048",
+    "slug": "es-platform",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\048.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "049",
+    "slug": "es-platform",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\049.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "050",
+    "slug": "es-platform",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\050.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "051",
+    "slug": "es-platform",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\051.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "052",
+    "slug": "lead-management",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\052.png",
+    "scale": 2.25
+  },
+  {
+    "id": "053",
+    "slug": "app-simply-recruited",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\053.png",
+    "scale": 2.25
+  },
+  {
+    "id": "054",
+    "slug": "app-simply-recruited",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\054.png",
+    "scale": 2.25
+  },
+  {
+    "id": "055",
+    "slug": "app-simply-recruited",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\055.png",
+    "scale": 3
+  },
+  {
+    "id": "056",
+    "slug": "app-simply-recruited",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\056.png",
+    "scale": 3
+  },
+  {
+    "id": "057",
+    "slug": "app-simply-recruited",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\057.png",
+    "scale": 3
+  },
+  {
+    "id": "058",
+    "slug": "app-simply-recruited",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\058.png",
+    "scale": 3
+  },
+  {
+    "id": "059",
+    "slug": "app-simply-recruited",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\059.png",
+    "scale": 3
+  },
+  {
+    "id": "060",
+    "slug": "app-simply-recruited",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\060.png",
+    "scale": 3
+  },
+  {
+    "id": "061",
+    "slug": "app-infinote",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\061.png",
+    "scale": 2.25
+  },
+  {
+    "id": "062",
+    "slug": "app-infinote",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\062.png",
+    "scale": 2.25
+  },
+  {
+    "id": "063",
+    "slug": "app-infinote",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\063.png",
+    "scale": 1.651376146788991
+  },
+  {
+    "id": "064",
+    "slug": "app-infinote",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\064.png",
+    "scale": 3
+  },
+  {
+    "id": "065",
+    "slug": "app-infinote",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\065.png",
+    "scale": 3
+  },
+  {
+    "id": "066",
+    "slug": "app-infinote",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\066.png",
+    "scale": 3
+  },
+  {
+    "id": "067",
+    "slug": "app-infinote",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\067.png",
+    "scale": 3
+  },
+  {
+    "id": "068",
+    "slug": "app-infinote",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\068.png",
+    "scale": 3
+  },
+  {
+    "id": "069",
+    "slug": "app-infinote",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\069.png",
+    "scale": 3
+  },
+  {
+    "id": "070",
+    "slug": "app-silasync",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\070.png",
+    "scale": 2.25
+  },
+  {
+    "id": "071",
+    "slug": "app-silasync",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\071.png",
+    "scale": 2.25
+  },
+  {
+    "id": "072",
+    "slug": "app-silasync",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\072.png",
+    "scale": 1.651376146788991
+  },
+  {
+    "id": "073",
+    "slug": "app-silasync",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\073.png",
+    "scale": 3
+  },
+  {
+    "id": "074",
+    "slug": "app-silasync",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\074.png",
+    "scale": 3
+  },
+  {
+    "id": "075",
+    "slug": "app-silasync",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\075.png",
+    "scale": 3
+  },
+  {
+    "id": "076",
+    "slug": "app-silasync",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\076.png",
+    "scale": 3
+  },
+  {
+    "id": "077",
+    "slug": "app-silasync",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\077.png",
+    "scale": 3
+  },
+  {
+    "id": "078",
+    "slug": "app-digital-habit-tracker",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\078.png",
+    "scale": 2.25
+  },
+  {
+    "id": "079",
+    "slug": "app-digital-habit-tracker",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\079.png",
+    "scale": 2.25
+  },
+  {
+    "id": "080",
+    "slug": "app-digital-habit-tracker",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\080.png",
+    "scale": 1.651376146788991
+  },
+  {
+    "id": "081",
+    "slug": "app-digital-habit-tracker",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\081.png",
+    "scale": 3
+  },
+  {
+    "id": "082",
+    "slug": "app-digital-habit-tracker",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\082.png",
+    "scale": 3
+  },
+  {
+    "id": "083",
+    "slug": "app-digital-habit-tracker",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\083.png",
+    "scale": 3
+  },
+  {
+    "id": "084",
+    "slug": "app-digital-habit-tracker",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\084.png",
+    "scale": 3
+  },
+  {
+    "id": "085",
+    "slug": "app-digital-habit-tracker",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\085.png",
+    "scale": 3
+  },
+  {
+    "id": "086",
+    "slug": "app-one-pantry",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\086.png",
+    "scale": 2.25
+  },
+  {
+    "id": "087",
+    "slug": "app-one-pantry",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\087.png",
+    "scale": 2.25
+  },
+  {
+    "id": "088",
+    "slug": "app-one-pantry",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\088.png",
+    "scale": 3
+  },
+  {
+    "id": "090",
+    "slug": "app-one-pantry",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\090.png",
+    "scale": 3
+  },
+  {
+    "id": "091",
+    "slug": "app-one-pantry",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\091.png",
+    "scale": 3
+  },
+  {
+    "id": "092",
+    "slug": "app-one-pantry",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\092.png",
+    "scale": 3
+  },
+  {
+    "id": "093",
+    "slug": "app-one-pantry",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\093.png",
+    "scale": 3
+  },
+  {
+    "id": "094",
+    "slug": "app-street-sheets",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\094.png",
+    "scale": 2.401601067378252
+  },
+  {
+    "id": "095",
+    "slug": "app-street-sheets",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\095.png",
+    "scale": 2.2346368715083798
+  },
+  {
+    "id": "096",
+    "slug": "app-street-sheets",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\096.png",
+    "scale": 3
+  },
+  {
+    "id": "097",
+    "slug": "app-street-sheets",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\097.png",
+    "scale": 3
+  },
+  {
+    "id": "098",
+    "slug": "app-street-sheets",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\098.png",
+    "scale": 3
+  },
+  {
+    "id": "099",
+    "slug": "app-street-sheets",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\099.png",
+    "scale": 3
+  },
+  {
+    "id": "100",
+    "slug": "app-street-sheets",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\100.png",
+    "scale": 3
+  },
+  {
+    "id": "101",
+    "slug": "br-tennis",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\101.png",
+    "scale": 2.4725274725274726
+  },
+  {
+    "id": "102",
+    "slug": "br-tennis",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\102.png",
+    "scale": 2.25
+  },
+  {
+    "id": "103",
+    "slug": "br-tennis",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\103.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "104",
+    "slug": "br-tennis",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\104.png",
+    "scale": 2.82574568288854
+  },
+  {
+    "id": "105",
+    "slug": "br-tennis",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\105.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "106",
+    "slug": "br-tennis",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\106.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "107",
+    "slug": "br-tennis",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\107.png",
+    "scale": 1.6363636363636365
+  },
+  {
+    "id": "108",
+    "slug": "br-tennis",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\ocr-edited\\108.png",
+    "scale": 1.6363636363636365
+  }
+]

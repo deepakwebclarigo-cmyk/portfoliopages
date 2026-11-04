@@ -5,6 +5,7 @@ import sharp from 'sharp';
 const root = new URL('../', import.meta.url);
 const audit = JSON.parse(await readFile(new URL('audit/source-audit.json', root), 'utf8'));
 const inventory = JSON.parse(await readFile(new URL('lib/project-inventory.json', root), 'utf8'));
+if(inventory.some(item=>item.rebranded))throw new Error('Historical importer stopped: the current portfolio has renamed brands and reviewed artwork. Original remote paths are preserved in audit/rebrand/source-manifest-before.json; importing must not overwrite the current asset manifest.');
 const rows = inventory.map(({ name, image, page }) => [null, name, image, page]);
 const host = 'https://clarigo-voluble-youtiao-e0781d.netlify.app';
 const output = new URL('public/images/projects/', root);

@@ -1,0 +1,20 @@
+import { chromium } from '@playwright/test';
+import fs from 'node:fs/promises';
+const browser=await chromium.launch({channel:'chrome',headless:true}),page=await browser.newPage({viewport:{width:1440,height:1000}});
+await page.addInitScript(()=>{
+ window.fragmentLog=[];
+ const log=(type,args)=>window.fragmentLog.push({type,args,y:scrollY,t:performance.now(),stack:new Error().stack?.split('\n').slice(2,5)});
+ const originalScroll=window.scrollTo;window.scrollTo=function(...args){log('scrollTo',args);return originalScroll.apply(this,args);};
+ const into=Element.prototype.scrollIntoView;Element.prototype.scrollIntoView=function(...args){log('into '+this.id,args);return into.apply(this,args);};
+ addEventListener('scroll',()=>log('scroll',[]),{passive:true});addEventListener('load',()=>log('load',[]));
+ document.fonts.ready.then(()=>log('fonts',[]));
+ let samples=0;function frame(){if(samples++%10===0)log('frame',[]);if(samples<100)requestAnimationFrame(frame);}requestAnimationFrame(frame);
+});
+await page.goto('http://127.0.0.1:3100/portfolio/app-habitstride');
+await page.waitForFunction(()=>document.documentElement.dataset.motion==='full');
+await page.emulateMedia({reducedMotion:'reduce'});await page.waitForFunction(()=>document.documentElement.dataset.motion==='reduced');
+await page.getByRole('link',{name:'Screenshots',exact:true}).click();await page.locator('.galleryOpen').first().click();await page.getByRole('button',{name:'Next image',exact:true}).click();await page.keyboard.press('Escape');
+await page.emulateMedia({reducedMotion:'no-preference'});await page.waitForFunction(()=>document.documentElement.dataset.motion==='full');
+await page.goto('http://127.0.0.1:3100/portfolio/streamdexa#screens');await page.waitForTimeout(2500);
+const result=await page.evaluate(()=>({log:window.fragmentLog,nav:performance.getEntriesByType('navigation').map(n=>n.type),y:scrollY,root:document.documentElement.dataset,styles:document.querySelector('.projectGallery>figure')?.getAttribute('style')}));
+await fs.writeFile('audit/motion/fragment-debug.json',JSON.stringify(result,null,2));console.log(JSON.stringify(result));await browser.close();
