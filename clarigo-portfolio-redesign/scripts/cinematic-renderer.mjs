@@ -31,6 +31,8 @@ const fill = new THREE.DirectionalLight(0xffd7e3,.6); fill.position.set(4,2,-4);
 const camera = new THREE.PerspectiveCamera(30,width/height,.1,40);
 const showcase = createHeroShowcase({ detail: 12 }); scene.add(showcase.group);
 const composer = new EffectComposer(renderer); composer.setSize(width,height);
+const samples = Math.min(width>1920?2:4,renderer.capabilities.maxSamples);
+composer.renderTarget1.samples = samples; composer.renderTarget2.samples = samples;
 composer.addPass(new RenderPass(scene,camera));
 let seed = 20261106; const random = Math.random;
 Math.random = () => { seed = (1664525*seed+1013904223)>>>0; return seed/4294967296; };

@@ -112,8 +112,8 @@ export function createHeroShowcase({ detail = 6 }: { detail?: number } = {}) {
   const thumb=disk(palette,.055,white,2,-.13,-.14,.095);
   // Typography is a canvas text texture on a 3D plane, using the site's own font.
   const type=item([1.15,1.62,-.12],[.02,-.12,.07]);body(type,.8,.83,3);
-  const glyphCanvas=document.createElement('canvas');glyphCanvas.width=256;glyphCanvas.height=220;
-  const glyphContext=glyphCanvas.getContext('2d')!;glyphContext.fillStyle='#EA1B3D';glyphContext.font='500 140px Geist, Arial, sans-serif';glyphContext.textBaseline='middle';glyphContext.fillText('Aa',20,104);
+  const glyphScale=detail>6?2:1,glyphCanvas=document.createElement('canvas');glyphCanvas.width=256*glyphScale;glyphCanvas.height=220*glyphScale;
+  const glyphContext=glyphCanvas.getContext('2d')!;glyphContext.fillStyle='#EA1B3D';glyphContext.font=`500 ${140*glyphScale}px Geist, Arial, sans-serif`;glyphContext.textBaseline='middle';glyphContext.fillText('Aa',20*glyphScale,104*glyphScale);
   const glyphTexture=new THREE.CanvasTexture(glyphCanvas);glyphTexture.colorSpace=THREE.SRGBColorSpace;textures.push(glyphTexture);
   const glyphMaterial=new THREE.MeshBasicMaterial({map:glyphTexture,transparent:true,toneMapped:false,depthWrite:false});materials.push(glyphMaterial);
   mesh(type,new THREE.PlaneGeometry(.65,.56),glyphMaterial,3,0,.065,.07);

@@ -1,0 +1,70 @@
+{
+  "config": {
+    "width": 1280,
+    "height": 720,
+    "fps": 60,
+    "duration": 12
+  },
+  "proof": {
+    "version": "WebGL 2.0 (OpenGL ES 3.0 Chromium)",
+    "width": 1280,
+    "height": 720,
+    "panels": 5,
+    "entranceSeconds": 4.4,
+    "ambientOcclusion": "SSAO 16 samples",
+    "depthOfField": "depth-aware bokeh",
+    "source": "lib/hero-showcase-scene.ts"
+  },
+  "frames": [
+    {
+      "seconds": 0,
+      "visiblePanels": 0,
+      "drawCalls": 11,
+      "triangles": 17
+    },
+    {
+      "seconds": 0.35,
+      "visiblePanels": 1,
+      "drawCalls": 17,
+      "triangles": 2507
+    },
+    {
+      "seconds": 1.1,
+      "visiblePanels": 1,
+      "drawCalls": 53,
+      "triangles": 19523
+    },
+    {
+      "seconds": 2,
+      "visiblePanels": 2,
+      "drawCalls": 137,
+      "triangles": 79721
+    },
+    {
+      "seconds": 3.2,
+      "visiblePanels": 5,
+      "drawCalls": 269,
+      "triangles": 155691
+    },
+    {
+      "seconds": 4.4,
+      "visiblePanels": 5,
+      "drawCalls": 269,
+      "triangles": 155691
+    },
+    {
+      "seconds": 8,
+      "visiblePanels": 5,
+      "drawCalls": 269,
+      "triangles": 155691
+    },
+    {
+      "seconds": 11.983333,
+      "visiblePanels": 5,
+      "drawCalls": 269,
+      "triangles": 155691
+    }
+  ],
+  "sceneSha256": "5a0371b7641ae90cef9bf21b401a9985e2f17b77f97bc5338261209b594268bd",
+  "encoderLog": ""
+}

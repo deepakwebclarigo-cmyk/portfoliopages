@@ -9,7 +9,7 @@ import { createHash } from 'node:crypto';
 import ts from 'typescript';
 import { chromium } from '@playwright/test';
 
-const root = fileURLToPath(new URL('../',import.meta.url));
+const root = path.resolve(fileURLToPath(new URL('../',import.meta.url)));
 const audit = path.join(root,'audit/cinematic-motion');
 const preview = process.argv.includes('--preview');
 const width = preview ? 1280 : 3840, height = preview ? 720 : 2160, fps = 60, duration = 12;
@@ -20,7 +20,7 @@ if(!preview){try{await access(output);throw Error('Output already exists; select
 const source = await readFile(path.join(root,'lib/hero-showcase-scene.ts'),'utf8');
 const sceneJS = ts.transpileModule(source,{compilerOptions:{module:ts.ModuleKind.ESNext,target:ts.ScriptTarget.ES2022}}).outputText;
 const config = {width,height,fps,duration};
-const html = `<!doctype html><html><head><style>@font-face{font-family:Geist;src:url('/fonts/geist.woff2') format('woff2');font-weight:100 900}html,body{margin:0;overflow:hidden;background:#f5f1fc}canvas{display:block;width:100vw;height:100vh}</style><script type="importmap">{"imports":{"three":"/vendor/three/three.module.js","three/addons/":"/vendor/addons/","gsap":"/vendor/gsap/index.js"}}</script></head><body><canvas></canvas><script>window.exportConfig=${JSON.stringify(config)}</script><script type="module" src="/renderer.js"></script></body></html>`;
+const html = `<!doctype html><html><head><link rel="icon" href="data:,"><style>@font-face{font-family:Geist;src:url('/fonts/geist.woff2') format('woff2');font-weight:100 900}html,body{margin:0;overflow:hidden;background:#f5f1fc}canvas{display:block;width:100vw;height:100vh}</style><script type="importmap">{"imports":{"three":"/vendor/three/three.module.js","three/addons/":"/vendor/addons/","gsap":"/vendor/gsap/index.js"}}</script></head><body><canvas></canvas><script>window.exportConfig=${JSON.stringify(config)}</script><script type="module" src="/renderer.js"></script></body></html>`;
 const server = createServer(async(req,res)=>{
   try{
     const pathname = decodeURIComponent(new URL(req.url,'http://localhost').pathname);

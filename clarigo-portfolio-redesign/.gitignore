@@ -1,6 +1,8 @@
 node_modules/
 .next*/
 *.tsbuildinfo
+audit/cinematic-motion/tools/
+audit/cinematic-motion/render-*.mp4
 audit/test-results/
 audit/sources/
 audit/*.png
