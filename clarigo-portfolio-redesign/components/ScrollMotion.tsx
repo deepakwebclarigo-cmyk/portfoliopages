@@ -48,7 +48,8 @@ export default function ScrollMotion() {
       }
       const seen = new WeakSet<HTMLElement>(), registered = new Set<HTMLElement>();
       const triggers = new Set<ScrollTrigger>();
-      let frame = 0;
+      let frame = 0, heroFrame = 0;
+      let startHero: (() => void) | undefined;
       const finish = (elements: HTMLElement[]) => {
         if (!elements.length) return;
         elements.forEach(element => { completed.add(element); element.dataset.motionReveal = 'revealed'; });
@@ -94,10 +95,11 @@ export default function ScrollMotion() {
 
       if (!heroPlayed && !skipHero) {
         heroPlayed = true;
+        let heroTimeline: gsap.core.Timeline | undefined;
         const words = select('.heroCopy .motionWord');
         if (words.length) {
           root.dataset.heroTimeline = 'active';
-          const timeline = gsap.timeline({ defaults: { ease: 'clarigo' }, onComplete: () => {
+          const timeline = heroTimeline = gsap.timeline({ paused: true, defaults: { ease: 'clarigo' }, onComplete: () => {
             words.forEach(word => word.setAttribute('data-word-revealed', ''));
             root.dataset.heroTimeline = 'complete';
           } });
@@ -115,14 +117,25 @@ export default function ScrollMotion() {
           const target = Number(counter.dataset.countTo), count = { value: 0 };
           gsap.set(counter, { width: counter.getBoundingClientRect().width });
           counter.dataset.countState = 'running'; counter.textContent = '0';
-          gsap.to(count, { value: target, snap: { value: 1 }, duration: 1.1, delay: .86 + index * .09, ease: 'power2.out',
+          const counterTween = { value: target, snap: { value: 1 }, duration: 1.1, ease: 'power2.out',
             onUpdate: () => { counter.textContent = String(count.value); },
             onComplete: () => { counter.textContent = String(target); counter.dataset.countState = 'complete'; gsap.set(counter, { clearProps: 'width' }); },
-          });
+          };
+          if (heroTimeline) heroTimeline.to(count, counterTween, .86 + index * .09);
+          else gsap.to(count, { ...counterTween, delay: .86 + index * .09 });
         });
+        if (heroTimeline) {
+          const timeline = heroTimeline;
+          startHero = () => { gsap.ticker.remove(startHero!); if (alive && !context.isReverted) timeline.play(0); };
+          document.fonts.ready.then(() => {
+            if (alive && !context.isReverted) heroFrame = requestAnimationFrame(() => {
+              if (alive && !context.isReverted && startHero) gsap.ticker.add(startHero);
+            });
+          });
+        }
         const artwork = select('.caseVisual');
         if (artwork.length) gsap.fromTo(artwork, { y: wide ? 26 : 14, scale: .975, opacity: .45, rotationX: wide ? 3 : 0 }, { y: 0, scale: 1, opacity: 1, rotationX: 0, duration: .95, delay: .08, ease: 'clarigo', clearProps: properties });
-      } else settleCounters();
+      } else { settleCounters(); if (document.querySelector('.heroCopy')) root.dataset.heroTimeline = 'complete'; }
       // A few device frames receive depth; mobile retains stable, direct scrolling.
       if (wide) select('.featureImageFrame, .solutionImageFrame, .deviceImageFrame').forEach(element => {
         element.setAttribute('data-motion-parallax', '');
@@ -150,7 +163,7 @@ export default function ScrollMotion() {
       return () => {
         settleCounters();
         select('.heroCopy .motionWord').forEach(word => word.setAttribute('data-word-revealed', ''));
-        cancelAnimationFrame(frame); gridObserver.disconnect();
+        cancelAnimationFrame(frame); cancelAnimationFrame(heroFrame); if (startHero) gsap.ticker.remove(startHero); gridObserver.disconnect();
         if (completeHash === hashChanged) completeHash = undefined;
         document.removeEventListener('focusin', focused); window.removeEventListener('hashchange', hashChanged); window.removeEventListener('pageshow', restored);
         registered.forEach(element => element.removeAttribute('data-motion-reveal'));

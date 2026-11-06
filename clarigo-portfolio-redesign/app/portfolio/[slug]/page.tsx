@@ -62,7 +62,7 @@ export default async function Detail({ params }: DetailProps) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, '\\u003c') }} />
       <SiteHeader />
-      <main id="main-content" className={'casePage ' + project.kind + 'Case'} style={{ '--project-color': project.accent } as React.CSSProperties}>
+      <main id="main-content" tabIndex={-1} className={'casePage ' + project.kind + 'Case'} style={{ '--project-color': project.accent } as React.CSSProperties}>
         <section className="caseHero shell">
           <Link className="backLink" href="/#portfolio"><ArrowLeft size={16} /> All projects</Link>
           <div className="caseHeroGrid">
@@ -85,7 +85,7 @@ export default async function Detail({ params }: DetailProps) {
         <CaseNavigation key={project.slug + '-navigation'} showDeviceViews={project.kind === 'web'} />
         <section className="caseSection shell" id="overview" data-reveal>
           <div className="sectionLabel"><span>01</span> PROJECT OVERVIEW</div>
-          <div className="caseTwoCol"><h2>{content.headline}</h2><div className="caseBody"><p>{content.overview}</p>{project.note && <aside className="sourceNote"><p>{project.note}</p></aside>}</div></div>
+          <div className="caseTwoCol"><h2>{content.headline}</h2><div className="caseBody"><p>{content.overview}</p>{project.note && <div className="sourceNote" role="note"><p>{project.note}</p></div>}</div></div>
         </section>
         <FeatureShowcase project={project} features={content.features} intro={story.featureIntro} asset={gallery.length > 1 ? gallery[visualPositions[0]] : undefined} />
         <WorkflowSection name={project.name} story={story} />
@@ -98,7 +98,7 @@ export default async function Detail({ params }: DetailProps) {
         <section className="screenSection" id="screens" data-reveal>
           <div className="shell">
             <div className="sectionLabel"><span>07</span> UI SCREENSHOTS &amp; ARTWORK</div>
-            <div className="screenHeader"><h2>Inside {project.name}<span>.</span></h2><p>Explore the original {screens.length ? 'interface screens' : 'design compositions'}. Select any image for a closer look.</p></div>
+            <div className="screenHeader"><h2>Inside {project.name}<span>.</span></h2><p>Explore the original {gallery.some(asset => asset.role === 'screen') ? 'interface screens' : 'design compositions'}. Select any image for a closer look.</p></div>
             <ProjectGallery key={project.slug} images={gallery} name={project.name} kind={project.kind} />
           </div>
         </section>

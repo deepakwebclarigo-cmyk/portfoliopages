@@ -10,6 +10,7 @@ export default function ProjectGallery({ images, name, kind }: { images: Project
   const dialog = useRef<HTMLDialogElement>(null);
   const [active, setActive] = useState(0);
   const [direction, setDirection] = useState(1);
+  const [viewerOpen, setViewerOpen] = useState(false);
   const reducedMotion = useReducedMotion();
   const focusedButton = useRef<HTMLButtonElement | null>(null);
   const previousOverflow = useRef<string | null>(null);
@@ -23,6 +24,7 @@ export default function ProjectGallery({ images, name, kind }: { images: Project
     focusedButton.current = button;
     setDirection(1);
     setActive(index);
+    setViewerOpen(true);
     dialog.current?.showModal();
     previousOverflow.current = document.body.style.overflow;
     document.body.style.overflow = 'hidden';
@@ -34,7 +36,7 @@ export default function ProjectGallery({ images, name, kind }: { images: Project
       <div className={`projectGallery ${kind === 'mobile' ? 'mobileGallery' : 'webGallery'} ${images.length === 1 ? 'singleImageGallery' : ''} ${images.length === 1 && images[0].height > images[0].width ? 'singlePortraitGallery' : ''}`}>
         {images.map((asset, index) => (
           <figure key={asset.src}>
-            <button className="galleryOpen" type="button" onClick={(event) => open(index, event.currentTarget)} aria-label={`Expand ${name} interface view ${index + 1}`}>
+            <button className={'galleryOpen' + (asset.role === 'composition' && asset.width > asset.height ? ' galleryComposition' : '')} type="button" onClick={(event) => open(index, event.currentTarget)} aria-label={`Expand ${name} interface view ${index + 1}`}>
               <Image src={asset.src} unoptimized alt={`${name} — ${asset.role === 'screen' ? 'interface screen' : 'design composition'} ${index + 1}`} width={asset.width} height={asset.height} sizes="(max-width: 700px) 90vw, (max-width: 1000px) 45vw, 30vw" />
               <span className="galleryExpand" aria-hidden="true"><Expand size={17} /></span>
             </button>
@@ -42,15 +44,15 @@ export default function ProjectGallery({ images, name, kind }: { images: Project
           </figure>
         ))}
       </div>
-      <dialog ref={dialog} className="galleryDialog" aria-label={`${name} interface viewer`} onCancel={unlockScroll} onClick={(event) => { if (event.target === event.currentTarget) close(); }} onKeyDown={(event) => { if (event.key === 'ArrowRight') move(1); if (event.key === 'ArrowLeft') move(-1); }} onClose={() => { unlockScroll(); focusedButton.current?.focus(); }}>
+      <dialog ref={dialog} className="galleryDialog" aria-label={`${name} interface viewer`} onCancel={unlockScroll} onClick={(event) => { if (event.target === event.currentTarget) close(); }} onKeyDown={(event) => { if (event.key === 'ArrowRight') move(1); if (event.key === 'ArrowLeft') move(-1); }} onClose={() => { setViewerOpen(false); unlockScroll(); focusedButton.current?.focus(); }}>
         <div className="galleryDialogBar">
-          <span>{name} <small>{active + 1} / {images.length}</small></span>
+          <span>{name} <small role="status" aria-live="polite" aria-atomic="true">{active + 1} / {images.length}</small></span>
           <div>
             {images.length > 1 && <><button type="button" onClick={() => move(-1)} aria-label="Previous image"><ArrowLeft size={19} /></button><button type="button" onClick={() => move(1)} aria-label="Next image"><ArrowRight size={19} /></button></>}
             <button type="button" onClick={close} aria-label="Close image viewer" autoFocus><X size={22} /></button>
           </div>
         </div>
-        <div className="galleryDialogImage"><motion.div key={images[active].src} className="galleryDialogImageFrame" initial={reducedMotion ? false : { opacity: .35, x: direction * 10 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: reducedMotion ? 0 : .24, ease: [.22, 1, .36, 1] }}><Image src={images[active].src} unoptimized alt={`${name} interface view ${active + 1}, expanded`} width={images[active].width} height={images[active].height} sizes="95vw" /></motion.div></div>
+        <div className="galleryDialogImage">{viewerOpen && <motion.div key={images[active].src} className="galleryDialogImageFrame" initial={reducedMotion ? false : { opacity: .35, x: direction * 10 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: reducedMotion ? 0 : .24, ease: [.22, 1, .36, 1] }}><Image src={images[active].src} unoptimized alt={`${name} interface view ${active + 1}, expanded`} width={images[active].width} height={images[active].height} sizes="95vw" /></motion.div>}</div>
       </dialog>
     </>
   );

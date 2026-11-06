@@ -1,0 +1,47 @@
+{
+  "status": 200,
+  "url": "https://clarigoinfotech.com",
+  "stylesheets": [
+    "https://clarigoinfotech.com/_next/static/chunks/3d-1vk5hzu5rq.css",
+    "https://clarigoinfotech.com/_next/static/chunks/0vi-eqlpgxdfe.css"
+  ],
+  "fonts": [
+    "font-family:Geist",
+    "font-family:Geist Fallback",
+    "font-family:Geist,Geist Fallback",
+    "font-family:Geist Mono",
+    "font-family:Geist Mono Fallback",
+    "font-family:Geist Mono,Geist Mono Fallback",
+    "font-family:var(--font-geist-sans)",
+    "font-family:var(--font-geist-mono)"
+  ],
+  "weights": [
+    "font-weight:100 900",
+    "font-weight:initial",
+    "font-weight:inherit",
+    "font-weight:bolder",
+    "font-weight:var(--font-weight-bold)",
+    "font-weight:var(--font-weight-medium)",
+    "font-weight:var(--font-weight-normal)",
+    "font-weight:var(--font-weight-semibold)"
+  ],
+  "motion": [
+    "transition-duration:.15s",
+    "animation:30s linear infinite marquee",
+    "animation:30s linear infinite marquee-reverse",
+    "animation:var(--animate-ping)",
+    "animation:var(--animate-pulse)",
+    "animation:3s ease-in-out infinite pulse-glow",
+    "animation:var(--animate-spin)",
+    "transition-duration:var(--tw-duration,var(--default-transition-duration))",
+    "transition-duration:.2s",
+    "transition-duration:.3s",
+    "transition-duration:.5s",
+    "animation-duration:2.6s",
+    "animation:22s ease-in-out infinite aurora-a",
+    "animation:28s ease-in-out infinite aurora-b",
+    "animation:5s linear infinite brand-shimmer",
+    "transition-duration:.001ms!important",
+    "animation-duration:.001ms!important"
+  ]
+}

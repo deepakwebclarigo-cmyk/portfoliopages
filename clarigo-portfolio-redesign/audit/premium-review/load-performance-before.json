@@ -1,0 +1,77 @@
+{
+  "note": "Local Chrome lab samples, not field Core Web Vitals or a cross-device guarantee.",
+  "results": [
+    {
+      "width": 1440,
+      "route": "/",
+      "profile": "desktop unthrottled, cold cache",
+      "lcpMs": 888,
+      "cls": 0.0716,
+      "longTaskCount": 5,
+      "blockingMs": 1944,
+      "transferredBytes": 637829,
+      "webglEngine": "three",
+      "maxObservedInteractionMs": 96
+    },
+    {
+      "width": 1440,
+      "route": "/portfolio/livsocial",
+      "profile": "desktop unthrottled, cold cache",
+      "lcpMs": 480,
+      "cls": 0.0017,
+      "longTaskCount": 4,
+      "blockingMs": 264,
+      "transferredBytes": 937765,
+      "webglEngine": "three",
+      "maxObservedInteractionMs": 0
+    },
+    {
+      "width": 1440,
+      "route": "/portfolio/app-habitstride",
+      "profile": "desktop unthrottled, cold cache",
+      "lcpMs": 720,
+      "cls": 0.0013,
+      "longTaskCount": 4,
+      "blockingMs": 239,
+      "transferredBytes": 731753,
+      "webglEngine": "three",
+      "maxObservedInteractionMs": 144
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "profile": "4x CPU, 150ms RTT, 1.6Mbps, cold cache",
+      "lcpMs": 1200,
+      "cls": 0.0021,
+      "longTaskCount": 4,
+      "blockingMs": 590,
+      "transferredBytes": 373891,
+      "webglEngine": "static",
+      "maxObservedInteractionMs": 320
+    },
+    {
+      "width": 390,
+      "route": "/portfolio/livsocial",
+      "profile": "4x CPU, 150ms RTT, 1.6Mbps, cold cache",
+      "lcpMs": 2904,
+      "cls": 0.0019,
+      "longTaskCount": 5,
+      "blockingMs": 121,
+      "transferredBytes": 783385,
+      "webglEngine": "static",
+      "maxObservedInteractionMs": 528
+    },
+    {
+      "width": 390,
+      "route": "/portfolio/app-habitstride",
+      "profile": "4x CPU, 150ms RTT, 1.6Mbps, cold cache",
+      "lcpMs": 3672,
+      "cls": 0.0198,
+      "longTaskCount": 8,
+      "blockingMs": 563,
+      "transferredBytes": 577373,
+      "webglEngine": "static",
+      "maxObservedInteractionMs": 280
+    }
+  ]
+}

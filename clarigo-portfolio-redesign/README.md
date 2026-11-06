@@ -1,6 +1,6 @@
 # Clarigo Portfolio
 
-The existing Next.js / TypeScript portfolio, continued in place with GSAP ScrollTrigger, Framer Motion, and Lucide. The earlier Three.js scene remains in the source checkpoint; the user removed its visible wireframe sphere from the hero.
+The existing Next.js / TypeScript portfolio, continued in place with Three.js, GSAP ScrollTrigger, Framer Motion, and Lucide. The hero uses a generic, continuously animated 3D UI/UX ecosystem. All 47 projects, verified artwork, native navigation, and the existing brand layout are retained.
 
 ## Run locally
 
@@ -18,10 +18,12 @@ Open http://localhost:3000 for development. For a production preview, run `npm.c
 - 19 web projects and 28 mobile projects, each with a dedicated prerendered detail route.
 - Listings at `/` and `/portfolio`, with type filters, name/subject search, and direct project links.
 - Unique overviews, four evidence-based features, three-step product journeys, design challenges and solution points, technical perspectives, design commentary, expandable galleries, and project-specific closing copy for all 47 projects.
-- 331 selected artwork assets stored locally as WebP, plus 47 matching card variants. The official Clarigo logo, browser icons, and verified Geist font files are also local.
-- The existing visual direction is preserved. Masked heading reveals, staggered entrances, ScrollTrigger image reveals, restrained device parallax, Framer Motion card lifts, and short native document transitions extend the official site's motion language.
-- The listing hero adds soft rose/lavender gradient motion, seven small particles, bounded mouse depth, and counters. Artwork pauses offscreen and in inactive windows; mobile keeps the original background with no extra moving artwork. Reduced-motion preferences remove all movement and show final numbers immediately.
-- Card artwork stays centered with `object-fit: contain`, no image zoom or tilt, and no circular arrow overlay. Every card retains its direct detail-page link.
+- 331 selected artwork assets stored locally as WebP, plus 47 matching card variants and 47 responsive 960px hero variants. The official Clarigo logo, browser icons, and verified Geist font files are also local.
+- The existing visual direction is preserved. Masked heading reveals, staggered entrances, ScrollTrigger image reveals, restrained device parallax, Framer Motion gallery transitions, and short native document transitions extend the official site's motion language.
+- The listing hero combines soft rose/lavender lighting with real beveled browser, phone, typography, palette, and component geometry. Its seamless floating and assembly loop, spring parallax, raycast hover separation, and scroll camera use one shared WebGL renderer. The artwork is generic and contains no real project or application. It pauses offscreen and in inactive windows. Compact phones retain the original hero layout without decorative WebGL; reduced motion uses a static presentation.
+- Card artwork stays centered with `object-fit: contain`, uniform scaling, bounded real 3D hover, and no circular arrow overlay. Stationary card wrappers avoid unused Framer springs. Detail pages load their decorative renderer on pointer interaction, and release rendering on compact layouts or forced colors. Every card retains its direct detail-page link.
+- Landscape composition galleries use shorter frames while retaining complete artwork. Gallery position announcements, keyboard focus return, mobile-menu dismissal, focusable skip targets, and a keyboard-friendly empty-search reset improve shared interactions.
+- Contrast-safe red buttons, clearer small labels, visible control boundaries, and consistent focus states improve readability without changing the section structure. Local Latin-font preloading and responsive hero sources reduce avoidable loading work. Collection structured data describes all 47 real portfolio entries.
 - Keyboard-accessible image viewer, scroll/focus restoration, mobile menu, reduced-motion behavior, and an offscreen animation pause.
 - Canonical metadata, Open Graph, Twitter cards, structured data, sitemap, useful 404, and permanent redirects for 14 renamed routes and the two original misspelled slugs.
 
@@ -46,12 +48,15 @@ Screenshot artwork may itself include legacy sample interface text. Project word
 - `app/portfolio/[slug]/page.tsx`: shared detail-page structure.
 - `components/ProjectGallery.tsx`: accessible expandable image viewer.
 - `components/HeroAmbient.tsx`: decorative hero motion, pointer depth, and offscreen/visibility pause.
+- `components/PortfolioWebGL.tsx`, `lib/motion-webgl.ts`, and `lib/hero-showcase-scene.ts`: on-demand renderer lifecycle, shared scissor views, and procedural UI/UX geometry.
+- `app/quality.css`: shared typography, contrast, focus, controls, and composition-frame refinements.
 - `components/ScrollMotion.tsx`, `components/RevealWords.tsx`, and `app/motion.css`: shared entrances, counters, accessible scroll reveals, image depth, and reduced-motion fallbacks.
 - `components/CaseStorySections.tsx` and `app/case-stories.css`: reference-inspired case-study sections in the existing brand system.
 - `components/PortfolioLink.tsx`: prerendered-document navigation with short native page fades, avoiding stale metadata observed during client transitions in this framework stack.
 - `audit/rebrand/REVIEW.md`: current naming, artwork method, and verification notes.
 - `audit/rebrand/asset-verification.json` and `browser-tests.json`: current image and browser evidence.
 - `audit/motion/REVIEW.md`: motion design, current validation, and preservation evidence.
+- `audit/premium-review/`: current accessibility, load-performance, responsive-cover, and browser verification reports. Earlier stage reports remain historical evidence.
 - `audit/reference-case-studies/REVIEW.md` and `verification.json`: preserved evidence from the earlier reference-polish stage.
 - `audit/CONTINUATION.md`: audit findings and verification status.
 - `audit/PROJECTS.md`: every project route, gallery count, and original source.
@@ -67,7 +72,9 @@ npm.cmd run test:e2e
 npm.cmd run audit:assets
 ```
 
-The browser suite uses installed Chrome in an isolated test profile. Run it against the production server at http://127.0.0.1:3100. Its 192 checks cover every card and route at 1440px desktop, 768px tablet, and 390px emulated mobile widths, plus 320px and reduced-motion checks. It checks content, galleries, image ownership and fit, metadata, renamed searches, redirects, absence of previous names in published HTML and URLs, actual animated intermediate states, counters, pointer bounds, offscreen pausing, focus, deep links, and no-JavaScript access. Results are written to `audit/motion/browser-tests.json`; the earlier rebrand evidence remains in `audit/rebrand`. Physical-device Safari/Android acceptance and live-site deployment are separate from these local checks. The postbuild check verifies HTML, RSC output, and route-cache metadata for every project route. `node scripts/verify-project-rebrand.mjs` verifies image hashes, decoding, thumbnails, and visible pixel preservation outside name regions. Run raster/OCR audits separately from browser testing on memory-constrained machines.
+The browser suite uses installed Chrome in an isolated test profile. Run it against the production server at http://127.0.0.1:3100. Its 210 checks cover every card and route at 1440px desktop, 768px tablet, and 390px emulated mobile widths, plus 320px and reduced-motion checks. Coverage includes content, galleries, image ownership and fit, metadata, renamed searches, redirects, absence of previous names in published HTML and URLs, actual animated intermediate states, native WebGL, counters, pointer bounds, offscreen pausing, focus, deep links, no-JavaScript access, failed-thumbnail recovery, renderer disposal, and empty-search reset. Set `MOTION_TEST_REPORT=audit/premium-review/browser-tests.json` and `MOTION_TEST_ARTIFACTS=audit/premium-review/test-results` before running to retain current results separately; the default remains the historical motion directory. Physical-device Safari/Android acceptance and live-site deployment are separate from these local checks. The postbuild check verifies HTML, RSC output, and route-cache metadata for every project route. `node scripts/verify-project-rebrand.mjs` verifies image hashes, decoding, thumbnails, and visible pixel preservation outside name regions. Run raster/OCR audits separately from browser testing on memory-constrained machines.
+
+`scripts/audit-premium-quality.mjs` uses the pinned private axe-core auditor and checks metadata, anchors, and overflow. Set `AUDIT_ALL_ROUTES=1` to inspect every detail route and representative mobile layouts. `scripts/audit-load-performance.mjs` records local cold-load LCP, CLS, blocking work, and observed interactions, including a throttled mobile profile; these are lab samples rather than field Core Web Vitals or accessibility certification. `scripts/optimize-portfolio-covers.mjs` reproduces the responsive cover variants from the existing selected artwork.
 
 `scripts/capture-hero-layout.mjs` compares the hero with its saved pre-change geometry at 1440, 1195, 768, and 390px. Set `HERO_BASE_URL=http://127.0.0.1:3100` and `HERO_LAYOUT_OUTPUT=audit/motion/hero-layout-after.json` to compare rather than replace the baseline. `scripts/verify-motion-preservation.ps1` compares project data and configuration with the source checkpoint and checks all 316 selected artwork hashes. `node scripts/audit-motion-performance.mjs` records sequential local Chrome frame timings and previews after browser tests finish. These timings describe the test machine rather than guaranteeing a frame rate on every device.
 

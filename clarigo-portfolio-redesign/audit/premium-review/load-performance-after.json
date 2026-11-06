@@ -1,0 +1,77 @@
+{
+  "note": "Local Chrome lab samples, not field Core Web Vitals or a cross-device guarantee.",
+  "results": [
+    {
+      "width": 1440,
+      "route": "/",
+      "profile": "desktop unthrottled, cold cache",
+      "lcpMs": 840,
+      "cls": 0,
+      "longTaskCount": 5,
+      "blockingMs": 1848,
+      "transferredBytes": 596628,
+      "webglEngine": "three",
+      "maxObservedInteractionMs": 72
+    },
+    {
+      "width": 1440,
+      "route": "/portfolio/livsocial",
+      "profile": "desktop unthrottled, cold cache",
+      "lcpMs": 400,
+      "cls": 0,
+      "longTaskCount": 2,
+      "blockingMs": 2,
+      "transferredBytes": 783711,
+      "webglEngine": "static",
+      "maxObservedInteractionMs": 288
+    },
+    {
+      "width": 1440,
+      "route": "/portfolio/app-habitstride",
+      "profile": "desktop unthrottled, cold cache",
+      "lcpMs": 212,
+      "cls": 0,
+      "longTaskCount": 2,
+      "blockingMs": 6,
+      "transferredBytes": 577699,
+      "webglEngine": "static",
+      "maxObservedInteractionMs": 144
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "profile": "4x CPU, 150ms RTT, 1.6Mbps, cold cache",
+      "lcpMs": 1260,
+      "cls": 0,
+      "longTaskCount": 5,
+      "blockingMs": 720,
+      "transferredBytes": 332629,
+      "webglEngine": "static",
+      "maxObservedInteractionMs": 192
+    },
+    {
+      "width": 390,
+      "route": "/portfolio/livsocial",
+      "profile": "4x CPU, 150ms RTT, 1.6Mbps, cold cache",
+      "lcpMs": 1180,
+      "cls": 0,
+      "longTaskCount": 5,
+      "blockingMs": 561,
+      "transferredBytes": 691107,
+      "webglEngine": "static",
+      "maxObservedInteractionMs": 352
+    },
+    {
+      "width": 390,
+      "route": "/portfolio/app-habitstride",
+      "profile": "4x CPU, 150ms RTT, 1.6Mbps, cold cache",
+      "lcpMs": 1140,
+      "cls": 0,
+      "longTaskCount": 4,
+      "blockingMs": 149,
+      "transferredBytes": 386083,
+      "webglEngine": "static",
+      "maxObservedInteractionMs": 232
+    }
+  ]
+}

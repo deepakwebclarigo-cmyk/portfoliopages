@@ -1,7 +1,7 @@
 'use client';
 
 import Link from './PortfolioLink';
-import { useMemo, useState } from 'react';
+import { useMemo, useRef, useState } from 'react';
 import { ArrowDown, ArrowRight, ArrowUpRight, Search } from 'lucide-react';
 import type { Project } from '../lib/projects';
 import ProjectVisual from './ProjectVisual';
@@ -18,6 +18,7 @@ export default function PortfolioClient({ projects }: { projects: PortfolioCard[
   const mobileProjects = projects.filter((project) => project.kind === 'mobile');
   const [category, setCategory] = useState<(typeof filters)[number]>('All projects');
   const [search, setSearch] = useState('');
+  const searchInput = useRef<HTMLInputElement>(null);
   const visible = useMemo(() => {
     const query = search.trim().toLowerCase();
     return projects.filter((project) => {
@@ -67,6 +68,7 @@ export default function PortfolioClient({ projects }: { projects: PortfolioCard[
                 key={filter}
                 className={`filterPill ${category === filter ? 'isActive' : ''}`}
                 aria-pressed={category === filter}
+                aria-controls="project-results"
                 onClick={() => setCategory(filter)}
               >
                 {filter}
@@ -78,8 +80,10 @@ export default function PortfolioClient({ projects }: { projects: PortfolioCard[
           <label className="searchField">
             <Search size={17} aria-hidden="true" />
             <input
+              ref={searchInput}
               type="search"
               aria-label="Search projects"
+              aria-controls="project-results"
               placeholder="Search projects"
               value={search}
               onChange={(event) => setSearch(event.target.value)}
@@ -93,7 +97,7 @@ export default function PortfolioClient({ projects }: { projects: PortfolioCard[
         </div>
 
         {visible.length ? (
-          <div className="projectGrid">
+          <div className="projectGrid" id="project-results">
             {visible.map((project, index) => (
               <article
                 key={project.slug}
@@ -120,7 +124,7 @@ export default function PortfolioClient({ projects }: { projects: PortfolioCard[
             ))}
           </div>
         ) : (
-          <div className="emptyState" role="status">No projects match that search. Try another name or project type.</div>
+          <div className="emptyState" id="project-results" role="status"><p>No projects match that search. Try another name or project type.</p><button type="button" className="resetFilters" onClick={() => { setSearch(''); setCategory('All projects'); searchInput.current?.focus(); }}>Reset search and filters</button></div>
         )}
       </section>
 

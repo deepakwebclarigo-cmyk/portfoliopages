@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "device": "desktop",
+    "slug": "glocal-expert",
+    "imageInstances": 7,
+    "expandedImagesChecked": 3,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "device": "desktop",
+    "slug": "mercury-mailroom",
+    "imageInstances": 10,
+    "expandedImagesChecked": 6,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "device": "desktop",
+    "slug": "network-capital",
+    "imageInstances": 8,
+    "expandedImagesChecked": 4,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "device": "desktop",
+    "slug": "app-supplement-management",
+    "imageInstances": 6,
+    "expandedImagesChecked": 3,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "device": "mobile",
+    "slug": "glocal-expert",
+    "imageInstances": 7,
+    "expandedImagesChecked": 3,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "device": "mobile",
+    "slug": "mercury-mailroom",
+    "imageInstances": 10,
+    "expandedImagesChecked": 6,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "device": "mobile",
+    "slug": "network-capital",
+    "imageInstances": 8,
+    "expandedImagesChecked": 4,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "device": "mobile",
+    "slug": "app-supplement-management",
+    "imageInstances": 6,
+    "expandedImagesChecked": 3,
+    "overflow": false,
+    "errors": []
+  }
+]

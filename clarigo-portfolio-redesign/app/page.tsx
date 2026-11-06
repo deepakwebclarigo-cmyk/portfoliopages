@@ -13,14 +13,18 @@ export const metadata: Metadata = {
     title: 'Selected Work | Clarigo Infotech',
     description: 'Explore selected web and mobile projects from Clarigo Infotech.',
     type: 'website',
+    url: '/portfolio',
   },
+  twitter: { card: 'summary', title: 'Selected Work | Clarigo Infotech', description: 'Explore selected web and mobile projects from Clarigo Infotech.' },
 };
 
 export default function Home() {
+  const schema = { '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'Clarigo Infotech Portfolio', url: 'https://clarigoinfotech.com/portfolio', mainEntity: { '@type': 'ItemList', numberOfItems: projects.length, itemListElement: projects.map((project, index) => ({ '@type': 'ListItem', position: index + 1, name: project.name, url: 'https://clarigoinfotech.com/portfolio/' + project.slug, image: 'https://clarigoinfotech.com' + project.image })) } };
   return (
     <>
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, '\\u003c') }} />
       <SiteHeader />
-      <main id="main-content">
+      <main id="main-content" tabIndex={-1}>
         <PortfolioClient projects={projects.map(({ slug, name, archiveName, category, kind, image, accent, summary, discipline }) => ({ slug, name, archiveName, category, kind, image, accent, summary, discipline }))} />
       </main>
       <footer className="siteFooter shell">

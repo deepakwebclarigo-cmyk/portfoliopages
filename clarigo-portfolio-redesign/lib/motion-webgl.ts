@@ -1,6 +1,6 @@
 import * as THREE from 'three';
 import { RoomEnvironment } from 'three/addons/environments/RoomEnvironment.js';
-import { createHeroShowcase } from './hero-showcase-scene';
+import { createHeroShowcase, updateShowcaseCamera } from './hero-showcase-scene';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
@@ -27,7 +27,7 @@ function roundedTile(size: number, depth: number) {
 
 // A single renderer draws the hero and the currently hovered image through scissor views.
 // Original DOM images, names, links, and labels remain the source of truth.
-export function createPortfolioRenderer(canvas: HTMLCanvasElement) {
+export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointer?: Pick<PointerEvent, 'target' | 'pointerType' | 'clientX' | 'clientY'>) {
   const renderer = new THREE.WebGLRenderer({ canvas, alpha: true, antialias: true, powerPreference: 'high-performance' });
   renderer.setClearColor(0x000000, 0); renderer.autoClear = false;
   renderer.outputColorSpace = THREE.SRGBColorSpace;
@@ -60,7 +60,7 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement) {
   const cardGroup = new THREE.Group(); cardGroup.add(backing, imageMesh); cardScene.add(cardGroup);
   const textures = new Map<string, THREE.Texture>();
   const reduce = matchMedia('(prefers-reduced-motion: reduce)'), fine = matchMedia('(hover: hover) and (pointer: fine) and (min-width: 1001px)');
-  let heroRect: DOMRect | null = null, heroVisible = false, hovered = false, hoveredIndex = -1, px = 0, py = 0;
+  let heroRect: DOMRect | null = null, heroVisible = false, hovered = false, hoveredIndex = -1, px = 0, py = 0, insideHero = false;
   let heroAssetsReady = !hero;
   let alive = true, contextAvailable = true, shown = true, focused = true, dirty = true, lastPainted = false;
   let width = 0, height = 0, frame = 0, previous = 0, time = 0, frames = 0, slowFrames = 0;
@@ -73,7 +73,8 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement) {
   canvas.dataset.pixelRatio = String(dpr);
   gsap.registerPlugin(ScrollTrigger);
   const scroll = { progress: 0 }, intro = { progress: reduce.matches ? 1 : 0 };
-  const introTween = gsap.to(intro, { progress: 1, duration: 1.45, ease: 'power3.out', paused: !hero || reduce.matches });
+  const introTween = gsap.to(intro, { progress: 1, duration: showcase?.entranceDuration ?? 1, ease: 'none', paused: true });
+  const startIntro = () => { gsap.ticker.remove(startIntro); if (alive && !reduce.matches) introTween.play(0); };
   const cameraTween = hero ? gsap.to(scroll, { progress: 1, ease: 'none', scrollTrigger: { trigger: hero.closest('.heroSection'), start: 'top top', end: 'bottom top', scrub: .7 } }) : undefined;
   if (reduce.matches) cameraTween?.scrollTrigger?.disable(false);
 
@@ -115,17 +116,13 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement) {
     if (activeHero) time += dt;
     const hover = reduced ? 0 : step(expansion, hovered ? 1 : 0, dt, 95, 18);
     const x = reduced ? 0 : step(heroX, px, dt), y = reduced ? 0 : step(heroY, py, dt);
-    camera.position.z = 8.4 + (reduced ? 0 : scroll.progress * .24);
-    group.rotation.set(Math.sin(time * .31) * .016 + y * .065, Math.sin(time * .24) * .04 + x * .11 + hover * .035, Math.sin(time * .27) * .012);
-    group.position.y = Math.sin(time * .65) * .045 + (reduced ? 0 : scroll.progress * .12);
-    showcase?.items.forEach((item, index) => {
-      const { object, position, rotation } = item, selected = index === hoveredIndex ? hover : 0;
-      const reveal = clamp((intro.progress - index * .06) / .76, 0, 1);
-      object.position.set(position.x + Math.sin(time * .34 + index) * .018 + Math.sign(position.x) * hover * .075, position.y + Math.sin(time * .65 + index * 1.1) * .032 + Math.sign(position.y) * hover * .055 - (1 - reveal) * .18, position.z + selected * .12 - (1 - reveal) * .28);
-      object.rotation.set(rotation.x + Math.sin(time * .45 + index) * .012, rotation.y + Math.sin(time * .34 + index) * .022 + selected * .055, rotation.z + Math.sin(time * .37 + index) * .012);
-      object.scale.setScalar(.96 + reveal * .04 + selected * .022);
-    });
-    showcase?.animate(time, hover);
+    updateShowcaseCamera(camera,time,intro.progress,reduced?0:scroll.progress);
+    showcase?.pose(time,intro.progress,hover,hoveredIndex,x,y,reduced?0:scroll.progress,dt);
+    if (insideHero && heroVisible && showcase && !reduced) {
+      scene.updateMatrixWorld(true);camera.updateMatrixWorld();ray.setFromCamera(pointer,camera);
+      const hit=ray.intersectObjects(showcase.picks.filter(mesh=>mesh.parent?.visible),false)[0];
+      hovered=Boolean(hit);hoveredIndex=hit?hit.object.userData.showcaseIndex:-1;
+    }
     const anyView = (heroVisible && heroAssetsReady) || Boolean(card);
     if (anyView || lastPainted) {
       renderer.setScissorTest(false); renderer.clear(); renderer.setScissorTest(true);
@@ -197,8 +194,9 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement) {
     if (heroRect && heroVisible) {
       px = clamp((event.clientX - heroRect.left) / heroRect.width * 2 - 1, -1, 1); py = clamp((event.clientY - heroRect.top) / heroRect.height * 2 - 1, -1, 1);
       const inside = event.clientX > heroRect.left && event.clientX < heroRect.right && event.clientY > heroRect.top && event.clientY < heroRect.bottom;
+      insideHero = inside;
       if (!inside) px = py = 0;
-      pointer.set(px, -py); ray.setFromCamera(pointer, camera); const hit = inside ? ray.intersectObjects(showcase?.picks ?? [])[0] : undefined;
+      pointer.set(px, -py); ray.setFromCamera(pointer, camera); const hit = inside ? ray.intersectObjects(showcase?.picks.filter(mesh=>mesh.parent?.visible) ?? [])[0] : undefined;
       hovered = Boolean(hit); hoveredIndex = hit ? hit.object.userData.showcaseIndex : -1;
     }
     if (card?.hovered) { card.x = clamp((event.clientX - card.rect.left) / card.rect.width * 2 - 1, -1, 1); card.y = clamp((event.clientY - card.rect.top) / card.rect.height * 2 - 1, -1, 1); }
@@ -207,7 +205,7 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement) {
   function out(event: PointerEvent) {
     if (pendingLink && linkAt(event.relatedTarget) !== pendingLink) pendingLink = null;
     if (card && linkAt(event.relatedTarget) !== card.link) { card.hovered = false; wake(); }
-    if (!event.relatedTarget) { hovered = false; px = py = 0; wake(); }
+    if (!event.relatedTarget) { insideHero = false; hovered = false; px = py = 0; wake(); }
   }
   function preference() {
     hovered = false; px = py = 0; heroX.value = heroX.velocity = heroY.value = heroY.velocity = expansion.value = expansion.velocity = 0;
@@ -216,10 +214,10 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement) {
     if (reduce.matches || !fine.matches) restoreCard(); updateBounds();
   }
   function suspend() {
-    focused = false; hovered = false; px = py = 0; restoreCard(); if (frame) cancelAnimationFrame(frame); frame = 0; previous = 0; canvas.dataset.state = 'paused';
+    focused = false; hovered = false; insideHero = false; px = py = 0; introTween.pause(); restoreCard(); if (frame) cancelAnimationFrame(frame); frame = 0; previous = 0; canvas.dataset.state = 'paused';
     if (contextAvailable) { renderer.setScissorTest(false); renderer.clear(); if (heroVisible && heroAssetsReady && heroRect) { renderer.setScissorTest(true); viewport(heroRect); renderer.render(scene, camera); } }
   }
-  function resume() { focused = true; shown = true; updateBounds(); }
+  function resume() { focused = true; shown = true; if(!reduce.matches&&intro.progress<1)introTween.resume(); updateBounds(); }
   function visibility() { if (document.hidden) suspend(); else resume(); }
   function hide() { shown = false; suspend(); }
   function lost(event: Event) { event.preventDefault(); contextAvailable = false; suspend(); canvas.dataset.engine = 'context-lost'; if (hero) delete hero.dataset.renderer; }
@@ -237,15 +235,27 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement) {
   reduce.addEventListener('change', preference); fine.addEventListener('change', preference);
   canvas.addEventListener('webglcontextlost', lost); canvas.addEventListener('webglcontextrestored', restored);
   measure(); wake();
-  showcase?.ready.then(() => { if (alive) { heroAssetsReady = true; canvas.dataset.assets = 'ready'; wake(); } }).catch(() => { if (alive) canvas.dataset.assets = 'fallback'; });
+  if (initialPointer && initialPointer.target instanceof Element && initialPointer.target.isConnected && initialPointer.target.closest('.projectLink,.relatedCard,.caseVisual')?.matches(':hover')) over(initialPointer);
+  showcase?.ready.then(() => {
+    if (!alive) return;
+    // Prepare physical-material shaders before the visible entrance clock starts.
+    if (heroVisible && heroRect) {
+      showcase.pose(0,1);renderer.setScissorTest(true);viewport(heroRect);renderer.render(scene,camera);
+      renderer.setScissorTest(false);renderer.clear();showcase.pose(0,reduce.matches?1:0);
+    }
+    heroAssetsReady=true;canvas.dataset.assets='ready';
+    if(!reduce.matches)gsap.ticker.add(startIntro);wake();
+  }).catch(() => { if (alive) canvas.dataset.assets = 'fallback'; });
   return () => {
     alive = false; if (frame) cancelAnimationFrame(frame); restoreCard(); if (hero) { delete hero.dataset.renderer; delete hero.dataset.threeState; }
     document.removeEventListener('pointerover', over); document.removeEventListener('pointermove', move); document.removeEventListener('pointerout', out); document.removeEventListener('visibilitychange', visibility);
     document.removeEventListener('focusin', handleFocus); gridObserver.disconnect();
     window.removeEventListener('resize', updateBounds); window.removeEventListener('scroll', updateBounds); window.removeEventListener('blur', suspend); window.removeEventListener('focus', resume); window.removeEventListener('pagehide', hide); window.removeEventListener('pageshow', resume);
     reduce.removeEventListener('change', preference); fine.removeEventListener('change', preference); canvas.removeEventListener('webglcontextlost', lost); canvas.removeEventListener('webglcontextrestored', restored);
-    introTween.kill(); cameraTween?.scrollTrigger?.kill(); cameraTween?.kill();
+    gsap.ticker.remove(startIntro);introTween.kill(); cameraTween?.scrollTrigger?.kill(); cameraTween?.kill();
     showcase?.dispose(); floor.geometry.dispose(); (floor.material as THREE.Material).dispose();
-    imageMesh.geometry.dispose(); backing.geometry.dispose(); imageMaterial.dispose(); backingMaterial.dispose(); textures.forEach(texture => texture.dispose()); environment?.dispose(); renderer.dispose();
+    imageMesh.geometry.dispose(); backing.geometry.dispose(); imageMaterial.dispose(); backingMaterial.dispose(); textures.forEach(texture => texture.dispose()); environment?.dispose();
+    if (contextAvailable) { renderer.setScissorTest(false); renderer.clear(); }
+    renderer.dispose();
   };
 }

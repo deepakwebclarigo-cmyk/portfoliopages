@@ -1,7 +1,7 @@
 'use client';
 
 import Link from './PortfolioLink';
-import { useRef } from 'react';
+import { useEffect, useRef } from 'react';
 import { ArrowUpRight, Menu } from 'lucide-react';
 
 const links = (
@@ -15,6 +15,11 @@ const links = (
 
 export default function SiteHeader() {
   const mobileMenu = useRef<HTMLDetailsElement>(null);
+  useEffect(() => {
+    const dismiss = (event: PointerEvent) => { const menu = mobileMenu.current; if (menu?.open && event.target instanceof Node && !menu.contains(event.target)) menu.open = false; };
+    document.addEventListener('pointerdown', dismiss, { passive: true });
+    return () => document.removeEventListener('pointerdown', dismiss);
+  }, []);
   return (
     <header className="siteHeader">
       <div className="shell siteNav">
@@ -25,7 +30,7 @@ export default function SiteHeader() {
         <a className="navCta" href="https://clarigoinfotech.com/contact" aria-label="Book a free AI consultation">
           <span className="navCtaFull">Book Free AI Consultation</span><span className="navCtaShort">Let&apos;s talk</span><ArrowUpRight size={15} />
         </a>
-        <details className="mobileNav" ref={mobileMenu} onKeyDown={(event) => { if (event.key === 'Escape') mobileMenu.current?.removeAttribute('open'); }}>
+        <details className="mobileNav" ref={mobileMenu} onKeyDown={(event) => { if (event.key === 'Escape') { mobileMenu.current?.removeAttribute('open'); mobileMenu.current?.querySelector('summary')?.focus(); } }}>
           <summary aria-label="Open navigation"><Menu size={22} /></summary>
           <nav aria-label="Mobile navigation" onClick={() => mobileMenu.current?.removeAttribute('open')}>{links}</nav>
         </details>

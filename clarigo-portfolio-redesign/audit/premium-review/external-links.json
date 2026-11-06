@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://clarigoinfotech.com/",
+    "status": 200,
+    "finalUrl": "https://clarigoinfotech.com/"
+  },
+  {
+    "url": "https://clarigoinfotech.com/services",
+    "status": 200,
+    "finalUrl": "https://clarigoinfotech.com/services"
+  },
+  {
+    "url": "https://clarigoinfotech.com/contact",
+    "status": 200,
+    "finalUrl": "https://clarigoinfotech.com/contact"
+  },
+  {
+    "url": "https://clarigoinfotech.com/services/app-development",
+    "status": 200,
+    "finalUrl": "https://clarigoinfotech.com/services/app-development"
+  }
+]
