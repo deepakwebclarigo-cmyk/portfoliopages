@@ -1,0 +1,301 @@
+{
+  "brands": 13,
+  "logos": 14,
+  "files": [
+    {
+      "name": "StreamDexa",
+      "file": "exports/updated-project-logos/StreamDexa.png",
+      "source": "audit/rebrand/edited/002.webp",
+      "sourceCrop": {
+        "left": 175,
+        "top": 94,
+        "width": 190,
+        "height": 60
+      },
+      "trim": {
+        "left": 6,
+        "top": 6,
+        "width": 178,
+        "height": 47
+      },
+      "width": 190,
+      "height": 59,
+      "method": "Exact native source color pixels, background alpha removed, transparent 6px margins; no artwork resizing",
+      "sha256": "55fbe5170a3493784ae190f50d5945ce1c1fb5774b52aa7700cf8a2c935f7ad3"
+    },
+    {
+      "name": "TukioConnect-web",
+      "file": "exports/updated-project-logos/TukioConnect-web.png",
+      "source": "audit/rebrand/edited/011.webp",
+      "sourceCrop": {
+        "left": 788,
+        "top": 170,
+        "width": 175,
+        "height": 21
+      },
+      "trim": {
+        "left": 1,
+        "top": 1,
+        "width": 161,
+        "height": 19
+      },
+      "width": 173,
+      "height": 31,
+      "method": "Exact native source color pixels, background alpha removed, transparent 6px margins; no artwork resizing",
+      "sha256": "63c1fdbe5a1be3211f0fbe7ef831b07e202c42f9bbb3d675844b6e0135c18c86"
+    },
+    {
+      "name": "TukioConnect-mobile",
+      "file": "exports/updated-project-logos/TukioConnect-mobile.png",
+      "source": "audit/rebrand/edited/023.webp",
+      "sourceCrop": {
+        "left": 99,
+        "top": 274,
+        "width": 178,
+        "height": 98
+      },
+      "trim": {
+        "left": 7,
+        "top": 6,
+        "width": 162,
+        "height": 84
+      },
+      "width": 174,
+      "height": 96,
+      "method": "Exact native source color pixels, background alpha removed, transparent 6px margins; no artwork resizing",
+      "sha256": "1c0b2add87b7c711577bd28c77d70afe65f590f419f42ffd60741df6f120d0d6"
+    },
+    {
+      "name": "ParaNest",
+      "file": "exports/updated-project-logos/ParaNest.png",
+      "source": "audit/rebrand/edited/032.webp",
+      "sourceCrop": {
+        "left": 151,
+        "top": 244,
+        "width": 200,
+        "height": 81
+      },
+      "trim": {
+        "left": 5,
+        "top": 25,
+        "width": 190,
+        "height": 31
+      },
+      "width": 202,
+      "height": 43,
+      "method": "Exact native source color pixels, background alpha removed, transparent 6px margins; no artwork resizing",
+      "sha256": "485703968e2afdbca465b8687d075879d9618aa1de83b2e5e3f69b3a5794c915"
+    },
+    {
+      "name": "Whizora",
+      "file": "exports/updated-project-logos/Whizora.png",
+      "source": "audit/rebrand/edited/037.webp",
+      "sourceCrop": {
+        "left": 184,
+        "top": 132,
+        "width": 116,
+        "height": 40
+      },
+      "trim": {
+        "left": 4,
+        "top": 9,
+        "width": 108,
+        "height": 21
+      },
+      "width": 120,
+      "height": 33,
+      "method": "Exact native source color pixels, background alpha removed, transparent 6px margins; no artwork resizing",
+      "sha256": "f5ca3e6c4f9ae7b479bc64891bea93459b0a826fd1cd24f8ffc4e70031dc240d"
+    },
+    {
+      "name": "EStrata",
+      "file": "exports/updated-project-logos/EStrata.png",
+      "source": "audit/rebrand/edited/048.webp",
+      "sourceCrop": {
+        "left": 134,
+        "top": 264,
+        "width": 227,
+        "height": 65
+      },
+      "trim": {
+        "left": 5,
+        "top": 8,
+        "width": 213,
+        "height": 50
+      },
+      "width": 225,
+      "height": 62,
+      "method": "Exact native source color pixels, background alpha removed, transparent 6px margins; no artwork resizing",
+      "sha256": "289dbb8e9cdcc8837ea2d25ba0261c8bd3009fc78ae5172a47c93b5625aba4a5"
+    },
+    {
+      "name": "LeadForma",
+      "file": "exports/updated-project-logos/LeadForma.png",
+      "source": "audit/rebrand/edited/052.webp",
+      "sourceCrop": {
+        "left": 305,
+        "top": 128,
+        "width": 1000,
+        "height": 118
+      },
+      "trim": {
+        "left": 191,
+        "top": 16,
+        "width": 617,
+        "height": 85
+      },
+      "width": 629,
+      "height": 97,
+      "method": "Exact native source color pixels, background alpha removed, transparent 6px margins; no artwork resizing",
+      "sha256": "e1de04e7c591358a9e33b5ee42f3ebbe8650fd9b9b826bbfdda8d5cc359bc43c"
+    },
+    {
+      "name": "SimplyScouted",
+      "file": "exports/updated-project-logos/SimplyScouted.png",
+      "source": "audit/rebrand/edited/054.webp",
+      "sourceCrop": {
+        "left": 590,
+        "top": 500,
+        "width": 417,
+        "height": 49
+      },
+      "trim": {
+        "left": 0,
+        "top": 0,
+        "width": 417,
+        "height": 49
+      },
+      "width": 350,
+      "height": 59,
+      "method": "Re-export of the exact existing approved Poppins SemiBold white wordmark layer, using its saved font, text, and size recipe",
+      "sha256": "3888a36badceee5bf5c47cb846abe57cd3fe87005e7320984bb73c9430c2632a"
+    },
+    {
+      "name": "InfiScribe",
+      "file": "exports/updated-project-logos/InfiScribe.png",
+      "source": "audit/rebrand/edited/062.webp",
+      "sourceCrop": {
+        "left": 610,
+        "top": 605,
+        "width": 380,
+        "height": 103
+      },
+      "trim": {
+        "left": 11,
+        "top": 19,
+        "width": 355,
+        "height": 63
+      },
+      "width": 367,
+      "height": 75,
+      "method": "Exact native source color pixels, background alpha removed, transparent 6px margins; no artwork resizing",
+      "sha256": "9b07b4aeb37f996b176e47c2cdd5680844969a3b63d91d13cb00e45c5429b98a"
+    },
+    {
+      "name": "SilaFlow",
+      "file": "exports/updated-project-logos/SilaFlow.png",
+      "source": "audit/rebrand/edited/071.webp",
+      "sourceCrop": {
+        "left": 646,
+        "top": 211,
+        "width": 310,
+        "height": 86
+      },
+      "trim": {
+        "left": 28,
+        "top": 4,
+        "width": 278,
+        "height": 69
+      },
+      "width": 290,
+      "height": 81,
+      "method": "Exact native source color pixels, background alpha removed, transparent 6px margins; no artwork resizing",
+      "sha256": "2d5efa74b97567aab59f9685551f298b2baff2877b6fa1d761a6cf30995c97d3"
+    },
+    {
+      "name": "HabitStride",
+      "file": "exports/updated-project-logos/HabitStride.png",
+      "source": "audit/rebrand/edited/079.webp",
+      "sourceCrop": {
+        "left": 716,
+        "top": 326,
+        "width": 180,
+        "height": 248
+      },
+      "trim": {
+        "left": 17,
+        "top": 26,
+        "width": 147,
+        "height": 214
+      },
+      "width": 159,
+      "height": 226,
+      "method": "Exact native source color pixels, background alpha removed, transparent 6px margins; no artwork resizing",
+      "sha256": "3636c02bf56a05d736e3237e5c8f5b2da1cc0c566834e1579a755c04bc989db4"
+    },
+    {
+      "name": "PantryOne",
+      "file": "exports/updated-project-logos/PantryOne.png",
+      "source": "audit/rebrand/edited/087.webp",
+      "sourceCrop": {
+        "left": 665,
+        "top": 521,
+        "width": 269,
+        "height": 272
+      },
+      "trim": {
+        "left": 5,
+        "top": 7,
+        "width": 258,
+        "height": 258
+      },
+      "width": 270,
+      "height": 270,
+      "method": "Exact native source color pixels, background alpha removed, transparent 6px margins; no artwork resizing",
+      "sha256": "2f9d66daf75b85326a4f716eda38a4f475c6c502ca2181967903d041567e7a19"
+    },
+    {
+      "name": "StreetSlate",
+      "file": "exports/updated-project-logos/StreetSlate.png",
+      "source": "audit/rebrand/edited/095.webp",
+      "sourceCrop": {
+        "left": 231,
+        "top": 538,
+        "width": 395,
+        "height": 380
+      },
+      "trim": {
+        "left": 23,
+        "top": 14,
+        "width": 344,
+        "height": 349
+      },
+      "width": 356,
+      "height": 361,
+      "method": "Exact native source color pixels, background alpha removed, transparent 6px margins; no artwork resizing",
+      "sha256": "f5ebfd256a7c33bf2ae69ce8ec9e5059a6efda95b253724e7242e91e1679a108"
+    },
+    {
+      "name": "RallyBridge",
+      "file": "exports/updated-project-logos/RallyBridge.png",
+      "source": "audit/rebrand/edited/107.webp",
+      "sourceCrop": {
+        "left": 145,
+        "top": 243,
+        "width": 225,
+        "height": 94
+      },
+      "trim": {
+        "left": 4,
+        "top": 10,
+        "width": 176,
+        "height": 73
+      },
+      "width": 188,
+      "height": 85,
+      "method": "Exact native source color pixels, background alpha removed, transparent 6px margins; no artwork resizing",
+      "sha256": "a2991f903cf4b427e3589f3c888954cadbda72037429504e825525c372a04a7f"
+    }
+  ],
+  "verifiedFiles": 14
+}

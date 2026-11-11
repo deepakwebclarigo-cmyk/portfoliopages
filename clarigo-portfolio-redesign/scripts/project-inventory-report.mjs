@@ -3,7 +3,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 const root = new URL('../', import.meta.url);
 const inventory = JSON.parse(await readFile(new URL('lib/project-inventory.json', root), 'utf8'));
 const assets = JSON.parse(await readFile(new URL('lib/project-assets.json', root), 'utf8'));
-const lines = ['# Portfolio route and image inventory', '', '19 web projects and 28 mobile projects. Gallery counts describe the selected source screens or compositions; no additional client screenshots were created.', '', '| Type | Archive label | Local detail route | Gallery images | Original source |', '| --- | --- | --- | ---: | --- |'];
+const lines = ['# Portfolio route and image inventory', '', inventory.filter(project => project.kind === 'web').length + ' web projects and ' + inventory.filter(project => project.kind === 'mobile').length + ' mobile projects. Gallery counts describe the selected source screens or compositions; no additional client screenshots were created.', '', '| Type | Archive label | Local detail route | Gallery images | Original source |', '| --- | --- | --- | ---: | --- |'];
 for (const item of inventory) {
   const set = assets[item.slug];
   const images = set.images;

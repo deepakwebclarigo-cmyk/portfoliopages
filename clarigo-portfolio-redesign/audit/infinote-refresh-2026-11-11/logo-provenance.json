@@ -1,0 +1,19 @@
+{
+  "source": "C:/Users/lenovo/Downloads/Logo.png",
+  "suppliedSha256": "dc9bc6c085dc510e619a966ac05663ae1c604e0cf99dccd9f3036299e20d9641",
+  "publishedSha256": "dc9bc6c085dc510e619a966ac05663ae1c604e0cf99dccd9f3036299e20d9641",
+  "width": 1000,
+  "height": 1000,
+  "background": [
+    62,
+    82,
+    68
+  ],
+  "wordmarkBounds": {
+    "left": 128,
+    "top": 411,
+    "width": 744,
+    "height": 178
+  },
+  "method": "Original uploaded PNG retained exactly. Header wordmark alpha extracted from its solid background without redrawing; icon sizes uniformly resized from the supplied square."
+}

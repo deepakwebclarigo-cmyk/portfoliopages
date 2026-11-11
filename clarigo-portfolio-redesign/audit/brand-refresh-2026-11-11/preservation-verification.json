@@ -1,0 +1,240 @@
+{
+  "regionsAudited": 38,
+  "visiblePixelChangesOutsideBrandRegions": 0,
+  "unrelatedProjectsUnchanged": 38,
+  "recomposedOwnerArtworks": 8,
+  "retiredAssets": [
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\alum-connect-2bf4e4ff31.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\alum-connect-2bf4e4ff31.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\alum-connect-86ed77c67f.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\alum-connect-86ed77c67f.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\alum-connect-b084c45623.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\alum-connect-b084c45623.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\alum-connect-d8edac54cb.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\alum-connect-d8edac54cb.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\alum-connect-preview-1d5319ec06-card.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\alum-connect-preview-1d5319ec06-card.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\alum-connect-preview-1d5319ec06-medium.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\alum-connect-preview-1d5319ec06-medium.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\alum-connect-preview-1d5319ec06.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\alum-connect-preview-1d5319ec06.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-kegalklock-32b8e1cdcb.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-kegalklock-32b8e1cdcb.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-kegalklock-3f633e1922.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-kegalklock-3f633e1922.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-kegalklock-5e6bff4576.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-kegalklock-5e6bff4576.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-kegalklock-6ae2ddacd4.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-kegalklock-6ae2ddacd4.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-kegalklock-9ac469c36b.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-kegalklock-9ac469c36b.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-kegalklock-b8736041e2.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-kegalklock-b8736041e2.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-kegalklock-f8ea35146d.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-kegalklock-f8ea35146d.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-kegalklock-preview-920316dfe4-card.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-kegalklock-preview-920316dfe4-card.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-kegalklock-preview-920316dfe4-medium.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-kegalklock-preview-920316dfe4-medium.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-kegalklock-preview-920316dfe4.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-kegalklock-preview-920316dfe4.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-tukioconnect-artwork-321d79b9a7.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-tukioconnect-artwork-321d79b9a7.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-tukioconnect-artwork-5c3fcf4c72.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-tukioconnect-artwork-5c3fcf4c72.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-tukioconnect-artwork-a1796b4ca8.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-tukioconnect-artwork-a1796b4ca8.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-tukioconnect-artwork-ae46111fc6.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-tukioconnect-artwork-ae46111fc6.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-tukioconnect-artwork-bc9574ce6f.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-tukioconnect-artwork-bc9574ce6f.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-tukioconnect-artwork-ef02725b14.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-tukioconnect-artwork-ef02725b14.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-tukioconnect-preview-ca536c83f7-card.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-tukioconnect-preview-ca536c83f7-card.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-tukioconnect-preview-ca536c83f7-medium.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-tukioconnect-preview-ca536c83f7-medium.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\app-tukioconnect-preview-ca536c83f7.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\app-tukioconnect-preview-ca536c83f7.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\kegelklock-1478320c4c.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\kegelklock-1478320c4c.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\kegelklock-2151be632e.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\kegelklock-2151be632e.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\kegelklock-4e899b44c2.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\kegelklock-4e899b44c2.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\kegelklock-58aa766a8a.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\kegelklock-58aa766a8a.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\kegelklock-5b9e474e68.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\kegelklock-5b9e474e68.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\kegelklock-5cdbc9db01.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\kegelklock-5cdbc9db01.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\kegelklock-6bcf53fd54.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\kegelklock-6bcf53fd54.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\kegelklock-c318d8f05e.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\kegelklock-c318d8f05e.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\kegelklock-preview-611a87ce86-card.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\kegelklock-preview-611a87ce86-card.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\kegelklock-preview-611a87ce86-medium.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\kegelklock-preview-611a87ce86-medium.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\kegelklock-preview-611a87ce86.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\kegelklock-preview-611a87ce86.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\tukioconnect-artwork-162b001d81.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\tukioconnect-artwork-162b001d81.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\tukioconnect-artwork-2c92fbd56a.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\tukioconnect-artwork-2c92fbd56a.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\tukioconnect-artwork-557ba1519e.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\tukioconnect-artwork-557ba1519e.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\tukioconnect-artwork-660bcc9732.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\tukioconnect-artwork-660bcc9732.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\tukioconnect-artwork-75f90b3650.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\tukioconnect-artwork-75f90b3650.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\tukioconnect-artwork-90ccd02881.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\tukioconnect-artwork-90ccd02881.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\tukioconnect-artwork-9f6af836f4.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\tukioconnect-artwork-9f6af836f4.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\tukioconnect-artwork-a8b81e1d65.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\tukioconnect-artwork-a8b81e1d65.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\tukioconnect-preview-b03a1c3f96-card.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\tukioconnect-preview-b03a1c3f96-card.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\tukioconnect-preview-b03a1c3f96-medium.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\tukioconnect-preview-b03a1c3f96-medium.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\tukioconnect-preview-b03a1c3f96.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\tukioconnect-preview-b03a1c3f96.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\whizora-artwork-03437199c8.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\whizora-artwork-03437199c8.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\whizora-artwork-15f6aef7c8.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\whizora-artwork-15f6aef7c8.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\whizora-artwork-37f64b2cff.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\whizora-artwork-37f64b2cff.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\whizora-artwork-58235ec492.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\whizora-artwork-58235ec492.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\whizora-artwork-6cb9c4d65e.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\whizora-artwork-6cb9c4d65e.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\whizora-artwork-f7daeb4026.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\whizora-artwork-f7daeb4026.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\whizora-artwork-fdb7e9b041.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\whizora-artwork-fdb7e9b041.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\whizora-preview-89e6fa4af4-card.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\whizora-preview-89e6fa4af4-card.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\whizora-preview-89e6fa4af4-medium.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\whizora-preview-89e6fa4af4-medium.webp"
+    },
+    {
+      "from": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\public\\images\\projects\\whizora-preview-89e6fa4af4.webp",
+      "to": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\brand-refresh-2026-11-11\\retired-public-assets\\whizora-preview-89e6fa4af4.webp"
+    }
+  ]
+}

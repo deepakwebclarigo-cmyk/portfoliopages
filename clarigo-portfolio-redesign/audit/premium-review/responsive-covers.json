@@ -30,16 +30,6 @@
     "sha256": "9923ba21c37906fe354283cacba488cf11981414835ccfd05b1f29410d8b33fd"
   },
   {
-    "slug": "tukioconnect",
-    "src": "/images/projects/tukioconnect-preview-b03a1c3f96-medium.webp",
-    "width": 960,
-    "height": 800,
-    "bytes": 19260,
-    "source": "/images/projects/tukioconnect-preview-b03a1c3f96.webp",
-    "sourceSha256": "b03a1c3f9638f87068236613a4bc993f7e385dbd2ce3ef6c62335ec1b5f327d1",
-    "sha256": "9a9070f98c42c30e4819fc71503cd08e1eda4fa24ba5d6184925f9fef4ca8769"
-  },
-  {
     "slug": "beliri",
     "src": "/images/projects/beliri-preview-cee6d97850-medium.webp",
     "width": 960,
@@ -110,26 +100,6 @@
     "sha256": "353cc66ef89660ecf1b5db8cc69974db2f8c6a76c8245f304e8881edce5a0838"
   },
   {
-    "slug": "alum-connect",
-    "src": "/images/projects/alum-connect-preview-1d5319ec06-medium.webp",
-    "width": 960,
-    "height": 812,
-    "bytes": 41278,
-    "source": "/images/projects/alum-connect-preview-1d5319ec06.webp",
-    "sourceSha256": "1bf2afa0e248c4d0bd16c94fc23a9f293e2a83877d848ddd5a6b466c6dbed267",
-    "sha256": "8668b076e8b652d39e692556e8f26a1c75519189fa21144ff0eb1820a367afaf"
-  },
-  {
-    "slug": "kegelklock",
-    "src": "/images/projects/kegelklock-preview-611a87ce86-medium.webp",
-    "width": 960,
-    "height": 812,
-    "bytes": 56878,
-    "source": "/images/projects/kegelklock-preview-611a87ce86.webp",
-    "sourceSha256": "a5413908dba486dfe9acb32de4df3fcb6f19ad8968a956587b8780560723ee43",
-    "sha256": "eceb8c0cd9385e6530ddd7df90f8452d3d3ac6d31d04a9f4b21b93cd8dc5edc9"
-  },
-  {
     "slug": "rallybridge",
     "src": "/images/projects/rallybridge-preview-67f205f925-medium.webp",
     "width": 960,
@@ -148,16 +118,6 @@
     "source": "/images/projects/network-capital-preview-c5de891397.webp",
     "sourceSha256": "bf1c29ab310ba677832ae394b826ffa83e20d34d08c97ed932d183dd4a8c2567",
     "sha256": "de3c230854986385b9cadf9aa38c8fa56a8cbcfc15e491ddd89876bc384a6ebd"
-  },
-  {
-    "slug": "whizora",
-    "src": "/images/projects/whizora-preview-89e6fa4af4-medium.webp",
-    "width": 960,
-    "height": 800,
-    "bytes": 31326,
-    "source": "/images/projects/whizora-preview-89e6fa4af4.webp",
-    "sourceSha256": "89e6fa4af4e619868def69b2551b53bc8e34de034a63601501bce921cfd9746c",
-    "sha256": "96c8ebb00471cfdc4f4a42eac7073f99d8fe1f9422187a5e65ac782b0f052d40"
   },
   {
     "slug": "estrata",
@@ -210,14 +170,14 @@
     "sha256": "8b9ce883c18f32e7d35fef074a792f9ce68bb8909d7996e905738863b37bf9b1"
   },
   {
-    "slug": "app-infiscribe",
-    "src": "/images/projects/app-infiscribe-preview-4622ceea52-medium.webp",
+    "slug": "app-infinote",
+    "src": "/images/projects/app-infinote-preview-8e80c527a0-medium.webp",
     "width": 960,
     "height": 751,
-    "bytes": 25654,
-    "source": "/images/projects/app-infiscribe-preview-4622ceea52.webp",
-    "sourceSha256": "4622ceea524c121ba51c0733463babb8d6110fe2ed583b0a119d44c1a7487fdd",
-    "sha256": "f9a80edd84cfb6dd233bf871c4ced1423d84fcf3b9dbcf06427e731609d44542"
+    "bytes": 26156,
+    "source": "/images/projects/app-infinote-preview-8e80c527a0.webp",
+    "sourceSha256": "8e80c527a003fa2875ffb827109329642218ccd54f3ae2eef68f20e55df22e54",
+    "sha256": "fc2b3512c4ffdc4764ae2953aec64d960dc8c47aea76de08b3259495c8e7f35e"
   },
   {
     "slug": "app-silaflow",
@@ -238,16 +198,6 @@
     "source": "/images/projects/app-habitstride-preview-4f2287587a.webp",
     "sourceSha256": "4f2287587a0f106a7067052aa864a8daec1002858eb8be1a12f01da6ace412ee",
     "sha256": "d1c4d707502ad3089e3494e2a3ba8f553529048efa5530af3281de0db8312fa3"
-  },
-  {
-    "slug": "app-tukioconnect",
-    "src": "/images/projects/app-tukioconnect-preview-ca536c83f7-medium.webp",
-    "width": 960,
-    "height": 719,
-    "bytes": 29614,
-    "source": "/images/projects/app-tukioconnect-preview-ca536c83f7.webp",
-    "sourceSha256": "ca536c83f77ccdfc3857943b3f3d55c439fe76c03e50ec25a850773473fa43b1",
-    "sha256": "c111a8e0d4edb779ba5e6438fdfb73b1d34a421397779860677fb8ef33149b1e"
   },
   {
     "slug": "app-pace-of-play",
@@ -298,16 +248,6 @@
     "source": "/images/projects/app-printlific-preview-ebd002c50f.webp",
     "sourceSha256": "7b8067d601b7b9b67cf0383d5ba58bf2329ffcf964615b4f09d0d40de97a8b5d",
     "sha256": "ac4e4924bf863b81ce4859930352861fa90b52e32012e02f1c495d0520b51ffe"
-  },
-  {
-    "slug": "app-law-legend",
-    "src": "/images/projects/app-law-legend-preview-fe1e9fa54a-medium.webp",
-    "width": 960,
-    "height": 750,
-    "bytes": 152982,
-    "source": "/images/projects/app-law-legend-preview-fe1e9fa54a.webp",
-    "sourceSha256": "2738f841c3126e3e841119e3cd49d14d9a8a8ebec7be744883012f604cac229b",
-    "sha256": "e7d870b6856a82178f25d81093c197830ec1da07db10bdb25f0e585abbcbe3e2"
   },
   {
     "slug": "app-racepace",
@@ -420,36 +360,6 @@
     "sha256": "830222819a1491d055d918532fd78eec3c51c100028917e0732ef919b178d996"
   },
   {
-    "slug": "app-kegalklock",
-    "src": "/images/projects/app-kegalklock-preview-920316dfe4-medium.webp",
-    "width": 960,
-    "height": 800,
-    "bytes": 76982,
-    "source": "/images/projects/app-kegalklock-preview-920316dfe4.webp",
-    "sourceSha256": "d8d790e32087e21fac1cd0e46a03fa9fcbff732cbe65ebe5bd46b1ac665fe65a",
-    "sha256": "4e8b76e2c643b89e0d20fd8685c685db1922c722327dbae2f1be965eb2f3d478"
-  },
-  {
-    "slug": "app-gymbet",
-    "src": "/images/projects/app-gymbet-preview-5ab84b8737-medium.webp",
-    "width": 960,
-    "height": 800,
-    "bytes": 56338,
-    "source": "/images/projects/app-gymbet-preview-5ab84b8737.webp",
-    "sourceSha256": "009f881fa4f49b0fa14f43823243f707b24351f7cd50d842f1373238d646c78a",
-    "sha256": "42694c5a0a542c156ef479b4faa64676bb8abd8ece2d9954c16496c3e9841f1e"
-  },
-  {
-    "slug": "app-gobroker",
-    "src": "/images/projects/app-gobroker-preview-1e34f77871-medium.webp",
-    "width": 960,
-    "height": 720,
-    "bytes": 70504,
-    "source": "/images/projects/app-gobroker-preview-1e34f77871.webp",
-    "sourceSha256": "dee32fb2defa3fec0045af9bddab6c44cd81cffda7957f602ce9dd2e5c25432d",
-    "sha256": "ec64855c302d23ab6f6a4121160d9dc3ff6288a625c44bc907fae338c08d0282"
-  },
-  {
     "slug": "app-heartsync",
     "src": "/images/projects/app-heartsync-preview-747e9a3e97-medium.webp",
     "width": 960,
@@ -468,5 +378,65 @@
     "source": "/images/projects/app-supplement-management-preview-6ce8da463d.webp",
     "sourceSha256": "0d477c31f1e409f5dfa0558e0600368c971a9238cb06f5b51c63ec41de4113a8",
     "sha256": "8de81c660debd20876b48fd340dbf33c1dd9e3858fcdac9195c6f541375f31d6"
+  },
+  {
+    "slug": "tukora-connect",
+    "src": "/images/projects/tukora-connect-preview-4ba2862610-medium.webp",
+    "width": 960,
+    "height": 800,
+    "bytes": 17148,
+    "source": "/images/projects/tukora-connect-preview-4ba2862610.webp",
+    "sourceSha256": "4ba28626107f74b74271d00348221fb7cb87c4cf66881b7f517aa2cb1232c1f4",
+    "sha256": "7638c11c4e6d74fc460a7e157400bba0fdb432fee14f6e1017f86b74c3891fd4"
+  },
+  {
+    "slug": "alumvia",
+    "src": "/images/projects/alumvia-preview-ac91e561df-medium.webp",
+    "width": 960,
+    "height": 812,
+    "bytes": 30356,
+    "source": "/images/projects/alumvia-preview-ac91e561df.webp",
+    "sourceSha256": "ac91e561dff45a22c25b5dc06637a261b006aa909d2cf968625581ff3083d395",
+    "sha256": "0749230a2cdadd557b2df62c8beec59a7b1c001691df9a4f9d8265636e27bcd2"
+  },
+  {
+    "slug": "kegeltempo",
+    "src": "/images/projects/kegeltempo-preview-0a208beed8-medium.webp",
+    "width": 960,
+    "height": 812,
+    "bytes": 37798,
+    "source": "/images/projects/kegeltempo-preview-0a208beed8.webp",
+    "sourceSha256": "0a208beed8f35b1e52ed3b736830de91d8eb8642598452f249fb3afbb4aabde0",
+    "sha256": "3182846f9aa1a9316bb4e24119a50257046995aec07ca96a7e675ad88eb1abcf"
+  },
+  {
+    "slug": "whizlume",
+    "src": "/images/projects/whizlume-preview-3302361b6f-medium.webp",
+    "width": 960,
+    "height": 800,
+    "bytes": 31994,
+    "source": "/images/projects/whizlume-preview-3302361b6f.webp",
+    "sourceSha256": "3302361b6f26a9af19c1787b88d0e13f1d41c7f8bad0fd16d7d5d8949ea32e90",
+    "sha256": "d6e49fc2bed08fc28b6cc723f94fe8de7365b213a4234cbb6832935eed786fd8"
+  },
+  {
+    "slug": "app-tukora-connect",
+    "src": "/images/projects/app-tukora-connect-preview-b789498701-medium.webp",
+    "width": 960,
+    "height": 719,
+    "bytes": 26778,
+    "source": "/images/projects/app-tukora-connect-preview-b789498701.webp",
+    "sourceSha256": "b789498701177a23390c02fb94ad97049569dd7e74f275cbbd4af3e95ce59399",
+    "sha256": "436238ce81a237b9d309b5b75253c9aa16c618175f16172fdd89bf0216aadcbe"
+  },
+  {
+    "slug": "app-kegeltempo",
+    "src": "/images/projects/app-kegeltempo-preview-4c0adc9dfa-medium.webp",
+    "width": 960,
+    "height": 800,
+    "bytes": 58688,
+    "source": "/images/projects/app-kegeltempo-preview-4c0adc9dfa.webp",
+    "sourceSha256": "4c0adc9dfa25daf1c9d2bf1f2a1910783eb1a425db921376ef93496875e60087",
+    "sha256": "b4b49a2a4c50d6d5b85ead7676260529b95f1dfa45bc02f20192f42b7353008c"
   }
 ]

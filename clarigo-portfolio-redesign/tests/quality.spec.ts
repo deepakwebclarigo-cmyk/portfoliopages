@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+import inventory from '../lib/project-inventory.json';
 import assets from '../lib/project-assets.json';
 
 test('an empty filtered search can be reset without losing keyboard focus', async ({ page }) => {
@@ -10,7 +11,7 @@ test('an empty filtered search can be reset without losing keyboard focus', asyn
   await expect(search).toHaveValue('');
   await expect(search).toBeFocused();
   await expect(page.getByRole('button', { name: 'All projects', exact: true })).toHaveAttribute('aria-pressed', 'true');
-  await expect(page.locator('#project-results .projectCard')).toHaveCount(47);
+  await expect(page.locator('#project-results .projectCard')).toHaveCount(inventory.length);
 });
 
 test('navigation dismisses safely and restores keyboard focus', async ({ page }, info) => {

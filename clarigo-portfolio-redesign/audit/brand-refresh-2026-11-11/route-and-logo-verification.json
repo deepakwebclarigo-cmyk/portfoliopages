@@ -1,0 +1,338 @@
+{
+  "buildId": "NPKkGRJoD7x0NUh7yzZj3",
+  "projects": 44,
+  "pages": [
+    {
+      "route": "/",
+      "status": 200
+    },
+    {
+      "route": "/portfolio",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/livsocial",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/streamdexa",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/little-butterflies",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/tukora-connect",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/beliri",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/printlific",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/nerdrabbit",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/paranest",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/glocal-expert",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/mercury-mailroom",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/umeed",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/alumvia",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/kegeltempo",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/rallybridge",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/network-capital",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/whizlume",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/estrata",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/been-there",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/leadforma",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-livsocial",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-simplyscouted",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-infiscribe",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-silaflow",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-habitstride",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-tukora-connect",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-pace-of-play",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-qcop-app",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-little-butterflies",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-case-management-ase",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-printlific",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-racepace",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-been-there",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-pantryone",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-escapethehoa",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-dateflow",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-meravyaah",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-beliri",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-fynmate",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-streetslate",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-ummed",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-bubble",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-kegeltempo",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-heartsync",
+      "status": 200
+    },
+    {
+      "route": "/portfolio/app-supplement-management",
+      "status": 200
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/portfolio/app-tukioconnect",
+      "destination": "/portfolio/app-tukora-connect",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/app-kegalklock",
+      "destination": "/portfolio/app-kegeltempo",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/tukioconnect",
+      "destination": "/portfolio/tukora-connect",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/alum-connect",
+      "destination": "/portfolio/alumvia",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/kegelklock",
+      "destination": "/portfolio/kegeltempo",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/whizora",
+      "destination": "/portfolio/whizlume",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/app-case-managment-ase",
+      "destination": "/portfolio/app-case-management-ase",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/app-suppliment-management",
+      "destination": "/portfolio/app-supplement-management",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/streamdatax",
+      "destination": "/portfolio/streamdexa",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/tukeeconnect",
+      "destination": "/portfolio/tukora-connect",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/app-tukeeconnect",
+      "destination": "/portfolio/app-tukora-connect",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/parachute",
+      "destination": "/portfolio/paranest",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/whizara",
+      "destination": "/portfolio/whizlume",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/es-platform",
+      "destination": "/portfolio/estrata",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/lead-management",
+      "destination": "/portfolio/leadforma",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/app-simply-recruited",
+      "destination": "/portfolio/app-simplyscouted",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/app-infinote",
+      "destination": "/portfolio/app-infiscribe",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/app-silasync",
+      "destination": "/portfolio/app-silaflow",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/app-digital-habit-tracker",
+      "destination": "/portfolio/app-habitstride",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/app-one-pantry",
+      "destination": "/portfolio/app-pantryone",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/app-street-sheets",
+      "destination": "/portfolio/app-streetslate",
+      "status": 308
+    },
+    {
+      "source": "/portfolio/br-tennis",
+      "destination": "/portfolio/rallybridge",
+      "status": 308
+    }
+  ],
+  "logos": [
+    {
+      "name": "Tukora Connect",
+      "file": "exports/four-refreshed-project-logos/Tukora-Connect.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sha256": "e04447334746bbd8efca7866e8d96a689f6b70180bdfc909652fc0b4ad0a5840"
+    },
+    {
+      "name": "Whizlume",
+      "file": "exports/four-refreshed-project-logos/Whizlume.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sha256": "abe4bc739e1fb6d88b670f5576f88502a25ca258553d7263e6f0a8bbce961836"
+    },
+    {
+      "name": "Alumvia",
+      "file": "exports/four-refreshed-project-logos/Alumvia.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sha256": "ef553a251e091781c1c039a5abbf73a1ee3a924b58bdcc901de7912143c04a95"
+    },
+    {
+      "name": "KegelTempo",
+      "file": "exports/four-refreshed-project-logos/KegelTempo.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sha256": "97a2b9fdb5dfbc4f1cc7120dbafd2a1d34d111ae24caef4068bd389f5c66dd9b"
+    }
+  ],
+  "linksChecked": 278,
+  "sitemapEntries": 45
+}

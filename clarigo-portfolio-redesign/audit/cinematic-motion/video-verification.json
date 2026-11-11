@@ -1,0 +1,21 @@
+{
+  "config": {
+    "width": 3840,
+    "height": 2160,
+    "fps": 60,
+    "duration": 12
+  },
+  "proof": {
+    "version": "WebGL 2.0 ()",
+    "width": 3840,
+    "height": 2160,
+    "panels": 5,
+    "entranceSeconds": 4.4,
+    "ambientOcclusion": "SSAO 16 samples",
+    "depthOfField": "depth-aware bokeh",
+    "source": "lib/hero-showcase-scene.ts"
+  },
+  "frames": [],
+  "sceneSha256": "5a0371b7641ae90cef9bf21b401a9985e2f17b77f97bc5338261209b594268bd",
+  "encoderLog": ""
+}

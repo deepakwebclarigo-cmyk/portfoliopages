@@ -1,0 +1,245 @@
+[
+  {
+    "name": "StreamDexa",
+    "id": "002",
+    "box": {
+      "x": 232,
+      "y": 115,
+      "w": 128,
+      "h": 20,
+      "text": "STREAMDEXA",
+      "replacement": "STREAMDEXA",
+      "weight": "Regular",
+      "align": "left",
+      "confidence": "manual",
+      "color": [
+        255,
+        255,
+        255
+      ]
+    }
+  },
+  {
+    "name": "TukioConnect",
+    "id": "011",
+    "box": {
+      "x": 788,
+      "y": 170,
+      "w": 175,
+      "h": 21,
+      "text": "TukeeConnect",
+      "replacement": "TukioConnect",
+      "score": 0,
+      "confidence": "exact",
+      "multiline": false,
+      "weight": "Regular",
+      "align": "left"
+    }
+  },
+  {
+    "name": "ParaNest",
+    "id": "032",
+    "box": {
+      "x": 628,
+      "y": 1185,
+      "w": 101,
+      "h": 19,
+      "text": "Parachute",
+      "replacement": "ParaNest",
+      "score": 0,
+      "confidence": "exact",
+      "multiline": false,
+      "weight": "Regular",
+      "align": "left"
+    }
+  },
+  {
+    "name": "Whizora",
+    "id": "037",
+    "box": {
+      "x": 187,
+      "y": 136,
+      "w": 110,
+      "h": 32,
+      "text": "WHiZAU",
+      "replacement": "Whizora",
+      "score": 2,
+      "confidence": "review",
+      "multiline": false,
+      "weight": "Regular",
+      "align": "center"
+    }
+  },
+  {
+    "name": "EStrata",
+    "id": "048",
+    "box": {
+      "x": 222,
+      "y": 266,
+      "w": 192,
+      "h": 39,
+      "text": "EStrata",
+      "replacement": "EStrata",
+      "weight": "SemiBold",
+      "align": "left",
+      "confidence": "manual",
+      "background": [
+        255,
+        255,
+        255
+      ],
+      "color": [
+        30,
+        30,
+        30
+      ],
+      "fontSize": 27
+    }
+  },
+  {
+    "name": "LeadForma",
+    "id": "052",
+    "box": {
+      "x": 305,
+      "y": 128,
+      "w": 1000,
+      "h": 118,
+      "text": "Lead Management",
+      "replacement": "LeadForma",
+      "score": 0,
+      "confidence": "exact",
+      "multiline": false,
+      "weight": "Regular",
+      "align": "center"
+    }
+  },
+  {
+    "name": "SimplyScouted",
+    "id": "056",
+    "box": {
+      "x": 53,
+      "y": 236,
+      "w": 268,
+      "h": 33,
+      "text": "SimplyRecruited",
+      "replacement": "SimplyScouted",
+      "score": 0,
+      "confidence": "exact",
+      "multiline": false,
+      "weight": "SemiBold",
+      "align": "center"
+    }
+  },
+  {
+    "name": "InfiScribe",
+    "id": "065",
+    "box": {
+      "x": 72,
+      "y": 349,
+      "w": 230,
+      "h": 57,
+      "text": "infit-ote",
+      "replacement": "InfiScribe",
+      "score": 0,
+      "confidence": "exact",
+      "multiline": false,
+      "weight": "Light",
+      "align": "center"
+    }
+  },
+  {
+    "name": "SilaFlow",
+    "id": "071",
+    "box": {
+      "x": 173,
+      "y": 744,
+      "w": 63,
+      "h": 17,
+      "text": "Silasync",
+      "replacement": "SilaFlow",
+      "score": 0,
+      "confidence": "exact",
+      "multiline": false,
+      "weight": "Regular",
+      "align": "left"
+    }
+  },
+  {
+    "name": "HabitStride",
+    "id": "083",
+    "box": {
+      "x": 102,
+      "y": 265,
+      "w": 174,
+      "h": 53,
+      "text": "Digital Habit Tracker",
+      "replacement": "Habit\nStride",
+      "score": 0,
+      "confidence": "exact",
+      "multiline": true,
+      "weight": "SemiBold",
+      "align": "center"
+    }
+  },
+  {
+    "name": "PantryOne",
+    "id": "090",
+    "box": {
+      "x": 129,
+      "y": 352,
+      "w": 126,
+      "h": 55,
+      "text": "ONE PANTRY",
+      "replacement": "PANTRY\nONE",
+      "score": 0,
+      "confidence": "exact",
+      "multiline": true,
+      "weight": "Bold",
+      "align": "center",
+      "background": [
+        255,
+        255,
+        255
+      ],
+      "color": [
+        106,
+        177,
+        56
+      ]
+    }
+  },
+  {
+    "name": "StreetSlate",
+    "id": "096",
+    "box": {
+      "x": 78,
+      "y": 356,
+      "w": 176,
+      "h": 24,
+      "text": "Street Sheets",
+      "replacement": "StreetSlate",
+      "score": 0,
+      "confidence": "exact",
+      "multiline": false,
+      "weight": "Regular",
+      "align": "left"
+    }
+  },
+  {
+    "name": "RallyBridge",
+    "id": "105",
+    "box": {
+      "x": 998,
+      "y": 778,
+      "w": 143,
+      "h": 24,
+      "text": "Bear Republic",
+      "replacement": "RallyBridge",
+      "score": 0,
+      "confidence": "exact",
+      "multiline": false,
+      "weight": "Regular",
+      "align": "left"
+    }
+  }
+]

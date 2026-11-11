@@ -1,6 +1,6 @@
 # Clarigo Portfolio
 
-The existing Next.js / TypeScript portfolio, continued in place with Three.js, GSAP ScrollTrigger, Framer Motion, and Lucide. The hero uses a generic, continuously animated 3D UI/UX ecosystem. All 47 projects, verified artwork, native navigation, and the existing brand layout are retained.
+The existing Next.js / TypeScript portfolio, continued in place with Three.js, GSAP ScrollTrigger, Framer Motion, and Lucide. The hero uses a generic, continuously animated 3D UI/UX ecosystem. All 44 projects, verified artwork, native navigation, and the existing brand layout are retained.
 
 ## Run locally
 
@@ -15,17 +15,17 @@ Open http://localhost:3000 for development. For a production preview, run `npm.c
 
 ## Portfolio and sources
 
-- 19 web projects and 28 mobile projects, each with a dedicated prerendered detail route.
+- 19 web projects and 25 mobile projects, each with a dedicated prerendered detail route.
 - Listings at `/` and `/portfolio`, with type filters, name/subject search, and direct project links.
-- Unique overviews, four evidence-based features, three-step product journeys, design challenges and solution points, technical perspectives, design commentary, expandable galleries, and project-specific closing copy for all 47 projects.
-- 331 selected artwork assets stored locally as WebP, plus 47 matching card variants and 47 responsive 960px hero variants. The official Clarigo logo, browser icons, and verified Geist font files are also local.
+- Unique overviews, four evidence-based features, three-step product journeys, design challenges and solution points, technical perspectives, design commentary, expandable galleries, and project-specific closing copy for all 44 projects.
+- 307 selected artwork assets stored locally as WebP, plus 44 matching card variants and 44 responsive 960px hero variants. The official Clarigo logo, browser icons, and verified Geist font files are also local.
 - The existing visual direction is preserved. Masked heading reveals, staggered entrances, ScrollTrigger image reveals, restrained device parallax, Framer Motion gallery transitions, and short native document transitions extend the official site's motion language.
 - The listing hero combines soft rose/lavender lighting with real beveled browser, phone, typography, palette, and component geometry. Its seamless floating and assembly loop, spring parallax, raycast hover separation, and scroll camera use one shared WebGL renderer. The artwork is generic and contains no real project or application. It pauses offscreen and in inactive windows. Compact phones retain the original hero layout without decorative WebGL; reduced motion uses a static presentation.
 - Card artwork stays centered with `object-fit: contain`, uniform scaling, bounded real 3D hover, and no circular arrow overlay. Stationary card wrappers avoid unused Framer springs. Detail pages load their decorative renderer on pointer interaction, and release rendering on compact layouts or forced colors. Every card retains its direct detail-page link.
 - Landscape composition galleries use shorter frames while retaining complete artwork. Gallery position announcements, keyboard focus return, mobile-menu dismissal, focusable skip targets, and a keyboard-friendly empty-search reset improve shared interactions.
-- Contrast-safe red buttons, clearer small labels, visible control boundaries, and consistent focus states improve readability without changing the section structure. Local Latin-font preloading and responsive hero sources reduce avoidable loading work. Collection structured data describes all 47 real portfolio entries.
+- Contrast-safe red buttons, clearer small labels, visible control boundaries, and consistent focus states improve readability without changing the section structure. Local Latin-font preloading and responsive hero sources reduce avoidable loading work. Collection structured data describes all 44 real portfolio entries.
 - Keyboard-accessible image viewer, scroll/focus restoration, mobile menu, reduced-motion behavior, and an offscreen animation pause.
-- Canonical metadata, Open Graph, Twitter cards, structured data, sitemap, useful 404, and permanent redirects for 14 renamed routes and the two original misspelled slugs.
+- Canonical metadata, Open Graph, Twitter cards, structured data, sitemap, useful 404, and permanent redirects for 20 renamed routes and the two original misspelled slugs.
 
 The current working checkout is `D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign`. No Git metadata was present in the supplied workspace. The original saved source snapshot is retained at `audit/copilot-source-2026-11-02.zip`.
 
@@ -39,7 +39,7 @@ Screenshot artwork may itself include legacy sample interface text. Project word
 
 ## Files to continue from
 
-- `lib/project-inventory.json`: current 47-project names and routes.
+- `lib/project-inventory.json`: current 44-project names and routes.
 - `lib/project-content.ts`: project-specific editorial content.
 - `lib/project-story.ts` and `lib/project-stories-{web,mobile}.ts`: typed project journeys, challenges, solutions, technical perspectives, closing copy, and audited image selections.
 - `lib/project-assets.json`: selected local images, current SHA-256 checksums, dimensions, and explicit gallery roles.
@@ -72,7 +72,7 @@ npm.cmd run test:e2e
 npm.cmd run audit:assets
 ```
 
-The browser suite uses installed Chrome in an isolated test profile. Run it against the production server at http://127.0.0.1:3100. Its 210 checks cover every card and route at 1440px desktop, 768px tablet, and 390px emulated mobile widths, plus 320px and reduced-motion checks. Coverage includes content, galleries, image ownership and fit, metadata, renamed searches, redirects, absence of previous names in published HTML and URLs, actual animated intermediate states, native WebGL, counters, pointer bounds, offscreen pausing, focus, deep links, no-JavaScript access, failed-thumbnail recovery, renderer disposal, and empty-search reset. Set `MOTION_TEST_REPORT=audit/premium-review/browser-tests.json` and `MOTION_TEST_ARTIFACTS=audit/premium-review/test-results` before running to retain current results separately; the default remains the historical motion directory. Physical-device Safari/Android acceptance and live-site deployment are separate from these local checks. The postbuild check verifies HTML, RSC output, and route-cache metadata for every project route. `node scripts/verify-project-rebrand.mjs` verifies image hashes, decoding, thumbnails, and visible pixel preservation outside name regions. Run raster/OCR audits separately from browser testing on memory-constrained machines.
+The browser suite uses installed Chrome in an isolated test profile. Run it against the production server at http://127.0.0.1:3100. Its 201 checks cover every card and route at 1440px desktop, 768px tablet, and 390px emulated mobile widths, plus 320px and reduced-motion checks. Coverage includes content, galleries, image ownership and fit, metadata, renamed searches, redirects, absence of previous names in published HTML and URLs, actual animated intermediate states, native WebGL, counters, pointer bounds, offscreen pausing, focus, deep links, no-JavaScript access, failed-thumbnail recovery, renderer disposal, and empty-search reset. Set `MOTION_TEST_REPORT=audit/premium-review/browser-tests.json` and `MOTION_TEST_ARTIFACTS=audit/premium-review/test-results` before running to retain current results separately; the default remains the historical motion directory. Physical-device Safari/Android acceptance and live-site deployment are separate from these local checks. The postbuild check verifies HTML, RSC output, and route-cache metadata for every project route. `node scripts/verify-project-rebrand.mjs` verifies image hashes, decoding, thumbnails, and visible pixel preservation outside name regions. Run raster/OCR audits separately from browser testing on memory-constrained machines.
 
 `scripts/audit-premium-quality.mjs` uses the pinned private axe-core auditor and checks metadata, anchors, and overflow. Set `AUDIT_ALL_ROUTES=1` to inspect every detail route and representative mobile layouts. `scripts/audit-load-performance.mjs` records local cold-load LCP, CLS, blocking work, and observed interactions, including a throttled mobile profile; these are lab samples rather than field Core Web Vitals or accessibility certification. `scripts/optimize-portfolio-covers.mjs` reproduces the responsive cover variants from the existing selected artwork.
 
@@ -81,3 +81,11 @@ The browser suite uses installed Chrome in an isolated test profile. Run it agai
 ## Reproduce source research
 
 `node scripts/audit-sources.mjs` crawls public Clarigo and legacy portfolio resources into `audit/source-audit.json`. The original importer and journal are retained for provenance; the importer now guards against overwriting the renamed portfolio. Consult `audit/rebrand/source-manifest-before.json` for the original remote paths. Matching filenames alone are insufficient evidence of project identity. Current selected assets use explicit roles rather than public copies of historical source URLs.
+
+## November 2026 identity refresh
+
+Tukora Connect, Whizlume, Alumvia, and KegelTempo replace the four previous identities across six existing web/mobile entries. New logos were created with the built-in image generator; product interfaces remain the owning project source artwork. Standalone 1000 x 1000 transparent PNGs are in exports/four-refreshed-project-logos/. Design briefs, original sources, region edits, and preservation checks are in audit/brand-refresh-2026-11-11/. All 44 active projects remain.
+
+## Infinote branding update
+
+The document-scanning mobile project is now Infinote at /portfolio/app-infinote. Its previous InfiScribe URL redirects permanently to this page. The user-supplied logo is retained exactly in public/images/brand/projects/infinote-logo.png; faithful wordmark and icon variants appear in its project artwork and scoped page metadata. Clarigo's global branding and the other 43 projects are unchanged. Source checkpoints, region conservation, and verification are in audit/infinote-refresh-2026-11-11/.

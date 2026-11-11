@@ -1,0 +1,257 @@
+{
+  "buildId": "YuLboFJL3VKcRUkebrv6C",
+  "projects": 44,
+  "web": 19,
+  "mobile": 25,
+  "routes": [
+    {
+      "route": "/",
+      "status": 200,
+      "detailLinks": 44
+    },
+    {
+      "route": "/portfolio",
+      "status": 200,
+      "detailLinks": 44
+    },
+    {
+      "route": "/portfolio/livsocial",
+      "status": 200,
+      "detailLinks": 5
+    },
+    {
+      "route": "/portfolio/streamdexa",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/little-butterflies",
+      "status": 200,
+      "detailLinks": 5
+    },
+    {
+      "route": "/portfolio/tukioconnect",
+      "status": 200,
+      "detailLinks": 5
+    },
+    {
+      "route": "/portfolio/beliri",
+      "status": 200,
+      "detailLinks": 5
+    },
+    {
+      "route": "/portfolio/printlific",
+      "status": 200,
+      "detailLinks": 5
+    },
+    {
+      "route": "/portfolio/nerdrabbit",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/paranest",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/glocal-expert",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/mercury-mailroom",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/umeed",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/alum-connect",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/kegelklock",
+      "status": 200,
+      "detailLinks": 5
+    },
+    {
+      "route": "/portfolio/rallybridge",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/network-capital",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/whizora",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/estrata",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/been-there",
+      "status": 200,
+      "detailLinks": 5
+    },
+    {
+      "route": "/portfolio/leadforma",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-livsocial",
+      "status": 200,
+      "detailLinks": 5
+    },
+    {
+      "route": "/portfolio/app-simplyscouted",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-infiscribe",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-silaflow",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-habitstride",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-tukioconnect",
+      "status": 200,
+      "detailLinks": 5
+    },
+    {
+      "route": "/portfolio/app-pace-of-play",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-qcop-app",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-little-butterflies",
+      "status": 200,
+      "detailLinks": 5
+    },
+    {
+      "route": "/portfolio/app-case-management-ase",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-printlific",
+      "status": 200,
+      "detailLinks": 5
+    },
+    {
+      "route": "/portfolio/app-racepace",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-been-there",
+      "status": 200,
+      "detailLinks": 5
+    },
+    {
+      "route": "/portfolio/app-pantryone",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-escapethehoa",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-dateflow",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-meravyaah",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-beliri",
+      "status": 200,
+      "detailLinks": 5
+    },
+    {
+      "route": "/portfolio/app-fynmate",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-streetslate",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-ummed",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-bubble",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-kegalklock",
+      "status": 200,
+      "detailLinks": 5
+    },
+    {
+      "route": "/portfolio/app-heartsync",
+      "status": 200,
+      "detailLinks": 4
+    },
+    {
+      "route": "/portfolio/app-supplement-management",
+      "status": 200,
+      "detailLinks": 4
+    }
+  ],
+  "removed": [
+    {
+      "slug": "app-gobroker",
+      "status": 404
+    },
+    {
+      "slug": "app-law-legend",
+      "status": 404
+    },
+    {
+      "slug": "app-gymbet",
+      "status": 404
+    }
+  ],
+  "linksChecked": 278,
+  "errors": [],
+  "otherProjectAssetsChanged": [],
+  "preservedLogoExports": 14,
+  "sitemapEntries": 45
+}

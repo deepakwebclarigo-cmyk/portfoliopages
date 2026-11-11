@@ -1,0 +1,400 @@
+{
+  "projects": 13,
+  "logos": 14,
+  "canvas": "1000 x 1000",
+  "method": "Uniform Lanczos resize of existing logos; centered with at least 80px transparent padding; original files unchanged",
+  "files": [
+    {
+      "file": "EStrata.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sourceSha256": "289dbb8e9cdcc8837ea2d25ba0261c8bd3009fc78ae5172a47c93b5625aba4a5",
+      "sha256": "d4a3570bb77fe63f6691aadb10310042c32f83705617c26139f7f511cb525500",
+      "sourceBounds": {
+        "left": 6,
+        "top": 6,
+        "width": 213,
+        "height": 50
+      },
+      "logoSize": {
+        "width": 840,
+        "height": 197
+      },
+      "position": {
+        "left": 80,
+        "top": 401
+      },
+      "alphaBounds": {
+        "left": 80,
+        "top": 401,
+        "right": 919,
+        "bottom": 597
+      }
+    },
+    {
+      "file": "HabitStride.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sourceSha256": "3636c02bf56a05d736e3237e5c8f5b2da1cc0c566834e1579a755c04bc989db4",
+      "sha256": "3c8ec8c7c385273fa9cbd48ec0e1cc7b611405dcceebe42b48dc43a3e47c1754",
+      "sourceBounds": {
+        "left": 6,
+        "top": 6,
+        "width": 147,
+        "height": 214
+      },
+      "logoSize": {
+        "width": 577,
+        "height": 840
+      },
+      "position": {
+        "left": 211,
+        "top": 80
+      },
+      "alphaBounds": {
+        "left": 211,
+        "top": 80,
+        "right": 787,
+        "bottom": 919
+      }
+    },
+    {
+      "file": "InfiScribe.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sourceSha256": "9b07b4aeb37f996b176e47c2cdd5680844969a3b63d91d13cb00e45c5429b98a",
+      "sha256": "d0b48cc053c2310881c5d0a19b32b329659fe012d4a96118892daa402cfa3e7e",
+      "sourceBounds": {
+        "left": 6,
+        "top": 6,
+        "width": 355,
+        "height": 63
+      },
+      "logoSize": {
+        "width": 840,
+        "height": 149
+      },
+      "position": {
+        "left": 80,
+        "top": 425
+      },
+      "alphaBounds": {
+        "left": 80,
+        "top": 425,
+        "right": 919,
+        "bottom": 573
+      }
+    },
+    {
+      "file": "LeadForma.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sourceSha256": "e1de04e7c591358a9e33b5ee42f3ebbe8650fd9b9b826bbfdda8d5cc359bc43c",
+      "sha256": "f4f9a31b09263617c57dd3e595cb3d4ce032d6a33189f215c0c4f0d1e44a12c7",
+      "sourceBounds": {
+        "left": 6,
+        "top": 6,
+        "width": 617,
+        "height": 85
+      },
+      "logoSize": {
+        "width": 840,
+        "height": 116
+      },
+      "position": {
+        "left": 80,
+        "top": 442
+      },
+      "alphaBounds": {
+        "left": 80,
+        "top": 442,
+        "right": 919,
+        "bottom": 557
+      }
+    },
+    {
+      "file": "PantryOne.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sourceSha256": "2f9d66daf75b85326a4f716eda38a4f475c6c502ca2181967903d041567e7a19",
+      "sha256": "9c63714f47b35c690b7505f615cedc6dada339d4f30506cd7acc1f6282be4e24",
+      "sourceBounds": {
+        "left": 6,
+        "top": 6,
+        "width": 258,
+        "height": 258
+      },
+      "logoSize": {
+        "width": 840,
+        "height": 840
+      },
+      "position": {
+        "left": 80,
+        "top": 80
+      },
+      "alphaBounds": {
+        "left": 80,
+        "top": 80,
+        "right": 919,
+        "bottom": 919
+      }
+    },
+    {
+      "file": "ParaNest.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sourceSha256": "485703968e2afdbca465b8687d075879d9618aa1de83b2e5e3f69b3a5794c915",
+      "sha256": "1f8b34ef412759b5900d4520d2d4b8bcb5b7fae6d6aa809958b40fb7c9ec4e47",
+      "sourceBounds": {
+        "left": 6,
+        "top": 6,
+        "width": 190,
+        "height": 31
+      },
+      "logoSize": {
+        "width": 840,
+        "height": 137
+      },
+      "position": {
+        "left": 80,
+        "top": 431
+      },
+      "alphaBounds": {
+        "left": 80,
+        "top": 431,
+        "right": 919,
+        "bottom": 567
+      }
+    },
+    {
+      "file": "RallyBridge.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sourceSha256": "a2991f903cf4b427e3589f3c888954cadbda72037429504e825525c372a04a7f",
+      "sha256": "4ee0cd58a26658440ba4d0ba33271a247a3cbfa44d3847808027bdc2d30587b7",
+      "sourceBounds": {
+        "left": 6,
+        "top": 6,
+        "width": 176,
+        "height": 73
+      },
+      "logoSize": {
+        "width": 840,
+        "height": 348
+      },
+      "position": {
+        "left": 80,
+        "top": 326
+      },
+      "alphaBounds": {
+        "left": 80,
+        "top": 326,
+        "right": 919,
+        "bottom": 673
+      }
+    },
+    {
+      "file": "SilaFlow.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sourceSha256": "2d5efa74b97567aab59f9685551f298b2baff2877b6fa1d761a6cf30995c97d3",
+      "sha256": "a439677f2c364d456e754e771c1f8e4b81e142f8caf6d3be8e2cbf8c808dfc92",
+      "sourceBounds": {
+        "left": 6,
+        "top": 6,
+        "width": 278,
+        "height": 69
+      },
+      "logoSize": {
+        "width": 840,
+        "height": 208
+      },
+      "position": {
+        "left": 80,
+        "top": 396
+      },
+      "alphaBounds": {
+        "left": 80,
+        "top": 396,
+        "right": 919,
+        "bottom": 603
+      }
+    },
+    {
+      "file": "SimplyScouted.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sourceSha256": "3888a36badceee5bf5c47cb846abe57cd3fe87005e7320984bb73c9430c2632a",
+      "sha256": "6a6bf4f610484ccb9b31ba90d57b84524cdf7bcca0e69ebb9116d37bfc4e57d4",
+      "sourceBounds": {
+        "left": 6,
+        "top": 6,
+        "width": 338,
+        "height": 47
+      },
+      "logoSize": {
+        "width": 840,
+        "height": 117
+      },
+      "position": {
+        "left": 80,
+        "top": 441
+      },
+      "alphaBounds": {
+        "left": 80,
+        "top": 441,
+        "right": 919,
+        "bottom": 557
+      }
+    },
+    {
+      "file": "StreamDexa.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sourceSha256": "55fbe5170a3493784ae190f50d5945ce1c1fb5774b52aa7700cf8a2c935f7ad3",
+      "sha256": "cec28d7b02737333b8a3a5c0e2b147551c0037d2d349d453cecdd6357dc4b525",
+      "sourceBounds": {
+        "left": 6,
+        "top": 6,
+        "width": 178,
+        "height": 47
+      },
+      "logoSize": {
+        "width": 840,
+        "height": 222
+      },
+      "position": {
+        "left": 80,
+        "top": 389
+      },
+      "alphaBounds": {
+        "left": 80,
+        "top": 389,
+        "right": 919,
+        "bottom": 610
+      }
+    },
+    {
+      "file": "StreetSlate.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sourceSha256": "f5ebfd256a7c33bf2ae69ce8ec9e5059a6efda95b253724e7242e91e1679a108",
+      "sha256": "05c77cbe737d416cdeedf0e1d59213e2654ed3ca1e332ec240797aaab745e2d0",
+      "sourceBounds": {
+        "left": 6,
+        "top": 6,
+        "width": 344,
+        "height": 349
+      },
+      "logoSize": {
+        "width": 828,
+        "height": 840
+      },
+      "position": {
+        "left": 86,
+        "top": 80
+      },
+      "alphaBounds": {
+        "left": 86,
+        "top": 80,
+        "right": 913,
+        "bottom": 919
+      }
+    },
+    {
+      "file": "TukioConnect-mobile.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sourceSha256": "1c0b2add87b7c711577bd28c77d70afe65f590f419f42ffd60741df6f120d0d6",
+      "sha256": "e37a8e9ddfc6d5b7b1202d6557cc3592c2550c637626a313afe9df0268bdae7a",
+      "sourceBounds": {
+        "left": 6,
+        "top": 6,
+        "width": 162,
+        "height": 84
+      },
+      "logoSize": {
+        "width": 840,
+        "height": 436
+      },
+      "position": {
+        "left": 80,
+        "top": 282
+      },
+      "alphaBounds": {
+        "left": 80,
+        "top": 282,
+        "right": 919,
+        "bottom": 717
+      }
+    },
+    {
+      "file": "TukioConnect-web.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sourceSha256": "63c1fdbe5a1be3211f0fbe7ef831b07e202c42f9bbb3d675844b6e0135c18c86",
+      "sha256": "f66eb9b8240afd7af6627a87d456907ff0219b918641bf37ae57fbdd599ddbd4",
+      "sourceBounds": {
+        "left": 6,
+        "top": 6,
+        "width": 161,
+        "height": 19
+      },
+      "logoSize": {
+        "width": 840,
+        "height": 99
+      },
+      "position": {
+        "left": 80,
+        "top": 450
+      },
+      "alphaBounds": {
+        "left": 80,
+        "top": 450,
+        "right": 919,
+        "bottom": 548
+      }
+    },
+    {
+      "file": "Whizora.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true,
+      "sourceSha256": "f5ca3e6c4f9ae7b479bc64891bea93459b0a826fd1cd24f8ffc4e70031dc240d",
+      "sha256": "6f359d1de38cf607ceaf05a625951b36423de19cbaf17cd6d22307de3b234f1f",
+      "sourceBounds": {
+        "left": 6,
+        "top": 6,
+        "width": 108,
+        "height": 21
+      },
+      "logoSize": {
+        "width": 840,
+        "height": 163
+      },
+      "position": {
+        "left": 80,
+        "top": 418
+      },
+      "alphaBounds": {
+        "left": 80,
+        "top": 418,
+        "right": 919,
+        "bottom": 580
+      }
+    }
+  ]
+}

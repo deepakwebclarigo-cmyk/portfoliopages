@@ -1,0 +1,11 @@
+﻿import fs from 'node:fs/promises';import path from 'node:path';import crypto from 'node:crypto';
+const root=path.resolve('.'),dir=path.resolve('audit/infinote-refresh-2026-11-11'),read=async f=>JSON.parse(await fs.readFile(f,'utf8')),sha=b=>crypto.createHash('sha256').update(b).digest('hex');
+const rows=(await fs.readFile(path.join(dir,'ocr-after.jsonl'),'utf8')).trim().split(/\r?\n/).map(JSON.parse);if(rows.length!==9||rows.some(r=>/infiscribe|scribe/i.test(r.text)))throw Error('OCR brand check failed.');
+const retirement=path.join(dir,'retired-public-assets');await fs.mkdir(retirement,{recursive:true});const records=[];
+const source=path.join(root,'public','images','projects');
+for(const file of await fs.readdir(source)){if(!file.startsWith('app-infiscribe-'))continue;const from=path.resolve(source,file),to=path.resolve(retirement,file);if(!from.startsWith(source+path.sep)||!to.startsWith(retirement+path.sep))throw Error('Unsafe archive target.');try{await fs.access(to);throw Error('Archive destination already exists.');}catch(e){if(e.code!=='ENOENT')throw e;}const bytes=await fs.readFile(from);await fs.rename(from,to);records.push({file,bytes:bytes.length,sha256:sha(bytes)});}
+if(records.length!==11)throw Error('Expected nine original assets and two variants.');await fs.writeFile(path.join(dir,'retired-assets.json'),JSON.stringify(records,null,2));
+const old=await read('audit/infinote-refresh-2026-11-11/inventory-before.json'),now=await read('lib/project-inventory.json');for(let i=0;i<old.length;i++){if(old[i].slug==='app-infiscribe')continue;if(JSON.stringify(old[i])!==JSON.stringify(now[i]))throw Error('Unrelated project inventory changed.');}
+const prov=await read('audit/infinote-refresh-2026-11-11/logo-provenance.json');for(const f of ['infinote-logo.png','infinote-app-icon.png'])if(sha(await fs.readFile('public/images/brand/projects/'+f))!==prov.suppliedSha256)throw Error('Supplied logo fidelity failed.');
+await fs.writeFile(path.join(dir,'source-verification.json'),JSON.stringify({projects:now.length,unrelatedProjectsUnchanged:43,retiredPublicAssets:records.length,ocrChecked:rows.length,oldBrandOcrMatches:0,exactSuppliedLogo:true},null,2));console.log('44 projects retained; other 43 unchanged; 11 old public assets archived; OCR 9/9 clean; supplied logo hash matched.');
+

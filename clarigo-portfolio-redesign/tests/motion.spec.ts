@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+import inventory from '../lib/project-inventory.json';
 
 test('hero words, scroll reveals, image masks and progress animate then settle', async ({ page }, info) => {
   await page.addInitScript(() => {
@@ -43,10 +44,10 @@ test('card hover stays bounded without distorting artwork and filtering keeps ke
     await expect(canvas).not.toHaveAttribute('data-card-active','true');
     await expect.poll(()=>card.locator('.visual img').evaluate(el=>getComputedStyle(el).opacity)).toBe('1');
   }
-  await page.getByRole('searchbox').fill('TukioConnect');
+  await page.getByRole('searchbox').fill('Tukora Connect');
   await expect(page.locator('.projectCard')).toHaveCount(2);
   await page.getByRole('searchbox').clear();
-  await expect(page.locator('.projectCard')).toHaveCount(47);
+  await expect(page.locator('.projectCard')).toHaveCount(inventory.length);
   const link = page.locator('.projectLink').last();
   await link.focus();
   await expect(link).toBeFocused();
@@ -83,10 +84,10 @@ test('the portfolio and detail content stay usable with JavaScript disabled', as
   const context = await browser.newContext({ javaScriptEnabled: false, viewport: page.viewportSize()! });
   try {
     const staticPage = await context.newPage(); await staticPage.goto('/');
-    await expect(staticPage.locator('.projectLink')).toHaveCount(47);
-    await staticPage.locator('.projectLink[href="/portfolio/app-infiscribe"]').click();
-    await expect(staticPage).toHaveURL('/portfolio/app-infiscribe');
-    await expect(staticPage.locator('h1')).toHaveText('InfiScribe.');
+    await expect(staticPage.locator('.projectLink')).toHaveCount(inventory.length);
+    await staticPage.locator('.projectLink[href="/portfolio/app-infinote"]').click();
+    await expect(staticPage).toHaveURL('/portfolio/app-infinote');
+    await expect(staticPage.locator('h1')).toHaveText('Infinote.');
     await expect(staticPage.locator('#overview')).toBeVisible();
     expect(await staticPage.locator('#screens').evaluate(el => getComputedStyle(el).opacity)).toBe('1');
   } finally { await context.close(); }
@@ -98,7 +99,7 @@ test('back navigation restores a readable portfolio and complete metadata', asyn
   await link.click();
   await expect(page).toHaveURL('/portfolio/app-habitstride');
   await page.goBack();
-  await expect(page.locator('.projectCard')).toHaveCount(47);
+  await expect(page.locator('.projectCard')).toHaveCount(inventory.length);
   await expect(page.locator('html')).toHaveAttribute('data-motion', 'full');
   await link.scrollIntoViewIfNeeded();
   await expect.poll(() => link.locator('..').locator('..').evaluate(el => getComputedStyle(el).opacity)).toBe('1');

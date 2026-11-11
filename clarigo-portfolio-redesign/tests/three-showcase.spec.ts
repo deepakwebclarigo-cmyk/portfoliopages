@@ -1,4 +1,5 @@
 import { test, expect } from '@playwright/test';
+import inventory from '../lib/project-inventory.json';
 
 test('generic ecosystem renders real WebGL geometry continuously and stops for reduced motion', async ({ page }, info) => {
   const failures: string[]=[];page.on('pageerror',error=>failures.push(error.message));
@@ -29,7 +30,7 @@ test('unavailable WebGL preserves the generic fallback and functional portfolio 
     HTMLCanvasElement.prototype.getContext=function(this:HTMLCanvasElement,type:string,...args:unknown[]){return type.includes('webgl')?null:original.call(this,type as '2d',args[0] as CanvasRenderingContext2DSettings);} as typeof original;
   });
   await page.goto('/');await expect(page.locator('.heroShowcaseFallback')).toHaveCount(1);
-  await expect(page.locator('h1')).toHaveText("Built for what's next.");await expect(page.locator('.projectLink')).toHaveCount(47);
+  await expect(page.locator('h1')).toHaveText("Built for what's next.");await expect(page.locator('.projectLink')).toHaveCount(inventory.length);
   await page.locator('.projectLink[href="/portfolio/app-habitstride"]').click();
   await expect(page).toHaveURL('/portfolio/app-habitstride');await expect(page.locator('h1')).toHaveText('HabitStride.');
 });

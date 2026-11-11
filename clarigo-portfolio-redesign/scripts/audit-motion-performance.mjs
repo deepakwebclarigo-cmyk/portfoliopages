@@ -2,7 +2,7 @@ import { chromium } from '@playwright/test';
 import fs from 'node:fs/promises';
 await fs.mkdir('audit/motion/preview',{recursive:true});
 const browser=await chromium.launch({channel:'chrome',headless:true}),results=[];
-try { for(const[label,route,width,height]of [['listing','/',1440,1000],['web','/portfolio/livsocial',1440,1000],['mobile-app','/portfolio/app-habitstride',1440,1000],['phone-listing','/',390,844],['phone-web','/portfolio/streamdexa',390,844],['phone-app','/portfolio/app-infiscribe',390,844]]){
+try { for(const[label,route,width,height]of [['listing','/',1440,1000],['web','/portfolio/livsocial',1440,1000],['mobile-app','/portfolio/app-habitstride',1440,1000],['phone-listing','/',390,844],['phone-web','/portfolio/streamdexa',390,844],['phone-app','/portfolio/app-infinote',390,844]]){
  const context=await browser.newContext({viewport:{width,height},isMobile:width<500,hasTouch:width<500}),page=await context.newPage(),errors=[];
  page.on('pageerror',e=>errors.push(e.message));
  await page.goto('http://127.0.0.1:3100'+route,{waitUntil:'networkidle'});

@@ -2,7 +2,7 @@ import Image from 'next/image';
 import Link from './PortfolioLink';
 import type { CSSProperties } from 'react';
 import { ArrowRight, ArrowUpRight, Check, Layers3, Search, Users, LayoutGrid } from 'lucide-react';
-import type { Project, ProjectAsset } from '../lib/projects';
+import { projects, type Project, type ProjectAsset } from '../lib/projects';
 import type { ProjectStory } from '../lib/project-story';
 
 const featureIcons = [Layers3, Search, Users, LayoutGrid];
@@ -49,5 +49,5 @@ export function EngineeringSection({ story }: { story: ProjectStory }) {
 }
 
 export function ProjectClosing({ project, story, companion }: { project: Project; story: ProjectStory; companion?: Project }) {
-  return <section className="caseCta" id="next-step"><div className="shell projectClosing" data-reveal><div><div className="eyebrow">YOUR NEXT PRODUCT</div><h2>Inspired by<br /><span>{project.name}?</span></h2><p>{story.cta}</p></div><div className="closingActions"><a className="buttonPrimary" href="https://clarigoinfotech.com/contact">Discuss your project <ArrowUpRight size={17} /></a>{companion && <Link className="buttonSecondary" href={'/portfolio/' + companion.slug}>Explore the {companion.kind === 'web' ? 'web' : 'mobile'} project <ArrowRight size={17} /></Link>}<Link className="closingAllWork" href="/#portfolio">Browse all 47 projects <ArrowRight size={16} /></Link></div></div></section>;
+  return <section className="caseCta" id="next-step"><div className="shell projectClosing" data-reveal><div><div className="eyebrow">YOUR NEXT PRODUCT</div><h2>Inspired by<br /><span>{project.name}?</span></h2><p>{story.cta}</p></div><div className="closingActions"><a className="buttonPrimary" href="https://clarigoinfotech.com/contact">Discuss your project <ArrowUpRight size={17} /></a>{companion && <Link className="buttonSecondary" href={'/portfolio/' + companion.slug}>Explore the {companion.kind === 'web' ? 'web' : 'mobile'} project <ArrowRight size={17} /></Link>}<Link className="closingAllWork" href="/#portfolio">Browse all {projects.length} projects <ArrowRight size={16} /></Link></div></div></section>;
 }

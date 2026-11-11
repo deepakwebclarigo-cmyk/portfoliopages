@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Tukora Connect",
+    "generatedWidth": 1254,
+    "generatedHeight": 1254,
+    "trim": {
+      "left": 145,
+      "top": 156,
+      "width": 958,
+      "height": 1012
+    },
+    "splitY": 814,
+    "export": "exports/four-refreshed-project-logos/Tukora-Connect.png",
+    "width": 1000,
+    "height": 1000,
+    "alpha": true
+  },
+  {
+    "name": "Whizlume",
+    "generatedWidth": 1254,
+    "generatedHeight": 1254,
+    "trim": {
+      "left": 81,
+      "top": 200,
+      "width": 1088,
+      "height": 842
+    },
+    "splitY": 840,
+    "export": "exports/four-refreshed-project-logos/Whizlume.png",
+    "width": 1000,
+    "height": 1000,
+    "alpha": true
+  },
+  {
+    "name": "Alumvia",
+    "generatedWidth": 1254,
+    "generatedHeight": 1254,
+    "trim": {
+      "left": 84,
+      "top": 201,
+      "width": 1075,
+      "height": 884
+    },
+    "splitY": 847,
+    "export": "exports/four-refreshed-project-logos/Alumvia.png",
+    "width": 1000,
+    "height": 1000,
+    "alpha": true
+  },
+  {
+    "name": "KegelTempo",
+    "generatedWidth": 1254,
+    "generatedHeight": 1254,
+    "trim": {
+      "left": 105,
+      "top": 253,
+      "width": 1052,
+      "height": 804
+    },
+    "splitY": 844,
+    "export": "exports/four-refreshed-project-logos/KegelTempo.png",
+    "width": 1000,
+    "height": 1000,
+    "alpha": true
+  }
+]

@@ -19,11 +19,11 @@ export const mobileStories = {
     engineering: { title: "Profile discovery with distinct entry paths.", text: "The screen set establishes onboarding, profile cards, profile details, and compact action states. It does not identify matching logic, recruiting integrations, or verified athlete eligibility; the technical perspective stays with the visible interaction structure.", topics: ["Audience entry", "Athlete profiles", "Discovery cards"] },
     cta: "Designing a recruitment product? Let's connect a clear audience journey with an informative profile experience."
   },
-  "app-infiscribe": {
+  "app-infinote": {
     featureIntro: "A document-focused mobile workspace with camera capture, file organization, account entry, and a dedicated document preview.",
-    workflowIntro: "InfiScribe's artwork connects capturing a paper document with finding and reviewing it inside a personal file space.",
+    workflowIntro: "Infinote's artwork connects capturing a paper document with finding and reviewing it inside a personal file space.",
     steps: [["Enter the file workspace", "The welcome and account layouts introduce a restrained green interface for personal documents."], ["Capture a document", "The original capture composition shows a camera view and a boundary around a paper document."], ["Review the file", "A dedicated preview displays the captured page with a compact row of document-oriented controls."]],
-    problem: { title: "Connect paper capture with a readable file space.", text: "A scanning interface has different priorities from a document library. InfiScribe separates the focused camera view from file lists and page previews while retaining a consistent visual identity." },
+    problem: { title: "Connect paper capture with a readable file space.", text: "A scanning interface has different priorities from a document library. Infinote separates the focused camera view from file lists and page previews while retaining a consistent visual identity." },
     solutions: [["A focused capture surface", "The document boundary and camera control make the capture view visually distinct."], ["Files in an organized space", "Lists and recent-file cards give captured information a place beyond the camera screen."], ["A separate reading view", "The preview keeps the document itself central and moves controls to a compact supporting bar."]],
     engineering: { title: "Capture, library, and preview states.", text: "The source shows document capture, file organization, and preview as separate interface states. It does not establish OCR accuracy, storage encryption, file synchronization, or a scanning library, so those capabilities are not inferred from the designs.", topics: ["Document capture", "File organization", "Page preview"] },
     cta: "Building a document tool? Let's connect capture, organization, and reading through a coherent interface."
@@ -46,11 +46,11 @@ export const mobileStories = {
     engineering: { title: "Routine definitions and daily views.", text: "The visible interface distinguishes habit configuration from the overview of displayed activity. It does not establish reminder delivery, background scheduling, synchronization, or measured adherence, all of which would require implementation evidence beyond the artwork.", topics: ["Habit configuration", "Repetition controls", "Daily overview"] },
     cta: "Creating an everyday routine product? Let's make repeated actions and their time context feel clear."
   },
-  "app-tukioconnect": {
+  "app-tukora-connect": {
     featureIntro: "A team communication experience with people lists, conversation entry points, profile context, and an original call interface.",
     workflowIntro: "The mobile presentation moves from finding a conversation to the person and communication view associated with it.",
     steps: [["Find a conversation", "A portrait-led list groups people and short conversation information within the main workspace."], ["Choose a contact", "People and profile-oriented views provide context for the person at the other end of an exchange."], ["Open a communication view", "The supplied compositions include conversation areas and a dedicated person-to-person call screen."]],
-    problem: { title: "Keep the person visible behind the conversation.", text: "Communication tools need to connect lists, identities, and focused exchanges. TukioConnect uses avatars and a stable blue navigation area to keep these views recognizably related on mobile." },
+    problem: { title: "Keep the person visible behind the conversation.", text: "Communication tools need to connect lists, identities, and focused exchanges. Tukora Connect uses avatars and a stable blue navigation area to keep these views recognizably related on mobile." },
     solutions: [["People-led lists", "Portraits and compact information make each conversation visually identifiable."], ["A stable navigation area", "The blue mobile navigation remains a consistent destination marker beneath the content."], ["A focused call surface", "The call screen gives the participant image priority and groups controls near the lower edge."]],
     engineering: { title: "People, conversations, and call states.", text: "The designs show separate conversation-list, contact, profile, and call interfaces. They document the product's visible communication structure without disclosing transport protocols, encryption, message delivery behavior, or a calling provider.", topics: ["Conversation lists", "Contact context", "Call interface"] },
     cta: "Connecting a team on mobile? Let's keep people and their conversations within a consistent, focused experience."
@@ -99,15 +99,6 @@ export const mobileStories = {
     solutions: [["Choices with examples", "Product-format imagery helps explain the physical difference between available options."], ["One image-selection task", "The upload view separates selecting an image from browsing the product catalog."], ["A dedicated preview", "A larger image area provides a visual checkpoint within the displayed creation journey."]],
     engineering: { title: "A staged configuration interface.", text: "The screen set separates product choice, image-source selection, and preview into distinct states. It does not establish file-upload infrastructure, print-resolution checks, production fulfillment, or checkout integration beyond the controls shown.", topics: ["Product choices", "Image selection", "Preview state"] },
     cta: "Creating a personalized product flow? Let's make each decision visible and keep the creative sequence coherent."
-  },
-  "app-law-legend": {
-    featureIntro: "A tax-themed information home with learning categories, content entry points, and a structured personal account area.",
-    workflowIntro: "The original mobile layouts place content discovery before the longer reading and account-oriented surfaces.",
-    steps: [["Explore the content home", "A prominent banner and illustrated tiles introduce the information areas within the app."], ["Choose a reading category", "Distinct visual categories organize the tax-themed content into smaller browsing destinations."], ["Reach the account area", "A separate menu groups personal information and supporting account-related destinations."]],
-    problem: { title: "Make specialist content easier to navigate.", text: "Tax-oriented material can look dense before reading begins. Law Legend's home uses illustrations and grouped destinations to give the content a clearer visual starting point." },
-    solutions: [["A content-led opening", "The introductory banner establishes the app's subject before the smaller navigation choices."], ["Categories with visual cues", "Illustrated tiles separate reading areas without relying on a long text-only menu."], ["A quieter account menu", "Personal and supporting destinations appear as a consistent list outside the main content home."]],
-    engineering: { title: "Content discovery and account navigation.", text: "The visible structure distinguishes a content home, category routes, reading-oriented information, and an account menu. The case study does not verify the legal accuracy of content, a publishing backend, purchase handling, or membership enforcement.", topics: ["Content categories", "Reading entry points", "Account menu"] },
-    cta: "Presenting specialist learning material? Let's give readers a clearer way to discover and navigate its subjects."
   },
   "app-racepace": {
     featureIntro: "A Formula-style racing presentation with driver discovery, a team lineup, selection controls, and race-themed introductory screens.",
@@ -208,32 +199,14 @@ export const mobileStories = {
     engineering: { title: "Offer catalogs and contact-oriented states.", text: "The original screens show a reward summary, promotional categories, coupon entries, contacts, and QR-related imagery. They establish the interface structure, while redemption rules, payment processing, points valuation, and transfer execution remain unverified.", topics: ["Reward summary", "Coupon catalog", "Contact views"] },
     cta: "Creating an offers or rewards experience? Let's connect the content while keeping each task easy to recognize."
   },
-  "app-kegalklock": {
+  "app-kegeltempo": {
     featureIntro: "An exercise-program interface with routine cards, timing views, audio-related settings, and subscription information.",
-    workflowIntro: "The KegelKlock mobile designs connect program discovery with a focused routine and its visible configuration options.",
+    workflowIntro: "The KegelTempo mobile designs connect program discovery with a focused routine and its visible configuration options.",
     steps: [["Explore a program", "The home view groups exercise and program information into illustrated cards."], ["Review the routine view", "A prominent circular timer gives the exercise-oriented screen a clear visual center."], ["Adjust the displayed choices", "Settings-style controls group the audio and preference options shown alongside the routine screens."]],
-    problem: { title: "Give an exercise routine a clear visual center.", text: "Program discovery and a timed exercise need different screen priorities. KegelKlock uses cards for the broader offering and a larger circular control for the focused routine view." },
+    problem: { title: "Give an exercise routine a clear visual center.", text: "Program discovery and a timed exercise need different screen priorities. KegelTempo uses cards for the broader offering and a larger circular control for the focused routine view." },
     solutions: [["Programs in recognizable groups", "Illustrated cards separate the available exercise-oriented information."], ["Timing as the focal point", "The circular graphic distinguishes the routine view from the more detailed content screens."], ["Preferences with grouping", "Related toggles and selections share a contained configuration surface."]],
     engineering: { title: "Program content and routine configuration.", text: "The visible interface includes program cards, a timing surface, preference controls, and subscription information. Those distinct states describe the interaction design without establishing clinical effectiveness, background timer behavior, or payment implementation.", topics: ["Program cards", "Timer interface", "Preference controls"] },
     cta: "Designing a routine-based wellbeing product? Let's give its content, timing, and preferences a clear visual rhythm."
-  },
-  "app-gymbet": {
-    featureIntro: "A fitness-themed introduction using exercise illustrations, activity-oriented messages, account creation, and group-focused presentation screens.",
-    workflowIntro: "The original GymBet screen collection introduces workout, friend, and group concepts alongside a simple account-entry journey.",
-    steps: [["Meet the fitness concept", "Exercise illustrations and short messages introduce the activity-oriented product."], ["Explore the social themes", "Separate introductory screens present friend challenges and group customization as parts of the visible proposition."], ["Reach account creation", "A labeled form gives the displayed account details their own focused input surface."]],
-    problem: { title: "Introduce fitness and social ideas without crowding them.", text: "Workout tracking, friend challenges, and groups are different messages. GymBet's artwork presents them in separate illustrated screens connected by a consistent mint-and-white identity." },
-    solutions: [["One idea per introduction", "Each illustrated screen gives its main fitness or social theme room to be understood."], ["A repeated action position", "Circular continuation controls create visual continuity between introductory panels."], ["A quieter account form", "Labeled input fields replace the illustrative emphasis when the task becomes information entry."]],
-    engineering: { title: "An introductory sequence with a separate form state.", text: "The supplied designs establish a sequence of fitness and group-oriented propositions plus account creation. They do not verify activity sensors, workout calculations, live friend challenges, or wagering behavior; the visible evidence concerns the introduction and interface design.", topics: ["Fitness introduction", "Group concepts", "Account form"] },
-    cta: "Introducing a fitness product? Let's make each core idea clear before asking people to enter the account journey."
-  },
-  "app-gobroker": {
-    featureIntro: "A real-estate assistant presentation combining property imagery, amenity information, account access, and a voice-entry concept.",
-    workflowIntro: "The GoBroker screens move between entering the account, reviewing a property, and the interface for adding property information.",
-    steps: [["Enter the assistant workspace", "The mobile-number account screen introduces the branded real-estate interface."], ["Review a property", "A large photograph leads the listing, followed by compact facts and amenity information."], ["Explore property entry", "The supplied add-property screen introduces a microphone-led input concept within the same workspace."]],
-    problem: { title: "Connect property discovery with working information.", text: "A real-estate assistant contains more than listing photography. GoBroker pairs a visually strong property view with quieter information and input screens under a consistent charcoal-and-yellow identity." },
-    solutions: [["The property leads", "A large image introduces the listing before the smaller facts and amenity labels."], ["Details in contained groups", "Icons and short information rows organize the more practical property content."], ["An input concept apart", "The microphone-oriented entry screen has its own focused layout instead of competing with the listing."]],
-    engineering: { title: "Listing detail and an input-oriented assistant view.", text: "The artwork distinguishes account entry, property information, and a voice-led property-entry concept. The microphone illustrates an interface idea; speech recognition, transcription accuracy, property publication, and external listing integrations are not established by the source.", topics: ["Property facts", "Amenity groups", "Voice-entry concept"] },
-    cta: "Building a property workspace? Let's connect a strong listing presentation with focused information-entry tasks."
   },
   "app-heartsync": {
     featureIntro: "A reflection-oriented interface with expressive emotion choices, personal sliders, relationship prompts, and introductory account screens.",

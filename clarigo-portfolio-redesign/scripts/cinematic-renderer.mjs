@@ -10,7 +10,7 @@ import { createHeroShowcase, updateShowcaseCamera } from '/scene.js';
 const { width, height } = window.exportConfig;
 await document.fonts.load('500 140px Geist');
 await document.fonts.ready;
-const renderer = new THREE.WebGLRenderer({ canvas: document.querySelector('canvas'), antialias: true, preserveDrawingBuffer: true, powerPreference: 'high-performance' });
+const renderer = new THREE.WebGLRenderer({ canvas: document.querySelector('canvas'), antialias: false, preserveDrawingBuffer: true, powerPreference: 'high-performance' });
 renderer.setPixelRatio(1); renderer.setSize(width, height, false);
 renderer.outputColorSpace = THREE.SRGBColorSpace;
 renderer.toneMapping = THREE.NeutralToneMapping; renderer.toneMappingExposure = .9;
@@ -31,7 +31,8 @@ const fill = new THREE.DirectionalLight(0xffd7e3,.6); fill.position.set(4,2,-4);
 const camera = new THREE.PerspectiveCamera(30,width/height,.1,40);
 const showcase = createHeroShowcase({ detail: 12 }); scene.add(showcase.group);
 const composer = new EffectComposer(renderer); composer.setSize(width,height);
-const samples = Math.min(width>1920?2:4,renderer.capabilities.maxSamples);
+// Keep native 4K geometry while avoiding multisample copies of 4K HDR buffers.
+const samples = width>1920?0:Math.min(4,renderer.capabilities.maxSamples);
 composer.renderTarget1.samples = samples; composer.renderTarget2.samples = samples;
 composer.addPass(new RenderPass(scene,camera));
 let seed = 20261106; const random = Math.random;
@@ -40,16 +41,20 @@ const ao = new SSAOPass(scene,camera,width,height,16); Math.random = random;
 ao.kernelRadius = .22; ao.minDistance = .0003; ao.maxDistance = .018;
 ao.copyMaterial.fragmentShader = ao.copyMaterial.fragmentShader.replace('gl_FragColor = opacity * texel;', 'gl_FragColor = vec4(mix(vec3(1.0), texel.rgb, 0.18), 1.0);');
 composer.addPass(ao);
+// Only broad ambient shading is sampled at half resolution; final color stays native 4K.
+if(width>1920)ao.setSize(width/2,height/2);
 const bokeh = new BokehPass(scene,camera,{focus:8.4,aperture:.001,maxblur:.0015}); composer.addPass(bokeh);
+if(width>1920)bokeh.setSize(width/2,height/2);
 composer.addPass(new OutputPass());
 window.renderFrame = seconds => {
   const progress = Math.min(1,Math.max(0,seconds/showcase.entranceDuration));
   showcase.pose(seconds,progress); updateShowcaseCamera(camera,seconds,progress);
   bokeh.uniforms.focus.value = camera.position.distanceTo(new THREE.Vector3(0,.02,0));
   renderer.info.reset(); composer.render(1/60);
+  if(renderer.getContext().isContextLost())throw Error('Export WebGL context lost at '+seconds+' seconds');
   return { seconds, visiblePanels: showcase.items.filter(item=>item.object.children[0].visible).length, drawCalls:renderer.info.render.calls, triangles:renderer.info.render.triangles };
 };
 // Warm all materials/post-process programs, then rewind before frame zero.
 window.renderFrame(6); window.renderFrame(0);
-window.exportProof = { version:renderer.getContext().getParameter(renderer.getContext().VERSION), width,height,panels:showcase.items.length,entranceSeconds:showcase.entranceDuration,ambientOcclusion:'SSAO 16 samples',depthOfField:'depth-aware bokeh',source:'lib/hero-showcase-scene.ts' };
+window.exportProof = { version:renderer.getContext().getParameter(renderer.getContext().VERSION), width,height,maxTextureSize:renderer.capabilities.maxTextureSize,samples,panels:showcase.items.length,entranceSeconds:showcase.entranceDuration,ambientOcclusion:'SSAO 16 samples',depthOfField:'depth-aware bokeh',source:'lib/hero-showcase-scene.ts' };
 window.motionReady = true;

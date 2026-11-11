@@ -5,15 +5,15 @@ import { projectContent } from '../lib/project-content';
 import { projectStories } from '../lib/project-story';
 
 test('inventory and all listing cards remain complete', async ({ page }) => {
-  expect(inventory).toHaveLength(47);
+  expect(inventory).toHaveLength(44);
   expect(inventory.filter(({ kind }) => kind === 'web')).toHaveLength(19);
-  expect(inventory.filter(({ kind }) => kind === 'mobile')).toHaveLength(28);
-  expect(new Set(inventory.map(({ slug }) => slug)).size).toBe(47);
-  for (const field of ['summary', 'overview', 'design'] as const) expect(new Set(inventory.map(({ slug }) => projectContent[slug][field])).size).toBe(47);
-  for (const field of ['featureIntro', 'workflowIntro', 'cta'] as const) expect(new Set(inventory.map(({ slug }) => projectStories[slug][field])).size).toBe(47);
+  expect(inventory.filter(({ kind }) => kind === 'mobile')).toHaveLength(25);
+  expect(new Set(inventory.map(({ slug }) => slug)).size).toBe(inventory.length);
+  for (const field of ['summary', 'overview', 'design'] as const) expect(new Set(inventory.map(({ slug }) => projectContent[slug][field])).size).toBe(inventory.length);
+  for (const field of ['featureIntro', 'workflowIntro', 'cta'] as const) expect(new Set(inventory.map(({ slug }) => projectStories[slug][field])).size).toBe(inventory.length);
   await page.goto('/');
   await page.evaluate(() => document.fonts.ready.then(() => undefined));
-  await expect(page.locator('.projectCard')).toHaveCount(47);
+  await expect(page.locator('.projectCard')).toHaveCount(inventory.length);
   await expect(page.locator('.projectOpen')).toHaveCount(0);
   await page.locator('.projectArt img').evaluateAll(images => images.forEach(image => { (image as HTMLImageElement).loading = 'eager'; }));
   await expect.poll(() => page.locator('.projectArt img').evaluateAll(images => images.every(image => (image as HTMLImageElement).complete && (image as HTMLImageElement).naturalWidth > 0))).toBe(true);
@@ -24,7 +24,7 @@ test('inventory and all listing cards remain complete', async ({ page }) => {
     const matrix = new DOMMatrixReadOnly(style.transform);
     return { fit: style.objectFit, position: style.objectPosition, uniform: Math.abs(matrix.m11-matrix.m22)<.001&&matrix.m11>=.95&&matrix.m11<=1, inside: paintedWidth <= frame.width + 1 && paintedHeight <= frame.height + 1, centered: Math.abs(box.x + box.width / 2 - frame.x - frame.width / 2) < 1 && Math.abs(box.y + box.height / 2 - frame.y - frame.height / 2) < 1 };
   }));
-  expect(artwork).toHaveLength(47);
+  expect(artwork).toHaveLength(inventory.length);
   for (const image of artwork) expect(image).toEqual({ fit: 'contain', position: '50% 50%', uniform: true, inside: true, centered: true });
   const links = await page.locator('.projectLink').evaluateAll((elements) => elements.map((el) => el.getAttribute('href')));
   expect(links).toEqual(inventory.map(({ slug }) => '/portfolio/' + slug));
@@ -33,7 +33,7 @@ test('inventory and all listing cards remain complete', async ({ page }) => {
   await page.getByRole('button', { name: /Web & web apps/ }).click();
   await expect(page.locator('.projectCard')).toHaveCount(19);
   await page.getByRole('button', { name: /Mobile apps/ }).click();
-  await expect(page.locator('.projectCard')).toHaveCount(28);
+  await expect(page.locator('.projectCard')).toHaveCount(inventory.filter(project => project.kind === 'mobile').length);
   await page.getByRole('searchbox', { name: 'Search projects' }).fill('heartsync');
   await expect(page.locator('.projectCard')).toHaveCount(1);
   await page.locator('.projectLink').click();
@@ -43,7 +43,7 @@ test('inventory and all listing cards remain complete', async ({ page }) => {
 
 test('search, empty state, mobile menu, and listing alias', async ({ page }, testInfo) => {
   await page.goto('/portfolio');
-  await expect(page.locator('.projectCard')).toHaveCount(47);
+  await expect(page.locator('.projectCard')).toHaveCount(inventory.length);
   await page.getByRole('searchbox').fill('no-such-project-123');
   await expect(page.getByRole('status').filter({ hasText: 'No projects' })).toBeVisible();
   await page.getByRole('searchbox').fill('Supplement Management');
@@ -131,7 +131,12 @@ test('404, preserved old slugs, sitemap, and robots', async ({ page, request }) 
   await expect(page).toHaveURL('/portfolio/app-supplement-management');
   const sitemap = await request.get('/sitemap.xml');
   expect(sitemap.status()).toBe(200);
-  expect((await sitemap.text()).match(/<loc>/g)).toHaveLength(48);
+  const sitemapText = await sitemap.text();
+  expect(sitemapText.match(/<loc>/g)).toHaveLength(inventory.length + 1);
+  for (const slug of ['app-gobroker', 'app-law-legend', 'app-gymbet']) {
+    expect((await request.get('/portfolio/' + slug)).status()).toBe(404);
+    expect(sitemapText).not.toContain('/portfolio/' + slug);
+  }
   expect((await request.get('/robots.txt')).status()).toBe(200);
 });
 

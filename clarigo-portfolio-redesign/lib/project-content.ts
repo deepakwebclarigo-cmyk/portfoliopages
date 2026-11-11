@@ -32,10 +32,10 @@ const originalContent: Record<string, ProjectContent> = {
     design: 'Peach backgrounds, soft illustrated edges, and rounded content blocks create a gentle visual rhythm. The logo’s bright colors remain small accents, allowing family photography and accessible text sections to lead the page.',
     features: [['Family introduction', 'A prominent welcome section establishes the audience and organization.'], ['About information', 'Dedicated content introduces the people and purpose behind the brand.'], ['Service cards', 'Individual cards break the offering into scannable sections.'], ['Device presentations', 'Original desktop and tablet mockups show the site’s visual treatment.']],
   },
-  tukioconnect: {
+  'tukora-connect': {
     discipline: 'Organization & collaboration', headline: 'Bring an organization into focus.',
     summary: 'An organization workspace with people lists, administrative navigation, and a dedicated account-entry experience.',
-    overview: 'TukioConnect’s web artwork shows the distinction between starting an organization and joining an existing one. Inside the workspace, a persistent sidebar accompanies a structured people table. The interface places everyday organization information within reach of a single administrative view.',
+    overview: 'Tukora Connect’s web artwork shows the distinction between starting an organization and joining an existing one. Inside the workspace, a persistent sidebar accompanies a structured people table. The interface places everyday organization information within reach of a single administrative view.',
     design: 'Blue headings and actions anchor a mostly white interface. Compact rows, aligned columns, and a restrained sidebar support information-heavy screens, while the login presentation keeps the same identity in a simpler form.',
     features: [['Organization entry', 'The presentation distinguishes creating and joining an organization.'], ['People directory', 'A tabular view displays people and their associated information.'], ['Workspace navigation', 'A sidebar groups the available administrative areas.'], ['Account access', 'A focused sign-in screen provides a separate entry point.']],
   },
@@ -88,17 +88,17 @@ const originalContent: Record<string, ProjectContent> = {
     design: 'Magenta and deep purple frame a bright, celebratory identity. Photography, compact profile cards, and prominent membership panels create a visually layered page, with the header providing clear routes to the main site areas.',
     features: [['Member discovery', 'Visible search controls provide an introduction to browsing profiles.'], ['Profile cards', 'Member imagery and compact information panels lead the content.'], ['Membership information', 'Dedicated sections explain membership options in the interface.'], ['Public navigation', 'The site header includes informational and account entry points.']],
   },
-  'alum-connect': {
+  'alumvia': {
     discipline: 'Education & services', headline: 'A clear first step into learning.',
     summary: 'An education website presentation combining an online-learning introduction with student service information.',
-    overview: 'Alum Connect’s supplied designs introduce an online-learning platform and present services for students. The original artwork includes learning illustrations, a prominent introductory section, and service cards. Only the Alum Connect graphics are included here; unrelated screenshots embedded in the legacy page are excluded.',
+    overview: 'Alumvia’s supplied designs introduce an online-learning platform and present services for students. The original artwork includes learning illustrations, a prominent introductory section, and service cards. Only the Alumvia graphics are included here; unrelated screenshots embedded in the legacy page are excluded.',
     design: 'Aqua presentation colors, white sections, and blue-and-pink service tiles give the interface a light educational character. The visual hierarchy moves from the headline and illustration to focused service modules.',
     features: [['Learning introduction', 'The hero presents the platform’s education-oriented proposition.'], ['Student services', 'The supplied layout includes distinct cards for student-facing services.'], ['Information hierarchy', 'Headline, supporting text, and service panels establish separate reading levels.'], ['Account navigation', 'A sign-in entry appears within the public website header.']],
   },
-  kegelklock: {
+  kegeltempo: {
     discipline: 'Exercise & wellbeing', headline: 'A focused home for an exercise program.',
-    summary: 'A program website introducing KegelKlock’s exercise offering through information, courses, and membership navigation.',
-    overview: 'KegelKlock’s website artwork introduces an incontinence exercise program and pelvic-floor exercise content. The interface includes navigation for information, courses, settings, and subscription areas. This presentation describes the visible program and interface without making medical-effectiveness claims.',
+    summary: 'A program website introducing KegelTempo’s exercise offering through information, courses, and membership navigation.',
+    overview: 'KegelTempo’s website artwork introduces an incontinence exercise program and pelvic-floor exercise content. The interface includes navigation for information, courses, settings, and subscription areas. This presentation describes the visible program and interface without making medical-effectiveness claims.',
     design: 'Yellow is the dominant brand color, paired with white content and lifestyle photography. The website uses a direct introductory headline followed by explanatory sections, keeping program information visually connected to the brand.',
     features: [['Program introduction', 'The landing page introduces the exercise program and its subject.'], ['Course navigation', 'A dedicated route appears for course-related content.'], ['Membership areas', 'Subscription and account-oriented navigation are visible in the designs.'], ['Program information', 'Supporting sections provide space for explaining the offering.']],
   },
@@ -116,10 +116,10 @@ const originalContent: Record<string, ProjectContent> = {
     design: 'Orange calls to action sit within a clean white navigation system. Lifestyle photography gives the landing page context, while short introductory messages keep the application and refinance pathways visible.',
     features: [['Mortgage pathway', 'The website presentation includes an entry point for mortgage applications.'], ['Refinance pathway', 'Refinancing is presented as a separate visitor goal.'], ['Loan information', 'Navigation provides access to home-loan content.'], ['Account access', 'An account entry appears alongside the application action.']],
   },
-  whizora: {
+  whizlume: {
     discipline: 'Courses & learning', headline: 'Make the next course easy to discover.',
     summary: 'A course-focused website using bold educational imagery, course entry points, and a distinct learning identity.',
-    overview: 'Whizora’s web designs introduce a course-based learning experience. A prominent course headline and call to action lead the landing page, followed by educational imagery and supporting sections. The gallery keeps the Whizora-specific graphics and excludes EStrata assets copied into the original detail page.',
+    overview: 'Whizlume’s web designs introduce a course-based learning experience. A prominent course headline and call to action lead the landing page, followed by educational imagery and supporting sections. The gallery keeps the Whizlume-specific graphics and excludes EStrata assets copied into the original detail page.',
     design: 'Deep purple and warm orange create a recognizable learning brand. Large type, illustrated details, and contrasting action buttons establish a confident opening, with white sections allowing the course content room to breathe.',
     features: [['Course entry', 'A clear primary action invites visitors to explore courses.'], ['Learning presentation', 'Educational imagery establishes the subject of the offering.'], ['Introductory content', 'Supporting sections explain the website’s learning proposition.'], ['Website layouts', 'The supplied assets include project-specific browser designs.']],
   },
@@ -158,10 +158,10 @@ const originalContent: Record<string, ProjectContent> = {
     design: 'Deep navy gives the mobile brand a strong frame. White information panels contrast with large portraits, and short controls keep the discovery interface focused. The visual treatment remains consistent from the welcome screen to the profile views.',
     features: [['Profile discovery', 'Portrait cards provide a visual way to browse people.'], ['Profile details', 'Dedicated views organize information about an individual.'], ['Account introduction', 'Welcome and sign-in screens establish the entry experience.'], ['Compact actions', 'Small, clear controls sit alongside the primary profile content.']],
   },
-  'app-infiscribe': {
+  'app-infinote': {
     discipline: 'Notes & documents', headline: 'Give everyday information a home.',
     summary: 'A mobile workspace presenting notes, document content, a calendar, and personal account screens.',
-    overview: 'InfiScribe’s artwork brings calendar-oriented information and document-style content into a single mobile presentation. The screens show a personal home view, information lists, and longer reading content. Its muted identity helps distinguish a work-focused interface from the brighter consumer products in the portfolio.',
+    overview: 'Infinote’s artwork brings calendar-oriented information and document-style content into a single mobile presentation. The screens show a personal home view, information lists, and longer reading content. Its muted identity helps distinguish a work-focused interface from the brighter consumer products in the portfolio.',
     design: 'Forest green, cream, and white support a calm reading environment. Compact icons and structured lists create a clear hierarchy, while the calendar introduces a different information pattern within the same restrained visual system.',
     features: [['Personal home', 'A greeting and summary area introduce the user’s workspace.'], ['Calendar view', 'A calendar provides a date-based information surface.'], ['Document reading', 'Longer text content appears in dedicated reading screens.'], ['Information lists', 'Rows and simple icons organize smaller records.']],
   },
@@ -179,10 +179,10 @@ const originalContent: Record<string, ProjectContent> = {
     design: 'Purple gradients and soft white cards give the product a distinct identity. Circular progress graphics provide contrast to the linear routine list, while compact date controls keep time and daily activity close together.',
     features: [['Routine list', 'Daily activities appear as individual items in the home interface.'], ['Calendar context', 'A compact date view connects routines to the current period.'], ['Progress graphic', 'A circular visualization summarizes the displayed activity.'], ['Onboarding screens', 'Introductory and sign-in layouts establish the account journey.']],
   },
-  'app-tukioconnect': {
+  'app-tukora-connect': {
     discipline: 'Team communication', headline: 'Keep the team conversation close.',
-    summary: 'TukioConnect’s mobile presentation combines conversations, contact discovery, profile information, and call interfaces.',
-    overview: 'The mobile TukioConnect designs focus on communication inside a people-oriented workspace. Conversation views sit alongside contact and profile screens, with a call interface included in the original artwork. These mobile layouts complement the organization-management view shown in the web portfolio.',
+    summary: 'Tukora Connect’s mobile presentation combines conversations, contact discovery, profile information, and call interfaces.',
+    overview: 'The mobile Tukora Connect designs focus on communication inside a people-oriented workspace. Conversation views sit alongside contact and profile screens, with a call interface included in the original artwork. These mobile layouts complement the organization-management view shown in the web portfolio.',
     design: 'Blue provides continuity with the web product, while white message surfaces make conversation content the focus. Rounded avatars and a compact navigation bar support a familiar people-first hierarchy across the supplied screens.',
     features: [['Conversation views', 'Message bubbles and conversation controls organize written exchanges.'], ['Contact discovery', 'People and their profiles appear in dedicated directory views.'], ['Call interface', 'The supplied artwork includes a screen for a person-to-person call.'], ['Profile information', 'A personal profile area introduces identity and account details.']],
   },
@@ -221,17 +221,10 @@ const originalContent: Record<string, ProjectContent> = {
     design: 'Electric purple and blue create a vivid identity around white product panels. Large image choices and rounded product tiles keep visual content prominent, while short forms and clear actions support the account and creation screens.',
     features: [['Photo selection', 'Image-based choices introduce the personalization experience.'], ['Product discovery', 'Print products appear in a visual catalog layout.'], ['Creation entry', 'Prominent controls lead into the photo-based creation flow.'], ['Personal account', 'A profile area groups customer information and navigation.']],
   },
-  'app-law-legend': {
-    discipline: 'Tax & learning content', headline: 'Give knowledge a clear mobile structure.',
-    summary: 'A tax-themed learning interface with content categories, article-style information, and account screens.',
-    overview: 'Law Legend’s supplied mobile presentation identifies an income-tax focus. Its home screen introduces content through banners and category tiles, while list views organize further reading. The case study follows those visible content patterns without treating the app’s material as verified legal or tax advice.',
-    design: 'Blue accents and bright category illustrations bring structure to a white interface. The design alternates between image-led discovery and more compact content lists, giving introductory browsing and focused reading different visual treatments.',
-    features: [['Content home', 'A banner and content tiles introduce the available information.'], ['Category browsing', 'Named categories organize different reading areas.'], ['Information lists', 'Rows provide access to longer content entries.'], ['Account screens', 'Branded entry and profile layouts support the personal interface.']],
-  },
   'app-racepace': {
     discipline: 'Motorsport & community', headline: 'Bring the race into the conversation.',
     summary: 'A motorsport-themed mobile interface with race content, community profiles, and discovery screens.',
-    overview: 'Racepace’s original artwork shows a motorsport product with race-themed introductions, content cards, and a community-oriented screen set. Portraits and ratings appear alongside browsing views. Gymbet-related fitness copy found on the legacy page has been excluded because it does not describe these interfaces.',
+    overview: 'Racepace’s original artwork shows a motorsport product with race-themed introductions, content cards, and a community-oriented screen set. Portraits and ratings appear alongside browsing views.',
     design: 'Indigo headers and racing imagery establish the subject immediately. White content panels and visual topic cards provide contrast, while the community views introduce a denser grid of people within the same branded frame.',
     features: [['Race introduction', 'Motorsport imagery introduces the app’s subject.'], ['Content discovery', 'Visual cards organize race-related browsing.'], ['Community profiles', 'People appear in a grid-based discovery interface.'], ['Profile indicators', 'Ratings and compact profile information appear in the artwork.']],
   },
@@ -306,32 +299,18 @@ const originalContent: Record<string, ProjectContent> = {
     design: 'Aqua, white, and small warm-colored accents give the product a light identity. Clear panels organize menu-like lists and account information, while the QR screen introduces a distinct, high-contrast focal point.',
     features: [['Food discovery', 'Food photographs introduce the dining context.'], ['Menu-style information', 'Rows and compact options organize the visible content.'], ['QR screen', 'The original artwork includes a dedicated QR-code view.'], ['Customer information', 'Account and people-oriented screens support the main interface.']],
   },
-  'app-kegalklock': {
+  'app-kegeltempo': {
     discipline: 'Exercise routines', headline: 'Give the routine a clear visual rhythm.',
-    summary: 'KegelKlock’s mobile interface presents exercise choices, timing views, a calendar, and progress graphics.',
-    overview: 'The KegelKlock mobile artwork combines exercise-oriented cards with a timer and calendar. Progress graphics provide a separate summary surface, while entry screens introduce the program. The presentation describes the supplied routine interface without asserting clinical benefits or adherence results.',
+    summary: 'KegelTempo’s mobile interface presents exercise choices, timing views, a calendar, and progress graphics.',
+    overview: 'The KegelTempo mobile artwork combines exercise-oriented cards with a timer and calendar. Progress graphics provide a separate summary surface, while entry screens introduce the program. The presentation describes the supplied routine interface without asserting clinical benefits or adherence results.',
     design: 'Yellow gives the product a recognizable identity across both web and app. Bright exercise cards and circular graphics establish a visual rhythm, with white panels keeping calendar and account details readable.',
     features: [['Exercise choices', 'Colored cards introduce different routine options.'], ['Timer view', 'A circular timing interface appears in the screen collection.'], ['Calendar', 'Date-based information provides a view of the routine over time.'], ['Progress graphics', 'Visual indicators summarize the activity shown in the artwork.']],
-    displayName: 'KegelKlock',
-  },
-  'app-gymbet': {
-    discipline: 'Fitness & exercises', headline: 'A clear view of the next movement.',
-    summary: 'A fitness app presentation with illustrated exercises, circular activity controls, and account screens.',
-    overview: 'GymBet’s supplied mobile artwork shows an exercise-led product through movement illustrations and focused workout panels. Circular controls and compact information blocks give each screen a clear main action. This presentation follows the fitness interface rather than repeating unrelated or unverified claims about wagering.',
-    design: 'Mint and turquoise create a fresh identity around white screens. Exercise illustrations carry the main content, while circular controls introduce a consistent visual motif from one workout-oriented view to the next.',
-    features: [['Exercise illustrations', 'Movement graphics demonstrate the subject of individual screens.'], ['Workout panels', 'Focused cards organize exercise-related information.'], ['Activity controls', 'Circular controls create a prominent interaction area.'], ['Account introduction', 'A branded entry view connects the interface to GymBet.']],
-  },
-  'app-gobroker': {
-    discipline: 'Real-estate workspace', headline: 'Keep property information and follow-ups together.',
-    summary: 'A real-estate assistant interface with property details, account tools, reminders, and calendar views.',
-    overview: 'GoBroker’s mobile artwork introduces a real-estate assistant through property photography and detailed listing screens. Account and reminder interfaces add a personal workspace around the property content. The gallery includes only GoBroker-specific assets, with no assumption about the services behind the visible controls.',
-    design: 'Dark charcoal headers and yellow accents give the product a business-focused identity. Large property images lead discovery, while white details panels and calendar controls provide a more structured view of day-to-day information.',
-    features: [['Property information', 'Listing photographs sit alongside detailed property content.'], ['Amenities view', 'A project-specific screen groups property details and amenities.'], ['Reminder calendar', 'Date controls and reminder information appear in the artwork.'], ['Personal account', 'Profile and account navigation form part of the workspace.']],
+    displayName: 'KegelTempo',
   },
   'app-heartsync': {
     discipline: 'Relationships & reflection', headline: 'Make space for small moments.',
     summary: 'A relationship-themed mobile presentation using mood choices, reflection prompts, personal indicators, and account screens.',
-    overview: 'Heartsync’s supplied artwork presents a relationship-oriented experience with emotion choices and reflective information. Dark screens connect mood-style inputs with personal indicators and introductory content. Only Heartsync-branded graphics are used here; the GoBroker screenshots embedded in the legacy page are excluded.',
+    overview: 'Heartsync’s supplied artwork presents a relationship-oriented experience with emotion choices and reflective information. Dark screens connect mood-style inputs with personal indicators and introductory content. The gallery uses Heartsync-branded graphics.',
     design: 'Deep purple and near-black surfaces support bright pink, orange, and green highlights. Emoji-like choices and colorful sliders introduce expression into the interface, while rounded cards divide the more detailed reflective content.',
     features: [['Emotion choices', 'Expressive icons provide a visual selection surface.'], ['Reflection prompts', 'Prompt-like cards introduce relationship-oriented content.'], ['Personal indicators', 'Colored sliders and graphics organize the displayed information.'], ['Account entry', 'Sign-up and introductory screens share the darker identity.']],
   },
@@ -355,9 +334,9 @@ const contentCorrections: Record<string, Partial<ProjectContent>> = {
     design: 'Deep navy surfaces and white typography give the website a contained, focused identity. App compositions provide brighter visual contrast, while short explanatory sections keep the community introduction readable across the original device layouts.',
     features: [['Community introduction', 'Public sections establish Umeed’s relationship-oriented identity and community context.'], ['Registration proposition', 'Prominent introductory messaging identifies registration and connection as visitor goals.'], ['App presentation', 'Original device imagery provides a visual preview of the mobile experience.'], ['Supporting information', 'Longer explanatory content sits within a restrained public website structure.']],
   },
-  whizora: {
+  whizlume: {
     summary: 'A learning website with course discovery, program cards, instructor-onboarding forms, and a teaching workspace.',
-    overview: 'Whizora connects a public course introduction with more structured educational working screens. Its artwork includes program cards, tutor-application steps, email-verification layouts, and a communication view. Purple and orange public-facing compositions sit alongside blue-accented workspace screens, showing how the same course brand changes its information density for different tasks.',
+    overview: 'Whizlume connects a public course introduction with more structured educational working screens. Its artwork includes program cards, tutor-application steps, email-verification layouts, and a communication view. Purple and orange public-facing compositions sit alongside blue-accented workspace screens, showing how the same course brand changes its information density for different tasks.',
     design: 'The public introduction uses purple, orange, educational imagery, and a prominent course message. The workspace switches to light surfaces, blue panels, and repeated program cards. Staged application forms use progress indicators to divide more detailed instructor information into smaller screens.',
     features: [['Course discovery', 'The public website gives course exploration a prominent headline and entry action.'], ['Program workspace', 'Repeated cards organize the educational programs shown in the account view.'], ['Instructor application', 'Staged forms present tutor information, supporting documents, and verification screens.'], ['Communication view', 'A dedicated conversation layout appears within the same teaching-oriented workspace.']],
   },
@@ -367,10 +346,10 @@ const contentCorrections: Record<string, Partial<ProjectContent>> = {
     overview: 'SimplyScouted’s original designs introduce two sports-oriented intentions: recruiting a player and finding a college team. Portrait-led discovery cards combine people with compact profile information and interest controls. Single-profile and multi-profile screens provide different browsing densities, while the introductory sequence establishes the athletic recruitment context.',
     features: [['Athlete discovery', 'Portrait-led cards introduce people within the sports-recruitment presentation.'], ['Profile information', 'Dedicated views pair photographs with the personal details displayed about each profile.'], ['Audience introductions', 'Original screens distinguish recruiting a player from exploring college-team opportunities.'], ['Compact profile actions', 'Prominent interest controls and smaller navigation elements sit beside the main profile content.']],
   },
-  'app-infiscribe': {
+  'app-infinote': {
     discipline: 'Document capture & files', headline: 'From paper to a personal document space.',
     summary: 'A document-scanning app presentation with camera capture, file organization, a document preview, and account access.',
-    overview: 'InfiScribe’s original artwork connects paper-document capture with a personal file workspace. A camera-oriented screen outlines the document being captured, while file lists and recent-document cards organize the surrounding library. Dedicated previews give a captured page a separate reading surface, with compact controls positioned around the document.',
+    overview: 'Infinote’s original artwork connects paper-document capture with a personal file workspace. A camera-oriented screen outlines the document being captured, while file lists and recent-document cards organize the surrounding library. Dedicated previews give a captured page a separate reading surface, with compact controls positioned around the document.',
     design: 'Forest green and light neutral surfaces create a restrained frame for paper and document content. The capture view emphasizes the page boundary, while the library uses smaller rows and cards. A largely white preview keeps the document itself visually central.',
     features: [['Document capture', 'An original camera composition shows a document boundary and a focused capture control.'], ['File library', 'Recent-document cards and list views organize files in the personal workspace.'], ['Document preview', 'A separate reading surface presents the page with compact supporting controls.'], ['Account entry', 'Welcome and sign-in screens carry the same green identity into the entry journey.']],
   },
@@ -382,7 +361,7 @@ const contentCorrections: Record<string, Partial<ProjectContent>> = {
   'app-racepace': {
     discipline: 'Racing & team selection', headline: 'See the drivers. Shape the lineup.',
     summary: 'A racing-themed mobile presentation with driver discovery, selection controls, team formation, and race introductions.',
-    overview: 'Racepace’s original artwork presents a racing-oriented team-selection experience. Introductory screens establish the motorsport subject, followed by driver cards, selection lists, and a visual team formation. Compact profile indicators sit alongside the individual people, while the lineup provides a separate view of the assembled roles. Unrelated GymBet fitness copy from the archive is excluded.',
+    overview: 'Racepace’s original artwork presents a racing-oriented team-selection experience. Introductory screens establish the motorsport subject, followed by driver cards, selection lists, and a visual team formation. Compact profile indicators sit alongside the individual people, while the lineup provides a separate view of the assembled roles.',
     design: 'Indigo headers, racing imagery, and light information panels connect the introductory and team-oriented views. The driver catalog uses compact repeated rows, while the formation screen gives the team a more spatial arrangement with clear role positions.',
     features: [['Racing introduction', 'Motorsport imagery and short competition-oriented content introduce the subject.'], ['Driver discovery', 'Portrait cards and lists organize the people shown in the selection interface.'], ['Team formation', 'A spatial lineup provides a distinct view of the displayed team roles.'], ['Selection controls', 'Compact indicators and actions sit alongside driver and team information.']],
   },

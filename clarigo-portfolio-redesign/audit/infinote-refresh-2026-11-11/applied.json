@@ -1,0 +1,17 @@
+{
+  "projects": 44,
+  "unrelatedAssetRecordsUnchanged": 43,
+  "renamedFrom": "app-infiscribe",
+  "renamedTo": "app-infinote",
+  "artwork": 9,
+  "touched": [
+    "lib/project-content.ts",
+    "lib/project-stories-mobile.ts",
+    "lib/project-story.ts",
+    "lib/projects.ts",
+    "tests/motion.spec.ts",
+    "tests/rebrand.spec.ts",
+    "scripts/audit-motion-performance.mjs"
+  ],
+  "poster": "/images/projects/app-infinote-preview-8e80c527a0.webp"
+}

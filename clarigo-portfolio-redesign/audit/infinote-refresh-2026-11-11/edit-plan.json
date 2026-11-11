@@ -1,0 +1,288 @@
+[
+  {
+    "id": "061",
+    "previous": {
+      "src": "/images/projects/app-infiscribe-preview-4622ceea52.webp",
+      "width": 1600,
+      "height": 1251,
+      "role": "composition",
+      "gallery": false,
+      "sha256": "4622ceea524c121ba51c0733463babb8d6110fe2ed583b0a119d44c1a7487fdd",
+      "bytes": 169500,
+      "originalBytes": 1707460
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-preview-ac6036682a.webp",
+    "edits": [
+      {
+        "x": 555,
+        "y": 59,
+        "w": 490,
+        "h": 128,
+        "mode": "logo",
+        "tone": "white"
+      },
+      {
+        "x": 674,
+        "y": 755,
+        "w": 252,
+        "h": 68,
+        "mode": "logo",
+        "tone": "white"
+      }
+    ]
+  },
+  {
+    "id": "062",
+    "previous": {
+      "src": "/images/projects/app-infiscribe-artwork-76bdd7be77.webp",
+      "width": 1600,
+      "height": 1313,
+      "role": "composition",
+      "gallery": false,
+      "sha256": "76bdd7be771757c68fe10233ebb35f55cbf13bac098e8b360477e7c03356587d",
+      "bytes": 283116,
+      "originalBytes": 687700
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-0d3f5f0fd9.webp",
+    "edits": [
+      {
+        "x": 620,
+        "y": 612,
+        "w": 357,
+        "h": 88,
+        "text": "infinote",
+        "replacement": "InfiScribe",
+        "score": 0,
+        "confidence": "exact",
+        "multiline": false,
+        "weight": "Light",
+        "align": "center",
+        "mode": "logo",
+        "tone": "white"
+      }
+    ]
+  },
+  {
+    "id": "063",
+    "previous": {
+      "src": "/images/projects/app-infiscribe-artwork-d4dcf9905d.webp",
+      "width": 1076,
+      "height": 2180,
+      "role": "composition",
+      "gallery": false,
+      "sha256": "d4dcf9905db815b6bb5c1d7e31180b4305f2eb37acb439070507f21d8b059ab8",
+      "bytes": 788790,
+      "originalBytes": 1083683
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-6cb57b3f25.webp",
+    "edits": []
+  },
+  {
+    "id": "064",
+    "previous": {
+      "src": "/images/projects/app-infiscribe-artwork-61557bf6a5.webp",
+      "width": 710,
+      "height": 711,
+      "role": "composition",
+      "gallery": false,
+      "sha256": "61557bf6a57b7703257aa08ff7c4457ee137f7329109098d7ff7e6e6c4bea9bf",
+      "bytes": 152940,
+      "originalBytes": 233342
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-edeacb53b7.webp",
+    "edits": [
+      {
+        "x": 303,
+        "y": 154,
+        "w": 109,
+        "h": 29,
+        "text": "infir•ote",
+        "replacement": "InfiScribe",
+        "score": 0,
+        "confidence": "exact",
+        "multiline": false,
+        "weight": "Light",
+        "align": "center",
+        "mode": "logo",
+        "tone": "green"
+      }
+    ]
+  },
+  {
+    "id": "065",
+    "previous": {
+      "src": "/images/projects/app-infiscribe-artwork-d042b80c7c.webp",
+      "width": 375,
+      "height": 812,
+      "role": "screen",
+      "gallery": true,
+      "sha256": "d042b80c7c4bd8667d21b0b7e299a1a3ee4d1de990ca1f121c1c8ebc3d25917b",
+      "bytes": 38564,
+      "originalBytes": 43938
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-c8b2fdc959.webp",
+    "edits": [
+      {
+        "x": 72,
+        "y": 349,
+        "w": 230,
+        "h": 57,
+        "text": "infit-ote",
+        "replacement": "InfiScribe",
+        "score": 0,
+        "confidence": "exact",
+        "multiline": false,
+        "weight": "Light",
+        "align": "center",
+        "mode": "logo",
+        "tone": "white"
+      }
+    ]
+  },
+  {
+    "id": "066",
+    "previous": {
+      "src": "/images/projects/app-infiscribe-artwork-d09408bfa8.webp",
+      "width": 375,
+      "height": 812,
+      "role": "screen",
+      "gallery": true,
+      "sha256": "d09408bfa8f4c7bf98d26298ddaed25ad8a15820e2bb0e3a8202b79ca2f83f2d",
+      "bytes": 67956,
+      "originalBytes": 80794
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-26ac09bee8.webp",
+    "edits": [
+      {
+        "x": 120,
+        "y": 89,
+        "w": 134,
+        "h": 34,
+        "text": "infinote",
+        "replacement": "InfiScribe",
+        "score": 0,
+        "confidence": "exact",
+        "multiline": false,
+        "weight": "Light",
+        "align": "center",
+        "mode": "logo",
+        "tone": "green"
+      },
+      {
+        "x": 225,
+        "y": 695,
+        "w": 40,
+        "h": 11,
+        "text": "Infinote",
+        "replacement": "InfiScribe",
+        "score": 0,
+        "confidence": "exact",
+        "multiline": false,
+        "weight": "Regular",
+        "align": "left",
+        "mode": "restore",
+        "tone": "green"
+      },
+      {
+        "x": 132,
+        "y": 185,
+        "w": 98,
+        "h": 22,
+        "text": "Infinote!",
+        "replacement": "InfiScribe!",
+        "score": 0,
+        "confidence": "exact",
+        "multiline": false,
+        "weight": "Regular",
+        "align": "left",
+        "mode": "restore",
+        "tone": "green"
+      }
+    ]
+  },
+  {
+    "id": "067",
+    "previous": {
+      "src": "/images/projects/app-infiscribe-artwork-0043598a3d.webp",
+      "width": 375,
+      "height": 812,
+      "role": "screen",
+      "gallery": true,
+      "sha256": "0043598a3d72fc0a8e01a649a1c19c88ae280675e4397e10e212ddb116ca08b7",
+      "bytes": 60862,
+      "originalBytes": 72078
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-6a375c93b1.webp",
+    "edits": [
+      {
+        "x": 78,
+        "y": 103,
+        "w": 82,
+        "h": 24,
+        "text": "InfiScribe",
+        "replacement": "InfiScribe",
+        "weight": "Light",
+        "align": "left",
+        "confidence": "manual",
+        "background": [
+          255,
+          255,
+          255
+        ],
+        "color": [
+          60,
+          81,
+          65
+        ],
+        "mode": "logo",
+        "tone": "green"
+      }
+    ]
+  },
+  {
+    "id": "068",
+    "previous": {
+      "src": "/images/projects/app-infiscribe-artwork-3ea6f26071.webp",
+      "width": 375,
+      "height": 812,
+      "role": "screen",
+      "gallery": true,
+      "sha256": "3ea6f260719ef1ddc651d18dffe20dcddee941895a49597c99d947494db826ac",
+      "bytes": 91660,
+      "originalBytes": 108161
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-60ed3c2071.webp",
+    "edits": [
+      {
+        "x": 121,
+        "y": 89,
+        "w": 134,
+        "h": 34,
+        "text": "infirote",
+        "replacement": "InfiScribe",
+        "score": 0,
+        "confidence": "exact",
+        "multiline": false,
+        "weight": "Light",
+        "align": "center",
+        "mode": "logo",
+        "tone": "green"
+      }
+    ]
+  },
+  {
+    "id": "069",
+    "previous": {
+      "src": "/images/projects/app-infiscribe-artwork-6bc405e873.webp",
+      "width": 375,
+      "height": 812,
+      "role": "screen",
+      "gallery": true,
+      "sha256": "6bc405e8731d694b6b4794c9fc04734d22402589503c4200a205dd2ca25e60e7",
+      "bytes": 146286,
+      "originalBytes": 249299
+    },
+    "original": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\rebrand\\original-assets\\app-infinote-596ad8eca9.webp",
+    "edits": []
+  }
+]

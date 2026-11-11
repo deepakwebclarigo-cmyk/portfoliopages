@@ -11,12 +11,13 @@ import { chromium } from '@playwright/test';
 
 const root = path.resolve(fileURLToPath(new URL('../',import.meta.url)));
 const audit = path.join(root,'audit/cinematic-motion');
-const preview = process.argv.includes('--preview');
+const preview = process.argv.includes('--preview'), verify4k = process.argv.includes('--verify-4k');
+const sampleOnly = preview || verify4k;
 const width = preview ? 1280 : 3840, height = preview ? 720 : 2160, fps = 60, duration = 12;
 const output = path.resolve(root,process.env.MOTION_VIDEO_OUTPUT || 'public/videos/clarigo-uiux-4k60.mp4');
 if(!output.startsWith(root+path.sep))throw Error('Video output must remain inside this project.');
 await mkdir(audit,{recursive:true});
-if(!preview){try{await access(output);throw Error('Output already exists; select a new MOTION_VIDEO_OUTPUT path to preserve it.');}catch(error){if(error.code!=='ENOENT')throw error;}await mkdir(path.dirname(output),{recursive:true});}
+if(!sampleOnly){try{await access(output);throw Error('Output already exists; select a new MOTION_VIDEO_OUTPUT path to preserve it.');}catch(error){if(error.code!=='ENOENT')throw error;}await mkdir(path.dirname(output),{recursive:true});}
 const source = await readFile(path.join(root,'lib/hero-showcase-scene.ts'),'utf8');
 const sceneJS = ts.transpileModule(source,{compilerOptions:{module:ts.ModuleKind.ESNext,target:ts.ScriptTarget.ES2022}}).outputText;
 const config = {width,height,fps,duration};
@@ -47,10 +48,10 @@ try{
   proof=await page.evaluate(()=>window.exportProof);
   if(errors.length)throw Error(errors.join('\n'));
   console.log(JSON.stringify({stage:'scene-ready',preview,...proof}));
-  if(preview){
+  if(sampleOnly){
     for(const seconds of [0,.35,1.1,2,3.2,4.4,8,11.983333]){
       const state=await page.evaluate(time=>window.renderFrame(time),seconds);frames.push(state);
-      await page.screenshot({path:path.join(audit,'preview-'+seconds.toFixed(2)+'.png')});
+      await page.screenshot({path:path.join(audit,(verify4k?'4k-preview-':'preview-')+seconds.toFixed(2)+'.png')});
       console.log(JSON.stringify(state));
     }
   }else{
@@ -80,5 +81,5 @@ try{
 }finally{
   if(encoder&&encoder.exitCode===null)encoder.kill();
   await browser.close();await new Promise(resolve=>server.close(resolve));
-  await writeFile(path.join(audit,preview?'preview-verification.json':'video-verification.json'),JSON.stringify({config,proof,frames,sceneSha256:createHash('sha256').update(source).digest('hex'),encoderLog:stderr},null,2));
+  await writeFile(path.join(audit,preview?'preview-verification.json':verify4k?'4k-preview-verification.json':'video-verification.json'),JSON.stringify({config,proof,frames,sceneSha256:createHash('sha256').update(source).digest('hex'),encoderLog:stderr},null,2));
 }

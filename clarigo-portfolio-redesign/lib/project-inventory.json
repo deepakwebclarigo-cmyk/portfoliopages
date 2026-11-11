@@ -21,10 +21,10 @@
     "slug": "little-butterflies"
   },
   {
-    "name": "TukioConnect",
-    "image": "/images/projects/tukioconnect-preview-b03a1c3f96.webp",
+    "name": "Tukora Connect",
+    "image": "/images/projects/tukora-connect-preview-4ba2862610.webp",
     "kind": "web",
-    "slug": "tukioconnect",
+    "slug": "tukora-connect",
     "rebranded": true
   },
   {
@@ -77,18 +77,18 @@
     "slug": "umeed"
   },
   {
-    "name": "Alum-connect",
-    "image": "Alum-connect.png",
-    "page": "alum-connect-web.html",
+    "name": "Alumvia",
+    "image": "/images/projects/alumvia-preview-ac91e561df.webp",
     "kind": "web",
-    "slug": "alum-connect"
+    "slug": "alumvia",
+    "rebranded": true
   },
   {
-    "name": "Kegelklock",
-    "image": "Kegelklock.png",
-    "page": "kegelklock-web.html",
+    "name": "KegelTempo",
+    "image": "/images/projects/kegeltempo-preview-0a208beed8.webp",
     "kind": "web",
-    "slug": "kegelklock"
+    "slug": "kegeltempo",
+    "rebranded": true
   },
   {
     "name": "RallyBridge",
@@ -105,10 +105,10 @@
     "slug": "network-capital"
   },
   {
-    "name": "Whizora",
-    "image": "/images/projects/whizora-preview-89e6fa4af4.webp",
+    "name": "Whizlume",
+    "image": "/images/projects/whizlume-preview-3302361b6f.webp",
     "kind": "web",
-    "slug": "whizora",
+    "slug": "whizlume",
     "rebranded": true
   },
   {
@@ -147,10 +147,10 @@
     "rebranded": true
   },
   {
-    "name": "InfiScribe",
-    "image": "/images/projects/app-infiscribe-preview-4622ceea52.webp",
+    "name": "Infinote",
+    "image": "/images/projects/app-infinote-preview-8e80c527a0.webp",
     "kind": "mobile",
-    "slug": "app-infiscribe",
+    "slug": "app-infinote",
     "rebranded": true
   },
   {
@@ -168,10 +168,10 @@
     "rebranded": true
   },
   {
-    "name": "TukioConnect",
-    "image": "/images/projects/app-tukioconnect-preview-ca536c83f7.webp",
+    "name": "Tukora Connect",
+    "image": "/images/projects/app-tukora-connect-preview-b789498701.webp",
     "kind": "mobile",
-    "slug": "app-tukioconnect",
+    "slug": "app-tukora-connect",
     "rebranded": true
   },
   {
@@ -208,13 +208,6 @@
     "page": "Printlific.html",
     "kind": "mobile",
     "slug": "app-printlific"
-  },
-  {
-    "name": "Law Legend",
-    "image": "Law_Legend_App.png",
-    "page": "law-Legends.html",
-    "kind": "mobile",
-    "slug": "app-law-legend"
   },
   {
     "name": "Racepace",
@@ -294,25 +287,11 @@
     "slug": "app-bubble"
   },
   {
-    "name": "Kegalklock",
-    "image": "kegalklock.png",
-    "page": "kegalklock-app.html",
+    "name": "KegelTempo",
+    "image": "/images/projects/app-kegeltempo-preview-4c0adc9dfa.webp",
     "kind": "mobile",
-    "slug": "app-kegalklock"
-  },
-  {
-    "name": "Gymbet",
-    "image": "Gymbet.png",
-    "page": "gymbet-app.html",
-    "kind": "mobile",
-    "slug": "app-gymbet"
-  },
-  {
-    "name": "GoBroker",
-    "image": "GoBroker-app.png",
-    "page": "GoBroker-app.html",
-    "kind": "mobile",
-    "slug": "app-gobroker"
+    "slug": "app-kegeltempo",
+    "rebranded": true
   },
   {
     "name": "Heartsync",

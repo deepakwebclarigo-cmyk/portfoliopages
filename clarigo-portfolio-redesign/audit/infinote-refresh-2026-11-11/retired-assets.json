@@ -1,0 +1,57 @@
+[
+  {
+    "file": "app-infiscribe-artwork-0043598a3d.webp",
+    "bytes": 60862,
+    "sha256": "0043598a3d72fc0a8e01a649a1c19c88ae280675e4397e10e212ddb116ca08b7"
+  },
+  {
+    "file": "app-infiscribe-artwork-3ea6f26071.webp",
+    "bytes": 91660,
+    "sha256": "3ea6f260719ef1ddc651d18dffe20dcddee941895a49597c99d947494db826ac"
+  },
+  {
+    "file": "app-infiscribe-artwork-61557bf6a5.webp",
+    "bytes": 152940,
+    "sha256": "61557bf6a57b7703257aa08ff7c4457ee137f7329109098d7ff7e6e6c4bea9bf"
+  },
+  {
+    "file": "app-infiscribe-artwork-6bc405e873.webp",
+    "bytes": 146286,
+    "sha256": "6bc405e8731d694b6b4794c9fc04734d22402589503c4200a205dd2ca25e60e7"
+  },
+  {
+    "file": "app-infiscribe-artwork-76bdd7be77.webp",
+    "bytes": 283116,
+    "sha256": "76bdd7be771757c68fe10233ebb35f55cbf13bac098e8b360477e7c03356587d"
+  },
+  {
+    "file": "app-infiscribe-artwork-d042b80c7c.webp",
+    "bytes": 38564,
+    "sha256": "d042b80c7c4bd8667d21b0b7e299a1a3ee4d1de990ca1f121c1c8ebc3d25917b"
+  },
+  {
+    "file": "app-infiscribe-artwork-d09408bfa8.webp",
+    "bytes": 67956,
+    "sha256": "d09408bfa8f4c7bf98d26298ddaed25ad8a15820e2bb0e3a8202b79ca2f83f2d"
+  },
+  {
+    "file": "app-infiscribe-artwork-d4dcf9905d.webp",
+    "bytes": 788790,
+    "sha256": "d4dcf9905db815b6bb5c1d7e31180b4305f2eb37acb439070507f21d8b059ab8"
+  },
+  {
+    "file": "app-infiscribe-preview-4622ceea52-card.webp",
+    "bytes": 15850,
+    "sha256": "806590e3b22e8dc2741fbba9c538cf93d7d4e51dfc6fce87d262604d86f35e0d"
+  },
+  {
+    "file": "app-infiscribe-preview-4622ceea52-medium.webp",
+    "bytes": 25654,
+    "sha256": "f9a80edd84cfb6dd233bf871c4ced1423d84fcf3b9dbcf06427e731609d44542"
+  },
+  {
+    "file": "app-infiscribe-preview-4622ceea52.webp",
+    "bytes": 169500,
+    "sha256": "4622ceea524c121ba51c0733463babb8d6110fe2ed583b0a119d44c1a7487fdd"
+  }
+]

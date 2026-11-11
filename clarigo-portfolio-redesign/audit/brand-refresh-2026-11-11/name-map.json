@@ -1,0 +1,50 @@
+[
+  {
+    "oldName": "TukioConnect",
+    "name": "Tukora Connect",
+    "oldSlugs": [
+      "tukioconnect",
+      "app-tukioconnect"
+    ],
+    "slugs": [
+      "tukora-connect",
+      "app-tukora-connect"
+    ],
+    "logo": "tukora-connect"
+  },
+  {
+    "oldName": "Whizora",
+    "name": "Whizlume",
+    "oldSlugs": [
+      "whizora"
+    ],
+    "slugs": [
+      "whizlume"
+    ],
+    "logo": "whizlume"
+  },
+  {
+    "oldName": "Alum Connect",
+    "name": "Alumvia",
+    "oldSlugs": [
+      "alum-connect"
+    ],
+    "slugs": [
+      "alumvia"
+    ],
+    "logo": "alumvia"
+  },
+  {
+    "oldName": "KegelKlock",
+    "name": "KegelTempo",
+    "oldSlugs": [
+      "kegelklock",
+      "app-kegalklock"
+    ],
+    "slugs": [
+      "kegeltempo",
+      "app-kegeltempo"
+    ],
+    "logo": "kegeltempo"
+  }
+]

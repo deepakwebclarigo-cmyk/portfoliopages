@@ -27,6 +27,15 @@ export async function generateMetadata({ params }: DetailProps): Promise<Metadat
     title: project.name + ' — ' + (project.kind === 'web' ? 'Web' : 'Mobile') + ' Project',
     description: project.summary,
     alternates: { canonical: '/portfolio/' + project.slug },
+    ...(project.slug === 'app-infinote' ? {
+      icons: {
+        icon: [
+          { url: '/images/brand/projects/infinote-app-icon-32.png', sizes: '32x32', type: 'image/png' },
+          { url: '/images/brand/projects/infinote-app-icon-192.png', sizes: '192x192', type: 'image/png' },
+        ],
+        apple: [{ url: '/images/brand/projects/infinote-app-icon-180.png', sizes: '180x180', type: 'image/png' }],
+      },
+    } : {}),
     openGraph: { title: project.name + ' | Clarigo Infotech', description: project.summary, url: '/portfolio/' + project.slug, images: [{ url: project.image, alt: project.name + ' original project artwork' }], type: 'article' },
     twitter: { card: 'summary_large_image', title: project.name + ' | Clarigo Infotech', description: project.summary, images: [project.image] },
   };
@@ -48,8 +57,8 @@ export default async function Detail({ params }: DetailProps) {
   if (!story || !visualPositions || visualPositions.some((position) => !gallery[position])) throw new Error('Incomplete case-study presentation: ' + slug);
   const companionPair = [
     ['livsocial', 'app-livsocial'], ['little-butterflies', 'app-little-butterflies'],
-    ['tukioconnect', 'app-tukioconnect'], ['beliri', 'app-beliri'],
-    ['printlific', 'app-printlific'], ['been-there', 'app-been-there'], ['kegelklock', 'app-kegalklock'],
+    ['tukora-connect', 'app-tukora-connect'], ['beliri', 'app-beliri'],
+    ['printlific', 'app-printlific'], ['been-there', 'app-been-there'], ['kegeltempo', 'app-kegeltempo'],
   ].find((pair) => pair.includes(slug));
   const companion = companionPair && projects.find((item) => item.slug === companionPair.find((value) => value !== slug));
   const schema = {

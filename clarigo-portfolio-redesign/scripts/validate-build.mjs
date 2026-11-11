@@ -3,6 +3,9 @@ import { readFile, access } from 'node:fs/promises';
 const root = new URL('../', import.meta.url);
 const inventory = JSON.parse(await readFile(new URL('lib/project-inventory.json', root), 'utf8'));
 const manifest = JSON.parse(await readFile(new URL('.next-production/prerender-manifest.json', root), 'utf8'));
+const expectedRoutes = new Set(inventory.map(({ slug }) => '/portfolio/' + slug));
+const generatedRoutes = Object.keys(manifest.routes).filter(route => route.startsWith('/portfolio/'));
+if (generatedRoutes.length !== expectedRoutes.size || generatedRoutes.some(route => !expectedRoutes.has(route))) throw new Error('Prerendered portfolio routes differ from the active inventory.');
 for (const { slug } of inventory) {
   const route = '/portfolio/' + slug;
   const entry = manifest.routes[route];

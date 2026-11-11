@@ -28,11 +28,11 @@ export const webStories = {
     engineering: { title: "A content structure for family discovery.", text: "The supplied pages distinguish public information, service explanations, and enquiry fields. Repeated content blocks and navigation provide continuity across the longer desktop layouts and the original tablet compositions.", topics: ["Service modules", "Public information", "Enquiry interface"] },
     cta: "Creating a family-focused service? Let's make its information as approachable as its visual identity."
   },
-  "tukioconnect": {
+  "tukora-connect": {
     featureIntro: "An organization workspace connecting people records, administrative navigation, and communication views within a restrained blue interface.",
     workflowIntro: "The web presentation pairs organization entry with a structured workspace for finding people and opening conversations.",
     steps: [["Enter the workspace", "The account presentation distinguishes starting an organization from joining an existing one."], ["Find a person", "Use the structured directory and persistent sidebar to locate people within the organization."], ["Open a conversation", "Dedicated conversation and calling layouts extend the people directory into a communication-focused workspace."]],
-    problem: { title: "Keep people information and communication close.", text: "Organization tools can become fragmented when directories and conversations feel like separate products. TukioConnect uses a shared navigation frame to connect these different working views." },
+    problem: { title: "Keep people information and communication close.", text: "Organization tools can become fragmented when directories and conversations feel like separate products. Tukora Connect uses a shared navigation frame to connect these different working views." },
     solutions: [["A stable workspace rail", "The sidebar gives directory, account, and communication areas a consistent position."], ["Scannable people records", "Aligned rows and columns give detailed organizational information a clear reading order."], ["Focused conversation surfaces", "Message and call views use simpler central panels within the same recognizable brand."]],
     engineering: { title: "Distinct modules within one workspace.", text: "The artwork separates organization entry, people records, messages, and call interfaces. Shared navigation and recurring identity elements connect these modules; the source does not identify a messaging provider or calling infrastructure.", topics: ["Organization context", "People directory", "Communication views"] },
     cta: "Bringing an organization together? Let's connect the directory, daily tasks, and communication experience."
@@ -100,20 +100,20 @@ export const webStories = {
     engineering: { title: "A public entry to a profile-led product.", text: "The available website designs present community information and app-oriented promotional content. They do not establish matching logic, moderation systems, membership entitlements, or current download links; the case study stays with the visible product presentation.", topics: ["Community introduction", "Registration proposition", "Mobile preview"] },
     cta: "Introducing a people-focused product? Let's make its audience and first steps easy to recognize."
   },
-  "alum-connect": {
+  "alumvia": {
     featureIntro: "An education website connecting an online-learning proposition with student-facing services and account-oriented pages.",
-    workflowIntro: "The supplied Alum Connect designs move from a public introduction toward services and the account interface.",
+    workflowIntro: "The supplied Alumvia designs move from a public introduction toward services and the account interface.",
     steps: [["Explore the learning proposition", "A prominent illustrated hero introduces the website's education focus and main calls to action."], ["Review student services", "Separate cards and explanatory areas organize the services shown in the original designs."], ["Reach account entry", "A dedicated sign-in presentation provides a quieter continuation from the public-facing pages."]],
-    problem: { title: "Keep an educational offering easy to scan.", text: "A learning website can contain many different messages. Alum Connect's layouts use one introductory proposition, modular service information, and a distinct account entry to establish a reading order." },
+    problem: { title: "Keep an educational offering easy to scan.", text: "A learning website can contain many different messages. Alumvia's layouts use one introductory proposition, modular service information, and a distinct account entry to establish a reading order." },
     solutions: [["A single opening focus", "The headline and educational illustration explain the visible proposition together."], ["Services with boundaries", "Cards separate student-facing information into distinct, recognizable content areas."], ["A simpler account surface", "The sign-in layout retains the identity while removing the density of the public pages."]],
     engineering: { title: "Public content and account views.", text: "The original screens distinguish educational marketing content, service modules, and account access. A shared header connects these surfaces; the source does not establish a course engine, student-record integration, or instructional delivery platform.", topics: ["Educational content", "Student services", "Account interface"] },
     cta: "Building a learning website? Let's turn a broad educational offering into clear paths and useful information."
   },
-  "kegelklock": {
+  "kegeltempo": {
     featureIntro: "An exercise-program website with explanatory content, course navigation, and clearly separated membership information.",
     workflowIntro: "The original website introduces the program before its course and subscription-oriented information.",
     steps: [["Learn about the program", "The landing page introduces the exercise subject through a direct headline and supporting information."], ["Explore course content", "Course navigation provides a visible route toward the program's exercise-oriented material."], ["Review membership information", "Dedicated subscription panels present the membership-related information shown in the artwork."]],
-    problem: { title: "Separate program information from the next decision.", text: "An exercise website has to explain its subject while making courses and membership easy to find. KegelKlock uses a recognizable yellow identity to connect these different information levels." },
+    problem: { title: "Separate program information from the next decision.", text: "An exercise website has to explain its subject while making courses and membership easy to find. KegelTempo uses a recognizable yellow identity to connect these different information levels." },
     solutions: [["A clear program introduction", "The opening content establishes the exercise subject before the more detailed website sections."], ["Named course navigation", "A visible course destination keeps the program material distinct from general information."], ["Contained membership panels", "Subscription-oriented content appears in its own grouped presentation."]],
     engineering: { title: "Program, course, and membership surfaces.", text: "The interface separates explanatory pages, course-related navigation, and account or subscription areas. These visible patterns do not establish a billing provider, exercise-prescription system, or clinical effectiveness, none of which is claimed here.", topics: ["Program content", "Course navigation", "Membership information"] },
     cta: "Presenting a wellbeing program? Let's organize the information and routine experience with clarity and care."
@@ -136,11 +136,11 @@ export const webStories = {
     engineering: { title: "Intent-led public navigation.", text: "The source establishes a mortgage and refinancing website with application and account entry points. It does not disclose underwriting systems, lending integrations, rates, eligibility decisions, or application-processing performance, so none are inferred from the artwork.", topics: ["Mortgage pathway", "Refinance pathway", "Application entry"] },
     cta: "Clarifying a financial-service journey? Let's make its first choices and information routes easier to understand."
   },
-  "whizora": {
+  "whizlume": {
     featureIntro: "A learning website spanning course discovery, program information, tutor application screens, and a teaching workspace.",
-    workflowIntro: "Whizora's public introduction and instructor-oriented screens show different parts of the same education-focused experience.",
+    workflowIntro: "Whizlume's public introduction and instructor-oriented screens show different parts of the same education-focused experience.",
     steps: [["Discover the courses", "The public website introduces the learning offering through a prominent course message and educational imagery."], ["Explore program information", "Program cards and account-oriented pages organize the more detailed learning content."], ["Follow instructor entry", "Staged application and email-verification layouts introduce the tutor-onboarding journey shown in the supplied screens."]],
-    problem: { title: "Connect course discovery with teaching operations.", text: "A course brand needs a confident public introduction and more structured working screens. Whizora's designs adapt their information density while retaining recognizable navigation and accent colors." },
+    problem: { title: "Connect course discovery with teaching operations.", text: "A course brand needs a confident public introduction and more structured working screens. Whizlume's designs adapt their information density while retaining recognizable navigation and accent colors." },
     solutions: [["Courses introduced clearly", "The public hero gives the learning proposition a direct headline and visible entry action."], ["Programs as reusable cards", "The account workspace groups course information into repeated visual modules."], ["Staged instructor forms", "Application steps divide detailed onboarding information into smaller screens."]],
     engineering: { title: "Public pages and staged onboarding.", text: "The visible website includes course content, instructor application states, a program workspace, and communication layouts. These screens establish interface modules, without identifying a learning backend, verification provider, or class-delivery integration.", topics: ["Program cards", "Instructor application", "Workspace navigation"] },
     cta: "Connecting a learning brand with its working platform? Let's give each audience a clear path."

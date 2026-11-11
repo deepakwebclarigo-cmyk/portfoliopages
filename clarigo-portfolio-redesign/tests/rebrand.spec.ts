@@ -20,7 +20,7 @@ test('renamed brands resolve through search and preserve every previous project 
 });
 
 test('published HTML, metadata, structured data and image URLs contain only the current brands', async ({ request }) => {
-  const forbidden=/streamdatax|tukeeconnect|parachute|whizara|esplatform|leadmanagement|simplyrecruited|infinote|silasync|digitalhabittracker|onepantry|streetsheets|brtennis/;
+  const forbidden=/streamdatax|tukeeconnect|parachute|whizara|esplatform|leadmanagement|simplyrecruited|infiscribe|silasync|digitalhabittracker|onepantry|streetsheets|brtennis|tukioconnect|whizora|alumconnect|kegelklock|kegalklock/;
   for (const route of ['/', '/portfolio', ...inventory.map(project=>'/portfolio/'+project.slug)]) {
     const response=await request.get(route);
     expect(response.status()).toBe(200);

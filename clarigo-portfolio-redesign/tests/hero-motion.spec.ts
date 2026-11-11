@@ -1,4 +1,7 @@
 import { test, expect } from '@playwright/test';
+import inventory from '../lib/project-inventory.json';
+
+const expectedCounts = [inventory.filter(project => project.kind === 'web').length, inventory.filter(project => project.kind === 'mobile').length, 20];
 
 test('hero counters, pointer depth and ambient animation stay bounded and pause offscreen', async ({ page }, info) => {
   await page.addInitScript(() => {
@@ -22,11 +25,11 @@ test('hero counters, pointer depth and ambient animation stay bounded and pause 
   await expect(ambient).toHaveAttribute('aria-hidden', 'true');
   await expect(page.locator('.heroScene')).toHaveCount(0);
   await expect(page.locator('canvas.portfolioWebgl')).toHaveCount(1);
-  await expect.poll(() => page.locator('.heroCount').allTextContents()).toEqual(['19', '28', '20']);
+  await expect.poll(() => page.locator('.heroCount').allTextContents()).toEqual(expectedCounts.map(String));
   await expect(page.locator('.heroCount[data-count-state="complete"]')).toHaveCount(3);
   await expect(page.locator('html')).toHaveAttribute('data-hero-timeline', 'complete');
   const samples = await page.evaluate(() => (window as typeof window & { heroCounterSamples: number[][] }).heroCounterSamples);
-  expect(samples.some(values => values.some((value, index) => value > 0 && value < [19, 28, 20][index]))).toBe(true);
+  expect(samples.some(values => values.some((value, index) => value > 0 && value < expectedCounts[index]))).toBe(true);
   const sequence = await page.evaluate(() => (window as typeof window & { heroSequenceSamples: { first: number; last: number; action: number }[] }).heroSequenceSamples);
   expect(sequence.some(sample => sample.first > .1 && sample.last < .1)).toBe(true);
   expect(sequence.some(sample => sample.last > .1 && sample.action < .1)).toBe(true);
@@ -65,7 +68,7 @@ test('hero remains static and counters are final under initial and live reduced 
   await page.goto('/');
   await expect(page.locator('html')).toHaveAttribute('data-motion', 'reduced');
   await expect(page.locator('.heroAmbient')).toHaveAttribute('data-ambient-state', 'static');
-  expect(await page.locator('.heroCount').allTextContents()).toEqual(['19', '28', '20']);
+  expect(await page.locator('.heroCount').allTextContents()).toEqual(expectedCounts.map(String));
   expect(await page.locator('.heroCopy .motionWord, .heroActions>a, .inventory>div').evaluateAll(nodes => nodes.every(node => getComputedStyle(node).opacity === '1' && getComputedStyle(node).transform === 'none'))).toBe(true);
   await page.emulateMedia({ reducedMotion: 'no-preference' });
   await expect(page.locator('html')).toHaveAttribute('data-motion', 'full');
@@ -73,7 +76,7 @@ test('hero remains static and counters are final under initial and live reduced 
   await page.emulateMedia({ reducedMotion: 'reduce' });
   await expect(page.locator('.heroAmbient')).toHaveAttribute('data-ambient-state', 'static');
   await expect(page.locator('.heroAmbient')).toHaveAttribute('data-pointer-depth', 'false');
-  expect(await page.locator('.heroCount').allTextContents()).toEqual(['19', '28', '20']);
+  expect(await page.locator('.heroCount').allTextContents()).toEqual(expectedCounts.map(String));
   await page.locator('.heroActions>a').first().focus();
   await expect(page.locator('.heroActions>a').first()).toBeFocused();
   expect(await page.evaluate(() => document.getAnimations().filter(animation => animation.playState === 'running').length)).toBe(0);
