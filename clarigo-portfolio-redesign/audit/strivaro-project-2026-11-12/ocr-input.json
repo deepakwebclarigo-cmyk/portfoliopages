@@ -1,0 +1,56 @@
+[
+  {
+    "id": "strivaro-0",
+    "slug": "app-strivaro",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\strivaro-project-2026-11-12\\branded-png\\splash.png",
+    "scale": 1
+  },
+  {
+    "id": "strivaro-1",
+    "slug": "app-strivaro",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\strivaro-project-2026-11-12\\branded-png\\dashboard.png",
+    "scale": 1
+  },
+  {
+    "id": "strivaro-2",
+    "slug": "app-strivaro",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\strivaro-project-2026-11-12\\branded-png\\goals.png",
+    "scale": 1
+  },
+  {
+    "id": "strivaro-3",
+    "slug": "app-strivaro",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\strivaro-project-2026-11-12\\branded-png\\community-feed.png",
+    "scale": 1
+  },
+  {
+    "id": "strivaro-4",
+    "slug": "app-strivaro",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\strivaro-project-2026-11-12\\branded-png\\daily-reward.png",
+    "scale": 1
+  },
+  {
+    "id": "strivaro-5",
+    "slug": "app-strivaro",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\strivaro-project-2026-11-12\\branded-png\\goal-preview.png",
+    "scale": 1
+  },
+  {
+    "id": "strivaro-6",
+    "slug": "app-strivaro",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\strivaro-project-2026-11-12\\branded-png\\profile-setup.png",
+    "scale": 1
+  },
+  {
+    "id": "strivaro-7",
+    "slug": "app-strivaro",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\strivaro-project-2026-11-12\\branded-png\\settings.png",
+    "scale": 1
+  },
+  {
+    "id": "strivaro-8",
+    "slug": "app-strivaro",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\strivaro-project-2026-11-12\\branded-png\\sign-in-validation.png",
+    "scale": 1
+  }
+]

@@ -26,6 +26,10 @@ export type Project = {
 
 const host = 'https://clarigo-voluble-youtiao-e0781d.netlify.app';
 const colors: Record<string, string> = {
+  axorabid: '#e7edff',
+  'app-axorabid': '#e7edff',
+  'app-calivora': '#dcefe8',
+  'app-strivaro': '#eae0f5',
   livsocial: '#fff1ce', streamdexa: '#e5e4ff', 'little-butterflies': '#ffe9d3', 'tukora-connect': '#deecfa', beliri: '#e9e8e6', printlific: '#e1e7ff',
   nerdrabbit: '#eddcff', paranest: '#deefff', 'glocal-expert': '#fff2bf', 'mercury-mailroom': '#dce9f7', umeed: '#fff3d6', 'alumvia': '#ddf4f5',
   kegeltempo: '#fff3b9', 'rallybridge': '#e2e8f3', 'network-capital': '#ffe6c9', whizlume: '#eee5fb', 'estrata': '#deefff', 'been-there': '#dbf0e8', 'leadforma': '#ffead7',

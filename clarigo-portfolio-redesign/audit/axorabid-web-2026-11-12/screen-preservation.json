@@ -1,0 +1,313 @@
+[
+  {
+    "screen": "homepage",
+    "originalFile": "Welcome Screen.png",
+    "sourceSha256": "7f8b74fec83d6095139aa6c0a2a85da63621155916073df90f48e9511e7dbb57",
+    "regions": [
+      {
+        "x": 154,
+        "y": 34,
+        "w": 145,
+        "h": 56,
+        "type": "logo",
+        "variant": "color"
+      },
+      {
+        "x": 467,
+        "y": 1552,
+        "w": 507,
+        "h": 54,
+        "type": "name-text",
+        "replacement": "Why Choose AxoraBid?"
+      },
+      {
+        "x": 548,
+        "y": 2896,
+        "w": 347,
+        "h": 28,
+        "type": "name-text",
+        "replacement": "AxoraBid to buy and sell vehicles"
+      },
+      {
+        "x": 117,
+        "y": 3217,
+        "w": 625,
+        "h": 59,
+        "type": "name-text",
+        "replacement": "Over 2 Lakh <span foreground=\"#3158ff\">AxoraBid</span> Stories"
+      },
+      {
+        "x": 690,
+        "y": 3503,
+        "w": 407,
+        "h": 30,
+        "type": "name-text",
+        "replacement": "documentation. AxoraBid brings everything"
+      },
+      {
+        "x": 154,
+        "y": 3972,
+        "w": 575,
+        "h": 64,
+        "type": "name-text",
+        "replacement": "Download AxoraBid"
+      },
+      {
+        "x": 830,
+        "y": 4090,
+        "w": 180,
+        "h": 82,
+        "type": "logo",
+        "variant": "white"
+      },
+      {
+        "x": 154,
+        "y": 4446,
+        "w": 145,
+        "h": 56,
+        "type": "logo",
+        "variant": "color"
+      },
+      {
+        "x": 967,
+        "y": 4447,
+        "w": 147,
+        "h": 29,
+        "type": "name-text",
+        "replacement": "About AxoraBid"
+      },
+      {
+        "x": 188,
+        "y": 4628,
+        "w": 214,
+        "h": 29,
+        "type": "name-text",
+        "replacement": "Contact AxoraBid"
+      },
+      {
+        "x": 156,
+        "y": 4715,
+        "w": 316,
+        "h": 28,
+        "type": "name-text",
+        "replacement": "Copyright 2025 · AxoraBid, All Rights Reserved"
+      }
+    ],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "seller-dashboard",
+    "originalFile": "Seller Dashboard  v1.png",
+    "sourceSha256": "c450b8e283290f588a3ee3a54a90c5539d94feacea2946dd2ad52e1ccf412461",
+    "regions": [
+      {
+        "x": 65,
+        "y": 17,
+        "w": 112,
+        "h": 45,
+        "type": "logo",
+        "variant": "color"
+      }
+    ],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "vehicle-list",
+    "originalFile": "My Vehicle List  _ My List.png",
+    "sourceSha256": "6312dc71c563e97a611e54dd9210cd5511f850b31dc68e3e4a5eef72e9a151fc",
+    "regions": [
+      {
+        "x": 125,
+        "y": 12,
+        "w": 121,
+        "h": 48,
+        "type": "logo",
+        "variant": "color"
+      }
+    ],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "auction-bids",
+    "originalFile": "Auctions Details _ View All Bids 14.png",
+    "sourceSha256": "1582960a82b625fc92deedb250700a5d49cc48aa8c5abae98f4a7bc669cf0a99",
+    "regions": [
+      {
+        "x": 125,
+        "y": 12,
+        "w": 121,
+        "h": 48,
+        "type": "logo",
+        "variant": "color"
+      }
+    ],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "negotiation",
+    "originalFile": "Dealer-Negotiate.png",
+    "sourceSha256": "8b3458b83283e59579b76be06f8c0a1d7678a7db3bc7078ea2e308a780dd8971",
+    "regions": [
+      {
+        "x": 125,
+        "y": 12,
+        "w": 121,
+        "h": 48,
+        "type": "logo",
+        "variant": "color"
+      }
+    ],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "listing-details",
+    "originalFile": "List Your Vehicle _ Vehicle Details.png",
+    "sourceSha256": "82bd45e90a47b07c684a208a08991dfb42947a6d13230bda85d8189c038f5506",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "vehicle-gallery",
+    "originalFile": "Gallery.png",
+    "sourceSha256": "8bdb5d170d48622775205e65f2aaf6eb84b9baaa28e4f7c6280f3ccc3fa41a62",
+    "regions": [
+      {
+        "x": 125,
+        "y": 12,
+        "w": 121,
+        "h": 48,
+        "type": "logo",
+        "variant": "dim"
+      }
+    ],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "seller-sign-in",
+    "originalFile": "Login _ Seller.png",
+    "sourceSha256": "9b18f7726a4a306b6483be4781de433f652a0ae3b2a733181ff58360d17be89f",
+    "regions": [
+      {
+        "x": 630,
+        "y": 47,
+        "w": 195,
+        "h": 73,
+        "type": "logo",
+        "variant": "white"
+      },
+      {
+        "x": 520,
+        "y": 210,
+        "w": 416,
+        "h": 48,
+        "type": "name-text",
+        "replacement": "Welcome to AxoraBid!"
+      },
+      {
+        "x": 570,
+        "y": 799,
+        "w": 315,
+        "h": 28,
+        "type": "name-text",
+        "replacement": "New to AxoraBid? <span foreground=\"#3158ff\" underline=\"single\">Create Account</span>"
+      },
+      {
+        "x": 592,
+        "y": 990,
+        "w": 272,
+        "h": 28,
+        "type": "name-text",
+        "replacement": "Copyright © Designed <b>AxoraBid</b> 2025"
+      }
+    ],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "identity-upload",
+    "originalFile": "Seller Registration _ ID Verification.png",
+    "sourceSha256": "951d7b107f8f1d6cb461d8caf36480d5a9a4449d038b61e364e3d6e53cdb50ea",
+    "regions": [
+      {
+        "x": 630,
+        "y": 47,
+        "w": 195,
+        "h": 73,
+        "type": "logo",
+        "variant": "white"
+      },
+      {
+        "x": 592,
+        "y": 1110,
+        "w": 272,
+        "h": 28,
+        "type": "name-text",
+        "replacement": "Copyright © Designed <b>AxoraBid</b> 2025"
+      }
+    ],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "verification-status",
+    "originalFile": "Profile & KYC  _ KYC Verification.png",
+    "sourceSha256": "2b23dffbe848025b60fca2e073bf43d06b8b0e26036201c4b461ca47aea82748",
+    "regions": [
+      {
+        "x": 125,
+        "y": 16,
+        "w": 121,
+        "h": 48,
+        "type": "logo",
+        "variant": "color"
+      }
+    ],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "pending-payouts",
+    "originalFile": "Payouts _ Pending (2) v2.png",
+    "sourceSha256": "cfb1188bc95ed724f3e6c8ff41404077bde110debb9bc541bab23881ad1c9d4c",
+    "regions": [
+      {
+        "x": 125,
+        "y": 12,
+        "w": 121,
+        "h": 48,
+        "type": "logo",
+        "variant": "color"
+      }
+    ],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "completed-payouts",
+    "originalFile": "Payouts _ Completed (2) v1.png",
+    "sourceSha256": "5d7b0770cc30a868d9eaa4187d45bf5e4baa6f7345ccc4be122d4627c51f5060",
+    "regions": [
+      {
+        "x": 65,
+        "y": 17,
+        "w": 112,
+        "h": 45,
+        "type": "logo",
+        "variant": "color"
+      }
+    ],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "sales-history",
+    "originalFile": "Sales History.png",
+    "sourceSha256": "eaeed21f3314244393f9865d11fdfab7dba366dc544bf7fefc1ecf0acb007f65",
+    "regions": [
+      {
+        "x": 125,
+        "y": 12,
+        "w": 121,
+        "h": 48,
+        "type": "logo",
+        "variant": "color"
+      }
+    ],
+    "outsideChanges": 0
+  }
+]

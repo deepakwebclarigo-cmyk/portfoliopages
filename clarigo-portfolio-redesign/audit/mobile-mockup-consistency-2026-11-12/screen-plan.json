@@ -1043,5 +1043,134 @@
         }
       }
     ]
+  },
+  {
+    "slug": "app-strivaro",
+    "views": [
+      {
+        "src": "/images/projects/app-strivaro-splash-20dc36310a.webp",
+        "width": 390,
+        "height": 844,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "20dc36310a62ef3125043ede01309c0c94f489c051a75afbcac9ed2cc4683bec",
+        "bytes": 140234,
+        "originalBytes": 251388,
+        "label": "Brand introduction",
+        "description": "Strivaro — brand introduction",
+        "index": 0,
+        "crop": {
+          "left": 0,
+          "top": 17,
+          "width": 390,
+          "height": 810
+        }
+      },
+      {
+        "src": "/images/projects/app-strivaro-daily-reward-c301eb3ed0.webp",
+        "width": 390,
+        "height": 823,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "c301eb3ed0dec1dd6ceb749051cab61f1101b342fe7bd2df243bed2dcb976d77",
+        "bytes": 88798,
+        "originalBytes": 135744,
+        "label": "Daily reward wheel",
+        "description": "Strivaro — daily reward wheel",
+        "index": 4,
+        "crop": {
+          "left": 0,
+          "top": 6,
+          "width": 390,
+          "height": 810
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-axorabid",
+    "views": [
+      {
+        "src": "/images/projects/app-axorabid-splash-3f065294d7.webp",
+        "width": 390,
+        "height": 844,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "3f065294d73ac4899c6d751d06b0a2e52191c4678b0a83fafaa8df1118eceb73",
+        "bytes": 138318,
+        "originalBytes": 233453,
+        "label": "Brand introduction",
+        "description": "AxoraBid - brand introduction",
+        "index": 0,
+        "crop": {
+          "left": 12,
+          "top": 55,
+          "width": 366,
+          "height": 761
+        }
+      },
+      {
+        "src": "/images/projects/app-axorabid-role-selection-c93684de7f.webp",
+        "width": 390,
+        "height": 844,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "c93684de7f3ac96ffeee331aac05b85ff6dcaaf4a22e7d3d0ce5d18450266858",
+        "bytes": 138462,
+        "originalBytes": 221763,
+        "label": "Seller and dealer entry",
+        "description": "AxoraBid - seller and dealer entry",
+        "index": 1,
+        "crop": {
+          "left": 12,
+          "top": 55,
+          "width": 366,
+          "height": 761
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-calivora",
+    "views": [
+      {
+        "src": "/images/projects/calivora-splash-449fcf995d.webp",
+        "width": 390,
+        "height": 844,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "449fcf995da3454655708ad68433e63eaaedf24cb234ca9835d522f739cfd2c9",
+        "bytes": 51596,
+        "originalBytes": 73414,
+        "label": "Calivora introduction",
+        "description": "Calivora - calivora introduction",
+        "index": 0,
+        "crop": {
+          "left": 12,
+          "top": 55,
+          "width": 366,
+          "height": 761
+        }
+      },
+      {
+        "src": "/images/projects/calivora-provider-chat-cc72428367.webp",
+        "width": 390,
+        "height": 844,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "cc7242836721c077d7d585c520b88f532c12f7770c8bbd8ca38d0d5cef1cbf82",
+        "bytes": 94922,
+        "originalBytes": 148551,
+        "label": "Provider chat and call states",
+        "description": "Calivora - provider chat and call states",
+        "index": 8,
+        "crop": {
+          "left": 12,
+          "top": 55,
+          "width": 366,
+          "height": 761
+        }
+      }
+    ]
   }
 ]

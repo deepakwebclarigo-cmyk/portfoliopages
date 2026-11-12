@@ -1,0 +1,317 @@
+[
+  {
+    "name": "LivSocial",
+    "image": "LivSocial.png",
+    "page": "livSocial-web.html",
+    "kind": "web",
+    "slug": "livsocial"
+  },
+  {
+    "name": "StreamDexa",
+    "image": "/images/projects/streamdexa-preview-06a41782d5.webp",
+    "kind": "web",
+    "slug": "streamdexa",
+    "rebranded": true
+  },
+  {
+    "name": "Little Butterflies",
+    "image": "Little-Butterflies-Poster.png",
+    "page": "Little-Butterflies-n.html",
+    "kind": "web",
+    "slug": "little-butterflies"
+  },
+  {
+    "name": "Tukora Connect",
+    "image": "/images/projects/tukora-connect-preview-4ba2862610.webp",
+    "kind": "web",
+    "slug": "tukora-connect",
+    "rebranded": true
+  },
+  {
+    "name": "Beliri",
+    "image": "Beliri.png",
+    "page": "Beliri-web-n.html",
+    "kind": "web",
+    "slug": "beliri"
+  },
+  {
+    "name": "Printlific",
+    "image": "Printlific.png",
+    "page": "Printlific.html",
+    "kind": "web",
+    "slug": "printlific"
+  },
+  {
+    "name": "Nerdrabbit",
+    "image": "nerdrabbit.png",
+    "page": "Nerdrabbit-web-n.html",
+    "kind": "web",
+    "slug": "nerdrabbit"
+  },
+  {
+    "name": "ParaNest",
+    "image": "/images/projects/paranest-preview-eea8a9ab8f.webp",
+    "kind": "web",
+    "slug": "paranest",
+    "rebranded": true
+  },
+  {
+    "name": "Glocal Expert",
+    "image": "global.png",
+    "page": "glocal-expert-web.html",
+    "kind": "web",
+    "slug": "glocal-expert"
+  },
+  {
+    "name": "Mercury Mailroom",
+    "image": "mercury.jpg",
+    "page": "mercury-web.html",
+    "kind": "web",
+    "slug": "mercury-mailroom"
+  },
+  {
+    "name": "Umeed",
+    "image": "/images/projects/umeed-preview-29a3a780b8.webp",
+    "page": "ummed-web-n.html",
+    "kind": "web",
+    "slug": "umeed"
+  },
+  {
+    "name": "Alumvia",
+    "image": "/images/projects/alumvia-preview-ac91e561df.webp",
+    "kind": "web",
+    "slug": "alumvia",
+    "rebranded": true
+  },
+  {
+    "name": "KegelTempo",
+    "image": "/images/projects/kegeltempo-preview-0a208beed8.webp",
+    "kind": "web",
+    "slug": "kegeltempo",
+    "rebranded": true
+  },
+  {
+    "name": "RallyBridge",
+    "image": "/images/projects/rallybridge-preview-67f205f925.webp",
+    "kind": "web",
+    "slug": "rallybridge",
+    "rebranded": true
+  },
+  {
+    "name": "Network Capital",
+    "image": "network-capital.jpg",
+    "page": "network-capital-web.html",
+    "kind": "web",
+    "slug": "network-capital"
+  },
+  {
+    "name": "Whizlume",
+    "image": "/images/projects/whizlume-preview-3302361b6f.webp",
+    "kind": "web",
+    "slug": "whizlume",
+    "rebranded": true
+  },
+  {
+    "name": "EStrata",
+    "image": "/images/projects/estrata-preview-71028bd2da.webp",
+    "kind": "web",
+    "slug": "estrata",
+    "rebranded": true
+  },
+  {
+    "name": "Been There",
+    "image": "Been_there.png",
+    "page": "been-there-n.html",
+    "kind": "web",
+    "slug": "been-there"
+  },
+  {
+    "name": "LeadForma",
+    "image": "/images/projects/leadforma-preview-76d088504c.webp",
+    "kind": "web",
+    "slug": "leadforma",
+    "rebranded": true
+  },
+  {
+    "name": "LivSocial",
+    "image": "LivSocial-app.png",
+    "page": "livsocial.html",
+    "kind": "mobile",
+    "slug": "app-livsocial"
+  },
+  {
+    "name": "SimplyScouted",
+    "image": "/images/projects/app-simplyscouted-preview-e4ae14e776.webp",
+    "kind": "mobile",
+    "slug": "app-simplyscouted",
+    "rebranded": true
+  },
+  {
+    "name": "Infinote",
+    "image": "/images/projects/app-infinote-preview-8e80c527a0.webp",
+    "kind": "mobile",
+    "slug": "app-infinote",
+    "rebranded": true
+  },
+  {
+    "name": "SilaFlow",
+    "image": "/images/projects/app-silaflow-preview-2881215e70.webp",
+    "kind": "mobile",
+    "slug": "app-silaflow",
+    "rebranded": true
+  },
+  {
+    "name": "HabitStride",
+    "image": "/images/projects/app-habitstride-preview-4f2287587a.webp",
+    "kind": "mobile",
+    "slug": "app-habitstride",
+    "rebranded": true
+  },
+  {
+    "name": "Tukora Connect",
+    "image": "/images/projects/app-tukora-connect-preview-b789498701.webp",
+    "kind": "mobile",
+    "slug": "app-tukora-connect",
+    "rebranded": true
+  },
+  {
+    "name": "Pace of Play",
+    "image": "Pace_of_Play_App.png",
+    "page": "pop.html",
+    "kind": "mobile",
+    "slug": "app-pace-of-play"
+  },
+  {
+    "name": "Qcop App",
+    "image": "Qcop_App.png",
+    "page": "qcop.html",
+    "kind": "mobile",
+    "slug": "app-qcop-app"
+  },
+  {
+    "name": "Little Butterflies",
+    "image": "Little_Butterflies_App.png",
+    "page": "Little-Butterflies.html",
+    "kind": "mobile",
+    "slug": "app-little-butterflies"
+  },
+  {
+    "name": "Case Management ASE",
+    "image": "Case_Managment_ASE_App.png",
+    "page": "Case-Management.html",
+    "kind": "mobile",
+    "slug": "app-case-management-ase"
+  },
+  {
+    "name": "Printlific",
+    "image": "Printlific_App.png",
+    "page": "Printlific.html",
+    "kind": "mobile",
+    "slug": "app-printlific"
+  },
+  {
+    "name": "Racepace",
+    "image": "Racepace_App.png",
+    "page": "racepace-app.html",
+    "kind": "mobile",
+    "slug": "app-racepace"
+  },
+  {
+    "name": "Been There",
+    "image": "Been_There_App.png",
+    "page": "Been-There.html",
+    "kind": "mobile",
+    "slug": "app-been-there"
+  },
+  {
+    "name": "PantryOne",
+    "image": "/images/projects/app-pantryone-preview-0a7994a06a.webp",
+    "kind": "mobile",
+    "slug": "app-pantryone",
+    "rebranded": true
+  },
+  {
+    "name": "EscapeTheHOA",
+    "image": "EscapeTheHOA_App.png",
+    "page": "Escape.html",
+    "kind": "mobile",
+    "slug": "app-escapethehoa"
+  },
+  {
+    "name": "Dateflow",
+    "image": "Dateflow_App.png",
+    "page": "dateflow-n.html",
+    "kind": "mobile",
+    "slug": "app-dateflow"
+  },
+  {
+    "name": "Meravyaah",
+    "image": "meravyaah_App.png",
+    "page": "meravyaah.html",
+    "kind": "mobile",
+    "slug": "app-meravyaah"
+  },
+  {
+    "name": "Beliri",
+    "image": "Belleri.png",
+    "page": "beliri-n.html",
+    "kind": "mobile",
+    "slug": "app-beliri"
+  },
+  {
+    "name": "Fynmate",
+    "image": "Fynmate.png",
+    "page": "fynmate-app.html",
+    "kind": "mobile",
+    "slug": "app-fynmate"
+  },
+  {
+    "name": "StreetSlate",
+    "image": "/images/projects/app-streetslate-preview-cf7af19a83.webp",
+    "kind": "mobile",
+    "slug": "app-streetslate",
+    "rebranded": true
+  },
+  {
+    "name": "Ummed",
+    "image": "ummid.png",
+    "page": "umeed-n.html",
+    "kind": "mobile",
+    "slug": "app-ummed"
+  },
+  {
+    "name": "Bubble",
+    "image": "Bubble.png",
+    "page": "bubble-n.html",
+    "kind": "mobile",
+    "slug": "app-bubble"
+  },
+  {
+    "name": "KegelTempo",
+    "image": "/images/projects/app-kegeltempo-preview-4c0adc9dfa.webp",
+    "kind": "mobile",
+    "slug": "app-kegeltempo",
+    "rebranded": true
+  },
+  {
+    "name": "Heartsync",
+    "image": "heartsync.png",
+    "page": "heartsync.html",
+    "kind": "mobile",
+    "slug": "app-heartsync"
+  },
+  {
+    "name": "Supplement Management",
+    "image": "suppliment.png",
+    "page": null,
+    "kind": "mobile",
+    "slug": "app-supplement-management"
+  },
+  {
+    "name": "Strivaro",
+    "image": "/images/projects/app-strivaro-preview-d16fb9128c.webp",
+    "kind": "mobile",
+    "slug": "app-strivaro",
+    "rebranded": true
+  }
+]

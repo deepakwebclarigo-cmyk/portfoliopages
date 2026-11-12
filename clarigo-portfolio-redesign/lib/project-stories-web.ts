@@ -1,6 +1,9 @@
 import type { ProjectStory } from './project-story';
 
+import { axorabidWebStory } from './project-axorabid-web';
+
 export const webStories = {
+  axorabid: axorabidWebStory,
   "livsocial": {
     featureIntro: "A social workspace where the main feed, personal connections, and wider community discovery each have a clear place.",
     workflowIntro: "The desktop layouts move from an everyday feed to the people and conversations around it.",

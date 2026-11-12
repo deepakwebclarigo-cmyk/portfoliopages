@@ -306,5 +306,33 @@
     "page": null,
     "kind": "mobile",
     "slug": "app-supplement-management"
+  },
+  {
+    "name": "Strivaro",
+    "image": "/images/projects/app-strivaro-preview-d16fb9128c.webp",
+    "kind": "mobile",
+    "slug": "app-strivaro",
+    "rebranded": true
+  },
+  {
+    "name": "AxoraBid",
+    "image": "/images/projects/app-axorabid-preview-9139a4a5c6.webp",
+    "kind": "mobile",
+    "slug": "app-axorabid",
+    "rebranded": true
+  },
+  {
+    "name": "AxoraBid",
+    "image": "/images/projects/axorabid-preview-b1544c6d73.webp",
+    "kind": "web",
+    "slug": "axorabid",
+    "rebranded": true
+  },
+  {
+    "name": "Calivora",
+    "image": "/images/projects/app-calivora-preview-18b5d193e5.webp",
+    "kind": "mobile",
+    "slug": "app-calivora",
+    "rebranded": true
   }
 ]

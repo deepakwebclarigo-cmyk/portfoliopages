@@ -438,5 +438,45 @@
     "source": "/images/projects/app-kegeltempo-preview-4c0adc9dfa.webp",
     "sourceSha256": "4c0adc9dfa25daf1c9d2bf1f2a1910783eb1a425db921376ef93496875e60087",
     "sha256": "b4b49a2a4c50d6d5b85ead7676260529b95f1dfa45bc02f20192f42b7353008c"
+  },
+  {
+    "slug": "app-strivaro",
+    "src": "/images/projects/app-strivaro-preview-d16fb9128c-medium.webp",
+    "width": 960,
+    "height": 720,
+    "bytes": 38684,
+    "source": "/images/projects/app-strivaro-preview-d16fb9128c.webp",
+    "sourceSha256": "d16fb9128cc12ecaf2e8ccab39bd5a8a5beb97d18750eb63e0ad43795682b3e4",
+    "sha256": "9cac637f6b8e0c8dafd7fc7ee6bbca99e45dbc42075f9b8cc63495e00d829143"
+  },
+  {
+    "slug": "app-axorabid",
+    "src": "/images/projects/app-axorabid-preview-9139a4a5c6-medium.webp",
+    "width": 960,
+    "height": 720,
+    "bytes": 51366,
+    "source": "/images/projects/app-axorabid-preview-9139a4a5c6.webp",
+    "sourceSha256": "9139a4a5c6a1f71b03ee04187595c363c531ecc97bfea43af13f49439f582182",
+    "sha256": "346004187cdd191ff318e75b518086d22f3abcc46f32fda6a42d2b6ed1aefa89"
+  },
+  {
+    "slug": "axorabid",
+    "src": "/images/projects/axorabid-preview-b1544c6d73-medium.webp",
+    "width": 960,
+    "height": 720,
+    "bytes": 46954,
+    "source": "/images/projects/axorabid-preview-b1544c6d73.webp",
+    "sourceSha256": "b1544c6d73b72dd233c7bb2acf4480d701a6a7219df8d431c238f8442effb804",
+    "sha256": "7dd90e3cf0337ccc632baf10160c366c191127eb5dcca0c5b54c74ea9dab956e"
+  },
+  {
+    "slug": "app-calivora",
+    "src": "/images/projects/app-calivora-preview-18b5d193e5-medium.webp",
+    "width": 960,
+    "height": 720,
+    "bytes": 44582,
+    "source": "/images/projects/app-calivora-preview-18b5d193e5.webp",
+    "sourceSha256": "18b5d193e569f3986df963c164dc24385385b502dd8a0e0fa0ca0f12168dab73",
+    "sha256": "1f7f3d6243cb26994624f93c30bb96cdb0acc6baaf5ace905425adc0a20fe41b"
   }
 ]

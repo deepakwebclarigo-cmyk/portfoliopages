@@ -1,0 +1,110 @@
+[
+  {
+    "src": "/images/projects/app-strivaro-splash-20dc36310a.webp",
+    "width": 390,
+    "height": 844,
+    "role": "screen",
+    "gallery": true,
+    "sha256": "20dc36310a62ef3125043ede01309c0c94f489c051a75afbcac9ed2cc4683bec",
+    "bytes": 140234,
+    "originalBytes": 251388,
+    "label": "Brand introduction",
+    "description": "Strivaro — brand introduction"
+  },
+  {
+    "src": "/images/projects/app-strivaro-dashboard-ee1afee00d.webp",
+    "width": 390,
+    "height": 1143,
+    "role": "screen",
+    "gallery": true,
+    "sha256": "ee1afee00dfb2718fd2a2a70aebc7ca6e78143bcea4af7d117ceeed4f21df75c",
+    "bytes": 85308,
+    "originalBytes": 130371,
+    "label": "Fitness dashboard",
+    "description": "Strivaro — fitness dashboard"
+  },
+  {
+    "src": "/images/projects/app-strivaro-goals-e147f9da0f.webp",
+    "width": 390,
+    "height": 1340,
+    "role": "screen",
+    "gallery": true,
+    "sha256": "e147f9da0f8e427f9f36eaa30b4f4e8966631bb84d96d92b50549ef72aae118b",
+    "bytes": 184126,
+    "originalBytes": 287102,
+    "label": "Goal cards and status",
+    "description": "Strivaro — goal cards and status"
+  },
+  {
+    "src": "/images/projects/app-strivaro-community-feed-3ea2852c29.webp",
+    "width": 390,
+    "height": 1747,
+    "role": "screen",
+    "gallery": true,
+    "sha256": "3ea2852c29740e2a62052c54c9919937135fcd1a0cf79cc41f4adad55e9e591c",
+    "bytes": 265808,
+    "originalBytes": 426589,
+    "label": "Community progress feed",
+    "description": "Strivaro — community progress feed"
+  },
+  {
+    "src": "/images/projects/app-strivaro-daily-reward-c301eb3ed0.webp",
+    "width": 390,
+    "height": 823,
+    "role": "screen",
+    "gallery": true,
+    "sha256": "c301eb3ed0dec1dd6ceb749051cab61f1101b342fe7bd2df243bed2dcb976d77",
+    "bytes": 88798,
+    "originalBytes": 135744,
+    "label": "Daily reward wheel",
+    "description": "Strivaro — daily reward wheel"
+  },
+  {
+    "src": "/images/projects/app-strivaro-goal-preview-ac12460c45.webp",
+    "width": 390,
+    "height": 980,
+    "role": "screen",
+    "gallery": true,
+    "sha256": "ac12460c458454afc19437b2698bc1dfff4c9950dda32a49995fd8e9ec0d797c",
+    "bytes": 41390,
+    "originalBytes": 67595,
+    "label": "Goal preview and indicators",
+    "description": "Strivaro — goal preview and indicators"
+  },
+  {
+    "src": "/images/projects/app-strivaro-profile-setup-bcc92a6afc.webp",
+    "width": 390,
+    "height": 1026,
+    "role": "screen",
+    "gallery": true,
+    "sha256": "bcc92a6afc7c7253f57d7797d4a448b13f88cb768328a1c3a71592562bb956db",
+    "bytes": 86528,
+    "originalBytes": 139661,
+    "label": "Profile setup form",
+    "description": "Strivaro — profile setup form"
+  },
+  {
+    "src": "/images/projects/app-strivaro-settings-59f7537160.webp",
+    "width": 390,
+    "height": 1170,
+    "role": "screen",
+    "gallery": true,
+    "sha256": "59f753716065766c1912aaf3827c7634868551bed36e839a1bf97f565b531677",
+    "bytes": 69482,
+    "originalBytes": 111649,
+    "label": "Account settings",
+    "description": "Strivaro — account settings"
+  },
+  {
+    "src": "/images/projects/app-strivaro-sign-in-validation-0725da835b.webp",
+    "width": 390,
+    "height": 844,
+    "role": "screen",
+    "gallery": true,
+    "sha256": "0725da835b194a83b297a3258166c77d9e6269c0ce974985f68d3439d4458c53",
+    "bytes": 81450,
+    "originalBytes": 128900,
+    "label": "Sign-in validation",
+    "description": "Strivaro — sign-in validation"
+  }
+]

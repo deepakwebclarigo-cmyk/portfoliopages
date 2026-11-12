@@ -1,0 +1,166 @@
+[
+  {
+    "screen": "splash",
+    "originalFile": "splash v2.png",
+    "sourceSha256": "fcfa25e4faa6d55b2285e86a99c85ef0949588fc7405b331757a82037b615e80",
+    "regions": [
+      {
+        "x": 119,
+        "y": 274,
+        "w": 152,
+        "h": 156,
+        "type": "branding"
+      }
+    ],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "home",
+    "originalFile": "Updated Home.png",
+    "sourceSha256": "931f120b02477732a39e4f6317c96814319709a432dd9f34f760e76ba2c274a7",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "personal-info",
+    "originalFile": "Personal Info.png",
+    "sourceSha256": "5c1d63079744c65840ecd080ceca9777306caf857c2b9aa087a2250247ffa635",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "medical-history",
+    "originalFile": "Health Profile _ Medical History _ Edit Mode.png",
+    "sourceSha256": "6ba934a9ce5b94fd3d78749725eeb28eff9fb5bf4e60bb0e3fab84994fbef2b1",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "care-plans",
+    "originalFile": "Multiple My Care Plan.png",
+    "sourceSha256": "d3c23d638f3f2222c9d715e5dd51e39db3abcd1a9a2a459c23d867bbe46fbd95",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "daily-log",
+    "originalFile": "Daily Log list.png",
+    "sourceSha256": "896e14c8e0f9a3283b52206882220875b4cd0fed3123ff50dabd55417f26b0fa",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "labs",
+    "originalFile": "Labs - option-2.png",
+    "sourceSha256": "b1882286fc251c4ac20c0d3911daf262ff02e68e3ce3c7bf0e8ebd25f0b6f69b",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "upload-labs",
+    "originalFile": "Upload Labs.png",
+    "sourceSha256": "7afa868c654961be1f229a56ac6f75d9d99c108f5c4409d12a9309f98179c45a",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "provider-chat",
+    "originalFile": "Chat _ Request Sent.png",
+    "sourceSha256": "e98a81822a02bb108de61db434604a1ab15e16a7fd7ca832b3a295d9d4d9c6b9",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "video-call",
+    "originalFile": "video-call.png",
+    "sourceSha256": "794d8b01111915ccf18a6e0c2020c968c9214782a6a68b92e32661f1633b93e4",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "sign-in",
+    "originalFile": "login.png",
+    "sourceSha256": "c5d705565b42aa368a7a6f63bea772a2e852e418e335afc63ba6ba31078e346c",
+    "regions": [
+      {
+        "x": 108,
+        "y": 99,
+        "w": 176,
+        "h": 56,
+        "type": "branding"
+      }
+    ],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "registration",
+    "originalFile": "Create Account _ view only for web direction.png",
+    "sourceSha256": "1fe37a038b55efb41d9772df1477dd320277f8cd97b64069a89e753304987e8e",
+    "regions": [
+      {
+        "x": 22,
+        "y": 78,
+        "w": 132,
+        "h": 19,
+        "type": "branding",
+        "replacement": "New to Calivora?"
+      },
+      {
+        "x": 81,
+        "y": 281,
+        "w": 194,
+        "h": 21,
+        "type": "branding",
+        "replacement": "Open Calivora registration"
+      },
+      {
+        "x": 64,
+        "y": 536,
+        "w": 263,
+        "h": 28,
+        "type": "branding",
+        "replacement": "Go to Calivora registration"
+      }
+    ],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "account",
+    "originalFile": "Profile option.png",
+    "sourceSha256": "efcee78f58183dfb66b74e73f0f86b39f0655b2d01f2710c425d93f62ed43d7a",
+    "regions": [
+      {
+        "x": 34,
+        "y": 337,
+        "w": 207,
+        "h": 23,
+        "type": "branding",
+        "replacement": "Open Calivora account"
+      }
+    ],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "brand-identity",
+    "originalFile": "Frame 2085662838.png",
+    "sourceSha256": "c66eaa368aec6c91dd91561e222d357a3133f054a7343bc51eef7b65dae64668",
+    "regions": [
+      {
+        "x": 70,
+        "y": 0,
+        "w": 117,
+        "h": 105,
+        "type": "branding"
+      },
+      {
+        "x": 48,
+        "y": 112,
+        "w": 160,
+        "h": 35,
+        "type": "branding"
+      }
+    ],
+    "outsideChanges": 0,
+    "transparentSourceMatte": "#201331"
+  }
+]

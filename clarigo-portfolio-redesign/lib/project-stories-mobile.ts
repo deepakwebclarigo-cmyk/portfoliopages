@@ -1,6 +1,13 @@
 import type { ProjectStory } from './project-story';
 
+import { strivaroStory } from './project-strivaro';
+import { axorabidStory } from './project-axorabid';
+import { calivoraStory } from './project-calivora';
+
 export const mobileStories = {
+  'app-axorabid': axorabidStory,
+  'app-calivora': calivoraStory,
+  'app-strivaro': strivaroStory,
   "app-livsocial": {
     featureIntro: "A compact social feed that keeps photography, personal identity, and conversation controls together on a touch screen.",
     workflowIntro: "The mobile artwork presents the feed as the center of a wider people and community experience.",

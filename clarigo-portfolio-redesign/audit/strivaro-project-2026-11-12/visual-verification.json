@@ -1,0 +1,29 @@
+{
+  "hoverChecks": [
+    {
+      "density": 1,
+      "source": "/images/thumbnails/app-strivaro-f4b8d9cff4-card.webp",
+      "contrastRatio": 1.0086956958714173,
+      "pixelDifference": 8.845784505208334
+    },
+    {
+      "density": 2,
+      "source": "/images/thumbnails/app-strivaro-f4b8d9cff4-medium.webp",
+      "contrastRatio": 1.0044836269550568,
+      "pixelDifference": 9.645345052083334
+    }
+  ],
+  "logo": {
+    "width": 1000,
+    "height": 1000,
+    "alpha": true,
+    "deliveredExportExact": true
+  },
+  "galleryScreens": 9,
+  "responsive": [
+    "desktop",
+    "tablet",
+    "mobile"
+  ],
+  "browserErrors": []
+}

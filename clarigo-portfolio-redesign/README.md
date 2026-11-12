@@ -1,6 +1,6 @@
 # Clarigo Portfolio
 
-The existing Next.js / TypeScript portfolio, continued in place with Three.js, GSAP ScrollTrigger, Framer Motion, and Lucide. The hero uses a generic, continuously animated 3D UI/UX ecosystem. All 44 projects, verified artwork, native navigation, and the existing brand layout are retained.
+The existing Next.js / TypeScript portfolio, continued in place with Three.js, GSAP ScrollTrigger, Framer Motion, and Lucide. The hero uses a generic, continuously animated 3D UI/UX ecosystem. All 48 projects, verified artwork, native navigation, and the existing brand layout are retained.
 
 ## Run locally
 
@@ -15,15 +15,15 @@ Open http://localhost:3000 for development. For a production preview, run `npm.c
 
 ## Portfolio and sources
 
-- 19 web projects and 25 mobile projects, each with a dedicated prerendered detail route.
+- 20 web projects and 28 mobile projects, each with a dedicated prerendered detail route.
 - Listings at `/` and `/portfolio`, with type filters, name/subject search, and direct project links.
-- Unique overviews, four evidence-based features, three-step product journeys, design challenges and solution points, technical perspectives, design commentary, expandable galleries, and project-specific closing copy for all 44 projects.
-- 307 selected artwork assets stored locally as WebP, plus 44 matching card variants and 44 responsive 960px hero variants. The official Clarigo logo, browser icons, and verified Geist font files are also local.
+- Unique overviews, four evidence-based features, three-step product journeys, design challenges and solution points, technical perspectives, design commentary, expandable galleries, and project-specific closing copy for all 48 projects.
+- 359 selected artwork assets stored locally as WebP, plus 48 matching card variants and 48 responsive 960px hero variants. The official Clarigo logo, browser icons, and verified Geist font files are also local.
 - The existing visual direction is preserved. Masked heading reveals, staggered entrances, ScrollTrigger image reveals, restrained device parallax, Framer Motion gallery transitions, and short native document transitions extend the official site's motion language.
 - The listing hero combines soft rose/lavender lighting with real beveled browser, phone, typography, palette, and component geometry. Its seamless floating and assembly loop, spring parallax, raycast hover separation, and scroll camera use one shared WebGL renderer. The artwork is generic and contains no real project or application. It pauses offscreen and in inactive windows. Compact phones retain the original hero layout without decorative WebGL; reduced motion uses a static presentation.
 - Card artwork stays centered with `object-fit: contain`, uniform scaling, bounded real 3D hover, and no circular arrow overlay. Stationary card wrappers avoid unused Framer springs. Detail pages load their decorative renderer on pointer interaction, and release rendering on compact layouts or forced colors. Every card retains its direct detail-page link.
 - Landscape composition galleries use shorter frames while retaining complete artwork. Gallery position announcements, keyboard focus return, mobile-menu dismissal, focusable skip targets, and a keyboard-friendly empty-search reset improve shared interactions.
-- Contrast-safe red buttons, clearer small labels, visible control boundaries, and consistent focus states improve readability without changing the section structure. Local Latin-font preloading and responsive hero sources reduce avoidable loading work. Collection structured data describes all 44 real portfolio entries.
+- Contrast-safe red buttons, clearer small labels, visible control boundaries, and consistent focus states improve readability without changing the section structure. Local Latin-font preloading and responsive hero sources reduce avoidable loading work. Collection structured data describes all 48 real portfolio entries.
 - Keyboard-accessible image viewer, scroll/focus restoration, mobile menu, reduced-motion behavior, and an offscreen animation pause.
 - Canonical metadata, Open Graph, Twitter cards, structured data, sitemap, useful 404, and permanent redirects for 20 renamed routes and the two original misspelled slugs.
 
@@ -39,7 +39,7 @@ Screenshot artwork may itself include legacy sample interface text. Project word
 
 ## Files to continue from
 
-- `lib/project-inventory.json`: current 44-project names and routes.
+- `lib/project-inventory.json`: current 48-project names and routes.
 - `lib/project-content.ts`: project-specific editorial content.
 - `lib/project-story.ts` and `lib/project-stories-{web,mobile}.ts`: typed project journeys, challenges, solutions, technical perspectives, closing copy, and audited image selections.
 - `lib/project-assets.json`: selected local images, current SHA-256 checksums, dimensions, and explicit gallery roles.
@@ -84,7 +84,7 @@ The browser suite uses installed Chrome in an isolated test profile. Run it agai
 
 ## November 2026 identity refresh
 
-Tukora Connect, Whizlume, Alumvia, and KegelTempo replace the four previous identities across six existing web/mobile entries. New logos were created with the built-in image generator; product interfaces remain the owning project source artwork. Standalone 1000 x 1000 transparent PNGs are in exports/four-refreshed-project-logos/. Design briefs, original sources, region edits, and preservation checks are in audit/brand-refresh-2026-11-11/. All 44 active projects remain.
+Tukora Connect, Whizlume, Alumvia, and KegelTempo replace the four previous identities across six existing web/mobile entries. New logos were created with the built-in image generator; product interfaces remain the owning project source artwork. Standalone 1000 x 1000 transparent PNGs are in exports/four-refreshed-project-logos/. Design briefs, original sources, region edits, and preservation checks are in audit/brand-refresh-2026-11-11/. All 47 active projects remain.
 
 ## Infinote branding update
 
@@ -92,10 +92,30 @@ The document-scanning mobile project is now Infinote at /portfolio/app-infinote.
 
 ## Consistent project thumbnails
 
-All 44 project cards use the shared cream/blush thumbnail family in `lib/project-thumbnails.json`, with 720px, 960px, and 1600px WebP variants. The `thumbnail` field is passed through the listing card data and used for small `ProjectVisual` presentations; `image` retains the existing detail-page artwork. High-resolution PNGs are in `exports/Clarigo-consistent-thumbnails/`.
+All 48 project cards use the shared cream/blush thumbnail family in `lib/project-thumbnails.json`, with 720px, 960px, and 1600px WebP variants. The `thumbnail` field is passed through the listing card data and used for small `ProjectVisual` presentations; `image` retains the existing detail-page artwork. High-resolution PNGs are in `exports/Clarigo-consistent-thumbnails/`.
 
 The authoring template is `scripts/render-portfolio-thumbnails.mjs`; audited project-owned source selections and generation records are in `audit/thumbnail-system-2026-11-12/`. After changing sources or the template, regenerate and review the images before updating the runtime manifest. Integrity, preservation, route, browser, and export evidence is recorded alongside the source plan.
 
 
 Tukora Connect's Web and Mobile thumbnails use a brand-showcase recipe in `audit/tukora-thumbnail-refresh-2026-11-12/`. The shared renderer delegates these two layouts using their source-plan entries. Regenerate them with `node scripts/render-portfolio-thumbnails.mjs --only=tukora-connect,app-tukora-connect --write-manifest`; the current separate PNG downloads are in `exports/Tukora-Connect-Thumbnails/`.
 
+
+
+### Strivaro fitness portfolio
+
+Strivaro is available at `/portfolio/app-strivaro` as a dedicated Mobile project. All nine supplied designs are included in the gallery; splash and sign-in branding use the new identity. The shared two-device thumbnail style is retained. Transparent 1000 x 1000 logo and symbol PNGs are in `exports/Strivaro-Brand/`. Source snapshots, OCR, and exact branding-region pixel checks are in `audit/strivaro-project-2026-11-12/`.
+
+
+### AxoraBid vehicle-auction portfolio
+
+AxoraBid Mobile is available at `/portfolio/app-axorabid` as the companion app case study. Ten supplied interface screens and the renamed brand tile are included, with a complete case study, responsive hero artwork, and the shared two-device thumbnail. Transparent 1000 x 1000 primary, inverse, and symbol PNGs are in `exports/AxoraBid-Brand/`. Source snapshots, branding-region preservation, onboarding-watermark cleanup, and OCR evidence are in `audit/axorabid-project-2026-11-12/`.
+
+
+### AxoraBid Web companion portfolio
+
+AxoraBid Web is available at `/portfolio/axorabid`, paired bidirectionally with `/portfolio/app-axorabid`. The active collection contains 47 projects: 20 Web and 27 Mobile. All thirteen supplied web designs are retained in the gallery with AxoraBid branding. The homepage crop supplies the shared thumbnail; the hero uses the authentic seller dashboard and the existing mobile app entry screen. Full source snapshots, OCR, exact branding-region preservation checks, and presentation provenance are in `audit/axorabid-web-2026-11-12/`.
+
+
+## Calivora Mobile
+
+Calivora is available at `/portfolio/app-calivora`. The active collection now contains 48 projects: 20 Web and 28 Mobile. All thirteen supplied app screens and the brand identity artwork are included, with a complete case study, a three-device hero, and a thumbnail using the shared two-device mobile system. Branding is updated in the splash, sign-in, registration, account, and identity artwork. The source files are preserved in `audit/calivora-project-2026-11-12/originals/`, with OCR and branding-region checks alongside them. Primary, inverse, and symbol logos are genuine transparent 1000 x 1000 PNGs in `exports/Calivora-Brand/`; the design brief records the built-in imagegen prompt. Registration and account labels do not invent a new public domain. Content describes the supplied interfaces without asserting a clinical outcome, service integration, or undocumented mobile framework.

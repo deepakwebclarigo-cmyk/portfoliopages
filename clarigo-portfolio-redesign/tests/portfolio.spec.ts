@@ -6,9 +6,9 @@ import { projectContent } from '../lib/project-content';
 import { projectStories } from '../lib/project-story';
 
 test('inventory and all listing cards remain complete', async ({ page }) => {
-  expect(inventory).toHaveLength(44);
-  expect(inventory.filter(({ kind }) => kind === 'web')).toHaveLength(19);
-  expect(inventory.filter(({ kind }) => kind === 'mobile')).toHaveLength(25);
+  expect(inventory).toHaveLength(48);
+  expect(inventory.filter(({ kind }) => kind === 'web')).toHaveLength(20);
+  expect(inventory.filter(({ kind }) => kind === 'mobile')).toHaveLength(28);
   expect(new Set(inventory.map(({ slug }) => slug)).size).toBe(inventory.length);
   for (const field of ['summary', 'overview', 'design'] as const) expect(new Set(inventory.map(({ slug }) => projectContent[slug][field])).size).toBe(inventory.length);
   for (const field of ['featureIntro', 'workflowIntro', 'cta'] as const) expect(new Set(inventory.map(({ slug }) => projectStories[slug][field])).size).toBe(inventory.length);
@@ -37,7 +37,7 @@ test('inventory and all listing cards remain complete', async ({ page }) => {
   await expect(page.locator('.heroScene')).toHaveCount(0);
   await expect(page.locator('canvas.portfolioWebgl')).toHaveCount(1);
   await page.getByRole('button', { name: /Web & web apps/ }).click();
-  await expect(page.locator('.projectCard')).toHaveCount(19);
+  await expect(page.locator('.projectCard')).toHaveCount(20);
   await page.getByRole('button', { name: /Mobile apps/ }).click();
   await expect(page.locator('.projectCard')).toHaveCount(inventory.filter(project => project.kind === 'mobile').length);
   await page.getByRole('searchbox', { name: 'Search projects' }).fill('heartsync');

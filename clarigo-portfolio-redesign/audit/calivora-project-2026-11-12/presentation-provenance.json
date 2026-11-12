@@ -1,0 +1,58 @@
+{
+  "slug": "app-calivora",
+  "hero": [
+    {
+      "src": "/images/projects/calivora-splash-449fcf995d.webp",
+      "sha256": "449fcf995da3454655708ad68433e63eaaedf24cb234ca9835d522f739cfd2c9",
+      "crop": {
+        "left": 12,
+        "top": 55,
+        "width": 366,
+        "height": 761
+      }
+    },
+    {
+      "src": "/images/projects/calivora-care-plans-84e5858468.webp",
+      "sha256": "84e58584683da2764272784a962a557761197837abc3da59a6230ff170c4aee6",
+      "crop": {
+        "left": 12,
+        "top": 55,
+        "width": 366,
+        "height": 816
+      }
+    },
+    {
+      "src": "/images/projects/calivora-video-call-b583ffa91c.webp",
+      "sha256": "b583ffa91c317c77263c045d4ba692e1cc78a46b75a3bd9ff73257f5114c5055",
+      "crop": {
+        "left": 12,
+        "top": 55,
+        "width": 366,
+        "height": 761
+      }
+    }
+  ],
+  "thumbnail": [
+    {
+      "src": "/images/projects/calivora-splash-449fcf995d.webp",
+      "sha256": "449fcf995da3454655708ad68433e63eaaedf24cb234ca9835d522f739cfd2c9",
+      "crop": {
+        "left": 12,
+        "top": 55,
+        "width": 366,
+        "height": 761
+      }
+    },
+    {
+      "src": "/images/projects/calivora-provider-chat-cc72428367.webp",
+      "sha256": "cc7242836721c077d7d585c520b88f532c12f7770c8bbd8ca38d0d5cef1cbf82",
+      "crop": {
+        "left": 12,
+        "top": 55,
+        "width": 366,
+        "height": 761
+      }
+    }
+  ],
+  "design": "Existing shared mobile hardware and Clarigo thumbnail family; authentic app screenshots with updated branding"
+}

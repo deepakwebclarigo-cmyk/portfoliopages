@@ -36,6 +36,9 @@ export async function generateMetadata({ params }: DetailProps): Promise<Metadat
         apple: [{ url: '/images/brand/projects/infinote-app-icon-180.png', sizes: '180x180', type: 'image/png' }],
       },
     } : {}),
+    ...(project.slug === 'app-strivaro' ? { icons: { icon: [{ url: '/images/brand/projects/strivaro-icon-32.png', sizes: '32x32', type: 'image/png' }, { url: '/images/brand/projects/strivaro-icon-192.png', sizes: '192x192', type: 'image/png' }], apple: [{ url: '/images/brand/projects/strivaro-icon-180.png', sizes: '180x180', type: 'image/png' }] } } : {}),
+    ...(project.slug === 'app-axorabid' || project.slug === 'axorabid' ? { icons: { icon: [{ url: '/images/brand/projects/axorabid-icon-32.png', sizes: '32x32', type: 'image/png' }, { url: '/images/brand/projects/axorabid-icon-192.png', sizes: '192x192', type: 'image/png' }], apple: [{ url: '/images/brand/projects/axorabid-icon-180.png', sizes: '180x180', type: 'image/png' }] } } : {}),
+    ...(project.slug === 'app-calivora' ? { icons: { icon: [{ url: '/images/brand/projects/calivora-icon-32.png', sizes: '32x32', type: 'image/png' }, { url: '/images/brand/projects/calivora-icon-192.png', sizes: '192x192', type: 'image/png' }], apple: [{ url: '/images/brand/projects/calivora-icon-180.png', sizes: '180x180', type: 'image/png' }] } } : {}),
     openGraph: { title: project.name + ' | Clarigo Infotech', description: project.summary, url: '/portfolio/' + project.slug, images: [{ url: project.image, alt: project.name + ' original project artwork' }], type: 'article' },
     twitter: { card: 'summary_large_image', title: project.name + ' | Clarigo Infotech', description: project.summary, images: [project.image] },
   };
@@ -56,6 +59,7 @@ export default async function Detail({ params }: DetailProps) {
   const visualPositions = storyVisuals[slug];
   if (!story || !visualPositions || visualPositions.some((position) => !gallery[position])) throw new Error('Incomplete case-study presentation: ' + slug);
   const companionPair = [
+    ['axorabid', 'app-axorabid'],
     ['livsocial', 'app-livsocial'], ['little-butterflies', 'app-little-butterflies'],
     ['tukora-connect', 'app-tukora-connect'], ['beliri', 'app-beliri'],
     ['printlific', 'app-printlific'], ['been-there', 'app-been-there'], ['kegeltempo', 'app-kegeltempo'],

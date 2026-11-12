@@ -1,3 +1,8 @@
+import { strivaroContent } from './project-strivaro';
+import { axorabidContent } from './project-axorabid';
+import { calivoraContent } from './project-calivora';
+import { axorabidWebContent } from './project-axorabid-web';
+
 export type ProjectContent = {
   discipline: string;
   headline: string;
@@ -448,5 +453,5 @@ const contentCorrections: Record<string, Partial<ProjectContent>> = {
 };
 
 export const projectContent: Record<string, ProjectContent> = Object.fromEntries(
-  Object.entries(originalContent).map(([slug, content]) => [slug, { ...content, ...contentCorrections[slug] }]),
+  Object.entries({ ...originalContent, 'app-strivaro': strivaroContent, 'app-axorabid': axorabidContent, axorabid: axorabidWebContent, 'app-calivora': calivoraContent }).map(([slug, content]) => [slug, { ...content, ...contentCorrections[slug] }]),
 );

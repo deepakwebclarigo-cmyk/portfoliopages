@@ -1,0 +1,85 @@
+[
+  {
+    "screen": "splash",
+    "sourceSha256": "62e5dcd814f6415a8c18fcf56b3b0a639b60e009c741a0eae7906598b11a723f",
+    "sourceFile": "Spash1.png",
+    "regions": [
+      {
+        "x": 82,
+        "y": 292,
+        "w": 232,
+        "h": 205
+      }
+    ],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "dashboard",
+    "sourceSha256": "df33e9a4e4ba49c4c2156ef4ea713b215fba86c5b6c0c5d7a63152dc38d5b043",
+    "sourceFile": "Home.png",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "goals",
+    "sourceSha256": "19fdd7bbda691022199757897397fe2ab03b3fe3e98e24a94a3d0608dace3436",
+    "sourceFile": "Goals.png",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "community-feed",
+    "sourceSha256": "e1ed522c8bd980c0b64915033fd06d57368c7b7754df9f28936661345bbffe83",
+    "sourceFile": "Feed.png",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "daily-reward",
+    "sourceSha256": "f63c06c69031e3a3d2cf4a0308a4d79a53ead71c8fde8642e22227b6a620fe08",
+    "sourceFile": "Daily Spin Option 4.png",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "goal-preview",
+    "sourceSha256": "1dffbc9279f5fad3847a4747235446d0561026ffa699c8bbb542d172d211c4d7",
+    "sourceFile": "Predicted Success Odds.png",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "profile-setup",
+    "sourceSha256": "6d8d73f1d57b217bc990aca3093c974ea419902942adbb318ed5691ee79264a0",
+    "sourceFile": "Profile Setup.png",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "settings",
+    "sourceSha256": "74acf55c5747d640685e585e2d50babfd435fac7af97136134083e058effdc6c",
+    "sourceFile": "Settings.png",
+    "regions": [],
+    "outsideChanges": 0
+  },
+  {
+    "screen": "sign-in-validation",
+    "sourceSha256": "f69e20cc058db4a9ce601da9ac6eb7a61c5318dbb29d35a3bbb8424175f37b64",
+    "sourceFile": "Error validation.png",
+    "regions": [
+      {
+        "x": 127,
+        "y": 53,
+        "w": 137,
+        "h": 116
+      },
+      {
+        "x": 49,
+        "y": 187,
+        "w": 293,
+        "h": 30
+      }
+    ],
+    "outsideChanges": 0
+  }
+]

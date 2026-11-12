@@ -1,0 +1,86 @@
+[
+  {
+    "id": "splash",
+    "slug": "app-calivora",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\calivora-project-2026-11-12\\branded-png\\splash.png",
+    "scale": 1
+  },
+  {
+    "id": "home",
+    "slug": "app-calivora",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\calivora-project-2026-11-12\\branded-png\\home.png",
+    "scale": 1
+  },
+  {
+    "id": "personal-info",
+    "slug": "app-calivora",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\calivora-project-2026-11-12\\branded-png\\personal-info.png",
+    "scale": 1
+  },
+  {
+    "id": "medical-history",
+    "slug": "app-calivora",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\calivora-project-2026-11-12\\branded-png\\medical-history.png",
+    "scale": 1
+  },
+  {
+    "id": "care-plans",
+    "slug": "app-calivora",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\calivora-project-2026-11-12\\branded-png\\care-plans.png",
+    "scale": 1
+  },
+  {
+    "id": "daily-log",
+    "slug": "app-calivora",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\calivora-project-2026-11-12\\branded-png\\daily-log.png",
+    "scale": 1
+  },
+  {
+    "id": "labs",
+    "slug": "app-calivora",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\calivora-project-2026-11-12\\branded-png\\labs.png",
+    "scale": 1
+  },
+  {
+    "id": "upload-labs",
+    "slug": "app-calivora",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\calivora-project-2026-11-12\\branded-png\\upload-labs.png",
+    "scale": 1
+  },
+  {
+    "id": "provider-chat",
+    "slug": "app-calivora",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\calivora-project-2026-11-12\\branded-png\\provider-chat.png",
+    "scale": 1
+  },
+  {
+    "id": "video-call",
+    "slug": "app-calivora",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\calivora-project-2026-11-12\\branded-png\\video-call.png",
+    "scale": 1
+  },
+  {
+    "id": "sign-in",
+    "slug": "app-calivora",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\calivora-project-2026-11-12\\branded-png\\sign-in.png",
+    "scale": 1
+  },
+  {
+    "id": "registration",
+    "slug": "app-calivora",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\calivora-project-2026-11-12\\branded-png\\registration.png",
+    "scale": 1
+  },
+  {
+    "id": "account",
+    "slug": "app-calivora",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\calivora-project-2026-11-12\\branded-png\\account.png",
+    "scale": 1
+  },
+  {
+    "id": "brand-identity",
+    "slug": "app-calivora",
+    "png": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\calivora-project-2026-11-12\\branded-png\\brand-identity.png",
+    "scale": 1
+  }
+]

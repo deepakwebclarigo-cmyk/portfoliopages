@@ -41,7 +41,7 @@ async function visibleHover(page: Page, link: Locator) {
 }
 
 for (const density of [1, 2]) {
-  test('all 44 thumbnails retain their rendered image on hover at ' + density + 'x density', async ({ browser }) => {
+  test('all ' + inventory.length + ' thumbnails retain their rendered image on hover at ' + density + 'x density', async ({ browser }) => {
     test.setTimeout(240000);
     const context = await browser.newContext({ viewport: { width: 1440, height: 1000 }, deviceScaleFactor: density, reducedMotion: 'no-preference' });
     const page = await context.newPage(), gpuErrors: string[] = [], results = [];

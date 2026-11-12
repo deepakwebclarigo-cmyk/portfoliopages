@@ -922,5 +922,89 @@
       "sha256": "dee6818f9e44d788c3333280e3fa34149801ac48a1e32f8c63d0ddff3766d036",
       "bytes": 25126
     }
+  },
+  "app-strivaro": {
+    "src": "/images/thumbnails/app-strivaro-f4b8d9cff4.webp",
+    "width": 1600,
+    "height": 1325,
+    "sha256": "4103f02811391944d268fb57b4755705c33ff4086f1be88a832b4d6ff3eda2ef",
+    "bytes": 50476,
+    "card": {
+      "src": "/images/thumbnails/app-strivaro-f4b8d9cff4-card.webp",
+      "width": 720,
+      "height": 596,
+      "sha256": "cb65214b1b074401da0d0c885e208aa4de8878bf99926e58e7406d92a80f0f5e",
+      "bytes": 19466
+    },
+    "medium": {
+      "src": "/images/thumbnails/app-strivaro-f4b8d9cff4-medium.webp",
+      "width": 960,
+      "height": 795,
+      "sha256": "d62c33f5c38d0b145e8b7ecf6caa9f1dfc8598f9c5cac2d9b60039cc1c338774",
+      "bytes": 27366
+    }
+  },
+  "app-axorabid": {
+    "src": "/images/thumbnails/app-axorabid-53cc9b853d.webp",
+    "width": 1600,
+    "height": 1325,
+    "sha256": "e5f432ee54b55925c42efd00411b7d8f0374094db3882118f732585cb2d18556",
+    "bytes": 52516,
+    "card": {
+      "src": "/images/thumbnails/app-axorabid-53cc9b853d-card.webp",
+      "width": 720,
+      "height": 596,
+      "sha256": "6b0792250caba4eb018cebc12624d55aaf2a62656f33f6da98213c15ed31cc73",
+      "bytes": 18814
+    },
+    "medium": {
+      "src": "/images/thumbnails/app-axorabid-53cc9b853d-medium.webp",
+      "width": 960,
+      "height": 795,
+      "sha256": "768a4c6c45f31c9bcba1c9108a8be3012d6cf45bd82302abe0e22a2cda521197",
+      "bytes": 27736
+    }
+  },
+  "axorabid": {
+    "src": "/images/thumbnails/axorabid-d29a84925c.webp",
+    "width": 1600,
+    "height": 1325,
+    "sha256": "347b15d2b0131b08709851f401ab33fa47b7b578d1889062c4a3359e6c6d2c9b",
+    "bytes": 80344,
+    "card": {
+      "src": "/images/thumbnails/axorabid-d29a84925c-card.webp",
+      "width": 720,
+      "height": 596,
+      "sha256": "c2b64eb2f494767bac15efb309640f7e8663634f17dc241e5966a1453cfea4da",
+      "bytes": 28978
+    },
+    "medium": {
+      "src": "/images/thumbnails/axorabid-d29a84925c-medium.webp",
+      "width": 960,
+      "height": 795,
+      "sha256": "508719b99d3dbd949e065211071bb3e7b40013818f42b12f82032d543becde61",
+      "bytes": 42196
+    }
+  },
+  "app-calivora": {
+    "src": "/images/thumbnails/app-calivora-e5fd6d09f2.webp",
+    "width": 1600,
+    "height": 1325,
+    "sha256": "5918ca9b693c77c44319afabaca1f266761a0f7e9f12bcaf459a3d73197eec79",
+    "bytes": 46820,
+    "card": {
+      "src": "/images/thumbnails/app-calivora-e5fd6d09f2-card.webp",
+      "width": 720,
+      "height": 596,
+      "sha256": "7c790230b6a773955b473875df01bda1f27e314287ad5deaa9804e8197927542",
+      "bytes": 16906
+    },
+    "medium": {
+      "src": "/images/thumbnails/app-calivora-e5fd6d09f2-medium.webp",
+      "width": 960,
+      "height": 795,
+      "sha256": "3e882d6d7b3df7573f900f84cc4e402ad2977985c26c065a7f844b8fb46a82a2",
+      "bytes": 24820
+    }
   }
 }

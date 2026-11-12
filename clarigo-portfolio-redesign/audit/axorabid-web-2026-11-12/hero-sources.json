@@ -1,0 +1,16 @@
+{
+  "desktop": {
+    "src": "/images/projects/axorabid-seller-dashboard-4644c4b2b3.webp",
+    "sha256": "4644c4b2b3bb0b4933111deb00985204855d13e13e6327cad97759e4e4ef1702"
+  },
+  "mobile": {
+    "src": "/images/projects/app-axorabid-role-selection-c93684de7f.webp",
+    "sha256": "c93684de7f3ac96ffeee331aac05b85ff6dcaaf4a22e7d3d0ce5d18450266858",
+    "crop": {
+      "left": 12,
+      "top": 55,
+      "width": 366,
+      "height": 761
+    }
+  }
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "file": "Dealer.png",
+    "width": 390,
+    "height": 844,
+    "sha256": "b7d84f9a5ca31be0cd2a65074a72e9666d0ffc1f01b19b963d7fcc87d175190e",
+    "hasAlpha": true
+  },
+  {
+    "file": "Draft Listings _ Tile.png",
+    "width": 393,
+    "height": 871,
+    "sha256": "d8141ac082e9235e61735623a5a47bcd226b62f89294d6ebd6cb17794fa3fbc2",
+    "hasAlpha": true
+  },
+  {
+    "file": "Filled Screen.png",
+    "width": 390,
+    "height": 844,
+    "sha256": "17f0c39f909c0d5e8b47ae47be16b9c454d1717bfa9d357aff09b1757166486a",
+    "hasAlpha": true
+  },
+  {
+    "file": "List a vehicle _ Photos & Video.png",
+    "width": 393,
+    "height": 1255,
+    "sha256": "40849509e6a51e074a5ee208eae7cd1d63602ad514a551f851cdc3a0fe9dd399",
+    "hasAlpha": true
+  },
+  {
+    "file": "Login-dark.png",
+    "width": 390,
+    "height": 844,
+    "sha256": "764b225765fdd04927cccc51a7f99c403fb78317cd91e1b2df32d4d9641fd21f",
+    "hasAlpha": true
+  },
+  {
+    "file": "Logo.png",
+    "width": 500,
+    "height": 500,
+    "sha256": "f8afceedfb4e232f75ae1262285a5a8f6236efcdcaaf0da62ef648d5d863d616",
+    "hasAlpha": true
+  },
+  {
+    "file": "My Auctions _ Upcoming.png",
+    "width": 393,
+    "height": 961,
+    "sha256": "9b241fd9cd45063da662b62ab61f65f4f7d11ee76161796b5868cd5f4993e05b",
+    "hasAlpha": true
+  },
+  {
+    "file": "Onboarding-1 v1.png",
+    "width": 390,
+    "height": 844,
+    "sha256": "12af0f02039eb9639028a450efcbc3e2bcba68f92ce290a7cddc28c393778143",
+    "hasAlpha": true
+  },
+  {
+    "file": "Profile.png",
+    "width": 393,
+    "height": 967,
+    "sha256": "93181321b13e5b897e5a9a6bc59b6b84a99fb4685ad9653f996adcc21ac37b5c",
+    "hasAlpha": true
+  },
+  {
+    "file": "Seller Dashboard.png",
+    "width": 393,
+    "height": 1516,
+    "sha256": "36b493a35aa13d05ea1ef105a7dd5ad7f644e9f98824f16a220b74dbeb548167",
+    "hasAlpha": true
+  },
+  {
+    "file": "Seller Registration _ Basic Information.png",
+    "width": 390,
+    "height": 867,
+    "sha256": "bd4d967ff967903f7f8bd5e2cd8b73d0018b9cd478f38731a07b9706b6e76b2b",
+    "hasAlpha": true
+  }
+]

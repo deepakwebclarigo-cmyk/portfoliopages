@@ -1,11 +1,11 @@
 {
-  "projects": 44,
-  "web": 19,
-  "mobile": 25,
-  "decodedWebpVariants": 132,
-  "verifiedPngExports": 44,
+  "projects": 48,
+  "web": 20,
+  "mobile": 28,
+  "decodedWebpVariants": 144,
+  "verifiedPngExports": 48,
   "existingDetailArtworkUnchanged": true,
-  "inventoryUnchanged": true,
+  "existingInventoryUnchanged": true,
   "canvas": [
     1600,
     1325
@@ -15,6 +15,6 @@
     960,
     1600
   ],
-  "averageCardKB": 24.2,
+  "averageCardKB": 23.9,
   "errors": []
 }

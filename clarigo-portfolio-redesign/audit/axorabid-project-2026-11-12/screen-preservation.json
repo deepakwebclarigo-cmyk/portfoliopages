@@ -1,0 +1,154 @@
+[
+  {
+    "screen": "splash",
+    "sourceFile": "Filled Screen.png",
+    "sourceSha256": "17f0c39f909c0d5e8b47ae47be16b9c454d1717bfa9d357aff09b1757166486a",
+    "regions": [
+      {
+        "x": 70,
+        "y": 379,
+        "w": 250,
+        "h": 87
+      }
+    ],
+    "outsideChanges": 0,
+    "foregroundChanges": 0
+  },
+  {
+    "screen": "role-selection",
+    "sourceFile": "Dealer.png",
+    "sourceSha256": "b7d84f9a5ca31be0cd2a65074a72e9666d0ffc1f01b19b963d7fcc87d175190e",
+    "regions": [
+      {
+        "x": 99,
+        "y": 90,
+        "w": 190,
+        "h": 66
+      },
+      {
+        "x": 43,
+        "y": 174,
+        "w": 307,
+        "h": 30
+      }
+    ],
+    "outsideChanges": 0,
+    "foregroundChanges": 0
+  },
+  {
+    "screen": "onboarding",
+    "sourceFile": "Onboarding-1 v1.png",
+    "sourceSha256": "12af0f02039eb9639028a450efcbc3e2bcba68f92ce290a7cddc28c393778143",
+    "regions": [
+      {
+        "x": 16,
+        "y": 61,
+        "w": 188,
+        "h": 68
+      },
+      {
+        "x": 291,
+        "y": 147,
+        "w": 97,
+        "h": 572
+      }
+    ],
+    "outsideChanges": 0,
+    "foregroundChanges": 0,
+    "watermark": {
+      "removedPixels": 55454,
+      "foregroundPixelsPreserved": 30
+    }
+  },
+  {
+    "screen": "sign-in",
+    "sourceFile": "Login-dark.png",
+    "sourceSha256": "764b225765fdd04927cccc51a7f99c403fb78317cd91e1b2df32d4d9641fd21f",
+    "regions": [
+      {
+        "x": 99,
+        "y": 72,
+        "w": 190,
+        "h": 66
+      },
+      {
+        "x": 43,
+        "y": 156,
+        "w": 307,
+        "h": 29
+      }
+    ],
+    "outsideChanges": 0,
+    "foregroundChanges": 0
+  },
+  {
+    "screen": "registration",
+    "sourceFile": "Seller Registration _ Basic Information.png",
+    "sourceSha256": "bd4d967ff967903f7f8bd5e2cd8b73d0018b9cd478f38731a07b9706b6e76b2b",
+    "regions": [
+      {
+        "x": 18,
+        "y": 68,
+        "w": 187,
+        "h": 67
+      }
+    ],
+    "outsideChanges": 0,
+    "foregroundChanges": 0
+  },
+  {
+    "screen": "seller-dashboard",
+    "sourceFile": "Seller Dashboard.png",
+    "sourceSha256": "36b493a35aa13d05ea1ef105a7dd5ad7f644e9f98824f16a220b74dbeb548167",
+    "regions": [],
+    "outsideChanges": 0,
+    "foregroundChanges": 0
+  },
+  {
+    "screen": "upcoming-auctions",
+    "sourceFile": "My Auctions _ Upcoming.png",
+    "sourceSha256": "9b241fd9cd45063da662b62ab61f65f4f7d11ee76161796b5868cd5f4993e05b",
+    "regions": [],
+    "outsideChanges": 0,
+    "foregroundChanges": 0
+  },
+  {
+    "screen": "draft-listings",
+    "sourceFile": "Draft Listings _ Tile.png",
+    "sourceSha256": "d8141ac082e9235e61735623a5a47bcd226b62f89294d6ebd6cb17794fa3fbc2",
+    "regions": [],
+    "outsideChanges": 0,
+    "foregroundChanges": 0
+  },
+  {
+    "screen": "vehicle-media",
+    "sourceFile": "List a vehicle _ Photos & Video.png",
+    "sourceSha256": "40849509e6a51e074a5ee208eae7cd1d63602ad514a551f851cdc3a0fe9dd399",
+    "regions": [],
+    "outsideChanges": 0,
+    "foregroundChanges": 0
+  },
+  {
+    "screen": "profile",
+    "sourceFile": "Profile.png",
+    "sourceSha256": "93181321b13e5b897e5a9a6bc59b6b84a99fb4685ad9653f996adcc21ac37b5c",
+    "regions": [],
+    "outsideChanges": 0,
+    "foregroundChanges": 0
+  },
+  {
+    "screen": "brand-identity",
+    "sourceFile": "Logo.png",
+    "sourceSha256": "f8afceedfb4e232f75ae1262285a5a8f6236efcdcaaf0da62ef648d5d863d616",
+    "regions": [
+      {
+        "x": 66,
+        "y": 185,
+        "w": 370,
+        "h": 131
+      }
+    ],
+    "outsideChanges": 0,
+    "foregroundChanges": 0
+  }
+]

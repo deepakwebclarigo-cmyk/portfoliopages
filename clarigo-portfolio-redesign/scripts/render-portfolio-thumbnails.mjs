@@ -53,7 +53,7 @@ try{
    await fs.writeFile('public'+url,encoded.data);variants[label]={src:url,width:encoded.info.width,height:encoded.info.height,sha256:hash(encoded.data),bytes:encoded.data.length};
   }
   results[p.slug]={src,width:1600,height:1325,sha256:variants.original.sha256,bytes:variants.original.bytes,card:variants.card,medium:variants.medium,exportSha256:sha,sourceRefs:p.sources,fit};
-  await fs.writeFile(audit+'/rendered-thumbnails.json',JSON.stringify(results,null,2));console.log(p.slug+' '+(Object.keys(results).length)+'/44');
+  await fs.writeFile(audit+'/rendered-thumbnails.json',JSON.stringify(results,null,2));console.log(p.slug+' '+(Object.keys(results).length)+'/'+plan.length);
  }
  await page.close();
 }finally{await browser.close();}

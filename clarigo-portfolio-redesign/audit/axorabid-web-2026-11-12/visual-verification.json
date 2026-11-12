@@ -1,0 +1,30 @@
+{
+  "hoverChecks": [
+    {
+      "density": 1,
+      "source": "/images/thumbnails/axorabid-d29a84925c-card.webp",
+      "contrastRatio": 1.0097027121910223,
+      "pixelDifference": 1.9798990885416667
+    },
+    {
+      "density": 2,
+      "source": "/images/thumbnails/axorabid-d29a84925c-medium.webp",
+      "contrastRatio": 0.92187318945757,
+      "pixelDifference": 7.277913411458333
+    }
+  ],
+  "companionTransitions": 8,
+  "logo": {
+    "width": 1000,
+    "height": 1000,
+    "alpha": true,
+    "deliveredExportExact": true
+  },
+  "galleryScreens": 13,
+  "responsive": [
+    "desktop",
+    "tablet",
+    "mobile"
+  ],
+  "browserErrors": []
+}
