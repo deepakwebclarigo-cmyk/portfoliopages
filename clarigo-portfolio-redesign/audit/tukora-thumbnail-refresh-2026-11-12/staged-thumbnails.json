@@ -1,33 +1,33 @@
 {
   "tukora-connect": {
-    "src": "/images/thumbnails/tukora-connect-c1c2759a91.webp",
+    "src": "/images/thumbnails/tukora-connect-88d0eee5d7.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "d3e08dcca5e6f44f0fc7add6ad09e2ac9d5cf993bf40bd251cd435efc4e22611",
-    "bytes": 81112,
+    "sha256": "ac7bb55fe65884c9a5815111c6cb5b18a0b13225c211e644e004a19784bd75f9",
+    "bytes": 80502,
     "card": {
-      "src": "/images/thumbnails/tukora-connect-c1c2759a91-card.webp",
+      "src": "/images/thumbnails/tukora-connect-88d0eee5d7-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "5be97da3c0256a272b0f5e82595cc3b019980fea2560eabbaec33f952e584a58",
-      "bytes": 28278
+      "sha256": "e9a2cd022bbf4c4da9ebe2bfce9bbf95567ce32cc3229ee02873f6ac08858f14",
+      "bytes": 28220
     },
     "medium": {
-      "src": "/images/thumbnails/tukora-connect-c1c2759a91-medium.webp",
+      "src": "/images/thumbnails/tukora-connect-88d0eee5d7-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "c872ec21c9629051001963f637bce9fc88a1c5eb4762efeed52efc5a66bd74a6",
-      "bytes": 41892
+      "sha256": "6a7898fcde217f1bd3a9e0bfff3b7a37d546226ba746828cfd44ee879e27ee02",
+      "bytes": 41706
     },
-    "exportSha256": "c1c2759a91f4c5ab4142d3770ab069a676f6220c3e0b6653d470baa88b7d9f9c",
+    "exportSha256": "88d0eee5d751b728e7c10545514207d748f476a2aaf46688adf045a78ac7f0f7",
     "sourceRefs": [
       {
-        "src": "/images/projects/tukora-connect-theme-screen-bb5958f6ad.webp",
-        "sha256": "bb5958f6ade8af22d2e91d4f24e52d8cbaa06d81b6ec6a06c88feb8fcc87ac9c"
+        "src": "/images/projects/tukora-connect-theme-screen-c7cc07c436.webp",
+        "sha256": "c7cc07c4365d796027994983d11564c8709abf75890d98a64ad8d9bb04f9910a"
       },
       {
-        "src": "/images/projects/tukora-connect-theme-screen-3e2103914d.webp",
-        "sha256": "3e2103914dc41f8001e03c03b2a83a32f8c8f2040aea963d2899e84a0583073d"
+        "src": "/images/projects/tukora-connect-theme-screen-9ba6ec9e26.webp",
+        "sha256": "9ba6ec9e2682bf71dd1ed662d828f7adf9ee5ed32e39cb938c50ab2ff78acfe1"
       }
     ],
     "brand": {

@@ -1,0 +1,35 @@
+[
+  {
+    "slug": "app-calivora",
+    "index": 10,
+    "region": {
+      "left": 175,
+      "top": 250,
+      "width": 30,
+      "height": 30
+    },
+    "changedBytes": 0
+  },
+  {
+    "slug": "whizlume",
+    "index": 1,
+    "region": {
+      "left": 1260,
+      "top": 450,
+      "width": 25,
+      "height": 25
+    },
+    "changedBytes": 0
+  },
+  {
+    "slug": "app-strivaro",
+    "index": 4,
+    "region": {
+      "left": 220,
+      "top": 360,
+      "width": 15,
+      "height": 15
+    },
+    "changedBytes": 18
+  }
+]

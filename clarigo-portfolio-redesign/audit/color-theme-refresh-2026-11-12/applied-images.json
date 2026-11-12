@@ -13,19 +13,19 @@
       "originalBytes": 2655902
     },
     "asset": {
-      "src": "/images/projects/streamdexa-theme-preview-aac464890f.webp",
+      "src": "/images/projects/streamdexa-theme-preview-c5d1928be1.webp",
       "width": 1600,
       "height": 1334,
       "role": "composition",
       "gallery": false,
-      "sha256": "aac464890ff3fd4610587fd10d6a0e708e07867227489f21b9127bf006400db8",
-      "bytes": 315080,
+      "sha256": "c5d1928be1151122ac4493f38acd563f968bb59361afef8663e3799ade275e11",
+      "bytes": 315920,
       "originalBytes": 2655902
     },
-    "pngSha256": "3960e725a6f46241267f4d5ac758bdfe954c868bfb47296d31c7ba096f314a83",
+    "pngSha256": "b6651d8d2b36f5b6aa5c490a91de14fad2aaedfa91876ac021ab01408df3b7fd",
     "stats": {
-      "changedPixels": 1693526,
-      "protectedPixels": 109056,
+      "changedPixels": 1733784,
+      "protectedPixels": 68798,
       "maxSaturatedLuminanceDrift": 0.003363746683553659,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -67,7 +67,90 @@
         "w": 128,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        7,
+        3,
+        70
+      ],
+      [
+        17,
+        13,
+        77
+      ],
+      [
+        7,
+        9,
+        43
+      ],
+      [
+        11,
+        11,
+        55
+      ],
+      [
+        15,
+        7,
+        87
+      ],
+      [
+        2,
+        103,
+        255
+      ],
+      [
+        17,
+        6,
+        100
+      ],
+      [
+        149,
+        24,
+        220
+      ],
+      [
+        6,
+        180,
+        232
+      ],
+      [
+        3,
+        173,
+        228
+      ],
+      [
+        119,
+        40,
+        186
+      ],
+      [
+        155,
+        39,
+        219
+      ],
+      [
+        136,
+        11,
+        215
+      ],
+      [
+        53,
+        185,
+        227
+      ],
+      [
+        136,
+        41,
+        198
+      ],
+      [
+        135,
+        55,
+        197
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "streamdexa",
@@ -83,19 +166,19 @@
       "originalBytes": 834159
     },
     "asset": {
-      "src": "/images/projects/streamdexa-theme-screen-9faa33485d.webp",
+      "src": "/images/projects/streamdexa-theme-screen-d8fcb5b9c0.webp",
       "width": 1600,
       "height": 1325,
       "role": "composition",
       "gallery": false,
-      "sha256": "9faa33485d0a2f10ffa97ac53140e024e2281454f88fd2f696f08c8fff881747",
-      "bytes": 395124,
+      "sha256": "d8fcb5b9c05dc4354f6d32c666546f5774947f7942befdb14b38bfcb355f39ed",
+      "bytes": 394432,
       "originalBytes": 834159
     },
-    "pngSha256": "3d2c6bec1bea3ab92fcc5b312fd82a0b301afb5ddbaa9070d661bbed0c883f3d",
+    "pngSha256": "923557d15fa50e383179ba1f541481d0fe242f17f508da16035c490530e92273",
     "stats": {
-      "changedPixels": 982103,
-      "protectedPixels": 218534,
+      "changedPixels": 1065346,
+      "protectedPixels": 135291,
       "maxSaturatedLuminanceDrift": 0.003526246522935539,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -149,7 +232,90 @@
         "w": 96,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        7,
+        9,
+        43
+      ],
+      [
+        11,
+        11,
+        55
+      ],
+      [
+        13,
+        8,
+        71
+      ],
+      [
+        15,
+        7,
+        87
+      ],
+      [
+        2,
+        102,
+        255
+      ],
+      [
+        18,
+        6,
+        100
+      ],
+      [
+        149,
+        24,
+        220
+      ],
+      [
+        2,
+        173,
+        228
+      ],
+      [
+        6,
+        180,
+        232
+      ],
+      [
+        119,
+        40,
+        187
+      ],
+      [
+        20,
+        11,
+        68
+      ],
+      [
+        154,
+        38,
+        219
+      ],
+      [
+        53,
+        185,
+        227
+      ],
+      [
+        136,
+        40,
+        199
+      ],
+      [
+        136,
+        11,
+        215
+      ],
+      [
+        135,
+        54,
+        196
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "streamdexa",
@@ -165,19 +331,19 @@
       "originalBytes": 738736
     },
     "asset": {
-      "src": "/images/projects/streamdexa-theme-screen-885b3ac8c0.webp",
+      "src": "/images/projects/streamdexa-theme-screen-f71df29dcc.webp",
       "width": 1495,
       "height": 2200,
       "role": "composition",
       "gallery": false,
-      "sha256": "885b3ac8c080193714df9ca018282c2b4b468b4858824ddc0f4099ab29d3fd24",
-      "bytes": 1210834,
+      "sha256": "f71df29dcc41f2c8b0857a0da49bc081b48353ebe5156c2815754e9cc3dab124",
+      "bytes": 1224692,
       "originalBytes": 738736
     },
-    "pngSha256": "0e9fe41f712f99c90e1dec8a0110b3a13a3b6d7a2279013e3092fef662fcb85e",
+    "pngSha256": "324247dd65c722271dbae40fa2478a793a31b143e2017128767e757a9aadf171",
     "stats": {
-      "changedPixels": 1282984,
-      "protectedPixels": 735468,
+      "changedPixels": 1520800,
+      "protectedPixels": 497652,
       "maxSaturatedLuminanceDrift": 0.003526246522935539,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -267,7 +433,90 @@
         "w": 80,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        13,
+        6,
+        102
+      ],
+      [
+        23,
+        8,
+        116
+      ],
+      [
+        17,
+        6,
+        109
+      ],
+      [
+        108,
+        40,
+        186
+      ],
+      [
+        106,
+        25,
+        182
+      ],
+      [
+        106,
+        6,
+        177
+      ],
+      [
+        37,
+        22,
+        133
+      ],
+      [
+        107,
+        3,
+        173
+      ],
+      [
+        26,
+        17,
+        123
+      ],
+      [
+        4,
+        36,
+        70
+      ],
+      [
+        29,
+        24,
+        131
+      ],
+      [
+        35,
+        6,
+        123
+      ],
+      [
+        7,
+        4,
+        94
+      ],
+      [
+        2,
+        102,
+        255
+      ],
+      [
+        76,
+        196,
+        243
+      ],
+      [
+        70,
+        24,
+        151
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "streamdexa",
@@ -283,19 +532,19 @@
       "originalBytes": 657835
     },
     "asset": {
-      "src": "/images/projects/streamdexa-theme-screen-3e1b536170.webp",
+      "src": "/images/projects/streamdexa-theme-screen-cc4056f06b.webp",
       "width": 998,
       "height": 1273,
       "role": "composition",
       "gallery": false,
-      "sha256": "3e1b5361701194eac1417cd50e343c5462f1b9836347ed360bc3bd0aae55abae",
-      "bytes": 369468,
+      "sha256": "cc4056f06b031d4ebf8d5a0a25dc13db720041a650e7949b24106fcb6dc92bed",
+      "bytes": 370528,
       "originalBytes": 657835
     },
-    "pngSha256": "5a1e4a4e1632c1b1b58ce424816521b1ad402dec146d0bafb4445d421bf5b66d",
+    "pngSha256": "8260f531a22a035e214bf975876283c83a60cb3a9fbeb5c90a21b0bab91ee339",
     "stats": {
-      "changedPixels": 784412,
-      "protectedPixels": 72960,
+      "changedPixels": 839229,
+      "protectedPixels": 18143,
       "maxSaturatedLuminanceDrift": 0.003966365683318318,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -307,7 +556,60 @@
         "w": 240,
         "h": 304
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        1,
+        26,
+        100
+      ],
+      [
+        1,
+        15,
+        86
+      ],
+      [
+        1,
+        42,
+        120
+      ],
+      [
+        1,
+        33,
+        108
+      ],
+      [
+        1,
+        49,
+        125
+      ],
+      [
+        52,
+        86,
+        210
+      ],
+      [
+        1,
+        20,
+        92
+      ],
+      [
+        1,
+        41,
+        135
+      ],
+      [
+        33,
+        135,
+        227
+      ],
+      [
+        52,
+        77,
+        210
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "streamdexa",
@@ -323,19 +625,19 @@
       "originalBytes": 798433
     },
     "asset": {
-      "src": "/images/projects/streamdexa-theme-screen-d8d962a62b.webp",
+      "src": "/images/projects/streamdexa-theme-screen-16ee2a8d2b.webp",
       "width": 1495,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "d8d962a62b40a183110c7a05e10bd5a88ea37ca64f2ebc45aa3f96a1321560c5",
-      "bytes": 770480,
+      "sha256": "16ee2a8d2b4d30bbee38cd042ede3f6d82dba6e0562ec0f183996f18ae769ee8",
+      "bytes": 771326,
       "originalBytes": 798433
     },
-    "pngSha256": "98f59a60988eb2c4444d3efbf17d4a4b7c01bfba42a1233cdd2813dc2254c3d2",
+    "pngSha256": "ee6f5df5bfb5ef427623072477683d47ca59ed2f61b42e1a55c9deb681d73959",
     "stats": {
-      "changedPixels": 1775295,
-      "protectedPixels": 392687,
+      "changedPixels": 2054761,
+      "protectedPixels": 113221,
       "maxSaturatedLuminanceDrift": 0.003404418511431473,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -389,7 +691,75 @@
         "w": 64,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        18,
+        22,
+        54
+      ],
+      [
+        21,
+        27,
+        70
+      ],
+      [
+        9,
+        13,
+        45
+      ],
+      [
+        13,
+        19,
+        58
+      ],
+      [
+        25,
+        36,
+        85
+      ],
+      [
+        11,
+        14,
+        50
+      ],
+      [
+        27,
+        34,
+        75
+      ],
+      [
+        34,
+        43,
+        92
+      ],
+      [
+        23,
+        30,
+        82
+      ],
+      [
+        39,
+        40,
+        102
+      ],
+      [
+        15,
+        20,
+        64
+      ],
+      [
+        51,
+        40,
+        106
+      ],
+      [
+        30,
+        40,
+        98
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "streamdexa",
@@ -405,19 +775,19 @@
       "originalBytes": 535896
     },
     "asset": {
-      "src": "/images/projects/streamdexa-theme-screen-9359f2ab2d.webp",
+      "src": "/images/projects/streamdexa-theme-screen-aa0b087a59.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "9359f2ab2d0ebf822b0bf02c29b471bc8ccaeb3c64119c6132a5de7783a01fb8",
-      "bytes": 879550,
+      "sha256": "aa0b087a593e29088cba72f3c7ac7a8667bbd72e9d626200bfa0b3bd2852d0b8",
+      "bytes": 880644,
       "originalBytes": 535896
     },
-    "pngSha256": "278d8a09341cfbe069dcf5ec8e9dc02a3a1800c7e07d06742d728b7bad7c9263",
+    "pngSha256": "916b4829591c4e43c37b7c5182a90edef74b9a48f792fe709eaf2688e1e58b48",
     "stats": {
-      "changedPixels": 1484343,
-      "protectedPixels": 563456,
+      "changedPixels": 1525481,
+      "protectedPixels": 522318,
       "maxSaturatedLuminanceDrift": 0.003554488690584612,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -477,7 +847,15 @@
         "w": 176,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        4,
+        35,
+        69
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "streamdexa",
@@ -493,19 +871,19 @@
       "originalBytes": 733440
     },
     "asset": {
-      "src": "/images/projects/streamdexa-theme-screen-d964347dee.webp",
+      "src": "/images/projects/streamdexa-theme-screen-b74b9349ff.webp",
       "width": 1495,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "d964347dee3cd198d3706601f39deff842996d3473b6c0352d5e76d1038c1b43",
-      "bytes": 1224284,
+      "sha256": "b74b9349ff660cb6fe9eede1220003f53fb56a6233ad08c9ebce0d091997c531",
+      "bytes": 1232498,
       "originalBytes": 733440
     },
-    "pngSha256": "67b557cf4a22cb019c960570f0e7fc55551005feda09228761e25b053375a232",
+    "pngSha256": "f52a21246eccff6647d2d1fd5bd41cc27dbdf9e8b5dc1bdfe220f1f7c1dbd5e7",
     "stats": {
-      "changedPixels": 1318391,
-      "protectedPixels": 718629,
+      "changedPixels": 1540497,
+      "protectedPixels": 496523,
       "maxSaturatedLuminanceDrift": 0.003461840835237706,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -601,7 +979,90 @@
         "w": 80,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        13,
+        5,
+        102
+      ],
+      [
+        17,
+        7,
+        108
+      ],
+      [
+        23,
+        8,
+        116
+      ],
+      [
+        107,
+        26,
+        183
+      ],
+      [
+        108,
+        38,
+        186
+      ],
+      [
+        107,
+        7,
+        177
+      ],
+      [
+        26,
+        17,
+        123
+      ],
+      [
+        37,
+        21,
+        133
+      ],
+      [
+        35,
+        6,
+        123
+      ],
+      [
+        107,
+        4,
+        173
+      ],
+      [
+        4,
+        36,
+        70
+      ],
+      [
+        29,
+        24,
+        131
+      ],
+      [
+        7,
+        3,
+        93
+      ],
+      [
+        76,
+        197,
+        243
+      ],
+      [
+        2,
+        102,
+        255
+      ],
+      [
+        88,
+        210,
+        248
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "streamdexa",
@@ -617,19 +1078,19 @@
       "originalBytes": 726854
     },
     "asset": {
-      "src": "/images/projects/streamdexa-theme-screen-d7a60f30f0.webp",
+      "src": "/images/projects/streamdexa-theme-screen-9ff3c3fb9b.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "d7a60f30f0c82afdae824fabf1b97187cfedf0d842f21a1d376a53e1ef7a3fef",
-      "bytes": 1284630,
+      "sha256": "9ff3c3fb9b955d79df0ce8cab14010aa71f21d50868ff5a43a3c77a5518cce32",
+      "bytes": 1299168,
       "originalBytes": 726854
     },
-    "pngSha256": "a4995bef0d70002ae4e8082a2d458e9e724e2945e664bb85f4aa3a47151e424c",
+    "pngSha256": "28d85bab152818b1b0017ebef1fdde979d2d336b92d5b8914ee5f4c4abd33869",
     "stats": {
-      "changedPixels": 937589,
-      "protectedPixels": 1104384,
+      "changedPixels": 1145123,
+      "protectedPixels": 896850,
       "maxSaturatedLuminanceDrift": 0.003554488690584612,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -665,7 +1126,55 @@
         "w": 480,
         "h": 224
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        5,
+        36,
+        70
+      ],
+      [
+        60,
+        100,
+        119
+      ],
+      [
+        52,
+        87,
+        105
+      ],
+      [
+        73,
+        119,
+        136
+      ],
+      [
+        66,
+        107,
+        122
+      ],
+      [
+        86,
+        135,
+        153
+      ],
+      [
+        53,
+        92,
+        116
+      ],
+      [
+        118,
+        167,
+        183
+      ],
+      [
+        104,
+        152,
+        168
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "streamdexa",
@@ -681,19 +1190,19 @@
       "originalBytes": 1203141
     },
     "asset": {
-      "src": "/images/projects/streamdexa-theme-screen-f79da67e91.webp",
+      "src": "/images/projects/streamdexa-theme-screen-8b5a3ab93b.webp",
       "width": 1493,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "f79da67e91730d2c43a2fdaff39083a534c17d091e0bacbfd873587a4c058af8",
-      "bytes": 549212,
+      "sha256": "8b5a3ab93b8b216988d6f0c052ae10643f2797be67006b16ed9b6e47ae6d5850",
+      "bytes": 560420,
       "originalBytes": 1203141
     },
-    "pngSha256": "c33aef7484c3bfc34b0d46da47682bdc19e330e650d2ac88170a32b04b138077",
+    "pngSha256": "c54d90589637e2e5eb9288313609bc2c276565ccf215078d1425ab7e239aa238",
     "stats": {
-      "changedPixels": 1551089,
-      "protectedPixels": 542976,
+      "changedPixels": 1678044,
+      "protectedPixels": 416021,
       "maxSaturatedLuminanceDrift": 0.003526246522935539,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -711,7 +1220,40 @@
         "w": 1296,
         "h": 416
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        60,
+        100,
+        119
+      ],
+      [
+        52,
+        87,
+        106
+      ],
+      [
+        72,
+        119,
+        137
+      ],
+      [
+        53,
+        91,
+        116
+      ],
+      [
+        66,
+        107,
+        122
+      ],
+      [
+        86,
+        135,
+        153
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "tukora-connect",
@@ -800,19 +1342,19 @@
       "originalBytes": 604107
     },
     "asset": {
-      "src": "/images/projects/tukora-connect-theme-screen-e1f4d5bc22.webp",
+      "src": "/images/projects/tukora-connect-theme-screen-3ec3366336.webp",
       "width": 1495,
       "height": 2200,
       "role": "composition",
       "gallery": false,
-      "sha256": "e1f4d5bc22ad9c26b655a03e73fbba8caf418f53b3faae6807d54716b0ece5c1",
-      "bytes": 226454,
+      "sha256": "3ec336633624f63922c57e8d94d079d50d1f08106a6658b746bb7ba2e5554d05",
+      "bytes": 225080,
       "originalBytes": 604107
     },
-    "pngSha256": "0e87bdd3f1f7660877e3bce82246009066190ce9bbb0a49beae00c51b403f0f8",
+    "pngSha256": "e8a09a867b98b8d59bd0fdb6169e86e59be1c6dc6376806b5e96bd71ae08db8f",
     "stats": {
-      "changedPixels": 1859299,
-      "protectedPixels": 3690,
+      "changedPixels": 1862477,
+      "protectedPixels": 512,
       "maxSaturatedLuminanceDrift": 0.004053608854525548,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -830,7 +1372,15 @@
         "w": 96,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        51,
+        121,
+        184
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "tukora-connect",
@@ -925,19 +1475,19 @@
       "originalBytes": 601366
     },
     "asset": {
-      "src": "/images/projects/tukora-connect-theme-screen-3e2103914d.webp",
+      "src": "/images/projects/tukora-connect-theme-screen-9ba6ec9e26.webp",
       "width": 1495,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "3e2103914dc41f8001e03c03b2a83a32f8c8f2040aea963d2899e84a0583073d",
-      "bytes": 369924,
+      "sha256": "9ba6ec9e2682bf71dd1ed662d828f7adf9ee5ed32e39cb938c50ab2ff78acfe1",
+      "bytes": 364868,
       "originalBytes": 601366
     },
-    "pngSha256": "f2f8db6cb166ebd7487500013ea29f9092bb8a72399d1075952b01eb2be7750f",
+    "pngSha256": "2f7e1b5a996a8901884a823cecd7a64844d95d5a3b4a73fc7e7f67c6f03cdf64",
     "stats": {
-      "changedPixels": 1951916,
-      "protectedPixels": 126763,
+      "changedPixels": 2017707,
+      "protectedPixels": 60972,
       "maxSaturatedLuminanceDrift": 0.003908794240844449,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -1009,7 +1559,15 @@
         "w": 240,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        51,
+        121,
+        184
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "tukora-connect",
@@ -1025,19 +1583,19 @@
       "originalBytes": 360260
     },
     "asset": {
-      "src": "/images/projects/tukora-connect-theme-screen-7f5edbda47.webp",
+      "src": "/images/projects/tukora-connect-theme-screen-140bff32f7.webp",
       "width": 1495,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "7f5edbda477953c0aa849b30d1d1ccaaaed6db105e6f1612289fd4c7f212deb3",
-      "bytes": 180778,
+      "sha256": "140bff32f71d4a04066b7b1858ef4f8fdb1e17cde4d982165e44b1ae9838c523",
+      "bytes": 181392,
       "originalBytes": 360260
     },
-    "pngSha256": "a1274eed4a01eeb8be4bd5aa88ec72cb73407a2e12479f05575b4ec39baf9846",
+    "pngSha256": "b5af98a923ede1d21697840e7486a1089fd778dc17ea827f3add53c59e11ab1a",
     "stats": {
-      "changedPixels": 1888160,
-      "protectedPixels": 11008,
+      "changedPixels": 1892620,
+      "protectedPixels": 6548,
       "maxSaturatedLuminanceDrift": 0.0037681015237984727,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -1055,7 +1613,20 @@
         "w": 96,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        52,
+        200,
+        91
+      ],
+      [
+        51,
+        121,
+        184
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "tukora-connect",
@@ -1117,19 +1688,19 @@
       "originalBytes": 660189
     },
     "asset": {
-      "src": "/images/projects/tukora-connect-theme-screen-bb5958f6ad.webp",
+      "src": "/images/projects/tukora-connect-theme-screen-c7cc07c436.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "bb5958f6ade8af22d2e91d4f24e52d8cbaa06d81b6ec6a06c88feb8fcc87ac9c",
-      "bytes": 362934,
+      "sha256": "c7cc07c4365d796027994983d11564c8709abf75890d98a64ad8d9bb04f9910a",
+      "bytes": 361948,
       "originalBytes": 660189
     },
-    "pngSha256": "b7812e6c9081d7ec212d508c58e1230bb0044f1d0782cdd7ffcbe78c1f5553d0",
+    "pngSha256": "dbd420d3d902078b6255fbb9896dd1a5ee05d9b66f8b344792e59fc5a0be87e3",
     "stats": {
-      "changedPixels": 1970869,
-      "protectedPixels": 46255,
+      "changedPixels": 1991243,
+      "protectedPixels": 25881,
       "maxSaturatedLuminanceDrift": 0.003908794240844449,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -1201,7 +1772,15 @@
         "w": 64,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        51,
+        121,
+        184
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "paranest",
@@ -1217,19 +1796,19 @@
       "originalBytes": 105643
     },
     "asset": {
-      "src": "/images/projects/paranest-theme-preview-67bd428350.webp",
+      "src": "/images/projects/paranest-theme-preview-fc907f2766.webp",
       "width": 1501,
       "height": 1232,
       "role": "composition",
       "gallery": false,
-      "sha256": "67bd4283503f25fa89e008daebb22b9435ca43c613107a6a7dcdbbfd28fd49da",
-      "bytes": 154536,
+      "sha256": "fc907f2766e30faa7adef1024365ce5e56a902f02c93dab0f681689577234765",
+      "bytes": 154230,
       "originalBytes": 105643
     },
-    "pngSha256": "7ddabf76ae4dcd56ebf1b9daae7f9ae22406013f7b70a3fe7f8c3206587dc1e6",
+    "pngSha256": "8243320d92a8c20abc6adbb4df059d98a1f99827a5663b9ea5e0de3485692046",
     "stats": {
-      "changedPixels": 1558942,
-      "protectedPixels": 4809,
+      "changedPixels": 1561495,
+      "protectedPixels": 2256,
       "maxSaturatedLuminanceDrift": 0.003529412856656644,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -1247,7 +1826,45 @@
         "w": 64,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        149,
+        198,
+        251
+      ],
+      [
+        160,
+        206,
+        250
+      ],
+      [
+        239,
+        133,
+        57
+      ],
+      [
+        143,
+        194,
+        251
+      ],
+      [
+        111,
+        161,
+        230
+      ],
+      [
+        241,
+        133,
+        43
+      ],
+      [
+        112,
+        162,
+        229
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "paranest",
@@ -1263,19 +1880,19 @@
       "originalBytes": 349200
     },
     "asset": {
-      "src": "/images/projects/paranest-theme-screen-94c798ea16.webp",
+      "src": "/images/projects/paranest-theme-screen-64148d7acc.webp",
       "width": 1600,
       "height": 1325,
       "role": "composition",
       "gallery": false,
-      "sha256": "94c798ea1607bf6e8f1b5b0d13ad4f52bce894a09a543b566f595239310e89b4",
-      "bytes": 219100,
+      "sha256": "64148d7acca96feddc55460334a5d7987aaec0518cae95d4b544952d00c09b3f",
+      "bytes": 216042,
       "originalBytes": 349200
     },
-    "pngSha256": "5e9c24dcb33d241b2442aa7e76e1121cbcbdbaaec34623c1a9f46c194e9c245e",
+    "pngSha256": "982f194df01ddcbef958f71985de8056ce405132d54658f7c1d7293869f77e31",
     "stats": {
-      "changedPixels": 1152718,
-      "protectedPixels": 32594,
+      "changedPixels": 1175832,
+      "protectedPixels": 9480,
       "maxSaturatedLuminanceDrift": 0.0035196719570598223,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -1311,7 +1928,40 @@
         "w": 64,
         "h": 80
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        144,
+        193,
+        252
+      ],
+      [
+        239,
+        133,
+        57
+      ],
+      [
+        111,
+        161,
+        230
+      ],
+      [
+        142,
+        194,
+        252
+      ],
+      [
+        241,
+        133,
+        42
+      ],
+      [
+        112,
+        162,
+        229
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "paranest",
@@ -1327,19 +1977,19 @@
       "originalBytes": 324619
     },
     "asset": {
-      "src": "/images/projects/paranest-theme-screen-dd95a33f5f.webp",
+      "src": "/images/projects/paranest-theme-screen-542494733c.webp",
       "width": 1495,
       "height": 2200,
       "role": "composition",
       "gallery": false,
-      "sha256": "dd95a33f5f4acab3f5cfe37328f3e6d88c164323390c26f2d6f9983c360158ca",
-      "bytes": 653414,
+      "sha256": "542494733cb7d196cc7c5e91eae9ef88825d1275a41e9a0e91910921e2318c6d",
+      "bytes": 656278,
       "originalBytes": 324619
     },
-    "pngSha256": "8392c3e29db47ce6534ade20a264bcc5c39f2540eb18f1a0445aced3c94ec52d",
+    "pngSha256": "4056c9ed5dcf57a0dd3915c80b22a18056f53e6cfbdfd2c8ba3e35b5fd7d3928",
     "stats": {
-      "changedPixels": 329028,
-      "protectedPixels": 451072,
+      "changedPixels": 361904,
+      "protectedPixels": 418196,
       "maxSaturatedLuminanceDrift": 0.0035379690158044985,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -1453,7 +2103,15 @@
         "w": 112,
         "h": 96
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        241,
+        133,
+        42
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "paranest",
@@ -1469,19 +2127,19 @@
       "originalBytes": 571647
     },
     "asset": {
-      "src": "/images/projects/paranest-theme-screen-fee94b145e.webp",
+      "src": "/images/projects/paranest-theme-screen-c90387e679.webp",
       "width": 999,
       "height": 1273,
       "role": "composition",
       "gallery": false,
-      "sha256": "fee94b145e20737dee7412e5666cf6d8be698504796b268f38f7c27931ec5fcd",
-      "bytes": 347822,
+      "sha256": "c90387e6793147a5382ef54b286435295d227b2f3b986439f7cc75d5496006a2",
+      "bytes": 346952,
       "originalBytes": 571647
     },
-    "pngSha256": "5eb966fb6b8df605b0a35e3f0dd3d1f39f31d0fb998423c8b341f404501ebe0f",
+    "pngSha256": "61a2e5cbec47f6d6d01a46b343bb5fd8e62c455d161e3255aab0a2e77c37c41d",
     "stats": {
-      "changedPixels": 727180,
-      "protectedPixels": 163328,
+      "changedPixels": 833059,
+      "protectedPixels": 57449,
       "maxSaturatedLuminanceDrift": 0.003422112957353507,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -1559,7 +2217,15 @@
         "w": 80,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        241,
+        133,
+        42
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "paranest",
@@ -1575,19 +2241,19 @@
       "originalBytes": 948337
     },
     "asset": {
-      "src": "/images/projects/paranest-theme-screen-8920b8c5b4.webp",
+      "src": "/images/projects/paranest-theme-screen-44ec67a05d.webp",
       "width": 1495,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "8920b8c5b4f6030255c7296bb66ff5acb678ca19f4dc5c7fd89e554df61e72e5",
-      "bytes": 543196,
+      "sha256": "44ec67a05dff30bde46d5210336359d50135a24e057cc1da1699be32a9ab532d",
+      "bytes": 540632,
       "originalBytes": 948337
     },
-    "pngSha256": "0b709b066b58cb4440798cf81ce45d4b3e014e26750f69d08284420cc097d837",
+    "pngSha256": "b6e40112a01941cd58a106779ffc5caf6a6aa14a046a68deea536ed6bc9a24fc",
     "stats": {
-      "changedPixels": 1684681,
-      "protectedPixels": 397443,
+      "changedPixels": 1991393,
+      "protectedPixels": 90731,
       "maxSaturatedLuminanceDrift": 0.003547092833170895,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -1677,7 +2343,30 @@
         "w": 96,
         "h": 80
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        144,
+        193,
+        252
+      ],
+      [
+        241,
+        133,
+        42
+      ],
+      [
+        142,
+        194,
+        253
+      ],
+      [
+        239,
+        133,
+        57
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "paranest",
@@ -1693,19 +2382,19 @@
       "originalBytes": 442243
     },
     "asset": {
-      "src": "/images/projects/paranest-theme-screen-21d0a0dfdd.webp",
+      "src": "/images/projects/paranest-theme-screen-5dc25132a8.webp",
       "width": 1495,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "21d0a0dfdd6fc3c642e5076e58db504bb21c84e646adaffacfd659506bc22ba3",
-      "bytes": 868910,
+      "sha256": "5dc25132a81bdd90b4dec26c408dd24532a42eec1831ebdea35f5f84a2ac4a8b",
+      "bytes": 866610,
       "originalBytes": 442243
     },
-    "pngSha256": "2ae76a343f0ab3b09f54b502d5eeeb01312887000a17f4a1d55911df30d576e6",
+    "pngSha256": "2c3494dd9d2aee466551066f2c978780d252c39c00b9daaa2586033415178d72",
     "stats": {
-      "changedPixels": 1541970,
-      "protectedPixels": 470526,
+      "changedPixels": 1555492,
+      "protectedPixels": 457004,
       "maxSaturatedLuminanceDrift": 0.003656483144925171,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -1813,7 +2502,20 @@
         "w": 128,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        144,
+        193,
+        252
+      ],
+      [
+        142,
+        194,
+        252
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "paranest",
@@ -1829,19 +2531,19 @@
       "originalBytes": 292062
     },
     "asset": {
-      "src": "/images/projects/paranest-theme-screen-d9c21de440.webp",
+      "src": "/images/projects/paranest-theme-screen-bf49a9a26b.webp",
       "width": 1495,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "d9c21de4402fa118e498f8c56310b3226e8b777f2887a5f673e81fb94a0f1ad7",
-      "bytes": 533644,
+      "sha256": "bf49a9a26bc720faa4e1b87457c8a4611c1d4620d663f64727f4673a4885e636",
+      "bytes": 534748,
       "originalBytes": 292062
     },
-    "pngSha256": "e104d3c5919efc91a244593df1e7d3f3252531861729070eb8fd15b8f47dd84d",
+    "pngSha256": "fa80d092daf720674a6e5d8ef81b64a3981d5edc456fd2f5336a6c5c10bceb88",
     "stats": {
-      "changedPixels": 1719491,
-      "protectedPixels": 314368,
+      "changedPixels": 1730705,
+      "protectedPixels": 303154,
       "maxSaturatedLuminanceDrift": 0.0035501325743197976,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -1937,7 +2639,15 @@
         "w": 288,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        241,
+        133,
+        42
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "paranest",
@@ -1953,19 +2663,19 @@
       "originalBytes": 970564
     },
     "asset": {
-      "src": "/images/projects/paranest-theme-screen-bc7451b4e0.webp",
+      "src": "/images/projects/paranest-theme-screen-ddcb5d88a4.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "bc7451b4e0f859fffecfb8e022e93feeb2864e5cf7705d78402e7577ccc41d9d",
-      "bytes": 521436,
+      "sha256": "ddcb5d88a41e330dc0aa2c9116d030c4b70dc5edd24646ba4d30d98968140268",
+      "bytes": 522034,
       "originalBytes": 970564
     },
-    "pngSha256": "93689bee5acaf911696ac7a7f7c01a06f5cb9e6dc665c02521364d67d38b5723",
+    "pngSha256": "f63b2a470859f1b75c30ad8bf9ef77a72343a0f83db90646552980fe675a34bb",
     "stats": {
-      "changedPixels": 1716450,
-      "protectedPixels": 393621,
+      "changedPixels": 1971648,
+      "protectedPixels": 138423,
       "maxSaturatedLuminanceDrift": 0.0035196719570598223,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -2079,7 +2789,15 @@
         "w": 96,
         "h": 96
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        241,
+        133,
+        42
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "paranest",
@@ -2095,19 +2813,19 @@
       "originalBytes": 423748
     },
     "asset": {
-      "src": "/images/projects/paranest-theme-screen-bfdd48f155.webp",
+      "src": "/images/projects/paranest-theme-screen-46dbe12388.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "bfdd48f155cd9a148d9e63381ec469ebccc674fb5c1aee86ab9165109b5cd887",
-      "bytes": 663636,
+      "sha256": "46dbe12388b4024447f763f1a09d7d1543412b6dbe75e14e9807f6be678a3aba",
+      "bytes": 666782,
       "originalBytes": 423748
     },
-    "pngSha256": "e0f62373a4983b479ee6592a04f34c86f6d2938411557e79be43b642ade96212",
+    "pngSha256": "b54e36d784d1350c5619e2e5066b689816122181dd8a39d806616e5c69f1b36a",
     "stats": {
-      "changedPixels": 326085,
-      "protectedPixels": 461271,
+      "changedPixels": 359725,
+      "protectedPixels": 427631,
       "maxSaturatedLuminanceDrift": 0.0035104988043653806,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -2215,7 +2933,15 @@
         "w": 112,
         "h": 96
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        241,
+        133,
+        42
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "alumvia",
@@ -2231,19 +2957,19 @@
       "originalBytes": 188231
     },
     "asset": {
-      "src": "/images/projects/alumvia-theme-preview-1193a9c1d7.webp",
+      "src": "/images/projects/alumvia-theme-preview-f2f61d0457.webp",
       "width": 1456,
       "height": 1232,
       "role": "composition",
       "gallery": false,
-      "sha256": "1193a9c1d704711e9d7b22a4b5a743627dbaa096905c5817913247ced9e37e51",
-      "bytes": 258396,
+      "sha256": "f2f61d04579ad9ddabc8da6f721c0d00acb80f4be9be375ff0743e628fa554f9",
+      "bytes": 258928,
       "originalBytes": 188231
     },
-    "pngSha256": "86904a6786d48a93ff989b4c214cf979bb1f78c60bb248b25fa5b18599c32881",
+    "pngSha256": "b6901b34519364b14380e17bfb5035f73da2a78b4ff30c77a5884059ec893bf2",
     "stats": {
-      "changedPixels": 1410023,
-      "protectedPixels": 126464,
+      "changedPixels": 1485582,
+      "protectedPixels": 50905,
       "maxSaturatedLuminanceDrift": 0.0033622379503043254,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -2267,7 +2993,60 @@
         "w": 160,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        184,
+        221,
+        227
+      ],
+      [
+        14,
+        61,
+        70
+      ],
+      [
+        181,
+        219,
+        223
+      ],
+      [
+        11,
+        161,
+        171
+      ],
+      [
+        113,
+        199,
+        200
+      ],
+      [
+        2,
+        118,
+        131
+      ],
+      [
+        43,
+        78,
+        255
+      ],
+      [
+        38,
+        170,
+        255
+      ],
+      [
+        52,
+        68,
+        87
+      ],
+      [
+        10,
+        155,
+        164
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "alumvia",
@@ -2283,19 +3062,19 @@
       "originalBytes": 1649021
     },
     "asset": {
-      "src": "/images/projects/alumvia-theme-screen-6c50751ab7.webp",
+      "src": "/images/projects/alumvia-theme-screen-b8bb634085.webp",
       "width": 1600,
       "height": 1326,
       "role": "composition",
       "gallery": false,
-      "sha256": "6c50751ab727fa25c3ce27485560599ea21c95bd7080aa5c2476cd90947d3e84",
-      "bytes": 356844,
+      "sha256": "b8bb634085c569fae715f2393324d18f690359cec6f1112aff1fb49a7a204d20",
+      "bytes": 356480,
       "originalBytes": 1649021
     },
-    "pngSha256": "d3ac538de44d672dcf90feb24bb230cdc6ef4358dd1d759b782294e8b9fe8fae",
+    "pngSha256": "d991fe82def539fa2fdf2d6960e2b2b0e3241f733a581fc92c0f9491fc1545eb",
     "stats": {
-      "changedPixels": 915887,
-      "protectedPixels": 276480,
+      "changedPixels": 1070339,
+      "protectedPixels": 122028,
       "maxSaturatedLuminanceDrift": 0.0033680909645210644,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -2355,7 +3134,40 @@
         "w": 64,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        184,
+        221,
+        227
+      ],
+      [
+        180,
+        218,
+        223
+      ],
+      [
+        113,
+        199,
+        200
+      ],
+      [
+        43,
+        78,
+        255
+      ],
+      [
+        38,
+        169,
+        255
+      ],
+      [
+        122,
+        129,
+        254
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "alumvia",
@@ -2371,19 +3183,19 @@
       "originalBytes": 587256
     },
     "asset": {
-      "src": "/images/projects/alumvia-theme-screen-1a78e0dfc7.webp",
+      "src": "/images/projects/alumvia-theme-screen-0ad49f7e78.webp",
       "width": 1495,
       "height": 2200,
       "role": "composition",
       "gallery": false,
-      "sha256": "1a78e0dfc794f6c450022f7fe2a9363d8d4da44d71fd77d1e45013f25995886e",
-      "bytes": 310138,
+      "sha256": "0ad49f7e78492ec6e48500524a607c81c07b3ab499d8299b68b7b76616ddb47f",
+      "bytes": 310346,
       "originalBytes": 587256
     },
-    "pngSha256": "457961a8b6a8cda1c5f4f8842f118b0ee7104b69a877baea44a5bced65969722",
+    "pngSha256": "eebcf9ce321e36e1f7157da5f71e907d3793ef871f7a0fb7a3701ac8962c7947",
     "stats": {
-      "changedPixels": 1762373,
-      "protectedPixels": 163072,
+      "changedPixels": 1884471,
+      "protectedPixels": 40974,
       "maxSaturatedLuminanceDrift": 0.0038107783769891768,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -2443,7 +3255,35 @@
         "w": 224,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        13,
+        17,
+        50
+      ],
+      [
+        43,
+        78,
+        255
+      ],
+      [
+        20,
+        24,
+        58
+      ],
+      [
+        71,
+        155,
+        254
+      ],
+      [
+        6,
+        58,
+        146
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "alumvia",
@@ -2459,19 +3299,19 @@
       "originalBytes": 562851
     },
     "asset": {
-      "src": "/images/projects/alumvia-theme-screen-c949664cc8.webp",
+      "src": "/images/projects/alumvia-theme-screen-ea857e1617.webp",
       "width": 1495,
       "height": 2200,
       "role": "composition",
       "gallery": false,
-      "sha256": "c949664cc8c95fcf86570b95a427205190f300ec23de5c9e7c08a9bcabfecc06",
-      "bytes": 299516,
+      "sha256": "ea857e1617450ae426a2d08fb9628ac986d3fec6768ebcb7848e8ee08aaeda26",
+      "bytes": 299472,
       "originalBytes": 562851
     },
-    "pngSha256": "2b4895c776ad0711ec3277698041914bd7c48bf32c350baf32d478a796a5ee39",
+    "pngSha256": "540335dd73a5fdc62eec3b5f113b40e6d351486560bba94319e77cfe6bc6b884",
     "stats": {
-      "changedPixels": 1453892,
-      "protectedPixels": 40192,
+      "changedPixels": 1488054,
+      "protectedPixels": 6030,
       "maxSaturatedLuminanceDrift": 0.0038107783769891768,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -2513,7 +3353,30 @@
         "w": 96,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        13,
+        17,
+        50
+      ],
+      [
+        123,
+        203,
+        202
+      ],
+      [
+        43,
+        78,
+        255
+      ],
+      [
+        11,
+        15,
+        48
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "alumvia",
@@ -2529,19 +3392,19 @@
       "originalBytes": 771574
     },
     "asset": {
-      "src": "/images/projects/alumvia-theme-screen-0fc972098a.webp",
+      "src": "/images/projects/alumvia-theme-screen-85d23efdc3.webp",
       "width": 1495,
       "height": 2200,
       "role": "composition",
       "gallery": false,
-      "sha256": "0fc972098a5b711152d004e88bfc3ab43399e1c00154441a176a98d8e006a9df",
-      "bytes": 423706,
+      "sha256": "85d23efdc37eae68a13a085a0e0d861f3a51f327c9a4abccb35a5f8b41ceca82",
+      "bytes": 428512,
       "originalBytes": 771574
     },
-    "pngSha256": "7e87eec513b0d56cd69913f4abad2687030dd6764ec2051bb5748093ab6f0453",
+    "pngSha256": "c62a1d7c95f81243b11a484193355943d9e08a8e5916188d922b6a0982a3e2fd",
     "stats": {
-      "changedPixels": 883740,
-      "protectedPixels": 65792,
+      "changedPixels": 901432,
+      "protectedPixels": 48100,
       "maxSaturatedLuminanceDrift": 0.0038107783769891768,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -2589,7 +3452,20 @@
         "w": 112,
         "h": 112
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        43,
+        78,
+        255
+      ],
+      [
+        105,
+        129,
+        248
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "kegeltempo",
@@ -2605,19 +3481,19 @@
       "originalBytes": 266073
     },
     "asset": {
-      "src": "/images/projects/kegeltempo-theme-preview-9f57d8cb64.webp",
+      "src": "/images/projects/kegeltempo-theme-preview-af23953909.webp",
       "width": 1456,
       "height": 1232,
       "role": "composition",
       "gallery": false,
-      "sha256": "9f57d8cb644f2f8e92acfb3ab63503a91e79312a2e78f3b27596fb698eed5c6c",
-      "bytes": 395390,
+      "sha256": "af2395390946122968318a9840d36c0c3f322d78e419b2fc5814b7e5273ddcff",
+      "bytes": 393830,
       "originalBytes": 266073
     },
-    "pngSha256": "3923821170258b17cc1fc3560f46bc741803abf774b117fcc838744cbc7e1c61",
+    "pngSha256": "28d3948a990887ce440a3e8663939a964fdc44c340222bb2cc30e788cf097a1f",
     "stats": {
-      "changedPixels": 1167158,
-      "protectedPixels": 274432,
+      "changedPixels": 1203159,
+      "protectedPixels": 238431,
       "maxSaturatedLuminanceDrift": 0.0035371126525112206,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -2659,7 +3535,35 @@
         "w": 128,
         "h": 80
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        255,
+        246,
+        219
+      ],
+      [
+        249,
+        206,
+        20
+      ],
+      [
+        189,
+        130,
+        17
+      ],
+      [
+        223,
+        165,
+        33
+      ],
+      [
+        103,
+        73,
+        51
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "kegeltempo",
@@ -2675,19 +3579,19 @@
       "originalBytes": 1252242
     },
     "asset": {
-      "src": "/images/projects/kegeltempo-theme-screen-b4769e94f9.webp",
+      "src": "/images/projects/kegeltempo-theme-screen-651238b19e.webp",
       "width": 1600,
       "height": 1326,
       "role": "composition",
       "gallery": false,
-      "sha256": "b4769e94f960b2ce4d310a12f541955e680e6616626bde493cf138ce60694f28",
-      "bytes": 656650,
+      "sha256": "651238b19e47f90c95739576dc4397f384cae1660f5a24636a6200e7fd15489d",
+      "bytes": 646742,
       "originalBytes": 1252242
     },
-    "pngSha256": "f74f603125316483c1f4ea43ca358eeffbad2036f891abf65683ff257f9af0d3",
+    "pngSha256": "2f0ead5c539e3c4a833d8ed740a5a3a80f13df1ee7f022b1ced2a3109affe29e",
     "stats": {
-      "changedPixels": 344301,
-      "protectedPixels": 461824,
+      "changedPixels": 408072,
+      "protectedPixels": 398053,
       "maxSaturatedLuminanceDrift": 0.0032914580048841735,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -2747,7 +3651,30 @@
         "w": 112,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        249,
+        206,
+        20
+      ],
+      [
+        103,
+        73,
+        51
+      ],
+      [
+        98,
+        67,
+        46
+      ],
+      [
+        89,
+        62,
+        43
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "kegeltempo",
@@ -2763,19 +3690,19 @@
       "originalBytes": 440762
     },
     "asset": {
-      "src": "/images/projects/kegeltempo-theme-screen-3c77d35d56.webp",
+      "src": "/images/projects/kegeltempo-theme-screen-6b1900db1e.webp",
       "width": 1494,
       "height": 2200,
       "role": "composition",
       "gallery": false,
-      "sha256": "3c77d35d56290d4f5ee08211ba3ccdb4eaa9d984b17b4e6494ec0d5bea13a01e",
-      "bytes": 332576,
+      "sha256": "6b1900db1e5e783df70932811b211cb70c0f87193a7975467f1d01c9b0680926",
+      "bytes": 332482,
       "originalBytes": 440762
     },
-    "pngSha256": "aa4bf856f5c734c890bc7ab1cc62733d207b1d747eb1cfa2f4702c60dce83e82",
+    "pngSha256": "72f75a588de695514a0793bd38047fcf91e66329e8e6b81265eed9890d58c94d",
     "stats": {
-      "changedPixels": 497096,
-      "protectedPixels": 8398,
+      "changedPixels": 498678,
+      "protectedPixels": 6816,
       "maxSaturatedLuminanceDrift": 0.003429577355665514,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -2793,7 +3720,15 @@
         "w": 96,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        233,
+        0,
+        145
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "kegeltempo",
@@ -2809,19 +3744,19 @@
       "originalBytes": 717335
     },
     "asset": {
-      "src": "/images/projects/kegeltempo-theme-screen-7f31ca578d.webp",
+      "src": "/images/projects/kegeltempo-theme-screen-433274b4b4.webp",
       "width": 999,
       "height": 1274,
       "role": "composition",
       "gallery": false,
-      "sha256": "7f31ca578d5823cc2e5311570b0884aa13c9218b3e8ce2b03ab2b67ccfaf311b",
-      "bytes": 473920,
+      "sha256": "433274b4b44e7c0c8720ce5635c60d96d1e2807fcbe394a8854616edb7dd8733",
+      "bytes": 471088,
       "originalBytes": 717335
     },
-    "pngSha256": "86282ea7592a8816f4a9f4870e0f2d83f194648b92df6bffe07e3cab43533dad",
+    "pngSha256": "2f570a6229b267a41b47f7023ba754b0c7d98ad4ecc6c5404b8197395c60d6d3",
     "stats": {
-      "changedPixels": 561617,
-      "protectedPixels": 323520,
+      "changedPixels": 622222,
+      "protectedPixels": 262915,
       "maxSaturatedLuminanceDrift": 0.004256636399935898,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -2881,7 +3816,35 @@
         "w": 736,
         "h": 144
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        251,
+        221,
+        83
+      ],
+      [
+        246,
+        204,
+        0
+      ],
+      [
+        189,
+        130,
+        16
+      ],
+      [
+        223,
+        165,
+        31
+      ],
+      [
+        223,
+        165,
+        32
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "kegeltempo",
@@ -2897,19 +3860,19 @@
       "originalBytes": 852798
     },
     "asset": {
-      "src": "/images/projects/kegeltempo-theme-screen-548b3e3638.webp",
+      "src": "/images/projects/kegeltempo-theme-screen-266400791c.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "548b3e36385f81fb45fcefff6e60674b773f9f46f8bd8e1f95ac9c9c95d98186",
-      "bytes": 504336,
+      "sha256": "266400791cda9823469422e28796d43b99ea6df8d81b1f67cca404eea5607044",
+      "bytes": 507352,
       "originalBytes": 852798
     },
-    "pngSha256": "2b3c57ccc0792409a0c8780408c4b4c0be43a25937ce63fb6935f6d4a3fd1a58",
+    "pngSha256": "ef188a60051569962a690ca9f8595e90c505bbf525798f9fe2828ab2efb9353b",
     "stats": {
-      "changedPixels": 1769468,
-      "protectedPixels": 333202,
+      "changedPixels": 1841467,
+      "protectedPixels": 261203,
       "maxSaturatedLuminanceDrift": 0.004256636399935898,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -3041,7 +4004,30 @@
         "w": 96,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        251,
+        221,
+        83
+      ],
+      [
+        233,
+        0,
+        145
+      ],
+      [
+        178,
+        127,
+        35
+      ],
+      [
+        233,
+        0,
+        143
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "kegeltempo",
@@ -3057,19 +4043,19 @@
       "originalBytes": 426076
     },
     "asset": {
-      "src": "/images/projects/kegeltempo-theme-screen-4cdab3acdd.webp",
+      "src": "/images/projects/kegeltempo-theme-screen-bd47284b4f.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "4cdab3acdd2736ab7ccc4ed3329a07e536f04346fc841b59b001244a54462f40",
-      "bytes": 804628,
+      "sha256": "bd47284b4f062598ccc2ebd0cc7042db787c72f47cd7c96e8a4a35177d2bd75c",
+      "bytes": 801992,
       "originalBytes": 426076
     },
-    "pngSha256": "0770d3e0608beeda62c08a21d69a4ae825dfd013e4d89edd609e23aee42eda45",
+    "pngSha256": "a71f83ef09fe65dc8879a7dfe8751c5764205b8b96af0e2a852df4e85f4be4d4",
     "stats": {
-      "changedPixels": 1221824,
-      "protectedPixels": 936385,
+      "changedPixels": 1294217,
+      "protectedPixels": 863992,
       "maxSaturatedLuminanceDrift": 0.004256636399935898,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -3207,7 +4193,20 @@
         "w": 576,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        254,
+        247,
+        208
+      ],
+      [
+        254,
+        246,
+        206
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "kegeltempo",
@@ -3223,19 +4222,19 @@
       "originalBytes": 471709
     },
     "asset": {
-      "src": "/images/projects/kegeltempo-theme-screen-561255b180.webp",
+      "src": "/images/projects/kegeltempo-theme-screen-09122a02d0.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "561255b180b71290ae14fb85eba538fe1237f7b42c4f7210f02f63eb5ca4c4ca",
-      "bytes": 350316,
+      "sha256": "09122a02d067631acc80080164fe58736197d9bdfa807d7bbe825dc0bd4b381a",
+      "bytes": 350030,
       "originalBytes": 471709
     },
-    "pngSha256": "9aa23e9f37cbf0ea1a976f7aef9e52ff5545d9c60a77fbe41dd588ab7a45b67d",
+    "pngSha256": "ec6befb79b80cbd9bf984a0e8b81e4e9794f9c847e3c39aca6bfd3a26ceb462a",
     "stats": {
-      "changedPixels": 353542,
-      "protectedPixels": 2635,
+      "changedPixels": 355341,
+      "protectedPixels": 836,
       "maxSaturatedLuminanceDrift": 0.003429577355665514,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -3247,7 +4246,15 @@
         "w": 128,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        233,
+        0,
+        145
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "kegeltempo",
@@ -3263,19 +4270,19 @@
       "originalBytes": 930191
     },
     "asset": {
-      "src": "/images/projects/kegeltempo-theme-screen-0cdc5402c0.webp",
+      "src": "/images/projects/kegeltempo-theme-screen-df7fe4c270.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "0cdc5402c0a04a1102ee0baefa8323067ff376ffa44ce0685f3fa84f1fcb29d3",
-      "bytes": 1124626,
+      "sha256": "df7fe4c270cd7da60979bf634d64b29fb28577bb537911cdf42d7d79a1516d5f",
+      "bytes": 1126148,
       "originalBytes": 930191
     },
-    "pngSha256": "a2cd63352c49dbc9247239e3db37312f0bada8999cd0da67c54cbe41874688e4",
+    "pngSha256": "cbd2e7cb1e08705a072017d26edd103a4ebdda1fa58d8ec17cfb269408377f16",
     "stats": {
-      "changedPixels": 759888,
-      "protectedPixels": 613120,
+      "changedPixels": 782500,
+      "protectedPixels": 590508,
       "maxSaturatedLuminanceDrift": 0.003989860099490206,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -3407,7 +4414,20 @@
         "w": 160,
         "h": 112
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        249,
+        206,
+        20
+      ],
+      [
+        103,
+        89,
+        29
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "kegeltempo",
@@ -3423,19 +4443,19 @@
       "originalBytes": 314401
     },
     "asset": {
-      "src": "/images/projects/kegeltempo-theme-screen-1f76a53c93.webp",
+      "src": "/images/projects/kegeltempo-theme-screen-1f07963879.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "1f76a53c93b7462170b8f7495d31955d42f164192ea9a75c1afdba55871229f2",
-      "bytes": 702070,
+      "sha256": "1f079638795d3408f6f9a8fd56deadc720b85cddc31851ae2baaa5bd6daedbb6",
+      "bytes": 702056,
       "originalBytes": 314401
     },
-    "pngSha256": "f8aac943fad2fa943fbda2b115c5870a66c64b775edf33d439bb90bbb1a3fb94",
+    "pngSha256": "63475f2775ecf0797dcfdf8623fc3de5cabda7f72395f291d62c167f921aef10",
     "stats": {
-      "changedPixels": 1357259,
-      "protectedPixels": 757770,
+      "changedPixels": 1478838,
+      "protectedPixels": 636191,
       "maxSaturatedLuminanceDrift": 0.003989860099490206,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -3525,7 +4545,40 @@
         "w": 1136,
         "h": 208
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        251,
+        221,
+        83
+      ],
+      [
+        246,
+        204,
+        0
+      ],
+      [
+        189,
+        130,
+        16
+      ],
+      [
+        223,
+        165,
+        31
+      ],
+      [
+        189,
+        130,
+        15
+      ],
+      [
+        223,
+        165,
+        32
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "rallybridge",
@@ -3541,19 +4594,19 @@
       "originalBytes": 209866
     },
     "asset": {
-      "src": "/images/projects/rallybridge-theme-preview-912a26e092.webp",
+      "src": "/images/projects/rallybridge-theme-preview-165cc35766.webp",
       "width": 1456,
       "height": 1232,
       "role": "composition",
       "gallery": false,
-      "sha256": "912a26e0925884764a8db9f0f8f652ae5af395125fdaebc76eef7dea5178f484",
-      "bytes": 334354,
+      "sha256": "165cc35766ca43201ad7111e97ebe3da0a8774c715cf81a0b0e086d6f51152ce",
+      "bytes": 334564,
       "originalBytes": 209866
     },
-    "pngSha256": "3dcb96c78c80f32f37848eca68b0a8b85159a5d2bc2458b13a940cff6a4636d8",
+    "pngSha256": "325d82aa0802857f196e40ce598756721e988a61db4e88a5e68a9e7727c5d731",
     "stats": {
-      "changedPixels": 1100816,
-      "protectedPixels": 125440,
+      "changedPixels": 1110795,
+      "protectedPixels": 115461,
       "maxSaturatedLuminanceDrift": 0.0026808772351512022,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -3571,7 +4624,15 @@
         "w": 112,
         "h": 160
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        4,
+        13,
+        42
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "rallybridge",
@@ -3587,19 +4648,19 @@
       "originalBytes": 1212829
     },
     "asset": {
-      "src": "/images/projects/rallybridge-theme-screen-aa88b3f648.webp",
+      "src": "/images/projects/rallybridge-theme-screen-3690899442.webp",
       "width": 1600,
       "height": 1326,
       "role": "composition",
       "gallery": false,
-      "sha256": "aa88b3f6481f62fbf8c09ecf0f69dfa297992190f76c81f69ff49c4bf7f2e390",
-      "bytes": 421986,
+      "sha256": "3690899442a558931421f43688a835027958d86b0adf6fe00e25488960773f04",
+      "bytes": 421600,
       "originalBytes": 1212829
     },
-    "pngSha256": "59a4554351f61b228133198174d39ed3fa422d28dbe9728d9898c84a0904f983",
+    "pngSha256": "99db474dde10c58308e84d6668eef6e9eba26f8a9236a624a1b8026fb12a89d9",
     "stats": {
-      "changedPixels": 241251,
-      "protectedPixels": 264192,
+      "changedPixels": 266689,
+      "protectedPixels": 238754,
       "maxSaturatedLuminanceDrift": 0.003066962004772522,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -3629,7 +4690,15 @@
         "w": 80,
         "h": 176
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        4,
+        13,
+        42
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "rallybridge",
@@ -3645,19 +4714,19 @@
       "originalBytes": 725206
     },
     "asset": {
-      "src": "/images/projects/rallybridge-theme-screen-a7aec11036.webp",
+      "src": "/images/projects/rallybridge-theme-screen-90abab01dd.webp",
       "width": 1494,
       "height": 2200,
       "role": "composition",
       "gallery": false,
-      "sha256": "a7aec11036057c537e9fc0f41cd1de666f35dea17b6fc622ab07a388e3a669be",
-      "bytes": 255252,
+      "sha256": "90abab01dd7e58395695d95bdf5190ce178b8a49ed96893f96bf7ab1f5823436",
+      "bytes": 255212,
       "originalBytes": 725206
     },
-    "pngSha256": "5d9e31869b7e4ba461ac0eab4dcd4666ae95761d9573d2aebb60a2e1fe8d5d5a",
+    "pngSha256": "afa2a6f03a5c2f284233f91abcebcd62b610e6d1ec84d9482423ea2b2b11d4e9",
     "stats": {
-      "changedPixels": 1706078,
-      "protectedPixels": 47965,
+      "changedPixels": 1741483,
+      "protectedPixels": 12560,
       "maxSaturatedLuminanceDrift": 0.0026707045107193794,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -3705,7 +4774,35 @@
         "w": 96,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        7,
+        14,
+        43
+      ],
+      [
+        23,
+        44,
+        76
+      ],
+      [
+        25,
+        49,
+        83
+      ],
+      [
+        23,
+        45,
+        82
+      ],
+      [
+        25,
+        49,
+        77
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "rallybridge",
@@ -3721,19 +4818,19 @@
       "originalBytes": 437934
     },
     "asset": {
-      "src": "/images/projects/rallybridge-theme-screen-d1ade2bb5d.webp",
+      "src": "/images/projects/rallybridge-theme-screen-21e6987b3d.webp",
       "width": 999,
       "height": 1274,
       "role": "composition",
       "gallery": false,
-      "sha256": "d1ade2bb5da36c7d9922a998a80b72d908d0653f80e43477999a0af221b9e4b7",
-      "bytes": 261874,
+      "sha256": "21e6987b3d6c712aa9d5d662f6fe0637864973e729862fb824175e5ca5d38b92",
+      "bytes": 262166,
       "originalBytes": 437934
     },
-    "pngSha256": "66f4980b1ba355945eb51c6354f34ce816ea6e276c19912ec31830b6840b7463",
+    "pngSha256": "bdd62007241f3e1b21c9a58167a79da5740b2c9c47a55b43aa764c9f79a8d991",
     "stats": {
-      "changedPixels": 779232,
-      "protectedPixels": 114688,
+      "changedPixels": 866035,
+      "protectedPixels": 27885,
       "maxSaturatedLuminanceDrift": 0.0033027399901425225,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -3793,7 +4890,15 @@
         "w": 96,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        7,
+        14,
+        43
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "rallybridge",
@@ -3809,19 +4914,19 @@
       "originalBytes": 610267
     },
     "asset": {
-      "src": "/images/projects/rallybridge-theme-screen-71ae18e26e.webp",
+      "src": "/images/projects/rallybridge-theme-screen-e596f60ed6.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "71ae18e26eebfb564ae8463ffca80089c3aad1286ad9ab28f3d952bdb0b86bf7",
-      "bytes": 889198,
+      "sha256": "e596f60ed61f677debc9fb5300bcdf2a0a42e08eee9f9669df217c3cdb15909a",
+      "bytes": 891670,
       "originalBytes": 610267
     },
-    "pngSha256": "2be14e06b96ccabe17347c7328620ec449b81ed684c038ba3658764321d79a3f",
+    "pngSha256": "79ec3987e0b5a90de9174ae205c1bb4c4ebbe4ba4ecb2e260436ffe780f4a50c",
     "stats": {
-      "changedPixels": 1192734,
-      "protectedPixels": 944128,
+      "changedPixels": 1731205,
+      "protectedPixels": 405657,
       "maxSaturatedLuminanceDrift": 0.0029641194303247076,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -3893,7 +4998,90 @@
         "w": 368,
         "h": 80
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        7,
+        14,
+        43
+      ],
+      [
+        22,
+        72,
+        137
+      ],
+      [
+        27,
+        53,
+        67
+      ],
+      [
+        24,
+        76,
+        147
+      ],
+      [
+        19,
+        62,
+        135
+      ],
+      [
+        167,
+        185,
+        213
+      ],
+      [
+        21,
+        69,
+        124
+      ],
+      [
+        25,
+        80,
+        149
+      ],
+      [
+        149,
+        170,
+        201
+      ],
+      [
+        33,
+        60,
+        73
+      ],
+      [
+        24,
+        80,
+        140
+      ],
+      [
+        24,
+        49,
+        62
+      ],
+      [
+        23,
+        46,
+        60
+      ],
+      [
+        158,
+        178,
+        209
+      ],
+      [
+        156,
+        177,
+        207
+      ],
+      [
+        7,
+        16,
+        45
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "rallybridge",
@@ -3909,19 +5097,19 @@
       "originalBytes": 703955
     },
     "asset": {
-      "src": "/images/projects/rallybridge-theme-screen-c3d800d505.webp",
+      "src": "/images/projects/rallybridge-theme-screen-775da3489e.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "c3d800d505be4d15a78f3063be91005413b17dc262c35af901cb9e860353628f",
-      "bytes": 257190,
+      "sha256": "775da3489ed46fbf1e750182381aaedbffd085db39b218a28fb3b826f4fb2027",
+      "bytes": 257180,
       "originalBytes": 703955
     },
-    "pngSha256": "62710b1f7cb7efd3b462b6a4f9b22ebafb9cdd2bd043cb313e6a97a8e0f34b08",
+    "pngSha256": "7d9b30e623728345a44541e351cbc5e375dda3386d0d76a75bc3ff793c0a5126",
     "stats": {
-      "changedPixels": 1698697,
-      "protectedPixels": 49156,
+      "changedPixels": 1735205,
+      "protectedPixels": 12648,
       "maxSaturatedLuminanceDrift": 0.0029804301769159602,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -3969,7 +5157,35 @@
         "w": 80,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        7,
+        14,
+        43
+      ],
+      [
+        23,
+        44,
+        76
+      ],
+      [
+        25,
+        49,
+        83
+      ],
+      [
+        23,
+        45,
+        82
+      ],
+      [
+        25,
+        49,
+        77
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "rallybridge",
@@ -3985,19 +5201,19 @@
       "originalBytes": 939670
     },
     "asset": {
-      "src": "/images/projects/rallybridge-theme-screen-b63c1c6da3.webp",
+      "src": "/images/projects/rallybridge-theme-screen-eb1a363667.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "b63c1c6da3e1b38cd57c97bc604aba092821c53342a69eef91b61e7f6b845e1f",
-      "bytes": 643482,
+      "sha256": "eb1a3636672c93f51b1a88225c1a5085a4505d9f316104f4c11743115bb3c3fd",
+      "bytes": 644056,
       "originalBytes": 939670
     },
-    "pngSha256": "a69165e075f8d6a634dee4a352742163338fb771de9acb5fbf70ab4c034d339d",
+    "pngSha256": "0c69e3a44eb1c832d7c3ed428ef1b2d1f071e43406bbd7b837e26472276605e9",
     "stats": {
-      "changedPixels": 574146,
-      "protectedPixels": 278784,
+      "changedPixels": 655282,
+      "protectedPixels": 197648,
       "maxSaturatedLuminanceDrift": 0.002645467402939139,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -4057,7 +5273,30 @@
         "w": 160,
         "h": 256
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        7,
+        14,
+        43
+      ],
+      [
+        57,
+        88,
+        118
+      ],
+      [
+        54,
+        90,
+        131
+      ],
+      [
+        60,
+        99,
+        140
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "rallybridge",
@@ -4073,19 +5312,19 @@
       "originalBytes": 726564
     },
     "asset": {
-      "src": "/images/projects/rallybridge-theme-screen-331cbb2555.webp",
+      "src": "/images/projects/rallybridge-theme-screen-910e22e298.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "331cbb255598ebe080eb4da9ecfcaa13a57119091e5d34e975f53b72f0a56676",
-      "bytes": 247890,
+      "sha256": "910e22e2989e44132ae8350995f41847fbc39a46659c2813b7ad4d13b39c6ce8",
+      "bytes": 247982,
       "originalBytes": 726564
     },
-    "pngSha256": "98ead54f282c4a3087adcf52a9b201847dcae7f42a2a7e0175aa0497d2608944",
+    "pngSha256": "30daa0eb9ba97aa5a05e7f2d1201682ebea469615d4594d50b68ad970fed4c0e",
     "stats": {
-      "changedPixels": 1702925,
-      "protectedPixels": 49460,
+      "changedPixels": 1739611,
+      "protectedPixels": 12774,
       "maxSaturatedLuminanceDrift": 0.00252680065735289,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -4133,7 +5372,35 @@
         "w": 96,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        7,
+        14,
+        43
+      ],
+      [
+        23,
+        44,
+        76
+      ],
+      [
+        25,
+        49,
+        83
+      ],
+      [
+        23,
+        45,
+        82
+      ],
+      [
+        25,
+        49,
+        77
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "whizlume",
@@ -4149,19 +5416,19 @@
       "originalBytes": 1616249
     },
     "asset": {
-      "src": "/images/projects/whizlume-theme-preview-79449184c9.webp",
+      "src": "/images/projects/whizlume-theme-preview-8ea498164e.webp",
       "width": 1600,
       "height": 1333,
       "role": "composition",
       "gallery": false,
-      "sha256": "79449184c9a2930d40794bf20b0beaab6c2190ef13b4918916ec84ad666eda9b",
-      "bytes": 298104,
+      "sha256": "8ea498164e2ded3d5d6fd5d843544a605b660381e9d13d1a22790864f89e971a",
+      "bytes": 298574,
       "originalBytes": 1616249
     },
-    "pngSha256": "863554d0f12ee31fd1f3f468d624fa2c484a429c69241695af23dbbc121c491f",
+    "pngSha256": "be48165df3b80a29cc7ab40037d2ea1f214c3cc302d84cad342216e34d956a4b",
     "stats": {
-      "changedPixels": 1707292,
-      "protectedPixels": 93757,
+      "changedPixels": 1718362,
+      "protectedPixels": 82687,
       "maxSaturatedLuminanceDrift": 0.0037211921451061336,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -4179,7 +5446,55 @@
         "w": 96,
         "h": 80
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        255,
+        128,
+        0
+      ],
+      [
+        22,
+        14,
+        74
+      ],
+      [
+        93,
+        46,
+        184
+      ],
+      [
+        38,
+        24,
+        59
+      ],
+      [
+        1,
+        75,
+        189
+      ],
+      [
+        67,
+        25,
+        139
+      ],
+      [
+        255,
+        127,
+        1
+      ],
+      [
+        94,
+        48,
+        185
+      ],
+      [
+        52,
+        68,
+        87
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "whizlume",
@@ -4195,19 +5510,19 @@
       "originalBytes": 584322
     },
     "asset": {
-      "src": "/images/projects/whizlume-theme-screen-1ab9924e7c.webp",
+      "src": "/images/projects/whizlume-theme-screen-f4eec4aa55.webp",
       "width": 1600,
       "height": 1326,
       "role": "composition",
       "gallery": false,
-      "sha256": "1ab9924e7c38211e187c007bda3541835563db94a8d7c21f9baaff6bcd9ae2b0",
-      "bytes": 357222,
+      "sha256": "f4eec4aa5585187c3bb4121e171a358eb2f3759cfe8fb6da5440bff0f19ad1e7",
+      "bytes": 358200,
       "originalBytes": 584322
     },
-    "pngSha256": "e1f5b8acca901f2b64e795bfd92aee90b0fcc7e2180c07422d6c823f061e54a8",
+    "pngSha256": "9d363ffa21f3db5a64263149c300c382430499d5e017dbf962e1bb38297f1079",
     "stats": {
-      "changedPixels": 951766,
-      "protectedPixels": 190414,
+      "changedPixels": 972995,
+      "protectedPixels": 169185,
       "maxSaturatedLuminanceDrift": 0.0033689565435213176,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -4249,7 +5564,30 @@
         "w": 128,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        255,
+        128,
+        0
+      ],
+      [
+        22,
+        14,
+        74
+      ],
+      [
+        1,
+        75,
+        188
+      ],
+      [
+        255,
+        127,
+        1
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "whizlume",
@@ -4265,19 +5603,19 @@
       "originalBytes": 791686
     },
     "asset": {
-      "src": "/images/projects/whizlume-theme-screen-5f0b19218f.webp",
+      "src": "/images/projects/whizlume-theme-screen-c461ac2e6c.webp",
       "width": 999,
       "height": 1274,
       "role": "composition",
       "gallery": false,
-      "sha256": "5f0b19218f0306330452f01234479812b17147b6bda1f4880a71f4694a9c72de",
-      "bytes": 399998,
+      "sha256": "c461ac2e6cc535f6d7b9969754f0997a7f2ef3ca2724ae4b82df670da5cbd806",
+      "bytes": 402136,
       "originalBytes": 791686
     },
-    "pngSha256": "a5e243073f23133f508996ab5ba20b06e0cc0db68889df7c11a09909c7f7e91f",
+    "pngSha256": "73965e1e3c06bba328240a5974e6cceb58fee228330ed7cc85f5ca7984619951",
     "stats": {
-      "changedPixels": 525863,
-      "protectedPixels": 161129,
+      "changedPixels": 542355,
+      "protectedPixels": 144637,
       "maxSaturatedLuminanceDrift": 0.0037554832247647107,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -4313,7 +5651,25 @@
         "w": 224,
         "h": 160
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        0,
+        77,
+        189
+      ],
+      [
+        255,
+        128,
+        0
+      ],
+      [
+        255,
+        127,
+        1
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "whizlume",
@@ -4329,19 +5685,19 @@
       "originalBytes": 504194
     },
     "asset": {
-      "src": "/images/projects/whizlume-theme-screen-07672dd3d6.webp",
+      "src": "/images/projects/whizlume-theme-screen-11c57e5455.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "07672dd3d6672883340838fe76e5ffd804a4f64845ff07f8f2a2df84792df430",
-      "bytes": 579570,
+      "sha256": "11c57e5455ac1616502095e11628d8361a4c29fbe66a1c39d320dcd7593c5525",
+      "bytes": 584770,
       "originalBytes": 504194
     },
-    "pngSha256": "a6740944288b40382f01058f1f2e62500cf24e9157e4ae86f567099b2cda0d25",
+    "pngSha256": "0e4a5b3fb7aa9ce35286a9c2e51988b4977600737b42771b490bc53869737bdd",
     "stats": {
-      "changedPixels": 1219044,
-      "protectedPixels": 386696,
+      "changedPixels": 1267650,
+      "protectedPixels": 338090,
       "maxSaturatedLuminanceDrift": 0.0036044194306721344,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -4395,7 +5751,25 @@
         "w": 336,
         "h": 224
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        0,
+        77,
+        189
+      ],
+      [
+        255,
+        128,
+        0
+      ],
+      [
+        255,
+        127,
+        0
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "whizlume",
@@ -4411,19 +5785,19 @@
       "originalBytes": 648690
     },
     "asset": {
-      "src": "/images/projects/whizlume-theme-screen-cceb80bd8a.webp",
+      "src": "/images/projects/whizlume-theme-screen-7df362e143.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "cceb80bd8acf782b885438aa1c873e54e38778c58da0025543d65db2f81f1b02",
-      "bytes": 286292,
+      "sha256": "7df362e1438b486057cccb1a045216d1c6a96f010f51fd9ffc5215938be90931",
+      "bytes": 286692,
       "originalBytes": 648690
     },
-    "pngSha256": "a5b3b4b37ae1d5a2690290aec93e0f9191cb9a7652a4acc72fc1cf33144707a8",
+    "pngSha256": "027f213e6205dfef29d7e56e0a43d9372ec89969ed7731f1ecdedb319c1c1099",
     "stats": {
-      "changedPixels": 1805279,
-      "protectedPixels": 5120,
+      "changedPixels": 1805399,
+      "protectedPixels": 5000,
       "maxSaturatedLuminanceDrift": 0.0037554832247647107,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -4435,7 +5809,25 @@
         "w": 80,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        0,
+        77,
+        189
+      ],
+      [
+        166,
+        84,
+        0
+      ],
+      [
+        127,
+        166,
+        223
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "whizlume",
@@ -4451,19 +5843,19 @@
       "originalBytes": 667115
     },
     "asset": {
-      "src": "/images/projects/whizlume-theme-screen-2d2901704b.webp",
+      "src": "/images/projects/whizlume-theme-screen-7d67ea771f.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "2d2901704b20a456a882179756e58c4a783613920d755acc94b23f2eb6b7e372",
-      "bytes": 312432,
+      "sha256": "7d67ea771f73753238da42764504663a0708acd4778b279a9da46c384432ee57",
+      "bytes": 312596,
       "originalBytes": 667115
     },
-    "pngSha256": "7d3c3d00bb36105ee5ccbcb36fa370bd0776a4b2fda3274c06933bddc4f173e0",
+    "pngSha256": "c4b0f3c295532e5a3539308f4f551199f480d1302d5380b593afb206e35f1123",
     "stats": {
-      "changedPixels": 1723047,
-      "protectedPixels": 5376,
+      "changedPixels": 1727856,
+      "protectedPixels": 567,
       "maxSaturatedLuminanceDrift": 0.0034874711954273607,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -4475,7 +5867,20 @@
         "w": 112,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        166,
+        84,
+        0
+      ],
+      [
+        0,
+        77,
+        189
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "whizlume",
@@ -4491,19 +5896,19 @@
       "originalBytes": 826574
     },
     "asset": {
-      "src": "/images/projects/whizlume-theme-screen-b4a8932490.webp",
+      "src": "/images/projects/whizlume-theme-screen-14a75e87b5.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "b4a893249075126ed64c4a33e73900e4518db75a9e61acbed46003162effa829",
-      "bytes": 337014,
+      "sha256": "14a75e87b549e8cdef49a9fe608b3d1325941b334ea0939dde330e076fdb176b",
+      "bytes": 335710,
       "originalBytes": 826574
     },
-    "pngSha256": "01eee2d5ef201929b259966eb0ba30e6ba017ebe2f530fa4e7331b1ddfd5ff14",
+    "pngSha256": "d0a25a741d8770927d042f156f5d37a5d3982841eb0a0c09ea7d9c73b0bcbec9",
     "stats": {
-      "changedPixels": 1486695,
-      "protectedPixels": 74651,
+      "changedPixels": 1498141,
+      "protectedPixels": 63205,
       "maxSaturatedLuminanceDrift": 0.0037554832247647107,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -4587,7 +5992,20 @@
         "w": 80,
         "h": 80
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        0,
+        77,
+        189
+      ],
+      [
+        255,
+        128,
+        0
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "whizlume",
@@ -4603,19 +6021,19 @@
       "originalBytes": 712647
     },
     "asset": {
-      "src": "/images/projects/whizlume-theme-screen-07a7d38cff.webp",
+      "src": "/images/projects/whizlume-theme-screen-5caa678a89.webp",
       "width": 1493,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "07a7d38cff3177192876d058ef46a7a4327045c9320b26b1f1b0bba1715f3763",
-      "bytes": 320540,
+      "sha256": "5caa678a89967e83bff958b5e430fc5a50dfdc6de9724add5b9408abc27b9f67",
+      "bytes": 321258,
       "originalBytes": 712647
     },
-    "pngSha256": "c4a9b738b58ce9c24af3ca3178299139686cc18fce29af3160f429da1d49dc60",
+    "pngSha256": "550f9c3da2f46fd3a65cfb6798551c2a029c1368226f1e79b3d4ead303c02bfb",
     "stats": {
-      "changedPixels": 1670922,
-      "protectedPixels": 32114,
+      "changedPixels": 1684798,
+      "protectedPixels": 18238,
       "maxSaturatedLuminanceDrift": 0.0036044194306721344,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -4639,7 +6057,25 @@
         "w": 288,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        0,
+        77,
+        189
+      ],
+      [
+        3,
+        52,
+        129
+      ],
+      [
+        54,
+        127,
+        235
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "estrata",
@@ -4688,19 +6124,19 @@
       "originalBytes": 916702
     },
     "asset": {
-      "src": "/images/projects/estrata-theme-screen-ad4ebdb3ff.webp",
+      "src": "/images/projects/estrata-theme-screen-47c482819e.webp",
       "width": 1600,
       "height": 1326,
       "role": "composition",
       "gallery": false,
-      "sha256": "ad4ebdb3ff19dfc7562ae9b7a24b616f4a14a12b5ab85541ca5576888020acb6",
-      "bytes": 193344,
+      "sha256": "47c482819e4dc81d0733ea9de84a0e48880f4e487964b6b0633b7137945aa675",
+      "bytes": 193770,
       "originalBytes": 916702
     },
-    "pngSha256": "de193002b1b7de8f5e8da86b61bd1e2bf057623f6a354cdb9033fb1a224226a1",
+    "pngSha256": "6c7464bae57d59e5d148a740e8cb30b89a05f7acd32efdaa219fcb9f47204781",
     "stats": {
-      "changedPixels": 1178232,
-      "protectedPixels": 19912,
+      "changedPixels": 1193735,
+      "protectedPixels": 4409,
       "maxSaturatedLuminanceDrift": 0.0038100790735908774,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -4718,7 +6154,20 @@
         "w": 416,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        2,
+        93,
+        162
+      ],
+      [
+        1,
+        124,
+        194
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "estrata",
@@ -4734,19 +6183,19 @@
       "originalBytes": 677919
     },
     "asset": {
-      "src": "/images/projects/estrata-theme-screen-a60d6f8049.webp",
+      "src": "/images/projects/estrata-theme-screen-a669dbb55c.webp",
       "width": 1494,
       "height": 2200,
       "role": "composition",
       "gallery": false,
-      "sha256": "a60d6f80498610c5426a791ac65dfb9514e20aea032be977841ff0a09cc7cdf7",
-      "bytes": 405912,
+      "sha256": "a669dbb55c21809fbe8be2c8781b53ff3a3dfeb150d2617a20628b5e6f32771d",
+      "bytes": 406680,
       "originalBytes": 677919
     },
-    "pngSha256": "65a4d02a9089bd431f9d861f9c7e81d27350bbb0c9f9741431d5b1a2c2566c5f",
+    "pngSha256": "1fbb439750ea363d7e9ac18e77d2cca75569c37bb6f0c7047dad48637b799fd0",
     "stats": {
-      "changedPixels": 1412622,
-      "protectedPixels": 23040,
+      "changedPixels": 1412674,
+      "protectedPixels": 22988,
       "maxSaturatedLuminanceDrift": 0.003794700265344786,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -4776,7 +6225,15 @@
         "w": 48,
         "h": 112
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        2,
+        93,
+        162
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "estrata",
@@ -4825,19 +6282,19 @@
       "originalBytes": 656850
     },
     "asset": {
-      "src": "/images/projects/estrata-theme-screen-0f32846b13.webp",
+      "src": "/images/projects/estrata-theme-screen-60676acfa6.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "0f32846b13299a7b8e3c43d9c687b877f48848a52de1c94d2e288a1ef9cabbf7",
-      "bytes": 378138,
+      "sha256": "60676acfa602b1f1201746ffaab20604d3cef42a8754f450038a72bf28639153",
+      "bytes": 378532,
       "originalBytes": 656850
     },
-    "pngSha256": "9baf76dbccedef6675c50fb814c2f85bcef54bbf4461889ff86c8797ea26206a",
+    "pngSha256": "e8da2a5568391558be37fed67ad2b3fba3532fcc8f2ce07ad1d8644fd644f54f",
     "stats": {
-      "changedPixels": 1675715,
-      "protectedPixels": 10240,
+      "changedPixels": 1677406,
+      "protectedPixels": 8549,
       "maxSaturatedLuminanceDrift": 0.0038100790735908774,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -4855,7 +6312,15 @@
         "w": 80,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        2,
+        93,
+        162
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "estrata",
@@ -4871,19 +6336,19 @@
       "originalBytes": 323632
     },
     "asset": {
-      "src": "/images/projects/estrata-theme-screen-c9b61aa64f.webp",
+      "src": "/images/projects/estrata-theme-screen-f80f31b962.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "c9b61aa64fb9886b217a03cc97947e67b7c80f6b97f26eeea6e99e7088ce8395",
-      "bytes": 147046,
+      "sha256": "f80f31b962c3e3a11d54d0101589b77d75f39706a06ac305d46488ddf31b07b7",
+      "bytes": 146326,
       "originalBytes": 323632
     },
-    "pngSha256": "228dcd1e67c2aa7f32c00e624ac1814fc1f095356e0bf28780f328304e2be861",
+    "pngSha256": "34b57355a7c1d41afef05f6eee546cedbf6a5b2240025e3c34db989d1654f15b",
     "stats": {
-      "changedPixels": 1628630,
-      "protectedPixels": 4208,
+      "changedPixels": 1632184,
+      "protectedPixels": 654,
       "maxSaturatedLuminanceDrift": 0.00377059798593371,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -4895,7 +6360,15 @@
         "w": 192,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        2,
+        93,
+        162
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "estrata",
@@ -4911,19 +6384,19 @@
       "originalBytes": 971195
     },
     "asset": {
-      "src": "/images/projects/estrata-theme-screen-c6b519319e.webp",
+      "src": "/images/projects/estrata-theme-screen-becc506776.webp",
       "width": 1494,
       "height": 2200,
       "role": "screen",
       "gallery": true,
-      "sha256": "c6b519319e88345bed40958e97b93fd2374a04423a7b6260e91cefdb4d5d7628",
-      "bytes": 594384,
+      "sha256": "becc506776dc6296672a94a6dffa938fa0fc81d7052e3af558c730f4a6139076",
+      "bytes": 594420,
       "originalBytes": 971195
     },
-    "pngSha256": "f621b958d83fe666417ceb629742db98b9fc677b1c2537c5dd89fe00ccf1c04b",
+    "pngSha256": "ad3dd57a95678c5fed95d33b92809abbea3c2c45204892c9157574d6fef5f310",
     "stats": {
-      "changedPixels": 1437767,
-      "protectedPixels": 14848,
+      "changedPixels": 1439179,
+      "protectedPixels": 13436,
       "maxSaturatedLuminanceDrift": 0.0038100790735908774,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -4947,7 +6420,15 @@
         "w": 96,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        3,
+        93,
+        162
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "estrata",
@@ -5015,19 +6496,19 @@
       "originalBytes": 1514695
     },
     "asset": {
-      "src": "/images/projects/leadforma-theme-preview-f00ca3769c.webp",
+      "src": "/images/projects/leadforma-theme-preview-35680d3a5b.webp",
       "width": 1600,
       "height": 1333,
       "role": "composition",
       "gallery": false,
-      "sha256": "f00ca3769c9e333f706bac36dffffd31d8b08c54437f59fb73ecceb1ed3a6687",
-      "bytes": 195718,
+      "sha256": "35680d3a5b420da98608b99c487d11e65e8af2241d459e9e8bc5aa289bbff282",
+      "bytes": 194642,
       "originalBytes": 1514695
     },
-    "pngSha256": "5043656d93f7abb17fd3832cc4406baa42b6656b4b89374ad0fe92f52700082c",
+    "pngSha256": "b0f2d060328e8054272c354d3f32ffbba39c5c045d5590788ea1b295d99ea5d0",
     "stats": {
-      "changedPixels": 1409835,
-      "protectedPixels": 87286,
+      "changedPixels": 1419378,
+      "protectedPixels": 77743,
       "maxSaturatedLuminanceDrift": 0.0038097838543517115,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -5051,7 +6532,20 @@
         "w": 80,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        231,
+        119,
+        38
+      ],
+      [
+        227,
+        113,
+        30
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-simplyscouted",
@@ -5067,19 +6561,19 @@
       "originalBytes": 2130326
     },
     "asset": {
-      "src": "/images/projects/app-simplyscouted-theme-preview-7851937450.webp",
+      "src": "/images/projects/app-simplyscouted-theme-preview-d1af4a7edb.webp",
       "width": 1600,
       "height": 1251,
       "role": "composition",
       "gallery": false,
-      "sha256": "78519374509d37763124b95896dbcf6461389658ff6008b217c6d68373b7c33d",
-      "bytes": 304462,
+      "sha256": "d1af4a7edb7cf54a87e63b63fd2052779cddb84075e1b6416ded34dc7d2d2136",
+      "bytes": 303540,
       "originalBytes": 2130326
     },
-    "pngSha256": "d267f4792f09771a2efc26c9891f76f183e374e90fb337a636ecffdfc7a13cda",
+    "pngSha256": "07e8bfb273348b8327ee9c37d717dee52a041281b15e0113900b380ae0e7f0db",
     "stats": {
-      "changedPixels": 1740105,
-      "protectedPixels": 153645,
+      "changedPixels": 1774307,
+      "protectedPixels": 119443,
       "maxSaturatedLuminanceDrift": 0.0031957623815115355,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -5115,7 +6609,90 @@
         "w": 160,
         "h": 160
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        22,
+        45,
+        97
+      ],
+      [
+        32,
+        54,
+        104
+      ],
+      [
+        28,
+        50,
+        104
+      ],
+      [
+        54,
+        73,
+        120
+      ],
+      [
+        71,
+        89,
+        132
+      ],
+      [
+        171,
+        165,
+        221
+      ],
+      [
+        46,
+        65,
+        115
+      ],
+      [
+        173,
+        170,
+        226
+      ],
+      [
+        177,
+        173,
+        228
+      ],
+      [
+        84,
+        100,
+        140
+      ],
+      [
+        43,
+        63,
+        113
+      ],
+      [
+        103,
+        118,
+        153
+      ],
+      [
+        164,
+        157,
+        215
+      ],
+      [
+        65,
+        83,
+        126
+      ],
+      [
+        92,
+        107,
+        146
+      ],
+      [
+        135,
+        197,
+        250
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-simplyscouted",
@@ -5131,19 +6708,19 @@
       "originalBytes": 1673447
     },
     "asset": {
-      "src": "/images/projects/app-simplyscouted-theme-screen-dc07853bc4.webp",
+      "src": "/images/projects/app-simplyscouted-theme-screen-48ee85c577.webp",
       "width": 1600,
       "height": 1440,
       "role": "composition",
       "gallery": false,
-      "sha256": "dc07853bc431189b20270afccfd7fe48e2cea0ae1fb8a1fc78a77be39c0a11a3",
-      "bytes": 541456,
+      "sha256": "48ee85c5779d69af3867577e058765f996da11d6fe09a7d32ff4dcc465f1610d",
+      "bytes": 531816,
       "originalBytes": 1673447
     },
-    "pngSha256": "0422cd79b1ca4655e3c94c70537bb9ab2d4c53e72353fe7cf8e7de745c373428",
+    "pngSha256": "55c92c296b69fa95a1880864a5de71df2f80ff722125e47680c184c3c26cefca",
     "stats": {
-      "changedPixels": 870386,
-      "protectedPixels": 287150,
+      "changedPixels": 909946,
+      "protectedPixels": 247590,
       "maxSaturatedLuminanceDrift": 0.003404418511431473,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -5191,7 +6768,90 @@
         "w": 80,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        21,
+        44,
+        98
+      ],
+      [
+        28,
+        50,
+        103
+      ],
+      [
+        35,
+        57,
+        108
+      ],
+      [
+        54,
+        73,
+        120
+      ],
+      [
+        71,
+        89,
+        132
+      ],
+      [
+        171,
+        165,
+        221
+      ],
+      [
+        46,
+        66,
+        115
+      ],
+      [
+        177,
+        173,
+        228
+      ],
+      [
+        173,
+        170,
+        226
+      ],
+      [
+        84,
+        100,
+        140
+      ],
+      [
+        43,
+        63,
+        113
+      ],
+      [
+        164,
+        157,
+        215
+      ],
+      [
+        103,
+        118,
+        153
+      ],
+      [
+        65,
+        83,
+        126
+      ],
+      [
+        92,
+        107,
+        146
+      ],
+      [
+        119,
+        133,
+        164
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-simplyscouted",
@@ -5207,19 +6867,19 @@
       "originalBytes": 284040
     },
     "asset": {
-      "src": "/images/projects/app-simplyscouted-theme-screen-20e06f2aa0.webp",
+      "src": "/images/projects/app-simplyscouted-theme-screen-50c57ee248.webp",
       "width": 710,
       "height": 711,
       "role": "composition",
       "gallery": false,
-      "sha256": "20e06f2aa020eb111766f428f0270fbaef8f2a5f77e764a59bd91cba250452d6",
-      "bytes": 212056,
+      "sha256": "50c57ee248979582c8e6678aa74b9f4c8f12cdcdc99c8203f87353fd016fbdd7",
+      "bytes": 208260,
       "originalBytes": 284040
     },
-    "pngSha256": "0bf4f5dbeef547fa066e4ed0ef5c526e8a163e2530f8b568e406ca0e87544077",
+    "pngSha256": "e24c6a279a0dd8973bfb5370f4c1602a73255d7bc5810d4cc42087e098cd8116",
     "stats": {
-      "changedPixels": 200413,
-      "protectedPixels": 72436,
+      "changedPixels": 245618,
+      "protectedPixels": 27231,
       "maxSaturatedLuminanceDrift": 0.003404418511431473,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -5255,7 +6915,80 @@
         "w": 112,
         "h": 80
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        21,
+        44,
+        98
+      ],
+      [
+        37,
+        57,
+        106
+      ],
+      [
+        72,
+        86,
+        119
+      ],
+      [
+        54,
+        72,
+        117
+      ],
+      [
+        51,
+        60,
+        100
+      ],
+      [
+        25,
+        43,
+        90
+      ],
+      [
+        29,
+        50,
+        103
+      ],
+      [
+        59,
+        66,
+        103
+      ],
+      [
+        52,
+        57,
+        92
+      ],
+      [
+        46,
+        65,
+        113
+      ],
+      [
+        81,
+        90,
+        118
+      ],
+      [
+        69,
+        72,
+        106
+      ],
+      [
+        40,
+        50,
+        92
+      ],
+      [
+        37,
+        44,
+        90
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-simplyscouted",
@@ -5271,19 +7004,19 @@
       "originalBytes": 163270
     },
     "asset": {
-      "src": "/images/projects/app-simplyscouted-theme-screen-3ecf3626b9.webp",
+      "src": "/images/projects/app-simplyscouted-theme-screen-33692e119b.webp",
       "width": 375,
       "height": 812,
       "role": "screen",
       "gallery": true,
-      "sha256": "3ecf3626b98c244d27b1c5a93ac425ead3c8d2ad67cd523982d7209919005bde",
-      "bytes": 75764,
+      "sha256": "33692e119b6aed0e42120e5a5d0a286700370646b7f61e89ee8f7adbe7b83bb1",
+      "bytes": 74710,
       "originalBytes": 163270
     },
-    "pngSha256": "bac7c987492cc1b96d466bc28a77643813092267e7740d8d626ad95d26123bce",
+    "pngSha256": "f2adc185fe065b685c413e2c008a405966c99c38f248ee9e01ad72baed046b2d",
     "stats": {
-      "changedPixels": 236145,
-      "protectedPixels": 7192,
+      "changedPixels": 239702,
+      "protectedPixels": 3635,
       "maxSaturatedLuminanceDrift": 0.0031957623815115355,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -5301,7 +7034,90 @@
         "w": 128,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        22,
+        44,
+        98
+      ],
+      [
+        35,
+        56,
+        107
+      ],
+      [
+        28,
+        49,
+        103
+      ],
+      [
+        54,
+        73,
+        120
+      ],
+      [
+        71,
+        88,
+        132
+      ],
+      [
+        46,
+        66,
+        115
+      ],
+      [
+        83,
+        99,
+        139
+      ],
+      [
+        43,
+        63,
+        113
+      ],
+      [
+        104,
+        118,
+        154
+      ],
+      [
+        65,
+        83,
+        127
+      ],
+      [
+        92,
+        107,
+        146
+      ],
+      [
+        120,
+        133,
+        165
+      ],
+      [
+        63,
+        81,
+        126
+      ],
+      [
+        114,
+        127,
+        161
+      ],
+      [
+        113,
+        125,
+        159
+      ],
+      [
+        96,
+        110,
+        149
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-simplyscouted",
@@ -5317,19 +7133,19 @@
       "originalBytes": 258764
     },
     "asset": {
-      "src": "/images/projects/app-simplyscouted-theme-screen-8ccf355eb4.webp",
+      "src": "/images/projects/app-simplyscouted-theme-screen-63410dc752.webp",
       "width": 375,
       "height": 812,
       "role": "screen",
       "gallery": true,
-      "sha256": "8ccf355eb44e882244b09299013b5529ec9e27d4a0329707d379ea37e38c83f9",
-      "bytes": 174438,
+      "sha256": "63410dc752ba1963a4c7bac604d8fa5829db25e72ef1baaf6efd5165a3be70a8",
+      "bytes": 168432,
       "originalBytes": 258764
     },
-    "pngSha256": "ecb23126702a674a7b31201e0e381513be35b2570ce6f1c05814df96443b046d",
+    "pngSha256": "1dd09b277559e597e1381b3c76f623e1704f20aedb2ef8f810e9bac4d2029e3d",
     "stats": {
-      "changedPixels": 149862,
-      "protectedPixels": 99294,
+      "changedPixels": 200104,
+      "protectedPixels": 49052,
       "maxSaturatedLuminanceDrift": 0.0033852945491484876,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -5341,7 +7157,55 @@
         "w": 304,
         "h": 512
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        21,
+        44,
+        98
+      ],
+      [
+        2,
+        20,
+        72
+      ],
+      [
+        2,
+        56,
+        116
+      ],
+      [
+        3,
+        36,
+        89
+      ],
+      [
+        4,
+        19,
+        54
+      ],
+      [
+        2,
+        23,
+        81
+      ],
+      [
+        2,
+        12,
+        43
+      ],
+      [
+        4,
+        42,
+        99
+      ],
+      [
+        20,
+        43,
+        94
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-simplyscouted",
@@ -5357,19 +7221,19 @@
       "originalBytes": 301332
     },
     "asset": {
-      "src": "/images/projects/app-simplyscouted-theme-screen-c5c849a79e.webp",
+      "src": "/images/projects/app-simplyscouted-theme-screen-bba0bd5d74.webp",
       "width": 375,
       "height": 812,
       "role": "screen",
       "gallery": true,
-      "sha256": "c5c849a79e3a8598908db9a32f86cefe0531c4fc0b099b88cbe070d39a9da077",
-      "bytes": 164986,
+      "sha256": "bba0bd5d74be0446a2961d3adb4166cd44f81c97c0be3ccd9c9b05ae6ec41cd1",
+      "bytes": 160470,
       "originalBytes": 301332
     },
-    "pngSha256": "df86c8d5587fafdcb624fef95803ec4d9e733eb41a535861f46975e25c1023a2",
+    "pngSha256": "b52c6947d970651ccefa3f5d8dddf35dbaa32edea035d5ab1cb694e0a66d15d0",
     "stats": {
-      "changedPixels": 51204,
-      "protectedPixels": 130910,
+      "changedPixels": 53009,
+      "protectedPixels": 129105,
       "maxSaturatedLuminanceDrift": 0.003404418511431473,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -5387,7 +7251,15 @@
         "w": 192,
         "h": 128
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        21,
+        44,
+        98
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-simplyscouted",
@@ -5403,19 +7275,19 @@
       "originalBytes": 290587
     },
     "asset": {
-      "src": "/images/projects/app-simplyscouted-theme-screen-38ce22b10c.webp",
+      "src": "/images/projects/app-simplyscouted-theme-screen-24edbc9da2.webp",
       "width": 375,
       "height": 812,
       "role": "screen",
       "gallery": true,
-      "sha256": "38ce22b10c7a3c2dc06485d45c9b6c70fd1511532ab958cdc991b497328788e8",
-      "bytes": 151556,
+      "sha256": "24edbc9da22b495854bbdccb63ee3062926e4fc344b40dba8a629899217fc5ea",
+      "bytes": 148758,
       "originalBytes": 290587
     },
-    "pngSha256": "7e7422db6dd96cb13719f4bea2fa19d949bd2c6f25159fc67be654611c0c536b",
+    "pngSha256": "4f66b292373e5dbeec7628c0720adc4693400a3a10614bf0e8aa777af9f22274",
     "stats": {
-      "changedPixels": 102605,
-      "protectedPixels": 74078,
+      "changedPixels": 111386,
+      "protectedPixels": 65297,
       "maxSaturatedLuminanceDrift": 0.003404418511431362,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -5433,7 +7305,55 @@
         "w": 208,
         "h": 160
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        21,
+        44,
+        98
+      ],
+      [
+        178,
+        173,
+        228
+      ],
+      [
+        171,
+        165,
+        221
+      ],
+      [
+        164,
+        156,
+        214
+      ],
+      [
+        173,
+        170,
+        226
+      ],
+      [
+        182,
+        177,
+        231
+      ],
+      [
+        158,
+        151,
+        209
+      ],
+      [
+        154,
+        147,
+        204
+      ],
+      [
+        149,
+        142,
+        200
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-simplyscouted",
@@ -5449,19 +7369,19 @@
       "originalBytes": 260127
     },
     "asset": {
-      "src": "/images/projects/app-simplyscouted-theme-screen-d2a0f5d902.webp",
+      "src": "/images/projects/app-simplyscouted-theme-screen-24c5b0ced7.webp",
       "width": 375,
       "height": 812,
       "role": "screen",
       "gallery": true,
-      "sha256": "d2a0f5d90297defa5d744c1e5e620f6c82fe163fef10edfbf3da5f3c29408de3",
-      "bytes": 169186,
+      "sha256": "24c5b0ced79d77471f8069437156505486c5df6292349489304723984cc1c48e",
+      "bytes": 165010,
       "originalBytes": 260127
     },
-    "pngSha256": "db9fac0fcdf3098408968c8c04998abf6022ba4d3b001c3ebc36f06bafe70eb1",
+    "pngSha256": "344cbd2400b59db06d6ca099e462922bdec5baf29dbde2807ee7936eef2edcd2",
     "stats": {
-      "changedPixels": 120411,
-      "protectedPixels": 108883,
+      "changedPixels": 151392,
+      "protectedPixels": 77902,
       "maxSaturatedLuminanceDrift": 0.0032712005736488248,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -5491,7 +7411,75 @@
         "w": 128,
         "h": 80
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        21,
+        44,
+        98
+      ],
+      [
+        135,
+        197,
+        250
+      ],
+      [
+        171,
+        165,
+        221
+      ],
+      [
+        156,
+        209,
+        254
+      ],
+      [
+        179,
+        173,
+        228
+      ],
+      [
+        161,
+        215,
+        254
+      ],
+      [
+        164,
+        157,
+        215
+      ],
+      [
+        151,
+        205,
+        251
+      ],
+      [
+        173,
+        170,
+        226
+      ],
+      [
+        121,
+        187,
+        246
+      ],
+      [
+        158,
+        151,
+        209
+      ],
+      [
+        1,
+        43,
+        52
+      ],
+      [
+        153,
+        146,
+        204
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-infinote",
@@ -5573,19 +7561,19 @@
       "originalBytes": 1083683
     },
     "asset": {
-      "src": "/images/projects/app-infinote-theme-screen-4f51abaf85.webp",
+      "src": "/images/projects/app-infinote-theme-screen-c25d4452b7.webp",
       "width": 1076,
       "height": 2180,
       "role": "composition",
       "gallery": false,
-      "sha256": "4f51abaf8510778efdfb8e762d3eccdc3e1b0d6220fbd36ef0421b144385b4e1",
-      "bytes": 791256,
+      "sha256": "c25d4452b7c04b1706cf329f723f31715156d49c82d83381433f2aca49145a81",
+      "bytes": 798908,
       "originalBytes": 1083683
     },
-    "pngSha256": "a67baf4d5374f389ed6689762072f02310b38ac83fbbbe14c3adb1069936af54",
+    "pngSha256": "5bb1c1f6016764d518f66646d81893536523dfedb9355563ea6fd0a26fde7fb0",
     "stats": {
-      "changedPixels": 12704,
-      "protectedPixels": 1905802,
+      "changedPixels": 51836,
+      "protectedPixels": 1866670,
       "maxSaturatedLuminanceDrift": 0.0015240920092370602,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -5597,7 +7585,15 @@
         "w": 986,
         "h": 1940
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        104,
+        123,
+        255
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-infinote",
@@ -5832,19 +7828,19 @@
       "originalBytes": 1520112
     },
     "asset": {
-      "src": "/images/projects/app-silaflow-theme-preview-37fce1d2a0.webp",
+      "src": "/images/projects/app-silaflow-theme-preview-00057e5e0e.webp",
       "width": 1600,
       "height": 1251,
       "role": "composition",
       "gallery": false,
-      "sha256": "37fce1d2a0216308bef5d3a3b0a65716811d4a0eaaebb62e3bc73825986a30b1",
-      "bytes": 333806,
+      "sha256": "00057e5e0e0199489957dbcd6013f7aef0b79902387cda2c333fee1b9c0cca18",
+      "bytes": 331212,
       "originalBytes": 1520112
     },
-    "pngSha256": "ed4602950609fb78915d2b95259831a3d103dfd1c05bf0d087660cb0086e2b61",
+    "pngSha256": "70042bf436164543df9ebc62cc88fcdede72f7c6053f3234d62feb4cd068ccf5",
     "stats": {
-      "changedPixels": 1716612,
-      "protectedPixels": 126208,
+      "changedPixels": 1719416,
+      "protectedPixels": 123404,
       "maxSaturatedLuminanceDrift": 0.0038995249524871323,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -5862,7 +7858,75 @@
         "w": 272,
         "h": 176
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        51,
+        169,
+        3
+      ],
+      [
+        87,
+        114,
+        72
+      ],
+      [
+        36,
+        69,
+        26
+      ],
+      [
+        82,
+        110,
+        70
+      ],
+      [
+        41,
+        75,
+        34
+      ],
+      [
+        26,
+        53,
+        13
+      ],
+      [
+        28,
+        59,
+        17
+      ],
+      [
+        78,
+        106,
+        69
+      ],
+      [
+        31,
+        65,
+        21
+      ],
+      [
+        52,
+        86,
+        43
+      ],
+      [
+        70,
+        100,
+        56
+      ],
+      [
+        46,
+        80,
+        40
+      ],
+      [
+        68,
+        90,
+        40
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-silaflow",
@@ -5878,19 +7942,19 @@
       "originalBytes": 1498659
     },
     "asset": {
-      "src": "/images/projects/app-silaflow-theme-screen-9a98a4b9c2.webp",
+      "src": "/images/projects/app-silaflow-theme-screen-b23632663e.webp",
       "width": 1600,
       "height": 1313,
       "role": "composition",
       "gallery": false,
-      "sha256": "9a98a4b9c2019fc4f9de7d6a01bfe1c5fefc161ecde463774842244e6da44f3e",
-      "bytes": 532238,
+      "sha256": "b23632663e9a7e61d14f9a1ff6b0d2b48b5d851081cdbaf3a46ed27652278a11",
+      "bytes": 528940,
       "originalBytes": 1498659
     },
-    "pngSha256": "1f1be646a9a5914a6f05f114224b7723123bd94d5a1cbd4bb95d3ebe5c4815bc",
+    "pngSha256": "adb82f091a80db1a42fc298804acb334533f8189bce7f74c4ae15595a81077fc",
     "stats": {
-      "changedPixels": 909192,
-      "protectedPixels": 253696,
+      "changedPixels": 915351,
+      "protectedPixels": 247537,
       "maxSaturatedLuminanceDrift": 0.003975722852248564,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -5914,7 +7978,90 @@
         "w": 64,
         "h": 112
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        87,
+        114,
+        72
+      ],
+      [
+        82,
+        110,
+        70
+      ],
+      [
+        36,
+        69,
+        27
+      ],
+      [
+        51,
+        167,
+        0
+      ],
+      [
+        41,
+        75,
+        34
+      ],
+      [
+        26,
+        53,
+        13
+      ],
+      [
+        28,
+        59,
+        17
+      ],
+      [
+        78,
+        106,
+        69
+      ],
+      [
+        53,
+        85,
+        42
+      ],
+      [
+        70,
+        101,
+        57
+      ],
+      [
+        31,
+        65,
+        21
+      ],
+      [
+        67,
+        88,
+        39
+      ],
+      [
+        46,
+        80,
+        40
+      ],
+      [
+        58,
+        92,
+        51
+      ],
+      [
+        62,
+        96,
+        55
+      ],
+      [
+        93,
+        120,
+        80
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-silaflow",
@@ -5930,19 +8077,19 @@
       "originalBytes": 489652
     },
     "asset": {
-      "src": "/images/projects/app-silaflow-theme-screen-c8a9a6b851.webp",
+      "src": "/images/projects/app-silaflow-theme-screen-93e622b2e7.webp",
       "width": 1076,
       "height": 2180,
       "role": "composition",
       "gallery": false,
-      "sha256": "c8a9a6b8513fcee4c4777d718ebbd009359e95bbb4021529504e1c0780f42dd3",
-      "bytes": 446848,
+      "sha256": "93e622b2e7e8bf25e468a7c178d682ea1136206b6f6e55f20a5a915112133ef8",
+      "bytes": 443304,
       "originalBytes": 489652
     },
-    "pngSha256": "969d7222c6ed75743599b569ef97442c09b77c8c89bc1e866407b145f07200d9",
+    "pngSha256": "9dd4c6991dc41e3c6641ed65507698400d25a48cb6008c54cad79cba517d17a1",
     "stats": {
-      "changedPixels": 1610720,
-      "protectedPixels": 129987,
+      "changedPixels": 1684635,
+      "protectedPixels": 56072,
       "maxSaturatedLuminanceDrift": 0.0038995249524871323,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -6008,7 +8155,60 @@
         "w": 112,
         "h": 80
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        85,
+        187,
+        41
+      ],
+      [
+        73,
+        179,
+        26
+      ],
+      [
+        100,
+        195,
+        59
+      ],
+      [
+        92,
+        190,
+        49
+      ],
+      [
+        107,
+        200,
+        67
+      ],
+      [
+        94,
+        192,
+        52
+      ],
+      [
+        79,
+        183,
+        34
+      ],
+      [
+        57,
+        170,
+        8
+      ],
+      [
+        65,
+        175,
+        18
+      ],
+      [
+        114,
+        203,
+        75
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-silaflow",
@@ -6024,19 +8224,19 @@
       "originalBytes": 216692
     },
     "asset": {
-      "src": "/images/projects/app-silaflow-theme-screen-4d79c4a04c.webp",
+      "src": "/images/projects/app-silaflow-theme-screen-adaf00df3a.webp",
       "width": 710,
       "height": 711,
       "role": "composition",
       "gallery": false,
-      "sha256": "4d79c4a04c660f259adcdc6af14fcb68677159dc89bac54f8237cc196d1f8788",
-      "bytes": 178042,
+      "sha256": "adaf00df3a45e5169470f60449c9e50135cd8fd9254573d5ebcf888f46c8cd90",
+      "bytes": 177812,
       "originalBytes": 216692
     },
-    "pngSha256": "7b0056c0485af0ccce05e4bb85f0486060186f16a240b1c73efc65303f504a93",
+    "pngSha256": "ae5a86ce547f7b98e3da92158fe9628d4840750ef5ea97f976d2e2e5b22bfae1",
     "stats": {
-      "changedPixels": 182999,
-      "protectedPixels": 36497,
+      "changedPixels": 185559,
+      "protectedPixels": 33937,
       "maxSaturatedLuminanceDrift": 0.00403048307171705,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -6060,7 +8260,15 @@
         "w": 224,
         "h": 128
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        51,
+        167,
+        0
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-silaflow",
@@ -6109,19 +8317,19 @@
       "originalBytes": 185981
     },
     "asset": {
-      "src": "/images/projects/app-silaflow-theme-screen-8bfbf68129.webp",
+      "src": "/images/projects/app-silaflow-theme-screen-51653ce573.webp",
       "width": 375,
       "height": 813,
       "role": "screen",
       "gallery": true,
-      "sha256": "8bfbf681297b948a4530234afe5b0d2ac7211b3969f28b57e4b6d4809727859b",
-      "bytes": 123550,
+      "sha256": "51653ce5737002e09639a6fe01888dc94056a1847b512ceb088ad0c98ac15328",
+      "bytes": 123498,
       "originalBytes": 185981
     },
-    "pngSha256": "f39ac27fe0a1a44792a28aff840900cbe68b185cb1289ee5634a36297fa607f5",
+    "pngSha256": "4087cb9b6b12b8563c5af459bafe9965fef046fe70d173ce30dcd6542906b5b3",
     "stats": {
-      "changedPixels": 144824,
-      "protectedPixels": 72891,
+      "changedPixels": 144827,
+      "protectedPixels": 72888,
       "maxSaturatedLuminanceDrift": 0.0038770337558243773,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -6133,7 +8341,15 @@
         "w": 352,
         "h": 208
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        51,
+        167,
+        0
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-silaflow",
@@ -6149,19 +8365,19 @@
       "originalBytes": 240802
     },
     "asset": {
-      "src": "/images/projects/app-silaflow-theme-screen-adcf8ebe71.webp",
+      "src": "/images/projects/app-silaflow-theme-screen-43450cf20f.webp",
       "width": 375,
       "height": 813,
       "role": "screen",
       "gallery": true,
-      "sha256": "adcf8ebe715dd623162d2157fe0fd7f4d43117895911d32a8b119c6fe64edbd7",
-      "bytes": 168038,
+      "sha256": "43450cf20ff4b8a11f5956047ea0a58d879c95379a2cc0c29559693d6626eaf1",
+      "bytes": 168208,
       "originalBytes": 240802
     },
-    "pngSha256": "71c6a59f0ee529acb28943fe200ce99defc6bfd83e89f2a8b3902f96d2a3c849",
+    "pngSha256": "2cea44bc31dc256c5af6528d524bf037443bf6d792adf973a1bae1c6b9e703c5",
     "stats": {
-      "changedPixels": 92201,
-      "protectedPixels": 107520,
+      "changedPixels": 92405,
+      "protectedPixels": 107316,
       "maxSaturatedLuminanceDrift": 0.0038378029409411596,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -6173,7 +8389,15 @@
         "w": 336,
         "h": 320
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        51,
+        167,
+        0
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-silaflow",
@@ -6189,19 +8413,19 @@
       "originalBytes": 151658
     },
     "asset": {
-      "src": "/images/projects/app-silaflow-theme-screen-7110459518.webp",
+      "src": "/images/projects/app-silaflow-theme-screen-81b9a57801.webp",
       "width": 375,
       "height": 813,
       "role": "screen",
       "gallery": true,
-      "sha256": "711045951838556c12674b10cf58d7e07a04d8cea8d6d3c15f09db6a010ab7f8",
-      "bytes": 136602,
+      "sha256": "81b9a57801f3e8ccdfe608ddd01119de99885bbefff83bbf3fdf6bea38b42c1d",
+      "bytes": 132904,
       "originalBytes": 151658
     },
-    "pngSha256": "b6cf5b47f2daa64e9cd37ad64b43c39949ad5a009b9da33862ba5b82a30e810a",
+    "pngSha256": "f53fb123e803e052acbaf2fd163a7b0f12829c7ecbbd02d9e85eb3ba4182c5bd",
     "stats": {
-      "changedPixels": 171836,
-      "protectedPixels": 7927,
+      "changedPixels": 174994,
+      "protectedPixels": 4769,
       "maxSaturatedLuminanceDrift": 0.00403048307171705,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -6219,7 +8443,15 @@
         "w": 80,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        51,
+        167,
+        0
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-habitstride",
@@ -6268,19 +8500,19 @@
       "originalBytes": 1109546
     },
     "asset": {
-      "src": "/images/projects/app-habitstride-theme-screen-8065f0fe6c.webp",
+      "src": "/images/projects/app-habitstride-theme-screen-5895a197e9.webp",
       "width": 1600,
       "height": 1313,
       "role": "composition",
       "gallery": false,
-      "sha256": "8065f0fe6cc1855e2cacd1082545798057597f9cc7b0b2a9a2c419bdd980775a",
-      "bytes": 295848,
+      "sha256": "5895a197e9efbe334f24b3adb6165dc3d15e4b7a826a091bd4d2df5e042eeaad",
+      "bytes": 295218,
       "originalBytes": 1109546
     },
-    "pngSha256": "43f8d0618c7d696966fd31a225a5f8bca2a552b43e7966d4637ec48ba43dbec2",
+    "pngSha256": "4a0be251284436ec6f2faf82ba86fa02af4aa49630fa2bf63e3f6d248ed87c8b",
     "stats": {
-      "changedPixels": 1030487,
-      "protectedPixels": 21467,
+      "changedPixels": 1050543,
+      "protectedPixels": 1411,
       "maxSaturatedLuminanceDrift": 0.0036394979439482444,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -6292,7 +8524,75 @@
         "w": 336,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        149,
+        135,
+        254
+      ],
+      [
+        117,
+        105,
+        255
+      ],
+      [
+        165,
+        164,
+        254
+      ],
+      [
+        135,
+        120,
+        254
+      ],
+      [
+        156,
+        151,
+        254
+      ],
+      [
+        151,
+        122,
+        255
+      ],
+      [
+        140,
+        131,
+        254
+      ],
+      [
+        123,
+        115,
+        254
+      ],
+      [
+        111,
+        102,
+        254
+      ],
+      [
+        161,
+        156,
+        254
+      ],
+      [
+        163,
+        129,
+        255
+      ],
+      [
+        130,
+        108,
+        255
+      ],
+      [
+        162,
+        126,
+        255
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-habitstride",
@@ -6308,19 +8608,19 @@
       "originalBytes": 482912
     },
     "asset": {
-      "src": "/images/projects/app-habitstride-theme-screen-6af898ee2d.webp",
+      "src": "/images/projects/app-habitstride-theme-screen-169d99abf5.webp",
       "width": 1076,
       "height": 2180,
       "role": "composition",
       "gallery": false,
-      "sha256": "6af898ee2d3094131d026826c29209405a9fe32ae1ebdf2c425c183928872ee0",
-      "bytes": 266060,
+      "sha256": "169d99abf596f35893a2cad659fb83ca8ffabf618630c6a376556fe30c1b15aa",
+      "bytes": 266116,
       "originalBytes": 482912
     },
-    "pngSha256": "35a9b8170b006de7782116521191a38ca211694a84d8b4a805322705c7fd54a2",
+    "pngSha256": "14ed8d1daa2cd6b68cfea9cab4e1c5071753202e8ff781204e8a75787b39b04d",
     "stats": {
-      "changedPixels": 1365634,
-      "protectedPixels": 41087,
+      "changedPixels": 1366324,
+      "protectedPixels": 40397,
       "maxSaturatedLuminanceDrift": 0.0036394979439482444,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -6344,7 +8644,20 @@
         "w": 128,
         "h": 96
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        119,
+        101,
+        255
+      ],
+      [
+        129,
+        103,
+        255
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-habitstride",
@@ -6360,19 +8673,19 @@
       "originalBytes": 191773
     },
     "asset": {
-      "src": "/images/projects/app-habitstride-theme-screen-f6c629a67a.webp",
+      "src": "/images/projects/app-habitstride-theme-screen-8194694293.webp",
       "width": 710,
       "height": 711,
       "role": "composition",
       "gallery": false,
-      "sha256": "f6c629a67ace79e4490d0f5f07f641082d4b495e4e39ab0a4b03baa7db2a506e",
-      "bytes": 143254,
+      "sha256": "81946942938ff5b88d9f2b452410ae25be263bb04c03acd2353c8c883480baf1",
+      "bytes": 142756,
       "originalBytes": 191773
     },
-    "pngSha256": "42aa7e69a99bf2c5358fc296142f157c9ffce791f07389229d6a908c1397d964",
+    "pngSha256": "46b50dd7a311aa0cdea49fabced21db9d9a806e9ef39a4e283042d8b78a94a44",
     "stats": {
-      "changedPixels": 211853,
-      "protectedPixels": 4608,
+      "changedPixels": 212640,
+      "protectedPixels": 3821,
       "maxSaturatedLuminanceDrift": 0.0036394979439482444,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -6384,7 +8697,55 @@
         "w": 96,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        155,
+        152,
+        254
+      ],
+      [
+        119,
+        103,
+        255
+      ],
+      [
+        136,
+        106,
+        255
+      ],
+      [
+        146,
+        140,
+        255
+      ],
+      [
+        140,
+        133,
+        251
+      ],
+      [
+        138,
+        123,
+        252
+      ],
+      [
+        146,
+        110,
+        254
+      ],
+      [
+        148,
+        115,
+        255
+      ],
+      [
+        110,
+        101,
+        254
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-habitstride",
@@ -6532,19 +8893,19 @@
       "originalBytes": 1834788
     },
     "asset": {
-      "src": "/images/projects/app-tukora-connect-theme-preview-c563cd2ea7.webp",
+      "src": "/images/projects/app-tukora-connect-theme-preview-f8cfeb64d6.webp",
       "width": 1600,
       "height": 1199,
       "role": "composition",
       "gallery": false,
-      "sha256": "c563cd2ea7fa128f3288572a0e2dbb71ec6b6572e33598a529ac0d494cfc8c78",
-      "bytes": 196806,
+      "sha256": "f8cfeb64d63b196277e4cfa0d98b90d265572f70378da657f27f40c303198fa4",
+      "bytes": 197328,
       "originalBytes": 1834788
     },
-    "pngSha256": "1f94d39134919237a5f1ae9efca7e024f7e026ca82267ea031e4993bc3348e55",
+    "pngSha256": "493beb576e07ed3f9a879c23ac1b89896c552b8f2d484ffa4af7d0cad121e115",
     "stats": {
-      "changedPixels": 1759601,
-      "protectedPixels": 8192,
+      "changedPixels": 1762754,
+      "protectedPixels": 5039,
       "maxSaturatedLuminanceDrift": 0.003784896321554432,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -6562,7 +8923,35 @@
         "w": 64,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        46,
+        118,
+        180
+      ],
+      [
+        7,
+        35,
+        55
+      ],
+      [
+        22,
+        105,
+        165
+      ],
+      [
+        58,
+        188,
+        134
+      ],
+      [
+        52,
+        68,
+        87
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-tukora-connect",
@@ -6578,19 +8967,19 @@
       "originalBytes": 690066
     },
     "asset": {
-      "src": "/images/projects/app-tukora-connect-theme-screen-b8389cff0f.webp",
+      "src": "/images/projects/app-tukora-connect-theme-screen-4c3b5324a1.webp",
       "width": 1600,
       "height": 1312,
       "role": "composition",
       "gallery": false,
-      "sha256": "b8389cff0f0fce4d0b1280c816c4bd3b56c8d192f76eb4b7671e0171e56fa4bc",
-      "bytes": 318532,
+      "sha256": "4c3b5324a11f1485dfca4cd8fb10510bc75006e21f30f7bac20863eb84e23b0b",
+      "bytes": 318374,
       "originalBytes": 690066
     },
-    "pngSha256": "a604356368b2ab85f8738f73843f61394a9762c2ecc93939c134f7e3e63d01fd",
+    "pngSha256": "738a97cef1bb43e91baf1cdd095a1981b1acb1293744d4d7495a704569704784",
     "stats": {
-      "changedPixels": 1114629,
-      "protectedPixels": 57068,
+      "changedPixels": 1124101,
+      "protectedPixels": 47596,
       "maxSaturatedLuminanceDrift": 0.003908794240844449,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -6656,7 +9045,25 @@
         "w": 64,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        46,
+        118,
+        180
+      ],
+      [
+        22,
+        105,
+        165
+      ],
+      [
+        58,
+        188,
+        134
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-tukora-connect",
@@ -6853,19 +9260,19 @@
       "originalBytes": 113981
     },
     "asset": {
-      "src": "/images/projects/app-tukora-connect-theme-screen-4f567f7271.webp",
+      "src": "/images/projects/app-tukora-connect-theme-screen-f715e0ef40.webp",
       "width": 375,
       "height": 812,
       "role": "screen",
       "gallery": true,
-      "sha256": "4f567f7271b759a0a836d5c5430334973bbd186d944d0018c25175cb3bd48d48",
-      "bytes": 91680,
+      "sha256": "f715e0ef402854274f6507a74682a48f02161b451e7a45175e6354b815984a70",
+      "bytes": 91106,
       "originalBytes": 113981
     },
-    "pngSha256": "e1138043b65e919d633c98a27518c89502e1f644d849d1a78e31ddcd8162a39f",
+    "pngSha256": "7c82eff816c6e36b2615c1d67bbd481dbdf22f317e0d9076e65c67a3338b060b",
     "stats": {
-      "changedPixels": 202863,
-      "protectedPixels": 20480,
+      "changedPixels": 205389,
+      "protectedPixels": 17954,
       "maxSaturatedLuminanceDrift": 0.003908794240844449,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -6895,7 +9302,20 @@
         "w": 64,
         "h": 128
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        46,
+        118,
+        180
+      ],
+      [
+        48,
+        117,
+        180
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-tukora-connect",
@@ -6911,19 +9331,19 @@
       "originalBytes": 131637
     },
     "asset": {
-      "src": "/images/projects/app-tukora-connect-theme-screen-b539c9a1b3.webp",
+      "src": "/images/projects/app-tukora-connect-theme-screen-47cb6293c0.webp",
       "width": 375,
       "height": 812,
       "role": "screen",
       "gallery": true,
-      "sha256": "b539c9a1b34191aa8921b40e94701cd1e271814fce65e9020b30d4ab58f397e7",
-      "bytes": 109150,
+      "sha256": "47cb6293c078ca683ac766d4cbb37c1ae7018636d2de7d065c1aae93e67c442a",
+      "bytes": 107280,
       "originalBytes": 131637
     },
-    "pngSha256": "de2fe5137ba087fd9c523bcdc1768f98d28039570fd1ced429fd718bc405f3e9",
+    "pngSha256": "4cb6f64e2c68c96ef3b95feff44ac7302018962037d2a923ba65b218fba36268",
     "stats": {
-      "changedPixels": 162673,
-      "protectedPixels": 13312,
+      "changedPixels": 168240,
+      "protectedPixels": 7745,
       "maxSaturatedLuminanceDrift": 0.003908794240844449,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -6947,7 +9367,15 @@
         "w": 64,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        46,
+        118,
+        180
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-tukora-connect",
@@ -7009,19 +9437,19 @@
       "originalBytes": 1758188
     },
     "asset": {
-      "src": "/images/projects/app-pantryone-theme-preview-062fde47cb.webp",
+      "src": "/images/projects/app-pantryone-theme-preview-7fedbef4f0.webp",
       "width": 1600,
       "height": 1199,
       "role": "composition",
       "gallery": false,
-      "sha256": "062fde47cb97b8ce2acd767d72444c4c6d65f78fbe27b95a49820daa061ef2d1",
-      "bytes": 193324,
+      "sha256": "7fedbef4f07fde30d85ccaded9b55e5be530712aca97ca15da24b3e6b8cf076c",
+      "bytes": 192322,
       "originalBytes": 1758188
     },
-    "pngSha256": "2d0f2fa52876ed4135f1ae63ca2b78c1d5f4a03e2ed2a055f3ca5c3e6d28bfd7",
+    "pngSha256": "52574f99927b4d92c85fb4e50f62358031fff2414426991f56f8f3c3c7f50fa9",
     "stats": {
-      "changedPixels": 1752731,
-      "protectedPixels": 42114,
+      "changedPixels": 1769181,
+      "protectedPixels": 25664,
       "maxSaturatedLuminanceDrift": 0.003946426577791762,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -7039,7 +9467,90 @@
         "w": 80,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        99,
+        173,
+        42
+      ],
+      [
+        105,
+        178,
+        52
+      ],
+      [
+        152,
+        213,
+        89
+      ],
+      [
+        134,
+        202,
+        77
+      ],
+      [
+        122,
+        194,
+        69
+      ],
+      [
+        91,
+        173,
+        51
+      ],
+      [
+        115,
+        189,
+        65
+      ],
+      [
+        141,
+        206,
+        82
+      ],
+      [
+        164,
+        221,
+        97
+      ],
+      [
+        87,
+        171,
+        47
+      ],
+      [
+        95,
+        177,
+        52
+      ],
+      [
+        167,
+        224,
+        97
+      ],
+      [
+        160,
+        219,
+        95
+      ],
+      [
+        152,
+        186,
+        57
+      ],
+      [
+        115,
+        185,
+        62
+      ],
+      [
+        134,
+        180,
+        55
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-pantryone",
@@ -7055,19 +9566,19 @@
       "originalBytes": 935709
     },
     "asset": {
-      "src": "/images/projects/app-pantryone-theme-screen-9dd1d4c811.webp",
+      "src": "/images/projects/app-pantryone-theme-screen-b657aa2159.webp",
       "width": 1600,
       "height": 1312,
       "role": "composition",
       "gallery": false,
-      "sha256": "9dd1d4c811a1acea7eba0706af5f5c4ce198fd09abd7fc7a5249587fcadc274b",
-      "bytes": 323112,
+      "sha256": "b657aa2159d472c0130292999a00fa03a44107242182c599b499d820cef4679a",
+      "bytes": 321668,
       "originalBytes": 935709
     },
-    "pngSha256": "449121dcad785cc4141e18942c15d577c59900e522a87586f1090170a07a1dae",
+    "pngSha256": "95f3220231aa7afcbdf43f6ae3dc6c05f5764bc7edf6dd7955874922644a618e",
     "stats": {
-      "changedPixels": 1147913,
-      "protectedPixels": 78186,
+      "changedPixels": 1177233,
+      "protectedPixels": 48866,
       "maxSaturatedLuminanceDrift": 0.003922053276446347,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -7115,7 +9626,90 @@
         "w": 128,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        152,
+        213,
+        89
+      ],
+      [
+        104,
+        182,
+        58
+      ],
+      [
+        121,
+        194,
+        69
+      ],
+      [
+        134,
+        202,
+        77
+      ],
+      [
+        91,
+        173,
+        51
+      ],
+      [
+        141,
+        206,
+        82
+      ],
+      [
+        114,
+        189,
+        65
+      ],
+      [
+        164,
+        221,
+        97
+      ],
+      [
+        87,
+        171,
+        47
+      ],
+      [
+        95,
+        177,
+        52
+      ],
+      [
+        167,
+        224,
+        97
+      ],
+      [
+        160,
+        219,
+        95
+      ],
+      [
+        114,
+        185,
+        62
+      ],
+      [
+        152,
+        186,
+        57
+      ],
+      [
+        134,
+        180,
+        55
+      ],
+      [
+        163,
+        191,
+        57
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-pantryone",
@@ -7131,19 +9725,19 @@
       "originalBytes": 144058
     },
     "asset": {
-      "src": "/images/projects/app-pantryone-theme-screen-2ab6148f15.webp",
+      "src": "/images/projects/app-pantryone-theme-screen-d0e807b76b.webp",
       "width": 331,
       "height": 669,
       "role": "composition",
       "gallery": false,
-      "sha256": "2ab6148f15c9cfc9a730de8369037e091821ffcb5a727b013ab1edf4463124b0",
-      "bytes": 39954,
+      "sha256": "d0e807b76ba23def5b4f871c104b78f373a85be471655dc003bd443742036c31",
+      "bytes": 39452,
       "originalBytes": 144058
     },
-    "pngSha256": "864235c874ae680f163000589c2e939541f5d1153048feb9ce8f202a469bbc5c",
+    "pngSha256": "074d646c2fb083b135a51b8cf98e098672841740719a61c108c5f08ab01cd3c9",
     "stats": {
-      "changedPixels": 175636,
-      "protectedPixels": 4788,
+      "changedPixels": 177706,
+      "protectedPixels": 2718,
       "maxSaturatedLuminanceDrift": 0.003922053276446347,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -7155,7 +9749,80 @@
         "w": 112,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        151,
+        213,
+        88
+      ],
+      [
+        104,
+        182,
+        58
+      ],
+      [
+        134,
+        202,
+        77
+      ],
+      [
+        121,
+        194,
+        69
+      ],
+      [
+        114,
+        189,
+        65
+      ],
+      [
+        141,
+        206,
+        82
+      ],
+      [
+        91,
+        174,
+        50
+      ],
+      [
+        164,
+        221,
+        97
+      ],
+      [
+        94,
+        176,
+        52
+      ],
+      [
+        167,
+        224,
+        97
+      ],
+      [
+        160,
+        219,
+        95
+      ],
+      [
+        112,
+        187,
+        63
+      ],
+      [
+        87,
+        172,
+        47
+      ],
+      [
+        111,
+        189,
+        65
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-pantryone",
@@ -7171,19 +9838,19 @@
       "originalBytes": 209483
     },
     "asset": {
-      "src": "/images/projects/app-pantryone-theme-screen-e0a114f262.webp",
+      "src": "/images/projects/app-pantryone-theme-screen-4969567f87.webp",
       "width": 376,
       "height": 813,
       "role": "screen",
       "gallery": true,
-      "sha256": "e0a114f262f3282a30f77b2f07f1e7ae3b54b5e5128ee7ac2821477267c03806",
-      "bytes": 60110,
+      "sha256": "4969567f87c20b3bf7f0ec4a7cb2de1fcc68ae676bf915a3c7ba09cba02c6807",
+      "bytes": 59874,
       "originalBytes": 209483
     },
-    "pngSha256": "861592e3dbcac619d13317f554f2b3ca9cdef216ef7c60bcb87b57cbda5b7b99",
+    "pngSha256": "8211092f2f68fa6cefdaafc75c3a6ecb83e9f47566a59f9384f6fe188a2723d4",
     "stats": {
-      "changedPixels": 228379,
-      "protectedPixels": 7759,
+      "changedPixels": 231747,
+      "protectedPixels": 4391,
       "maxSaturatedLuminanceDrift": 0.003922053276446347,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -7195,7 +9862,85 @@
         "w": 144,
         "h": 80
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        152,
+        213,
+        89
+      ],
+      [
+        104,
+        183,
+        58
+      ],
+      [
+        121,
+        194,
+        69
+      ],
+      [
+        133,
+        202,
+        77
+      ],
+      [
+        90,
+        173,
+        49
+      ],
+      [
+        140,
+        206,
+        82
+      ],
+      [
+        114,
+        189,
+        65
+      ],
+      [
+        163,
+        221,
+        97
+      ],
+      [
+        94,
+        177,
+        51
+      ],
+      [
+        167,
+        224,
+        97
+      ],
+      [
+        160,
+        219,
+        95
+      ],
+      [
+        112,
+        187,
+        63
+      ],
+      [
+        86,
+        172,
+        46
+      ],
+      [
+        143,
+        209,
+        84
+      ],
+      [
+        111,
+        189,
+        65
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-pantryone",
@@ -7211,19 +9956,19 @@
       "originalBytes": 122686
     },
     "asset": {
-      "src": "/images/projects/app-pantryone-theme-screen-39e05c556f.webp",
+      "src": "/images/projects/app-pantryone-theme-screen-ac51ed4fa3.webp",
       "width": 376,
       "height": 813,
       "role": "screen",
       "gallery": true,
-      "sha256": "39e05c556f5db7c86a275c6017c01532a738ece0224d2842b44bdb9a95b74993",
-      "bytes": 111400,
+      "sha256": "ac51ed4fa31b479d11aa1ded6a63d357eb1e2ffc1a56f9e5a500933d7add511f",
+      "bytes": 112674,
       "originalBytes": 122686
     },
-    "pngSha256": "2ede7deffbe70d27268992bf6372ea51853c959ce4a37ab41d260c838e6dcf91",
+    "pngSha256": "a822bd185d4796fc7f910bce2526ed466e27f261add79d9a36c2f0aefc39bfc6",
     "stats": {
-      "changedPixels": 153411,
-      "protectedPixels": 71677,
+      "changedPixels": 173190,
+      "protectedPixels": 51898,
       "maxSaturatedLuminanceDrift": 0.003922053276446347,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -7247,7 +9992,15 @@
         "w": 128,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        87,
+        171,
+        47
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-pantryone",
@@ -7263,19 +10016,19 @@
       "originalBytes": 172827
     },
     "asset": {
-      "src": "/images/projects/app-pantryone-theme-screen-3f8a447dcf.webp",
+      "src": "/images/projects/app-pantryone-theme-screen-a577c83378.webp",
       "width": 376,
       "height": 813,
       "role": "screen",
       "gallery": true,
-      "sha256": "3f8a447dcf7d80cdfcb65cac45216e9c127a8e9c9744f57fd8a7452eb0430b8d",
-      "bytes": 139040,
+      "sha256": "a577c83378e8186c0df712a497b9666930d9a1c24145da1b4c254e4127434d40",
+      "bytes": 137944,
       "originalBytes": 172827
     },
-    "pngSha256": "8fd62a19fdaeba19974cb9aba50d18a9c7de08c6548ae68abb2dad24c9438355",
+    "pngSha256": "c3565dd01a13cc36bcac38a61293fbb4d0ae44743e2a49b81750c6a555d416f0",
     "stats": {
-      "changedPixels": 143369,
-      "protectedPixels": 65280,
+      "changedPixels": 150150,
+      "protectedPixels": 58499,
       "maxSaturatedLuminanceDrift": 0.003922053276446347,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -7323,7 +10076,60 @@
         "w": 80,
         "h": 112
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        169,
+        200,
+        60
+      ],
+      [
+        201,
+        212,
+        59
+      ],
+      [
+        185,
+        206,
+        60
+      ],
+      [
+        133,
+        188,
+        61
+      ],
+      [
+        156,
+        195,
+        61
+      ],
+      [
+        98,
+        177,
+        65
+      ],
+      [
+        89,
+        174,
+        66
+      ],
+      [
+        71,
+        164,
+        67
+      ],
+      [
+        211,
+        217,
+        60
+      ],
+      [
+        115,
+        181,
+        65
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-pantryone",
@@ -7339,19 +10145,19 @@
       "originalBytes": 94262
     },
     "asset": {
-      "src": "/images/projects/app-pantryone-theme-screen-a25d4cbdb0.webp",
+      "src": "/images/projects/app-pantryone-theme-screen-9c29fd2e05.webp",
       "width": 376,
       "height": 813,
       "role": "screen",
       "gallery": true,
-      "sha256": "a25d4cbdb0d42998f25ecdf7adf5d969754d4f8dbfe5bb8d7b061cabf006a69f",
-      "bytes": 90790,
+      "sha256": "9c29fd2e056e5d5ae2e368c11d20afe8ced4a8960494254ea3492d0c977aa148",
+      "bytes": 90332,
       "originalBytes": 94262
     },
-    "pngSha256": "3f4cee934b0b65ad8c823a9911cf828802cad8467c3a08fb97151aa93b951570",
+    "pngSha256": "76d5e1a8a3a9cf3366e8db310abcda0738c7ca73f885ffc236243c3fffd17290",
     "stats": {
-      "changedPixels": 180202,
-      "protectedPixels": 43007,
+      "changedPixels": 196386,
+      "protectedPixels": 26823,
       "maxSaturatedLuminanceDrift": 0.0038770337558243773,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -7363,7 +10169,45 @@
         "w": 224,
         "h": 192
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        87,
+        171,
+        47
+      ],
+      [
+        89,
+        172,
+        49
+      ],
+      [
+        122,
+        195,
+        70
+      ],
+      [
+        134,
+        202,
+        77
+      ],
+      [
+        104,
+        183,
+        58
+      ],
+      [
+        116,
+        190,
+        65
+      ],
+      [
+        143,
+        207,
+        83
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-streetslate",
@@ -7379,19 +10223,19 @@
       "originalBytes": 261401
     },
     "asset": {
-      "src": "/images/projects/app-streetslate-theme-preview-1015895fda.webp",
+      "src": "/images/projects/app-streetslate-theme-preview-66f0161e49.webp",
       "width": 1499,
       "height": 1250,
       "role": "composition",
       "gallery": false,
-      "sha256": "1015895fda3c49b70dce459bb3cc009279cd2359efccffc04581f92fbb677ee5",
-      "bytes": 297330,
+      "sha256": "66f0161e49fb4cab4a9c4ac0b087d10fc1128afb6b07882f13a9a367f5a12a00",
+      "bytes": 295566,
       "originalBytes": 261401
     },
-    "pngSha256": "ad198b839285238d6ccd2bdbe7208c0b9286c1e6315ce81499fdf0e3cd16a89d",
+    "pngSha256": "e279e08bf82ee6a5e7fbe428a7751f2cb11015b29c4344211177bef16a0c725b",
     "stats": {
-      "changedPixels": 1575306,
-      "protectedPixels": 56292,
+      "changedPixels": 1603674,
+      "protectedPixels": 27924,
       "maxSaturatedLuminanceDrift": 0.0032710967096991617,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -7439,7 +10283,45 @@
         "w": 96,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        53,
+        8,
+        120
+      ],
+      [
+        48,
+        4,
+        108
+      ],
+      [
+        61,
+        18,
+        125
+      ],
+      [
+        46,
+        3,
+        103
+      ],
+      [
+        120,
+        54,
+        206
+      ],
+      [
+        192,
+        173,
+        137
+      ],
+      [
+        190,
+        172,
+        137
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-streetslate",
@@ -7488,19 +10370,19 @@
       "originalBytes": 46492
     },
     "asset": {
-      "src": "/images/projects/app-streetslate-theme-screen-f8e6712632.webp",
+      "src": "/images/projects/app-streetslate-theme-screen-358f438b07.webp",
       "width": 331,
       "height": 669,
       "role": "composition",
       "gallery": false,
-      "sha256": "f8e67126325b00de5d6c67fcf20d4b1aa0abe329e1945bb92947c61082e9b3dc",
-      "bytes": 32702,
+      "sha256": "358f438b0700d11990ff7e6b9172ce5c1c06e64dcd69c84f0b4f0eaafceab8fc",
+      "bytes": 31732,
       "originalBytes": 46492
     },
-    "pngSha256": "72a64bc08b363e188dc20a7d3f5a8001b8dfc207800cc97c9ee7e64a1456773d",
+    "pngSha256": "9efb9908a8cc2daf5db94ee3f2d4774d3bc68c0bf1c1396df3526a0aa4257d3a",
     "stats": {
-      "changedPixels": 192064,
-      "protectedPixels": 3194,
+      "changedPixels": 194938,
+      "protectedPixels": 320,
       "maxSaturatedLuminanceDrift": 0.0029846220975383586,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -7512,7 +10394,45 @@
         "w": 64,
         "h": 80
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        48,
+        4,
+        108
+      ],
+      [
+        61,
+        17,
+        121
+      ],
+      [
+        47,
+        4,
+        107
+      ],
+      [
+        120,
+        54,
+        206
+      ],
+      [
+        192,
+        173,
+        138
+      ],
+      [
+        191,
+        172,
+        137
+      ],
+      [
+        120,
+        53,
+        208
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-streetslate",
@@ -7528,19 +10448,19 @@
       "originalBytes": 100513
     },
     "asset": {
-      "src": "/images/projects/app-streetslate-theme-screen-60dbc0dcb8.webp",
+      "src": "/images/projects/app-streetslate-theme-screen-63360de19b.webp",
       "width": 331,
       "height": 669,
       "role": "composition",
       "gallery": false,
-      "sha256": "60dbc0dcb86a973b68d91056fc21fe7fb0bc5778769115c3a1d35df30df1d9f9",
-      "bytes": 80916,
+      "sha256": "63360de19b394dcf8df8d83bfcbe853245d176b17c55f4e7a326783e387a5172",
+      "bytes": 80020,
       "originalBytes": 100513
     },
-    "pngSha256": "15d03cd7dd6a4fbf931201b0f11d01af93addfc3d5f8ba8dbfebd40e706eebfe",
+    "pngSha256": "dfebbebc140f9a9bc56b0500c8862c6a420142c6be8d0d581f47966aa06293df",
     "stats": {
-      "changedPixels": 153358,
-      "protectedPixels": 6130,
+      "changedPixels": 158698,
+      "protectedPixels": 790,
       "maxSaturatedLuminanceDrift": 0.0035093439293862883,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -7552,7 +10472,35 @@
         "w": 112,
         "h": 96
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        48,
+        4,
+        108
+      ],
+      [
+        47,
+        4,
+        107
+      ],
+      [
+        187,
+        137,
+        255
+      ],
+      [
+        179,
+        123,
+        254
+      ],
+      [
+        173,
+        115,
+        252
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-streetslate",
@@ -7568,19 +10516,19 @@
       "originalBytes": 81310
     },
     "asset": {
-      "src": "/images/projects/app-streetslate-theme-screen-995f7d7eb7.webp",
+      "src": "/images/projects/app-streetslate-theme-screen-23dd8e01dc.webp",
       "width": 331,
       "height": 669,
       "role": "composition",
       "gallery": false,
-      "sha256": "995f7d7eb75038bb04b27308121e995df293221c81253772931050218d1f9883",
-      "bytes": 57658,
+      "sha256": "23dd8e01dc7014b49fdb10f569c9dc88c91d0da02f2dc6956d88a4689b98a4b2",
+      "bytes": 56246,
       "originalBytes": 81310
     },
-    "pngSha256": "b45a1fda02b61b8ba036405cd640c2f3a83903d6704cab2764372d3f4a94f89a",
+    "pngSha256": "6b53baab579d88aa6735c8bf339c358860e8d63e32ef0421e4941bc5e4ef4fea",
     "stats": {
-      "changedPixels": 174861,
-      "protectedPixels": 13030,
+      "changedPixels": 176619,
+      "protectedPixels": 11272,
       "maxSaturatedLuminanceDrift": 0.003371409682732529,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -7592,7 +10540,30 @@
         "w": 192,
         "h": 128
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        48,
+        4,
+        108
+      ],
+      [
+        191,
+        172,
+        137
+      ],
+      [
+        47,
+        4,
+        107
+      ],
+      [
+        61,
+        17,
+        121
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-streetslate",
@@ -7608,19 +10579,19 @@
       "originalBytes": 99281
     },
     "asset": {
-      "src": "/images/projects/app-streetslate-theme-screen-b14bc2a460.webp",
+      "src": "/images/projects/app-streetslate-theme-screen-898502f378.webp",
       "width": 331,
       "height": 669,
       "role": "composition",
       "gallery": false,
-      "sha256": "b14bc2a460591407317fc43f6a155975b17b28978d38250c6e0d67701a7293ab",
-      "bytes": 76398,
+      "sha256": "898502f378364b0f46cfe0dc7dc7d947b2eb323efd4af2210f7b0a06a92146a5",
+      "bytes": 75884,
       "originalBytes": 99281
     },
-    "pngSha256": "6ad4553a42622fd22f6abe2d6f7652c65692b0bc2028ddcca4bd2b01066961a9",
+    "pngSha256": "1bbb829fde224c6ea8dc66e9340659e70498a720aa98e8844d6b5aa702abe78c",
     "stats": {
-      "changedPixels": 100922,
-      "protectedPixels": 5376,
+      "changedPixels": 101743,
+      "protectedPixels": 4555,
       "maxSaturatedLuminanceDrift": 0.0031322148183419163,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -7632,7 +10603,25 @@
         "w": 112,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        46,
+        3,
+        101
+      ],
+      [
+        190,
+        172,
+        137
+      ],
+      [
+        193,
+        171,
+        137
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-streetslate",
@@ -7648,19 +10637,19 @@
       "originalBytes": 128717
     },
     "asset": {
-      "src": "/images/projects/app-streetslate-theme-screen-beed99e6d4.webp",
+      "src": "/images/projects/app-streetslate-theme-screen-b512ea45d8.webp",
       "width": 331,
       "height": 669,
       "role": "composition",
       "gallery": false,
-      "sha256": "beed99e6d48c34bcff79eec90a9880c7da07ac40d7f32ed49079c9659ef0c40a",
-      "bytes": 89810,
+      "sha256": "b512ea45d888edb01c65e95a6d047abc54d975a484e3f4fd03cf5794617c3540",
+      "bytes": 88166,
       "originalBytes": 128717
     },
-    "pngSha256": "63aac547da29f56f7aa6ec4f26ba3de0ec571dd506e399b83572c2468908bf9c",
+    "pngSha256": "927a135ceaffbd219321aab0dd6ba53ded6c5116cad902b0a66c9d1ec7f3559b",
     "stats": {
-      "changedPixels": 147926,
-      "protectedPixels": 30409,
+      "changedPixels": 159778,
+      "protectedPixels": 18557,
       "maxSaturatedLuminanceDrift": 0.003009064735514322,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -7690,7 +10679,20 @@
         "w": 112,
         "h": 128
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        48,
+        4,
+        108
+      ],
+      [
+        47,
+        4,
+        107
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-kegeltempo",
@@ -7706,19 +10708,19 @@
       "originalBytes": 4818767
     },
     "asset": {
-      "src": "/images/projects/app-kegeltempo-theme-preview-314e30db52.webp",
+      "src": "/images/projects/app-kegeltempo-theme-preview-d395564c49.webp",
       "width": 1600,
       "height": 1334,
       "role": "composition",
       "gallery": false,
-      "sha256": "314e30db5225cc1c53d7f03f7601ef3c259b6a3b12fcc929735d829a3be6133c",
-      "bytes": 547832,
+      "sha256": "d395564c49a8a2cc7c275ac879dbd2636ef20e2a40a898eec5f271ee91ca5ec1",
+      "bytes": 547754,
       "originalBytes": 4818767
     },
-    "pngSha256": "178e941624fe4bc85fd686146ad86cf37c27751220a629a891c4ec1009dad4f4",
+    "pngSha256": "3efaafc6685ab5d68ec77be1ac04d10a8f6f1c313f8bcd445460932bcc489ea9",
     "stats": {
-      "changedPixels": 1589613,
-      "protectedPixels": 388096,
+      "changedPixels": 1735509,
+      "protectedPixels": 242200,
       "maxSaturatedLuminanceDrift": 0.004256636399935898,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -7802,7 +10804,55 @@
         "w": 64,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        255,
+        246,
+        218
+      ],
+      [
+        253,
+        209,
+        52
+      ],
+      [
+        253,
+        209,
+        66
+      ],
+      [
+        249,
+        203,
+        59
+      ],
+      [
+        252,
+        207,
+        65
+      ],
+      [
+        189,
+        130,
+        17
+      ],
+      [
+        223,
+        165,
+        33
+      ],
+      [
+        243,
+        1,
+        145
+      ],
+      [
+        242,
+        1,
+        142
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-kegeltempo",
@@ -7818,19 +10868,19 @@
       "originalBytes": 1195271
     },
     "asset": {
-      "src": "/images/projects/app-kegeltempo-theme-screen-db22cdd996.webp",
+      "src": "/images/projects/app-kegeltempo-theme-screen-4ac32502c7.webp",
       "width": 1298,
       "height": 1325,
       "role": "composition",
       "gallery": false,
-      "sha256": "db22cdd996205f4d2e3c4d2ac81ae006d8e1a50f61754d5a925b18f7d81fd6fe",
-      "bytes": 394550,
+      "sha256": "4ac32502c733bfd81b07b18a9b4297b10c8c7ec2a52921c56b377eaced0bc5ff",
+      "bytes": 394754,
       "originalBytes": 1195271
     },
-    "pngSha256": "78f4d8e1ce21fb1fb10a3467163242fc7d69028b4eae226650c53be9dd8fa256",
+    "pngSha256": "7ea337a14a8af788cad4d9e0957bc62f5d815b43d56eb8206ab4debc3618b2ac",
     "stats": {
-      "changedPixels": 1228597,
-      "protectedPixels": 292973,
+      "changedPixels": 1431069,
+      "protectedPixels": 90501,
       "maxSaturatedLuminanceDrift": 0.004256636399935898,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -7908,7 +10958,65 @@
         "w": 48,
         "h": 80
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        255,
+        246,
+        215
+      ],
+      [
+        253,
+        209,
+        52
+      ],
+      [
+        253,
+        209,
+        66
+      ],
+      [
+        249,
+        203,
+        59
+      ],
+      [
+        252,
+        207,
+        65
+      ],
+      [
+        243,
+        1,
+        145
+      ],
+      [
+        242,
+        1,
+        142
+      ],
+      [
+        254,
+        246,
+        206
+      ],
+      [
+        243,
+        234,
+        199
+      ],
+      [
+        189,
+        130,
+        17
+      ],
+      [
+        223,
+        165,
+        32
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-kegeltempo",
@@ -7924,19 +11032,19 @@
       "originalBytes": 3548859
     },
     "asset": {
-      "src": "/images/projects/app-kegeltempo-theme-screen-d8c714254e.webp",
+      "src": "/images/projects/app-kegeltempo-theme-screen-3c42198918.webp",
       "width": 1267,
       "height": 2200,
       "role": "composition",
       "gallery": false,
-      "sha256": "d8c714254efd25fcd374b645a37baa402114dc7df1d38b612a31aa17242e16cd",
-      "bytes": 603890,
+      "sha256": "3c421989189760cde560a2034fe60136f51e38c0aefa8684019d548fcb67f5c1",
+      "bytes": 607944,
       "originalBytes": 3548859
     },
-    "pngSha256": "f9a11b6c762ad4381e08f3063ff420477e79bdc9e34b0b11ce12fefafe019e82",
+    "pngSha256": "1827573ad4035cec89ce41d7167df70801747bd9dffb876d0c170c050e7a935e",
     "stats": {
-      "changedPixels": 2024907,
-      "protectedPixels": 519424,
+      "changedPixels": 2162338,
+      "protectedPixels": 381993,
       "maxSaturatedLuminanceDrift": 0.004256636399935898,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -8026,7 +11134,40 @@
         "w": 96,
         "h": 128
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        255,
+        246,
+        217
+      ],
+      [
+        255,
+        217,
+        49
+      ],
+      [
+        243,
+        1,
+        145
+      ],
+      [
+        243,
+        1,
+        142
+      ],
+      [
+        254,
+        245,
+        206
+      ],
+      [
+        247,
+        238,
+        203
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-kegeltempo",
@@ -8075,19 +11216,19 @@
       "originalBytes": 323544
     },
     "asset": {
-      "src": "/images/projects/app-kegeltempo-theme-screen-513b331f93.webp",
+      "src": "/images/projects/app-kegeltempo-theme-screen-a81d4217a2.webp",
       "width": 375,
       "height": 812,
       "role": "screen",
       "gallery": true,
-      "sha256": "513b331f93034905ce6fcd5dd0d6f4f139c15a7cc43f5143ed3fbdbb7e421e92",
-      "bytes": 203778,
+      "sha256": "a81d4217a2890789033bbc8c908e9a37202cf9cb469c53be595dc1ebdef9753d",
+      "bytes": 199328,
       "originalBytes": 323544
     },
-    "pngSha256": "68558c1b30a1930fa7e3990d705627876f6ea30041a87bd8f9ff5694baba006b",
+    "pngSha256": "98f555685fb2e0fa36ba2847c6c8f7b5a500320b0a9471c236e644a76a054a50",
     "stats": {
-      "changedPixels": 49283,
-      "protectedPixels": 187904,
+      "changedPixels": 50590,
+      "protectedPixels": 186597,
       "maxSaturatedLuminanceDrift": 0.004012536022995894,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -8111,7 +11252,15 @@
         "w": 304,
         "h": 176
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        242,
+        1,
+        142
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-kegeltempo",
@@ -8127,19 +11276,19 @@
       "originalBytes": 144457
     },
     "asset": {
-      "src": "/images/projects/app-kegeltempo-theme-screen-4dfd05d015.webp",
+      "src": "/images/projects/app-kegeltempo-theme-screen-469ec2042f.webp",
       "width": 375,
       "height": 812,
       "role": "screen",
       "gallery": true,
-      "sha256": "4dfd05d0157c556f36cc288e46ad0944744cbb348b53039ce5e9a40e1bdd2e33",
-      "bytes": 114408,
+      "sha256": "469ec2042fe7b45adfacce44e0fdf9213af2412e386c2b1f40629f92661c1aa0",
+      "bytes": 112404,
       "originalBytes": 144457
     },
-    "pngSha256": "55f260d8744c4dd8fd1b76e34f1662a6e84e6c0bd30c9f87425d16cc9452afb0",
+    "pngSha256": "03b6bbe666a6ab9709b2dbaff2a25cfdffa44127416393e306712e0808cbf82b",
     "stats": {
-      "changedPixels": 182771,
-      "protectedPixels": 24421,
+      "changedPixels": 187626,
+      "protectedPixels": 19566,
       "maxSaturatedLuminanceDrift": 0.004256636399935898,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -8163,7 +11312,30 @@
         "w": 80,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        255,
+        245,
+        210
+      ],
+      [
+        255,
+        217,
+        49
+      ],
+      [
+        244,
+        1,
+        145
+      ],
+      [
+        244,
+        2,
+        143
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-kegeltempo",
@@ -8179,19 +11351,19 @@
       "originalBytes": 182491
     },
     "asset": {
-      "src": "/images/projects/app-kegeltempo-theme-screen-9a0bec47f3.webp",
+      "src": "/images/projects/app-kegeltempo-theme-screen-67d9b32da0.webp",
       "width": 375,
       "height": 812,
       "role": "screen",
       "gallery": true,
-      "sha256": "9a0bec47f3bb4f49931227c95b1b5ea6dc74b125451eec52faed38ac667a9f19",
-      "bytes": 154796,
+      "sha256": "67d9b32da03d764f2e7e963098bc5f5f0a447d338ac74f78e371c6f67008d46c",
+      "bytes": 150114,
       "originalBytes": 182491
     },
-    "pngSha256": "f02e23e1e604215894327ab5a066db8b505fd86c862d538a32724724753c8cf0",
+    "pngSha256": "7fc753d508dc8d5da058363c4fae78329dc7e164597b81048963bcd618fd185d",
     "stats": {
-      "changedPixels": 123380,
-      "protectedPixels": 105581,
+      "changedPixels": 189193,
+      "protectedPixels": 39768,
       "maxSaturatedLuminanceDrift": 0.004256636399935898,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -8233,7 +11405,35 @@
         "w": 64,
         "h": 64
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        255,
+        245,
+        210
+      ],
+      [
+        255,
+        217,
+        49
+      ],
+      [
+        243,
+        1,
+        145
+      ],
+      [
+        242,
+        1,
+        142
+      ],
+      [
+        255,
+        246,
+        207
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-kegeltempo",
@@ -8249,19 +11449,19 @@
       "originalBytes": 150766
     },
     "asset": {
-      "src": "/images/projects/app-kegeltempo-theme-screen-4c2d58b1fa.webp",
+      "src": "/images/projects/app-kegeltempo-theme-screen-7af129aa28.webp",
       "width": 375,
       "height": 812,
       "role": "screen",
       "gallery": true,
-      "sha256": "4c2d58b1facaa9eb4c6528421cc445950cc951425aefe3cf9f5a1898dd858e13",
-      "bytes": 90892,
+      "sha256": "7af129aa288a8808b7f15b4ca3d8872051d90a020513e2efb9f6820ad6375c23",
+      "bytes": 91026,
       "originalBytes": 150766
     },
-    "pngSha256": "52b98963719df956033deeddc9cf5862c00bf0a9c26514fb4f842d89572018b0",
+    "pngSha256": "18b49f4e6954d3b1ff8bfc35f52be170479643c25d634f7254894461daf68b85",
     "stats": {
-      "changedPixels": 197557,
-      "protectedPixels": 20955,
+      "changedPixels": 206774,
+      "protectedPixels": 11738,
       "maxSaturatedLuminanceDrift": 0.003989860099490206,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -8285,7 +11485,50 @@
         "w": 64,
         "h": 96
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        251,
+        242,
+        211
+      ],
+      [
+        245,
+        235,
+        201
+      ],
+      [
+        228,
+        220,
+        186
+      ],
+      [
+        233,
+        225,
+        190
+      ],
+      [
+        236,
+        228,
+        194
+      ],
+      [
+        248,
+        240,
+        206
+      ],
+      [
+        243,
+        1,
+        145
+      ],
+      [
+        241,
+        227,
+        190
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-strivaro",
@@ -8301,19 +11544,19 @@
       "originalBytes": 688394
     },
     "asset": {
-      "src": "/images/projects/app-strivaro-theme-preview-c8041e5999.webp",
+      "src": "/images/projects/app-strivaro-theme-preview-aab9230e3b.webp",
       "width": 1600,
       "height": 1200,
       "role": "composition",
       "gallery": false,
-      "sha256": "c8041e5999b673f1c21d665925dca20a2c6c4735820f324d4fc6cd52a0016913",
-      "bytes": 283052,
+      "sha256": "aab9230e3b905315d078b53f3ad6254eb15fa275367649b3ac8082bfc754e0ec",
+      "bytes": 282428,
       "originalBytes": 688394
     },
-    "pngSha256": "ff6dcaa8399812fa326d35ceba9d638608c7959b6897a21f85b42afa3c5aae64",
+    "pngSha256": "f01fbd4fb20ac41666fecf8d481556dca46b164f91bebcaec8e500eefaa516e8",
     "stats": {
-      "changedPixels": 1717145,
-      "protectedPixels": 85471,
+      "changedPixels": 1774360,
+      "protectedPixels": 28256,
       "maxSaturatedLuminanceDrift": 0.0034750119911227673,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -8379,7 +11622,90 @@
         "w": 80,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        57,
+        34,
+        74
+      ],
+      [
+        41,
+        24,
+        69
+      ],
+      [
+        51,
+        30,
+        67
+      ],
+      [
+        42,
+        24,
+        63
+      ],
+      [
+        34,
+        34,
+        69
+      ],
+      [
+        82,
+        57,
+        100
+      ],
+      [
+        59,
+        38,
+        82
+      ],
+      [
+        64,
+        40,
+        77
+      ],
+      [
+        67,
+        45,
+        89
+      ],
+      [
+        74,
+        51,
+        94
+      ],
+      [
+        229,
+        103,
+        13
+      ],
+      [
+        227,
+        59,
+        26
+      ],
+      [
+        77,
+        55,
+        97
+      ],
+      [
+        225,
+        50,
+        36
+      ],
+      [
+        223,
+        45,
+        42
+      ],
+      [
+        228,
+        65,
+        21
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-strivaro",
@@ -8471,21 +11797,21 @@
       "description": "Strivaro — goal cards and status"
     },
     "asset": {
-      "src": "/images/projects/app-strivaro-theme-screen-a07e21cd10.webp",
+      "src": "/images/projects/app-strivaro-theme-screen-b5b1622a7e.webp",
       "width": 390,
       "height": 1340,
       "role": "screen",
       "gallery": true,
-      "sha256": "a07e21cd1045fcfaf4be9c12b7afbdf2ceb470c1e587092e1f9127f027db86a2",
-      "bytes": 188004,
+      "sha256": "b5b1622a7ede3760672b4996e411e8e06d67d282076bf487cb3e85868761a105",
+      "bytes": 187380,
       "originalBytes": 287102,
       "label": "Goal cards and status",
       "description": "Strivaro — goal cards and status"
     },
-    "pngSha256": "f15b611ecc6223fedaf31e4e0e55c49527eb95709eb6701892d353ed68ceb9ee",
+    "pngSha256": "45cd4aceefdc356eb41bb583510b61e1abf25fd712528046eea0bf574b5ab99e",
     "stats": {
-      "changedPixels": 430894,
-      "protectedPixels": 61440,
+      "changedPixels": 449089,
+      "protectedPixels": 43245,
       "maxSaturatedLuminanceDrift": 0.0031760978002568496,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -8509,7 +11835,90 @@
         "w": 240,
         "h": 128
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        56,
+        40,
+        82
+      ],
+      [
+        39,
+        22,
+        67
+      ],
+      [
+        48,
+        31,
+        75
+      ],
+      [
+        59,
+        36,
+        74
+      ],
+      [
+        222,
+        43,
+        45
+      ],
+      [
+        24,
+        132,
+        225
+      ],
+      [
+        227,
+        59,
+        26
+      ],
+      [
+        104,
+        44,
+        135
+      ],
+      [
+        4,
+        146,
+        229
+      ],
+      [
+        121,
+        49,
+        130
+      ],
+      [
+        225,
+        51,
+        35
+      ],
+      [
+        12,
+        141,
+        227
+      ],
+      [
+        70,
+        55,
+        92
+      ],
+      [
+        228,
+        65,
+        20
+      ],
+      [
+        36,
+        21,
+        59
+      ],
+      [
+        34,
+        125,
+        223
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-strivaro",
@@ -8527,21 +11936,21 @@
       "description": "Strivaro — community progress feed"
     },
     "asset": {
-      "src": "/images/projects/app-strivaro-theme-screen-1ba2f13b8e.webp",
+      "src": "/images/projects/app-strivaro-theme-screen-a2a8c8a8ea.webp",
       "width": 390,
       "height": 1747,
       "role": "screen",
       "gallery": true,
-      "sha256": "1ba2f13b8e876aee0ea1bd30604166014ef1ac30497241cb8178903bef15959f",
-      "bytes": 270452,
+      "sha256": "a2a8c8a8eab67b360d6660bda7261ac3a47566dff9d8e69c5e9218f64446b208",
+      "bytes": 267332,
       "originalBytes": 426589,
       "label": "Community progress feed",
       "description": "Strivaro — community progress feed"
     },
-    "pngSha256": "2b6f3db48a3f6c478a251799517f8c2793c5a28a1ff03d67c81f4409f7a77429",
+    "pngSha256": "bf8233bd39b62400a28c2aeb64af0865f3754315aeb8d5860ba9f1202ff79eb6",
     "stats": {
-      "changedPixels": 434786,
-      "protectedPixels": 120320,
+      "changedPixels": 443568,
+      "protectedPixels": 111538,
       "maxSaturatedLuminanceDrift": 0.0023576217375372854,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -8559,7 +11968,40 @@
         "w": 224,
         "h": 352
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        48,
+        31,
+        75
+      ],
+      [
+        39,
+        22,
+        67
+      ],
+      [
+        52,
+        32,
+        77
+      ],
+      [
+        55,
+        39,
+        81
+      ],
+      [
+        104,
+        44,
+        134
+      ],
+      [
+        121,
+        49,
+        130
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-strivaro",
@@ -8688,21 +12130,21 @@
       "description": "Strivaro — account settings"
     },
     "asset": {
-      "src": "/images/projects/app-strivaro-theme-screen-fad244cb38.webp",
+      "src": "/images/projects/app-strivaro-theme-screen-f7b11b2344.webp",
       "width": 390,
       "height": 1170,
       "role": "screen",
       "gallery": true,
-      "sha256": "fad244cb381cc523824d9944b8540779072b9b5813976909bc8509de052af4ab",
-      "bytes": 70814,
+      "sha256": "f7b11b234480cb304bdd14126c761e3490c79ce4de4f7906b7602b6477a038a0",
+      "bytes": 70700,
       "originalBytes": 111649,
       "label": "Account settings",
       "description": "Strivaro — account settings"
     },
-    "pngSha256": "d3e581a3a7864687f2d5c964be7bb42e6b2eeb0ecb40acb834812cad7108d516",
+    "pngSha256": "915d8372f8060aceb64b66bdc39715175ea2811b3daf8ec91ef1cf538a60834e",
     "stats": {
-      "changedPixels": 431073,
-      "protectedPixels": 3840,
+      "changedPixels": 433381,
+      "protectedPixels": 1532,
       "maxSaturatedLuminanceDrift": 0.0027607731941838853,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -8714,7 +12156,45 @@
         "w": 48,
         "h": 80
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        44,
+        24,
+        71
+      ],
+      [
+        54,
+        33,
+        77
+      ],
+      [
+        222,
+        41,
+        47
+      ],
+      [
+        50,
+        29,
+        75
+      ],
+      [
+        104,
+        44,
+        134
+      ],
+      [
+        121,
+        49,
+        130
+      ],
+      [
+        64,
+        38,
+        73
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-strivaro",
@@ -8767,19 +12247,19 @@
       "originalBytes": 852655
     },
     "asset": {
-      "src": "/images/projects/app-axorabid-theme-preview-23ca48c8e4.webp",
+      "src": "/images/projects/app-axorabid-theme-preview-bdeef03e99.webp",
       "width": 1600,
       "height": 1200,
       "role": "composition",
       "gallery": false,
-      "sha256": "23ca48c8e42bea2feac2d6d50a63b1f3bdf2d75107524c863083072fb136ffe5",
-      "bytes": 330874,
+      "sha256": "bdeef03e99c8f4efb23c04a5284db9de899404808e1ab63bc0523cddb56997df",
+      "bytes": 325774,
       "originalBytes": 852655
     },
-    "pngSha256": "6ff814ebe3c308febbb5d76800dffd0a55727381e392709610c8e7ea970cc5cb",
+    "pngSha256": "ecffe94147623746a0e3a7033c90a05721988bd7bb37cc1b9a27db58e2c46517",
     "stats": {
-      "changedPixels": 1685199,
-      "protectedPixels": 64377,
+      "changedPixels": 1738303,
+      "protectedPixels": 11273,
       "maxSaturatedLuminanceDrift": 0.0031221885239934855,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -8839,7 +12319,85 @@
         "w": 80,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        20,
+        37,
+        91
+      ],
+      [
+        23,
+        43,
+        101
+      ],
+      [
+        34,
+        60,
+        135
+      ],
+      [
+        29,
+        51,
+        119
+      ],
+      [
+        43,
+        83,
+        232
+      ],
+      [
+        40,
+        75,
+        215
+      ],
+      [
+        38,
+        66,
+        146
+      ],
+      [
+        39,
+        70,
+        204
+      ],
+      [
+        24,
+        49,
+        103
+      ],
+      [
+        45,
+        89,
+        242
+      ],
+      [
+        32,
+        54,
+        125
+      ],
+      [
+        17,
+        31,
+        81
+      ],
+      [
+        17,
+        33,
+        78
+      ],
+      [
+        15,
+        33,
+        76
+      ],
+      [
+        38,
+        64,
+        142
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-axorabid",
@@ -9042,21 +12600,21 @@
       "description": "AxoraBid - seller dashboard"
     },
     "asset": {
-      "src": "/images/projects/app-axorabid-theme-screen-50f162266d.webp",
+      "src": "/images/projects/app-axorabid-theme-screen-6887b5ca5e.webp",
       "width": 393,
       "height": 1516,
       "role": "screen",
       "gallery": true,
-      "sha256": "50f162266d965aed764a532800e68a351f47e5866360b53a66cae10f46cee7af",
-      "bytes": 314974,
+      "sha256": "6887b5ca5ef0a4c836826244f59f5e4b4589f85cbb3e2296a128176068d3dc2e",
+      "bytes": 314272,
       "originalBytes": 485466,
       "label": "Seller dashboard",
       "description": "AxoraBid - seller dashboard"
     },
-    "pngSha256": "5a40deb110cfc9497c40869cc4708905ac2222b8d3b40bbf87e21e5a94ddd951",
+    "pngSha256": "d8a3a4063e7cbab5fc6251affd72da174daba59da46beacbe01cc51d23daab9c",
     "stats": {
-      "changedPixels": 310959,
-      "protectedPixels": 219792,
+      "changedPixels": 331573,
+      "protectedPixels": 199178,
       "maxSaturatedLuminanceDrift": 0.003009386085483845,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -9080,7 +12638,60 @@
         "w": 384,
         "h": 192
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        43,
+        83,
+        232
+      ],
+      [
+        40,
+        74,
+        215
+      ],
+      [
+        39,
+        69,
+        204
+      ],
+      [
+        45,
+        87,
+        241
+      ],
+      [
+        118,
+        173,
+        226
+      ],
+      [
+        42,
+        79,
+        224
+      ],
+      [
+        122,
+        176,
+        222
+      ],
+      [
+        121,
+        173,
+        221
+      ],
+      [
+        130,
+        175,
+        224
+      ],
+      [
+        125,
+        177,
+        225
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-axorabid",
@@ -9142,21 +12753,21 @@
       "description": "AxoraBid - saved vehicle drafts"
     },
     "asset": {
-      "src": "/images/projects/app-axorabid-theme-screen-8a4f28d57d.webp",
+      "src": "/images/projects/app-axorabid-theme-screen-013cf9abf0.webp",
       "width": 393,
       "height": 871,
       "role": "screen",
       "gallery": true,
-      "sha256": "8a4f28d57d7654e92629d02c9137d092a60e9987df3ee18fff272031e35ee274",
-      "bytes": 158066,
+      "sha256": "013cf9abf023d99d7ed213c96de3e1f53853a257a7ace6b7afcc2b274088f27f",
+      "bytes": 157970,
       "originalBytes": 257336,
       "label": "Saved vehicle drafts",
       "description": "AxoraBid - saved vehicle drafts"
     },
-    "pngSha256": "314d50f39a9ba470b85eb3e41939aa24b67f32cee283a33556cd6d9367621899",
+    "pngSha256": "606901ff323eb415ad94af9526aeee888ae0e087c17e09e717daf4097777b54a",
     "stats": {
-      "changedPixels": 217286,
-      "protectedPixels": 95306,
+      "changedPixels": 220044,
+      "protectedPixels": 92548,
       "maxSaturatedLuminanceDrift": 0.0028057054083706623,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -9192,7 +12803,35 @@
         "w": 144,
         "h": 119
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        43,
+        83,
+        233
+      ],
+      [
+        40,
+        75,
+        215
+      ],
+      [
+        38,
+        69,
+        203
+      ],
+      [
+        45,
+        87,
+        241
+      ],
+      [
+        42,
+        79,
+        224
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-axorabid",
@@ -9210,21 +12849,21 @@
       "description": "AxoraBid - vehicle photos and video"
     },
     "asset": {
-      "src": "/images/projects/app-axorabid-theme-screen-5d33d4a737.webp",
+      "src": "/images/projects/app-axorabid-theme-screen-fdf4226de0.webp",
       "width": 393,
       "height": 1255,
       "role": "screen",
       "gallery": true,
-      "sha256": "5d33d4a7372f741b3e75d9b8303979ffbfb3daa8d1208d24e72764b8e90e2292",
-      "bytes": 53352,
+      "sha256": "fdf4226de07bb81c15785f7b95cb56965342d90bcdf2b89d4b864edfaa90fe94",
+      "bytes": 53380,
       "originalBytes": 87791,
       "label": "Vehicle photos and video",
       "description": "AxoraBid - vehicle photos and video"
     },
-    "pngSha256": "639a81b0de0a715db093943ca15edc3c7a7b11f41fbe0c037a72d8f01cd46a2c",
+    "pngSha256": "5f5ec92a0d22697c14df0a81e2558f4653b0a331bc438574d27ecfd51e1b89a0",
     "stats": {
-      "changedPixels": 388602,
-      "protectedPixels": 12544,
+      "changedPixels": 388789,
+      "protectedPixels": 12357,
       "maxSaturatedLuminanceDrift": 0.0028823384072419467,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -9236,7 +12875,35 @@
         "w": 112,
         "h": 112
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        43,
+        83,
+        232
+      ],
+      [
+        40,
+        75,
+        215
+      ],
+      [
+        38,
+        69,
+        203
+      ],
+      [
+        45,
+        87,
+        241
+      ],
+      [
+        42,
+        79,
+        224
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-axorabid",
@@ -9326,19 +12993,19 @@
       "originalBytes": 630056
     },
     "asset": {
-      "src": "/images/projects/axorabid-theme-preview-1f1b1e5a51.webp",
+      "src": "/images/projects/axorabid-theme-preview-f640be9381.webp",
       "width": 1600,
       "height": 1200,
       "role": "composition",
       "gallery": false,
-      "sha256": "1f1b1e5a51f5997e86c15b33227c0ee13da74a714cc96d94dc3ffe18e55feccc",
-      "bytes": 290174,
+      "sha256": "f640be9381200792ea6e001ed1dad6d3de5aee49306aa71fd745635695f8e255",
+      "bytes": 289118,
       "originalBytes": 630056
     },
-    "pngSha256": "032be06224cc00645239680b5c17a95911e3631e8e237b474e2c59958f9853ab",
+    "pngSha256": "1da38eb30d29a4f53caf17cf701bbe8920e77420156599ff89e3e244d547b4ac",
     "stats": {
-      "changedPixels": 1708595,
-      "protectedPixels": 83757,
+      "changedPixels": 1751050,
+      "protectedPixels": 41302,
       "maxSaturatedLuminanceDrift": 0.0033703913189877532,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -9416,7 +13083,85 @@
         "w": 272,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        19,
+        37,
+        90
+      ],
+      [
+        23,
+        43,
+        101
+      ],
+      [
+        35,
+        60,
+        135
+      ],
+      [
+        29,
+        51,
+        120
+      ],
+      [
+        38,
+        66,
+        147
+      ],
+      [
+        24,
+        49,
+        102
+      ],
+      [
+        44,
+        84,
+        234
+      ],
+      [
+        39,
+        70,
+        204
+      ],
+      [
+        40,
+        74,
+        213
+      ],
+      [
+        17,
+        31,
+        81
+      ],
+      [
+        32,
+        55,
+        125
+      ],
+      [
+        45,
+        89,
+        242
+      ],
+      [
+        17,
+        32,
+        79
+      ],
+      [
+        15,
+        31,
+        78
+      ],
+      [
+        37,
+        64,
+        142
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "axorabid",
@@ -9434,21 +13179,21 @@
       "description": "AxoraBid - marketplace homepage"
     },
     "asset": {
-      "src": "/images/projects/axorabid-theme-screen-578e025e46.webp",
+      "src": "/images/projects/axorabid-theme-screen-8c698dae9d.webp",
       "width": 1440,
       "height": 4854,
       "role": "screen",
       "gallery": true,
-      "sha256": "578e025e46f31923380ec65b4e1bb33220c255e0e695be2cedca0fb31a056ba8",
-      "bytes": 1101584,
+      "sha256": "8c698dae9d21834cbeb8a6ee00cb216e48d21139114bd2f2c3c9ff74c548aa1c",
+      "bytes": 1098932,
       "originalBytes": 1728045,
       "label": "Marketplace homepage",
       "description": "AxoraBid - marketplace homepage"
     },
-    "pngSha256": "a6982c76dd3e35409b8b1aa946a5cf6a12d15cd22f7205c92645f84354d47be4",
+    "pngSha256": "cf1b9199f766cb2918ef0a9134a2bcb128cbd25ca5d8fbd4830aaf1d65f885da",
     "stats": {
-      "changedPixels": 5113489,
-      "protectedPixels": 412672,
+      "changedPixels": 5132850,
+      "protectedPixels": 393311,
       "maxSaturatedLuminanceDrift": 0.0030419888526656003,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -9508,7 +13253,80 @@
         "w": 240,
         "h": 112
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        45,
+        85,
+        230
+      ],
+      [
+        40,
+        75,
+        200
+      ],
+      [
+        37,
+        69,
+        183
+      ],
+      [
+        50,
+        93,
+        246
+      ],
+      [
+        44,
+        82,
+        217
+      ],
+      [
+        33,
+        62,
+        164
+      ],
+      [
+        41,
+        77,
+        215
+      ],
+      [
+        35,
+        65,
+        172
+      ],
+      [
+        48,
+        90,
+        237
+      ],
+      [
+        32,
+        60,
+        157
+      ],
+      [
+        52,
+        96,
+        253
+      ],
+      [
+        31,
+        58,
+        154
+      ],
+      [
+        45,
+        88,
+        242
+      ],
+      [
+        42,
+        79,
+        224
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "axorabid",
@@ -9526,21 +13344,21 @@
       "description": "AxoraBid - seller dashboard"
     },
     "asset": {
-      "src": "/images/projects/axorabid-theme-screen-3b51911a25.webp",
+      "src": "/images/projects/axorabid-theme-screen-a1ea1c9bfe.webp",
       "width": 1468,
       "height": 1138,
       "role": "screen",
       "gallery": true,
-      "sha256": "3b51911a254d6f967cf3ae09ea344267f976621818cfd3366fd785a02e49d818",
-      "bytes": 174872,
+      "sha256": "a1ea1c9bfeda8454ec985225fe2165bbece6772b96138bd5d40d0cf9c16ec43b",
+      "bytes": 174984,
       "originalBytes": 404035,
       "label": "Seller dashboard",
       "description": "AxoraBid - seller dashboard"
     },
-    "pngSha256": "2b9d0b7b400ad8597137f97578aead69e445e9689ac311588f316ea42b7031cb",
+    "pngSha256": "2066a86976860b763e01afbe569205fa9bb990548f814ba77959057a3e423145",
     "stats": {
-      "changedPixels": 1543417,
-      "protectedPixels": 55296,
+      "changedPixels": 1543512,
+      "protectedPixels": 55201,
       "maxSaturatedLuminanceDrift": 0.0028823384072419467,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -9576,7 +13394,35 @@
         "w": 128,
         "h": 96
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        40,
+        75,
+        215
+      ],
+      [
+        43,
+        83,
+        232
+      ],
+      [
+        38,
+        69,
+        203
+      ],
+      [
+        45,
+        87,
+        241
+      ],
+      [
+        42,
+        79,
+        224
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "axorabid",
@@ -9594,21 +13440,21 @@
       "description": "AxoraBid - vehicle listing catalog"
     },
     "asset": {
-      "src": "/images/projects/axorabid-theme-screen-ab6701b5c8.webp",
+      "src": "/images/projects/axorabid-theme-screen-190aa96e3a.webp",
       "width": 1468,
       "height": 1297,
       "role": "screen",
       "gallery": true,
-      "sha256": "ab6701b5c8ed973299b413b742135ce03cc4e0e47cceb092b3ed80f0c0dfd3e6",
-      "bytes": 826490,
+      "sha256": "190aa96e3ad95e8d0071e36d993784c321c54f29a5a29ee1635ad4d7a7592979",
+      "bytes": 808024,
       "originalBytes": 1284118,
       "label": "Vehicle listing catalog",
       "description": "AxoraBid - vehicle listing catalog"
     },
-    "pngSha256": "3f0b56067de87b67d83a480974020db436df9649c28d65974bcd29ae8da7c9fc",
+    "pngSha256": "ec21d4a516acfe7dc38f4f9b8989b217e29f454dafaff041245b3b2b331cbf8e",
     "stats": {
-      "changedPixels": 1168143,
-      "protectedPixels": 645120,
+      "changedPixels": 1223811,
+      "protectedPixels": 589452,
       "maxSaturatedLuminanceDrift": 0.0028823384072419467,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -9632,7 +13478,50 @@
         "w": 1248,
         "h": 256
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        43,
+        83,
+        233
+      ],
+      [
+        40,
+        75,
+        215
+      ],
+      [
+        18,
+        56,
+        205
+      ],
+      [
+        38,
+        69,
+        203
+      ],
+      [
+        122,
+        176,
+        221
+      ],
+      [
+        122,
+        173,
+        221
+      ],
+      [
+        130,
+        174,
+        224
+      ],
+      [
+        45,
+        87,
+        241
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "axorabid",
@@ -9650,21 +13539,21 @@
       "description": "AxoraBid - auction detail and bid records"
     },
     "asset": {
-      "src": "/images/projects/axorabid-theme-screen-69a8dc9166.webp",
+      "src": "/images/projects/axorabid-theme-screen-bd0ffb21c4.webp",
       "width": 1468,
       "height": 2460,
       "role": "screen",
       "gallery": true,
-      "sha256": "69a8dc91664d0c237f1854c37cf89d1af767ef36964d840ddaa5234ee744a349",
-      "bytes": 432476,
+      "sha256": "bd0ffb21c4c06b5a7a0b863472a88a15e94eb11b55fb40ccb42cc3ed79712805",
+      "bytes": 421100,
       "originalBytes": 770393,
       "label": "Auction detail and bid records",
       "description": "AxoraBid - auction detail and bid records"
     },
-    "pngSha256": "aed2d1410d5a6eedc187b62a93a23cbfbaef33bc610f004a25982e71ad100da0",
+    "pngSha256": "fecb3441f580089ba4d190fd4343243e67e18df92dae857c8bbfefa6b036b0b1",
     "stats": {
-      "changedPixels": 2757821,
-      "protectedPixels": 269824,
+      "changedPixels": 2763187,
+      "protectedPixels": 264458,
       "maxSaturatedLuminanceDrift": 0.002870027639911399,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -9694,7 +13583,30 @@
         "w": 176,
         "h": 144
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        40,
+        73,
+        212
+      ],
+      [
+        43,
+        83,
+        232
+      ],
+      [
+        45,
+        88,
+        242
+      ],
+      [
+        39,
+        70,
+        204
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "axorabid",
@@ -9712,21 +13624,21 @@
       "description": "AxoraBid - dealer conversation workspace"
     },
     "asset": {
-      "src": "/images/projects/axorabid-theme-screen-59f7d7ea8b.webp",
+      "src": "/images/projects/axorabid-theme-screen-d803f1bb6f.webp",
       "width": 1468,
       "height": 1168,
       "role": "screen",
       "gallery": true,
-      "sha256": "59f7d7ea8bc729fc301503449c0b0439abf89af35a970fa2e634970e3ecdc621",
-      "bytes": 103202,
+      "sha256": "d803f1bb6fd98444288c751dd9fa3eca7f216f38b473277da51c46e8405be158",
+      "bytes": 103204,
       "originalBytes": 181647,
       "label": "Dealer conversation workspace",
       "description": "AxoraBid - dealer conversation workspace"
     },
-    "pngSha256": "91d4e5d7ca0465d797c21f8a97df9a5824517ff178b7bb87616c99ecf6cf18ef",
+    "pngSha256": "13a21a938c2319951af9318742cbef545fcf2ebe7519cb05019644bd74dc7508",
     "stats": {
-      "changedPixels": 1551284,
-      "protectedPixels": 25088,
+      "changedPixels": 1551611,
+      "protectedPixels": 24761,
       "maxSaturatedLuminanceDrift": 0.002914355713101613,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -9756,7 +13668,30 @@
         "w": 48,
         "h": 160
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        43,
+        83,
+        233
+      ],
+      [
+        40,
+        75,
+        215
+      ],
+      [
+        38,
+        69,
+        203
+      ],
+      [
+        45,
+        87,
+        241
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "axorabid",
@@ -9811,21 +13746,21 @@
       "description": "AxoraBid - vehicle image gallery"
     },
     "asset": {
-      "src": "/images/projects/axorabid-theme-screen-387ed5aebe.webp",
+      "src": "/images/projects/axorabid-theme-screen-1f06c7c4aa.webp",
       "width": 1468,
       "height": 1056,
       "role": "screen",
       "gallery": true,
-      "sha256": "387ed5aebe35fa5d518686b532a0805e876d02c736370ce56e8031121f18f8a9",
-      "bytes": 570266,
+      "sha256": "1f06c7c4aae9bc3266fd53cfba065e41bbc568722dcefb57ebf4a9a107ce9af6",
+      "bytes": 562456,
       "originalBytes": 926759,
       "label": "Vehicle image gallery",
       "description": "AxoraBid - vehicle image gallery"
     },
-    "pngSha256": "42052d58c1ebd78403ce8f3dd2dbd0b11a7b3197bce533b83a10def903082dba",
+    "pngSha256": "eed875ef991a951e8960d9cb2a4a921f17ed0441f3eb32899f7bafed6b18de58",
     "stats": {
-      "changedPixels": 11033,
-      "protectedPixels": 470528,
+      "changedPixels": 142080,
+      "protectedPixels": 339481,
       "maxSaturatedLuminanceDrift": 0,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -9873,7 +13808,30 @@
         "w": 1248,
         "h": 144
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        149,
+        186,
+        228
+      ],
+      [
+        8,
+        22,
+        54
+      ],
+      [
+        134,
+        164,
+        216
+      ],
+      [
+        130,
+        156,
+        202
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "axorabid",
@@ -9965,21 +13923,21 @@
       "description": "AxoraBid - account verification status"
     },
     "asset": {
-      "src": "/images/projects/axorabid-theme-screen-0b48a8ed2b.webp",
+      "src": "/images/projects/axorabid-theme-screen-bb19984ace.webp",
       "width": 1468,
       "height": 1309,
       "role": "screen",
       "gallery": true,
-      "sha256": "0b48a8ed2bf3394ca96f375af7ee406709ef397bfab5daf08f88db919720ae00",
-      "bytes": 71938,
+      "sha256": "bb19984ace429ea40d4ff539656fa94fc1c44095b2d9279d75dcb0bc2feac73f",
+      "bytes": 71894,
       "originalBytes": 123376,
       "label": "Account verification status",
       "description": "AxoraBid - account verification status"
     },
-    "pngSha256": "06e3c1fd34c2e0d16e2b778691287432863a0d36b44baabe6dbe620d4439785d",
+    "pngSha256": "363d5373a6d73fd3a4e04a53e4203fba82407abfdb0951a49d7c6d04e10bd332",
     "stats": {
-      "changedPixels": 1876950,
-      "protectedPixels": 6144,
+      "changedPixels": 1878714,
+      "protectedPixels": 4380,
       "maxSaturatedLuminanceDrift": 0.002870027639911399,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -9991,7 +13949,35 @@
         "w": 64,
         "h": 96
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        219,
+        226,
+        255
+      ],
+      [
+        43,
+        83,
+        233
+      ],
+      [
+        40,
+        75,
+        215
+      ],
+      [
+        39,
+        69,
+        203
+      ],
+      [
+        45,
+        88,
+        242
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "axorabid",
@@ -10009,21 +13995,21 @@
       "description": "AxoraBid - pending payout records"
     },
     "asset": {
-      "src": "/images/projects/axorabid-theme-screen-bdafcbc37a.webp",
+      "src": "/images/projects/axorabid-theme-screen-a45dec1e0c.webp",
       "width": 1468,
       "height": 1196,
       "role": "screen",
       "gallery": true,
-      "sha256": "bdafcbc37ae6bf83f80b24f248343459b8088b6ec243c6dd7bef8c4e0491d69b",
-      "bytes": 66986,
+      "sha256": "a45dec1e0c7f988e677075ba3782da388e9207b5a0de460c9916a9e0f0aa405b",
+      "bytes": 66764,
       "originalBytes": 128640,
       "label": "Pending payout records",
       "description": "AxoraBid - pending payout records"
     },
-    "pngSha256": "09ecb4cf0fad885b1fc9f6672630b22c1d9891ddf3dfc4c8f54fb2ffa2088f18",
+    "pngSha256": "6075b7270099c9ec23a2af7eae4326c4d10dc1052013306e5dcd376a48385fc7",
     "stats": {
-      "changedPixels": 1629485,
-      "protectedPixels": 6400,
+      "changedPixels": 1631533,
+      "protectedPixels": 4352,
       "maxSaturatedLuminanceDrift": 0.002870027639911399,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -10035,7 +14021,40 @@
         "w": 80,
         "h": 80
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        43,
+        83,
+        233
+      ],
+      [
+        40,
+        75,
+        215
+      ],
+      [
+        219,
+        226,
+        255
+      ],
+      [
+        38,
+        69,
+        203
+      ],
+      [
+        45,
+        87,
+        241
+      ],
+      [
+        42,
+        79,
+        224
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "axorabid",
@@ -10090,21 +14109,21 @@
       "description": "AxoraBid - vehicle sales history"
     },
     "asset": {
-      "src": "/images/projects/axorabid-theme-screen-f0475e0559.webp",
+      "src": "/images/projects/axorabid-theme-screen-48f2d37a13.webp",
       "width": 1468,
       "height": 1297,
       "role": "screen",
       "gallery": true,
-      "sha256": "f0475e0559c79b4c47cf24115eb4aa076725e99cd7dee690660f9fff3505ee96",
-      "bytes": 823858,
+      "sha256": "48f2d37a131d798d96696939cb80df81e2e67d4b63cbafb131e05c2ccc4b12f9",
+      "bytes": 806288,
       "originalBytes": 1277284,
       "label": "Vehicle sales history",
       "description": "AxoraBid - vehicle sales history"
     },
-    "pngSha256": "ee5700786e6829ed5bd43eed98aac727918a57edeade76cccd93bbf2cbd9a868",
+    "pngSha256": "67fccbbefdc5357ccf595e88ce5505b2c5dcec77c56088cfd97d2453a0ba780f",
     "stats": {
-      "changedPixels": 1232430,
-      "protectedPixels": 636231,
+      "changedPixels": 1286303,
+      "protectedPixels": 582358,
       "maxSaturatedLuminanceDrift": 0.0028823384072419467,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -10128,7 +14147,40 @@
         "w": 1248,
         "h": 256
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        43,
+        84,
+        233
+      ],
+      [
+        40,
+        75,
+        215
+      ],
+      [
+        38,
+        69,
+        203
+      ],
+      [
+        121,
+        176,
+        221
+      ],
+      [
+        121,
+        173,
+        221
+      ],
+      [
+        45,
+        87,
+        241
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-calivora",
@@ -10144,19 +14196,19 @@
       "originalBytes": 794745
     },
     "asset": {
-      "src": "/images/projects/app-calivora-theme-preview-bc744f2595.webp",
+      "src": "/images/projects/app-calivora-theme-preview-0305964390.webp",
       "width": 1600,
       "height": 1200,
       "role": "composition",
       "gallery": false,
-      "sha256": "bc744f2595b743366ecc9b5e48b5a90f5bfda38b95159fc73d5646f013aea7f2",
-      "bytes": 377564,
+      "sha256": "03059643908033c99d150dcd16ab57b91926065b66ea8cdc9e0dee9a60899481",
+      "bytes": 371342,
       "originalBytes": 794745
     },
-    "pngSha256": "d2253e2d5c15cfceb89b90a21918b1a77fc9c424fd8a9d488857295545bccc58",
+    "pngSha256": "85805cb36b4f77fdb2794516d70110b2904509f83d07abbd44ddb2fd89d9bc3d",
     "stats": {
-      "changedPixels": 1439990,
-      "protectedPixels": 211358,
+      "changedPixels": 1495235,
+      "protectedPixels": 156113,
       "maxSaturatedLuminanceDrift": 0.003476973535553096,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -10210,7 +14262,75 @@
         "w": 144,
         "h": 48
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        42,
+        22,
+        59
+      ],
+      [
+        36,
+        11,
+        53
+      ],
+      [
+        29,
+        12,
+        49
+      ],
+      [
+        29,
+        12,
+        47
+      ],
+      [
+        35,
+        73,
+        59
+      ],
+      [
+        16,
+        185,
+        130
+      ],
+      [
+        30,
+        66,
+        52
+      ],
+      [
+        48,
+        23,
+        63
+      ],
+      [
+        29,
+        18,
+        54
+      ],
+      [
+        39,
+        81,
+        65
+      ],
+      [
+        40,
+        201,
+        158
+      ],
+      [
+        15,
+        185,
+        130
+      ],
+      [
+        1,
+        168,
+        125
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-calivora",
@@ -10524,21 +14644,21 @@
       "description": "Calivora - provider chat and call states"
     },
     "asset": {
-      "src": "/images/projects/app-calivora-theme-screen-92e13b099c.webp",
+      "src": "/images/projects/app-calivora-theme-screen-6cfb299b93.webp",
       "width": 390,
       "height": 844,
       "role": "screen",
       "gallery": true,
-      "sha256": "92e13b099c0bee2460be8376aafba0ef398d1ef772a43090caca4cc94dc6c89e",
-      "bytes": 95736,
+      "sha256": "6cfb299b93073a583b47683cb2855a8b96b387a82b86913c56320d7fc04ad2f5",
+      "bytes": 96022,
       "originalBytes": 148551,
       "label": "Provider chat and call states",
       "description": "Calivora - provider chat and call states"
     },
-    "pngSha256": "75fecc016620066dfdb1ad35d9d0c1f03073b2cdcb8a3292351a87f70d5baf2d",
+    "pngSha256": "8ec257e4116ae62e1fedda2d6ce95af88faf8adb2953743074b744d1946220eb",
     "stats": {
-      "changedPixels": 306282,
-      "protectedPixels": 4148,
+      "changedPixels": 308754,
+      "protectedPixels": 1676,
       "maxSaturatedLuminanceDrift": 0.0032466398020091214,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -10550,7 +14670,85 @@
         "w": 64,
         "h": 80
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        37,
+        10,
+        53
+      ],
+      [
+        29,
+        11,
+        49
+      ],
+      [
+        49,
+        40,
+        85
+      ],
+      [
+        43,
+        36,
+        75
+      ],
+      [
+        46,
+        38,
+        80
+      ],
+      [
+        28,
+        10,
+        46
+      ],
+      [
+        16,
+        185,
+        129
+      ],
+      [
+        60,
+        49,
+        104
+      ],
+      [
+        27,
+        23,
+        59
+      ],
+      [
+        26,
+        29,
+        67
+      ],
+      [
+        36,
+        19,
+        57
+      ],
+      [
+        32,
+        10,
+        47
+      ],
+      [
+        60,
+        181,
+        124
+      ],
+      [
+        27,
+        32,
+        73
+      ],
+      [
+        71,
+        211,
+        145
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-calivora",
@@ -10568,21 +14766,21 @@
       "description": "Calivora - video consultation interface"
     },
     "asset": {
-      "src": "/images/projects/app-calivora-theme-screen-bacd36db02.webp",
+      "src": "/images/projects/app-calivora-theme-screen-8aff3c9dad.webp",
       "width": 390,
       "height": 844,
       "role": "screen",
       "gallery": true,
-      "sha256": "bacd36db021c1dff0eedaeabb37c6f166fb3f99b3de0f514a2240c90b4f7c434",
-      "bytes": 196214,
+      "sha256": "8aff3c9dad87a7937c0d3d389b37958aa68354fcf6ff0959e6c34def3b487382",
+      "bytes": 191016,
       "originalBytes": 316837,
       "label": "Video consultation interface",
       "description": "Calivora - video consultation interface"
     },
-    "pngSha256": "aaba4d49619d8e71c077cb252ffda9b25efebec62cbd92f70633042e2af0a538",
+    "pngSha256": "c733a2601240612d848f422667b710bcb3fe7e7c35f0b8b98105f4c3b95efd8a",
     "stats": {
-      "changedPixels": 109784,
-      "protectedPixels": 181169,
+      "changedPixels": 112551,
+      "protectedPixels": 178402,
       "maxSaturatedLuminanceDrift": 0.003051448352667352,
       "alphaUnchanged": true,
       "dimensionsUnchanged": true
@@ -10595,7 +14793,40 @@
         "h": 630,
         "mode": "portrait-background"
       }
-    ]
+    ],
+    "uiAntialiasColors": [
+      [
+        37,
+        10,
+        53
+      ],
+      [
+        29,
+        11,
+        49
+      ],
+      [
+        28,
+        10,
+        46
+      ],
+      [
+        36,
+        18,
+        57
+      ],
+      [
+        16,
+        185,
+        129
+      ],
+      [
+        31,
+        16,
+        53
+      ]
+    ],
+    "uiAntialiasTolerance": 12
   },
   {
     "slug": "app-calivora",

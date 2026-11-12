@@ -4,8 +4,8 @@
   "identities": 18,
   "imagesVerified": 179,
   "logosVerified": 84,
-  "changedPixels": 159756312,
-  "protectedPhotoPixels": 25511450,
+  "changedPixels": 165426415,
+  "protectedPhotoPixels": 18401300,
   "protectedPhotoChanges": 0,
   "maxLinearLuminanceDifference": 0.015445046228114045,
   "sourceFilesRetained": true,
@@ -22,7 +22,7 @@
         1600,
         1334
       ],
-      "changedPixels": 1693526,
+      "changedPixels": 1733784,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015192271374979804
@@ -34,7 +34,7 @@
         1600,
         1325
       ],
-      "changedPixels": 982103,
+      "changedPixels": 1065346,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015024418724605693
@@ -46,7 +46,7 @@
         1495,
         2200
       ],
-      "changedPixels": 1282984,
+      "changedPixels": 1520800,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015192271374979804
@@ -58,7 +58,7 @@
         998,
         1273
       ],
-      "changedPixels": 784412,
+      "changedPixels": 839229,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015024418724605693
@@ -70,7 +70,7 @@
         1495,
         2200
       ],
-      "changedPixels": 1775295,
+      "changedPixels": 2054761,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015024418724605693
@@ -82,7 +82,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1484343,
+      "changedPixels": 1525481,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015192271374979804
@@ -94,7 +94,7 @@
         1495,
         2200
       ],
-      "changedPixels": 1318391,
+      "changedPixels": 1540497,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015192271374979804
@@ -106,7 +106,7 @@
         1494,
         2200
       ],
-      "changedPixels": 937589,
+      "changedPixels": 1145123,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015445046228114045
@@ -118,7 +118,7 @@
         1493,
         2200
       ],
-      "changedPixels": 1551089,
+      "changedPixels": 1678044,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015024418724605693
@@ -154,7 +154,7 @@
         1495,
         2200
       ],
-      "changedPixels": 1859299,
+      "changedPixels": 1862477,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -190,7 +190,7 @@
         1495,
         2200
       ],
-      "changedPixels": 1951916,
+      "changedPixels": 2017707,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -202,7 +202,7 @@
         1495,
         2200
       ],
-      "changedPixels": 1888160,
+      "changedPixels": 1892620,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -226,7 +226,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1970869,
+      "changedPixels": 1991243,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -238,7 +238,7 @@
         1501,
         1232
       ],
-      "changedPixels": 1558942,
+      "changedPixels": 1561495,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.010188925103630564
@@ -250,7 +250,7 @@
         1600,
         1325
       ],
-      "changedPixels": 1152718,
+      "changedPixels": 1175832,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -262,7 +262,7 @@
         1495,
         2200
       ],
-      "changedPixels": 329028,
+      "changedPixels": 361904,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -274,7 +274,7 @@
         999,
         1273
       ],
-      "changedPixels": 727180,
+      "changedPixels": 833059,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -286,7 +286,7 @@
         1495,
         2200
       ],
-      "changedPixels": 1684681,
+      "changedPixels": 1991393,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -298,7 +298,7 @@
         1495,
         2200
       ],
-      "changedPixels": 1541970,
+      "changedPixels": 1555492,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.010133627915364318
@@ -310,7 +310,7 @@
         1495,
         2200
       ],
-      "changedPixels": 1719491,
+      "changedPixels": 1730705,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -322,7 +322,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1716450,
+      "changedPixels": 1971648,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -334,7 +334,7 @@
         1494,
         2200
       ],
-      "changedPixels": 326085,
+      "changedPixels": 359725,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -346,7 +346,7 @@
         1456,
         1232
       ],
-      "changedPixels": 1410023,
+      "changedPixels": 1485582,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -358,7 +358,7 @@
         1600,
         1326
       ],
-      "changedPixels": 915887,
+      "changedPixels": 1070339,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -370,7 +370,7 @@
         1495,
         2200
       ],
-      "changedPixels": 1762373,
+      "changedPixels": 1884471,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00961239268201508
@@ -382,7 +382,7 @@
         1495,
         2200
       ],
-      "changedPixels": 1453892,
+      "changedPixels": 1488054,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -394,7 +394,7 @@
         1495,
         2200
       ],
-      "changedPixels": 883740,
+      "changedPixels": 901432,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -406,7 +406,7 @@
         1456,
         1232
       ],
-      "changedPixels": 1167158,
+      "changedPixels": 1203159,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.009059686343554918
@@ -418,7 +418,7 @@
         1600,
         1326
       ],
-      "changedPixels": 344301,
+      "changedPixels": 408072,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -430,7 +430,7 @@
         1494,
         2200
       ],
-      "changedPixels": 497096,
+      "changedPixels": 498678,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -442,7 +442,7 @@
         999,
         1274
       ],
-      "changedPixels": 561617,
+      "changedPixels": 622222,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -454,7 +454,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1769468,
+      "changedPixels": 1841467,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.009010713432860196
@@ -466,7 +466,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1221824,
+      "changedPixels": 1294217,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -478,7 +478,7 @@
         1494,
         2200
       ],
-      "changedPixels": 353542,
+      "changedPixels": 355341,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -490,7 +490,7 @@
         1494,
         2200
       ],
-      "changedPixels": 759888,
+      "changedPixels": 782500,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -502,7 +502,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1357259,
+      "changedPixels": 1478838,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -514,7 +514,7 @@
         1456,
         1232
       ],
-      "changedPixels": 1100816,
+      "changedPixels": 1110795,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.014940692523321752
@@ -526,7 +526,7 @@
         1600,
         1326
       ],
-      "changedPixels": 241251,
+      "changedPixels": 266689,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015108278447869772
@@ -538,7 +538,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1706078,
+      "changedPixels": 1741483,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -550,7 +550,7 @@
         999,
         1274
       ],
-      "changedPixels": 779232,
+      "changedPixels": 866035,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.013874873218822414
@@ -562,7 +562,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1192734,
+      "changedPixels": 1731205,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.009146855839175738
@@ -574,7 +574,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1698697,
+      "changedPixels": 1735205,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.009288199209053882
@@ -586,7 +586,7 @@
         1494,
         2200
       ],
-      "changedPixels": 574146,
+      "changedPixels": 655282,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015108278447869772
@@ -598,7 +598,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1702925,
+      "changedPixels": 1739611,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -610,7 +610,7 @@
         1600,
         1333
       ],
-      "changedPixels": 1707292,
+      "changedPixels": 1718362,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015108278447869772
@@ -622,7 +622,7 @@
         1600,
         1326
       ],
-      "changedPixels": 951766,
+      "changedPixels": 972995,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015192271374979804
@@ -634,7 +634,7 @@
         999,
         1274
       ],
-      "changedPixels": 525863,
+      "changedPixels": 542355,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015192271374979804
@@ -646,7 +646,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1219044,
+      "changedPixels": 1267650,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015024418724605693
@@ -658,7 +658,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1805279,
+      "changedPixels": 1805399,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.014507966744429224
@@ -670,7 +670,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1723047,
+      "changedPixels": 1727856,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015192271374979804
@@ -682,7 +682,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1486695,
+      "changedPixels": 1498141,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015192271374979804
@@ -694,7 +694,7 @@
         1493,
         2200
       ],
-      "changedPixels": 1670922,
+      "changedPixels": 1684798,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015108278447869772
@@ -718,7 +718,7 @@
         1600,
         1326
       ],
-      "changedPixels": 1178232,
+      "changedPixels": 1193735,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -730,7 +730,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1412622,
+      "changedPixels": 1412674,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -754,7 +754,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1675715,
+      "changedPixels": 1677406,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -766,7 +766,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1628630,
+      "changedPixels": 1632184,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -778,7 +778,7 @@
         1494,
         2200
       ],
-      "changedPixels": 1437767,
+      "changedPixels": 1439179,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -802,7 +802,7 @@
         1600,
         1333
       ],
-      "changedPixels": 1409835,
+      "changedPixels": 1419378,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.012454358570877178
@@ -814,7 +814,7 @@
         1600,
         1251
       ],
-      "changedPixels": 1740105,
+      "changedPixels": 1774307,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.01024430817083355
@@ -826,7 +826,7 @@
         1600,
         1440
       ],
-      "changedPixels": 870386,
+      "changedPixels": 909946,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -838,7 +838,7 @@
         710,
         711
       ],
-      "changedPixels": 200413,
+      "changedPixels": 245618,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -850,7 +850,7 @@
         375,
         812
       ],
-      "changedPixels": 236145,
+      "changedPixels": 239702,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -862,7 +862,7 @@
         375,
         812
       ],
-      "changedPixels": 149862,
+      "changedPixels": 200104,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -874,7 +874,7 @@
         375,
         812
       ],
-      "changedPixels": 51204,
+      "changedPixels": 53009,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -886,7 +886,7 @@
         375,
         812
       ],
-      "changedPixels": 102605,
+      "changedPixels": 111386,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -898,7 +898,7 @@
         375,
         812
       ],
-      "changedPixels": 120411,
+      "changedPixels": 151392,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -934,7 +934,7 @@
         1076,
         2180
       ],
-      "changedPixels": 12704,
+      "changedPixels": 51836,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -1018,7 +1018,7 @@
         1600,
         1251
       ],
-      "changedPixels": 1716612,
+      "changedPixels": 1719416,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00993916463461586
@@ -1030,7 +1030,7 @@
         1600,
         1313
       ],
-      "changedPixels": 909192,
+      "changedPixels": 915351,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00993916463461586
@@ -1042,7 +1042,7 @@
         1076,
         2180
       ],
-      "changedPixels": 1610720,
+      "changedPixels": 1684635,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00993916463461586
@@ -1054,7 +1054,7 @@
         710,
         711
       ],
-      "changedPixels": 182999,
+      "changedPixels": 185559,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00993916463461586
@@ -1078,7 +1078,7 @@
         375,
         813
       ],
-      "changedPixels": 144824,
+      "changedPixels": 144827,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00993916463461586
@@ -1090,7 +1090,7 @@
         375,
         813
       ],
-      "changedPixels": 92201,
+      "changedPixels": 92405,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00993916463461586
@@ -1102,7 +1102,7 @@
         375,
         813
       ],
-      "changedPixels": 171836,
+      "changedPixels": 174994,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00993916463461586
@@ -1126,7 +1126,7 @@
         1600,
         1313
       ],
-      "changedPixels": 1030487,
+      "changedPixels": 1050543,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015192271374979804
@@ -1138,7 +1138,7 @@
         1076,
         2180
       ],
-      "changedPixels": 1365634,
+      "changedPixels": 1366324,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015192271374979804
@@ -1150,7 +1150,7 @@
         710,
         711
       ],
-      "changedPixels": 211853,
+      "changedPixels": 212640,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015192271374979804
@@ -1210,7 +1210,7 @@
         1600,
         1199
       ],
-      "changedPixels": 1759601,
+      "changedPixels": 1762754,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.01024430817083355
@@ -1222,7 +1222,7 @@
         1600,
         1312
       ],
-      "changedPixels": 1114629,
+      "changedPixels": 1124101,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -1258,7 +1258,7 @@
         375,
         812
       ],
-      "changedPixels": 202863,
+      "changedPixels": 205389,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -1270,7 +1270,7 @@
         375,
         812
       ],
-      "changedPixels": 162673,
+      "changedPixels": 168240,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00945648097504681
@@ -1294,7 +1294,7 @@
         1600,
         1199
       ],
-      "changedPixels": 1752731,
+      "changedPixels": 1769181,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.00908266877476982
@@ -1306,7 +1306,7 @@
         1600,
         1312
       ],
-      "changedPixels": 1147913,
+      "changedPixels": 1177233,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -1318,7 +1318,7 @@
         331,
         669
       ],
-      "changedPixels": 175636,
+      "changedPixels": 177706,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -1330,7 +1330,7 @@
         376,
         813
       ],
-      "changedPixels": 228379,
+      "changedPixels": 231747,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -1342,7 +1342,7 @@
         376,
         813
       ],
-      "changedPixels": 153411,
+      "changedPixels": 173190,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -1354,7 +1354,7 @@
         376,
         813
       ],
-      "changedPixels": 143369,
+      "changedPixels": 150150,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -1366,7 +1366,7 @@
         376,
         813
       ],
-      "changedPixels": 180202,
+      "changedPixels": 196386,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -1378,7 +1378,7 @@
         1499,
         1250
       ],
-      "changedPixels": 1575306,
+      "changedPixels": 1603674,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.014507966744429224
@@ -1402,7 +1402,7 @@
         331,
         669
       ],
-      "changedPixels": 192064,
+      "changedPixels": 194938,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -1414,7 +1414,7 @@
         331,
         669
       ],
-      "changedPixels": 153358,
+      "changedPixels": 158698,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.01360558354155561
@@ -1426,7 +1426,7 @@
         331,
         669
       ],
-      "changedPixels": 174861,
+      "changedPixels": 176619,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -1438,7 +1438,7 @@
         331,
         669
       ],
-      "changedPixels": 100922,
+      "changedPixels": 101743,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.013874873218822414
@@ -1450,7 +1450,7 @@
         331,
         669
       ],
-      "changedPixels": 147926,
+      "changedPixels": 159778,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.013874873218822414
@@ -1462,7 +1462,7 @@
         1600,
         1334
       ],
-      "changedPixels": 1589613,
+      "changedPixels": 1735509,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.009059686343554918
@@ -1474,7 +1474,7 @@
         1298,
         1325
       ],
-      "changedPixels": 1228597,
+      "changedPixels": 1431069,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008961816452245475
@@ -1486,7 +1486,7 @@
         1267,
         2200
       ],
-      "changedPixels": 2024907,
+      "changedPixels": 2162338,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.009059686343554918
@@ -1510,7 +1510,7 @@
         375,
         812
       ],
-      "changedPixels": 49283,
+      "changedPixels": 50590,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -1522,7 +1522,7 @@
         375,
         812
       ],
-      "changedPixels": 182771,
+      "changedPixels": 187626,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -1534,7 +1534,7 @@
         375,
         812
       ],
-      "changedPixels": 123380,
+      "changedPixels": 189193,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -1546,7 +1546,7 @@
         375,
         812
       ],
-      "changedPixels": 197557,
+      "changedPixels": 206774,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -1558,7 +1558,7 @@
         1600,
         1200
       ],
-      "changedPixels": 1717145,
+      "changedPixels": 1774360,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.01360558354155561
@@ -1594,7 +1594,7 @@
         390,
         1340
       ],
-      "changedPixels": 430894,
+      "changedPixels": 449089,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -1606,7 +1606,7 @@
         390,
         1747
       ],
-      "changedPixels": 434786,
+      "changedPixels": 443568,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.01338209897965359
@@ -1654,7 +1654,7 @@
         390,
         1170
       ],
-      "changedPixels": 431073,
+      "changedPixels": 433381,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -1678,7 +1678,7 @@
         1600,
         1200
       ],
-      "changedPixels": 1685199,
+      "changedPixels": 1738303,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.013874873218822414
@@ -1750,7 +1750,7 @@
         393,
         1516
       ],
-      "changedPixels": 310959,
+      "changedPixels": 331573,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.01473548657155721
@@ -1774,7 +1774,7 @@
         393,
         871
       ],
-      "changedPixels": 217286,
+      "changedPixels": 220044,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.01473548657155721
@@ -1786,7 +1786,7 @@
         393,
         1255
       ],
-      "changedPixels": 388602,
+      "changedPixels": 388789,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.01473548657155721
@@ -1822,7 +1822,7 @@
         1600,
         1200
       ],
-      "changedPixels": 1708595,
+      "changedPixels": 1751050,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.015108278447869772
@@ -1834,7 +1834,7 @@
         1440,
         4854
       ],
-      "changedPixels": 5113489,
+      "changedPixels": 5132850,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.014940692523321752
@@ -1846,7 +1846,7 @@
         1468,
         1138
       ],
-      "changedPixels": 1543417,
+      "changedPixels": 1543512,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.014940692523321752
@@ -1858,7 +1858,7 @@
         1468,
         1297
       ],
-      "changedPixels": 1168143,
+      "changedPixels": 1223811,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.014921537818048947
@@ -1870,7 +1870,7 @@
         1468,
         2460
       ],
-      "changedPixels": 2757821,
+      "changedPixels": 2763187,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.01473548657155721
@@ -1882,7 +1882,7 @@
         1468,
         1168
       ],
-      "changedPixels": 1551284,
+      "changedPixels": 1551611,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.014607129372329997
@@ -1906,7 +1906,7 @@
         1468,
         1056
       ],
-      "changedPixels": 11033,
+      "changedPixels": 142080,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.009301300293268255
@@ -1942,7 +1942,7 @@
         1468,
         1309
       ],
-      "changedPixels": 1876950,
+      "changedPixels": 1878714,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.01473548657155721
@@ -1954,7 +1954,7 @@
         1468,
         1196
       ],
-      "changedPixels": 1629485,
+      "changedPixels": 1631533,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.01473548657155721
@@ -1978,7 +1978,7 @@
         1468,
         1297
       ],
-      "changedPixels": 1232430,
+      "changedPixels": 1286303,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.014921537818048947
@@ -1990,7 +1990,7 @@
         1600,
         1200
       ],
-      "changedPixels": 1439990,
+      "changedPixels": 1495235,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206
@@ -2098,7 +2098,7 @@
         390,
         844
       ],
-      "changedPixels": 306282,
+      "changedPixels": 308754,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.010052512024195104
@@ -2110,7 +2110,7 @@
         390,
         844
       ],
-      "changedPixels": 109784,
+      "changedPixels": 112551,
       "alphaUnchanged": true,
       "protectedPhotoChanges": 0,
       "maxLinearLuminanceDifference": 0.008897902886170206

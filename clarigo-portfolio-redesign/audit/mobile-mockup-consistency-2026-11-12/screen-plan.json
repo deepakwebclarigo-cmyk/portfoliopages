@@ -69,13 +69,13 @@
     "views": [
       {
         "index": 2,
-        "src": "/images/projects/app-simplyscouted-theme-screen-3ecf3626b9.webp",
+        "src": "/images/projects/app-simplyscouted-theme-screen-33692e119b.webp",
         "width": 375,
         "height": 812,
         "role": "screen",
         "gallery": true,
-        "sha256": "3ecf3626b98c244d27b1c5a93ac425ead3c8d2ad67cd523982d7209919005bde",
-        "bytes": 75764,
+        "sha256": "33692e119b6aed0e42120e5a5d0a286700370646b7f61e89ee8f7adbe7b83bb1",
+        "bytes": 74710,
         "originalBytes": 163270,
         "crop": {
           "left": 22,
@@ -86,13 +86,13 @@
       },
       {
         "index": 4,
-        "src": "/images/projects/app-simplyscouted-theme-screen-c5c849a79e.webp",
+        "src": "/images/projects/app-simplyscouted-theme-screen-bba0bd5d74.webp",
         "width": 375,
         "height": 812,
         "role": "screen",
         "gallery": true,
-        "sha256": "c5c849a79e3a8598908db9a32f86cefe0531c4fc0b099b88cbe070d39a9da077",
-        "bytes": 164986,
+        "sha256": "bba0bd5d74be0446a2961d3adb4166cd44f81c97c0be3ccd9c9b05ae6ec41cd1",
+        "bytes": 160470,
         "originalBytes": 301332,
         "crop": {
           "left": 22,
@@ -147,13 +147,13 @@
     "views": [
       {
         "index": 5,
-        "src": "/images/projects/app-silaflow-theme-screen-adcf8ebe71.webp",
+        "src": "/images/projects/app-silaflow-theme-screen-43450cf20f.webp",
         "width": 375,
         "height": 813,
         "role": "screen",
         "gallery": true,
-        "sha256": "adcf8ebe715dd623162d2157fe0fd7f4d43117895911d32a8b119c6fe64edbd7",
-        "bytes": 168038,
+        "sha256": "43450cf20ff4b8a11f5956047ea0a58d879c95379a2cc0c29559693d6626eaf1",
+        "bytes": 168208,
         "originalBytes": 240802,
         "crop": {
           "left": 22,
@@ -537,13 +537,13 @@
     "views": [
       {
         "index": 2,
-        "src": "/images/projects/app-pantryone-theme-screen-e0a114f262.webp",
+        "src": "/images/projects/app-pantryone-theme-screen-4969567f87.webp",
         "width": 376,
         "height": 813,
         "role": "screen",
         "gallery": true,
-        "sha256": "e0a114f262f3282a30f77b2f07f1e7ae3b54b5e5128ee7ac2821477267c03806",
-        "bytes": 60110,
+        "sha256": "4969567f87c20b3bf7f0ec4a7cb2de1fcc68ae676bf915a3c7ba09cba02c6807",
+        "bytes": 59874,
         "originalBytes": 209483,
         "crop": {
           "left": 22,
@@ -554,13 +554,13 @@
       },
       {
         "index": 4,
-        "src": "/images/projects/app-pantryone-theme-screen-3f8a447dcf.webp",
+        "src": "/images/projects/app-pantryone-theme-screen-a577c83378.webp",
         "width": 376,
         "height": 813,
         "role": "screen",
         "gallery": true,
-        "sha256": "3f8a447dcf7d80cdfcb65cac45216e9c127a8e9c9744f57fd8a7452eb0430b8d",
-        "bytes": 139040,
+        "sha256": "a577c83378e8186c0df712a497b9666930d9a1c24145da1b4c254e4127434d40",
+        "bytes": 137944,
         "originalBytes": 172827,
         "crop": {
           "left": 22,
@@ -771,13 +771,13 @@
     "views": [
       {
         "index": 1,
-        "src": "/images/projects/app-streetslate-theme-screen-f8e6712632.webp",
+        "src": "/images/projects/app-streetslate-theme-screen-358f438b07.webp",
         "width": 331,
         "height": 669,
         "role": "composition",
         "gallery": false,
-        "sha256": "f8e67126325b00de5d6c67fcf20d4b1aa0abe329e1945bb92947c61082e9b3dc",
-        "bytes": 32702,
+        "sha256": "358f438b0700d11990ff7e6b9172ce5c1c06e64dcd69c84f0b4f0eaafceab8fc",
+        "bytes": 31732,
         "originalBytes": 46492,
         "crop": {
           "left": 19,
@@ -788,13 +788,13 @@
       },
       {
         "index": 4,
-        "src": "/images/projects/app-streetslate-theme-screen-b14bc2a460.webp",
+        "src": "/images/projects/app-streetslate-theme-screen-898502f378.webp",
         "width": 331,
         "height": 669,
         "role": "composition",
         "gallery": false,
-        "sha256": "b14bc2a460591407317fc43f6a155975b17b28978d38250c6e0d67701a7293ab",
-        "bytes": 76398,
+        "sha256": "898502f378364b0f46cfe0dc7dc7d947b2eb323efd4af2210f7b0a06a92146a5",
+        "bytes": 75884,
         "originalBytes": 99281,
         "crop": {
           "left": 19,
@@ -905,13 +905,13 @@
       },
       {
         "index": 5,
-        "src": "/images/projects/app-kegeltempo-theme-screen-9a0bec47f3.webp",
+        "src": "/images/projects/app-kegeltempo-theme-screen-67d9b32da0.webp",
         "width": 375,
         "height": 812,
         "role": "screen",
         "gallery": true,
-        "sha256": "9a0bec47f3bb4f49931227c95b1b5ea6dc74b125451eec52faed38ac667a9f19",
-        "bytes": 154796,
+        "sha256": "67d9b32da03d764f2e7e963098bc5f5f0a447d338ac74f78e371c6f67008d46c",
+        "bytes": 150114,
         "originalBytes": 182491,
         "crop": {
           "left": 22,
@@ -1153,13 +1153,13 @@
         }
       },
       {
-        "src": "/images/projects/app-calivora-theme-screen-92e13b099c.webp",
+        "src": "/images/projects/app-calivora-theme-screen-6cfb299b93.webp",
         "width": 390,
         "height": 844,
         "role": "screen",
         "gallery": true,
-        "sha256": "92e13b099c0bee2460be8376aafba0ef398d1ef772a43090caca4cc94dc6c89e",
-        "bytes": 95736,
+        "sha256": "6cfb299b93073a583b47683cb2855a8b96b387a82b86913c56320d7fc04ad2f5",
+        "bytes": 96022,
         "originalBytes": 148551,
         "label": "Provider chat and call states",
         "description": "Calivora - provider chat and call states",

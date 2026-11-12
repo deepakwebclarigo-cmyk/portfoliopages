@@ -456,30 +456,30 @@
     "design": "Consistent two-device mobile showcase; slim graphite hardware, equal dimensions and baseline; original app UI and logos"
   },
   "app-simplyscouted": {
-    "src": "/images/thumbnails/app-simplyscouted-402bfca695.webp",
+    "src": "/images/thumbnails/app-simplyscouted-af406535c1.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "ed7859a50abc2353afa56a0f6f845c2b0e4c479d0dd06e8e4529a55c2dcb8985",
-    "bytes": 55348,
+    "sha256": "b1358ea6e737ba1e110050e3abebebdd3b21aa94ee1f9faf357abab70071c4c7",
+    "bytes": 55186,
     "card": {
-      "src": "/images/thumbnails/app-simplyscouted-402bfca695-card.webp",
+      "src": "/images/thumbnails/app-simplyscouted-af406535c1-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "96621077f09ba1e07cbf46a5ad1efcb9fc76ea5858691bb9a616535b62b4c980",
-      "bytes": 21864
+      "sha256": "b1331ee63bae0d2a3cd7af1ff9ce27c5ebfc47775645bfb96108a5c8c3d2dd4e",
+      "bytes": 21882
     },
     "medium": {
-      "src": "/images/thumbnails/app-simplyscouted-402bfca695-medium.webp",
+      "src": "/images/thumbnails/app-simplyscouted-af406535c1-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "ffffd5913b3c8bdcca901fa7de85815c39138bde5a61995df5cdc90e115b8f76",
-      "bytes": 30694
+      "sha256": "8cbde28aba0000e0a09a65ef916705a6c3b663969f2d2f49ac2508419c4aa7be",
+      "bytes": 30650
     },
-    "exportSha256": "402bfca6956d81313418ee169545b533f93984e590c9b42c18613c42626ac85f",
+    "exportSha256": "af406535c1cf5000e6ba7a5c6c711e272c32c9aa6838e21fef6c10582b29ff77",
     "sourceRefs": [
       {
-        "src": "/images/projects/app-simplyscouted-theme-screen-3ecf3626b9.webp",
-        "sha256": "3ecf3626b98c244d27b1c5a93ac425ead3c8d2ad67cd523982d7209919005bde",
+        "src": "/images/projects/app-simplyscouted-theme-screen-33692e119b.webp",
+        "sha256": "33692e119b6aed0e42120e5a5d0a286700370646b7f61e89ee8f7adbe7b83bb1",
         "crop": {
           "left": 22,
           "top": 54,
@@ -488,8 +488,8 @@
         }
       },
       {
-        "src": "/images/projects/app-simplyscouted-theme-screen-c5c849a79e.webp",
-        "sha256": "c5c849a79e3a8598908db9a32f86cefe0531c4fc0b099b88cbe070d39a9da077",
+        "src": "/images/projects/app-simplyscouted-theme-screen-bba0bd5d74.webp",
+        "sha256": "bba0bd5d74be0446a2961d3adb4166cd44f81c97c0be3ccd9c9b05ae6ec41cd1",
         "crop": {
           "left": 22,
           "top": 54,
@@ -521,30 +521,30 @@
     "design": "Consistent two-device mobile showcase; slim graphite hardware, equal dimensions and baseline; original app UI and logos"
   },
   "app-silaflow": {
-    "src": "/images/thumbnails/app-silaflow-c271e579a6.webp",
+    "src": "/images/thumbnails/app-silaflow-e19838676c.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "7123215a70ffadd9e496fafd9ca3eaa8c9c5ce6ba3d69b3002384856064fd7f0",
-    "bytes": 77176,
+    "sha256": "d2e4f7824be83e51577d936ec61729ccab50b1d2d58951c3dfd962021b0839c5",
+    "bytes": 77214,
     "card": {
-      "src": "/images/thumbnails/app-silaflow-c271e579a6-card.webp",
+      "src": "/images/thumbnails/app-silaflow-e19838676c-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "c4d04ea98046135b9f2b160fec5eed07cf0ab9891165950d75d0cbefe2bf9963",
-      "bytes": 26654
+      "sha256": "2e5a0e4111490486744fc6c1d6cdb01b95ddec97ed78658ee2d4610d1af9606e",
+      "bytes": 26602
     },
     "medium": {
-      "src": "/images/thumbnails/app-silaflow-c271e579a6-medium.webp",
+      "src": "/images/thumbnails/app-silaflow-e19838676c-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "4603ba68ddd56e072c82cacadc106d0b70fa3f78aee0107e82c5c73d890cef5b",
-      "bytes": 40156
+      "sha256": "0a4098cf7e8d53fc084dba2ab0142010bd61d79cb14450f47f725df5cb8c9ef2",
+      "bytes": 40134
     },
-    "exportSha256": "c271e579a693ee9c84f674b4596b437c794f083a06b9670eb7d325fc84781a7d",
+    "exportSha256": "e19838676c9b6fe939f7f317d9312b59d3f19fe8b66ad78f6122deb336b3ab80",
     "sourceRefs": [
       {
-        "src": "/images/projects/app-silaflow-theme-screen-adcf8ebe71.webp",
-        "sha256": "adcf8ebe715dd623162d2157fe0fd7f4d43117895911d32a8b119c6fe64edbd7",
+        "src": "/images/projects/app-silaflow-theme-screen-43450cf20f.webp",
+        "sha256": "43450cf20ff4b8a11f5956047ea0a58d879c95379a2cc0c29559693d6626eaf1",
         "crop": {
           "left": 22,
           "top": 52,
@@ -1041,30 +1041,30 @@
     "design": "Consistent two-device mobile showcase; slim graphite hardware, equal dimensions and baseline; original app UI and logos"
   },
   "app-pantryone": {
-    "src": "/images/thumbnails/app-pantryone-75a3417534.webp",
+    "src": "/images/thumbnails/app-pantryone-e41a0aaac6.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "dc2ab708ce8ed471ad5110596d3e686cf5f77c2d605abae23eb8fc0d0b35cfdf",
-    "bytes": 55466,
+    "sha256": "3a43de1d687f3ab1cdb3bd1517d0223088f6a8c106c43721b7596cb1a65662cb",
+    "bytes": 55316,
     "card": {
-      "src": "/images/thumbnails/app-pantryone-75a3417534-card.webp",
+      "src": "/images/thumbnails/app-pantryone-e41a0aaac6-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "f1a7d6be07370f47afb634c8352892a8ada4903043755374566651d7514cdcff",
-      "bytes": 20854
+      "sha256": "103a52254d77fa3f4d4e9a63ee30876d0952b671af08bc9d5f06b140f1b85deb",
+      "bytes": 20816
     },
     "medium": {
-      "src": "/images/thumbnails/app-pantryone-75a3417534-medium.webp",
+      "src": "/images/thumbnails/app-pantryone-e41a0aaac6-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "86dc45c1c62107afad5946e5f471df08f346d1436eb9c48d4610dc08394099ed",
-      "bytes": 29942
+      "sha256": "a13724028e086affa4e95bb0fd6f1f7a8fdbf3777166cccde8e35d5cf69cd14b",
+      "bytes": 29926
     },
-    "exportSha256": "75a3417534b700916f1d06aafa22353b766ba24d813fd21d30b5097e1d101683",
+    "exportSha256": "e41a0aaac63706090dae5798da8c70e5df6d14a7260a98115627e2bc2ef8acfa",
     "sourceRefs": [
       {
-        "src": "/images/projects/app-pantryone-theme-screen-e0a114f262.webp",
-        "sha256": "e0a114f262f3282a30f77b2f07f1e7ae3b54b5e5128ee7ac2821477267c03806",
+        "src": "/images/projects/app-pantryone-theme-screen-4969567f87.webp",
+        "sha256": "4969567f87c20b3bf7f0ec4a7cb2de1fcc68ae676bf915a3c7ba09cba02c6807",
         "crop": {
           "left": 22,
           "top": 22,
@@ -1073,8 +1073,8 @@
         }
       },
       {
-        "src": "/images/projects/app-pantryone-theme-screen-3f8a447dcf.webp",
-        "sha256": "3f8a447dcf7d80cdfcb65cac45216e9c127a8e9c9744f57fd8a7452eb0430b8d",
+        "src": "/images/projects/app-pantryone-theme-screen-a577c83378.webp",
+        "sha256": "a577c83378e8186c0df712a497b9666930d9a1c24145da1b4c254e4127434d40",
         "crop": {
           "left": 22,
           "top": 52,
@@ -1431,30 +1431,30 @@
     "design": "Consistent two-device mobile showcase; slim graphite hardware, equal dimensions and baseline; original app UI and logos"
   },
   "app-streetslate": {
-    "src": "/images/thumbnails/app-streetslate-f5a56f598c.webp",
+    "src": "/images/thumbnails/app-streetslate-8b137f36ad.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "bb653e2c8b235ae395f4dc3327ef62d6c196a50c2bf8252f9a6e61023f83fa05",
-    "bytes": 47796,
+    "sha256": "4e8d517395aa0ee32a5ee1c375f9388362833f8a7d9a15a052bfedf6767b8467",
+    "bytes": 47692,
     "card": {
-      "src": "/images/thumbnails/app-streetslate-f5a56f598c-card.webp",
+      "src": "/images/thumbnails/app-streetslate-8b137f36ad-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "179739b4bdc6902fe4d1582788966a0f4f9ba18ce1117e79af87a8b26928d81a",
-      "bytes": 17938
+      "sha256": "680801cc2aa5203c7b38308312fa19f48e40457f8bbb4ddf2bf0187f2f89f166",
+      "bytes": 17888
     },
     "medium": {
-      "src": "/images/thumbnails/app-streetslate-f5a56f598c-medium.webp",
+      "src": "/images/thumbnails/app-streetslate-8b137f36ad-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "7531a4cb365e317528ca114262e0e0328365a4c314054e3c8b8cc0c4fdb71bd9",
-      "bytes": 25816
+      "sha256": "6468303e1d14e78c25282dc4fbf90179c42ee83dc02f0f1236372eac3e9f57a5",
+      "bytes": 25758
     },
-    "exportSha256": "f5a56f598c6af23cc61c486f842fd97475ecceadc2d43dc8fd174116223388b3",
+    "exportSha256": "8b137f36ad280aa8a62e6c084db5b5ab522a09d927aa7de0ebef56a2243cb452",
     "sourceRefs": [
       {
-        "src": "/images/projects/app-streetslate-theme-screen-f8e6712632.webp",
-        "sha256": "f8e67126325b00de5d6c67fcf20d4b1aa0abe329e1945bb92947c61082e9b3dc",
+        "src": "/images/projects/app-streetslate-theme-screen-358f438b07.webp",
+        "sha256": "358f438b0700d11990ff7e6b9172ce5c1c06e64dcd69c84f0b4f0eaafceab8fc",
         "crop": {
           "left": 19,
           "top": 43,
@@ -1463,8 +1463,8 @@
         }
       },
       {
-        "src": "/images/projects/app-streetslate-theme-screen-b14bc2a460.webp",
-        "sha256": "b14bc2a460591407317fc43f6a155975b17b28978d38250c6e0d67701a7293ab",
+        "src": "/images/projects/app-streetslate-theme-screen-898502f378.webp",
+        "sha256": "898502f378364b0f46cfe0dc7dc7d947b2eb323efd4af2210f7b0a06a92146a5",
         "crop": {
           "left": 19,
           "top": 43,
@@ -1626,26 +1626,26 @@
     "design": "Consistent two-device mobile showcase; slim graphite hardware, equal dimensions and baseline; original app UI and logos"
   },
   "app-kegeltempo": {
-    "src": "/images/thumbnails/app-kegeltempo-2ce44db807.webp",
+    "src": "/images/thumbnails/app-kegeltempo-512379fb57.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "e8ea47d2abde5cfb7f52d312058796cb27100fa1e9100d392fa3d60c145c31c0",
-    "bytes": 62456,
+    "sha256": "9b4d2914f979fc63edd96e4154fb2805dfff2be5d152994d09eb28d6d05290fe",
+    "bytes": 62004,
     "card": {
-      "src": "/images/thumbnails/app-kegeltempo-2ce44db807-card.webp",
+      "src": "/images/thumbnails/app-kegeltempo-512379fb57-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "89bae34c2deaed1ad6b68ee2d61ed12897f7fe042a9149fd0a7c24e390a0e4a2",
-      "bytes": 23374
+      "sha256": "4ad7ed68b32c4f1e4511359ff59cc9f936c3a78e6f6a5370d2d99f1e1237b51a",
+      "bytes": 23292
     },
     "medium": {
-      "src": "/images/thumbnails/app-kegeltempo-2ce44db807-medium.webp",
+      "src": "/images/thumbnails/app-kegeltempo-512379fb57-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "298db69aa9bdcb67692f26e43eb48ace8061c7b121ed4a87c623b1ce07a65cee",
-      "bytes": 34176
+      "sha256": "9a0d65fe82addeb0491641b42e1c8fcec42dd42e73c28903df433b7f2f65d50d",
+      "bytes": 33874
     },
-    "exportSha256": "2ce44db80747466c744a4fec7f3162e4b39ab5206f8ffbdb8755db7dfcb43465",
+    "exportSha256": "512379fb5725686ad95b1deb8740542a826201313fd6456f4db3ce958bd0e322",
     "sourceRefs": [
       {
         "src": "/images/projects/app-kegeltempo-theme-screen-755f7f97b2.webp",
@@ -1658,8 +1658,8 @@
         }
       },
       {
-        "src": "/images/projects/app-kegeltempo-theme-screen-9a0bec47f3.webp",
-        "sha256": "9a0bec47f3bb4f49931227c95b1b5ea6dc74b125451eec52faed38ac667a9f19",
+        "src": "/images/projects/app-kegeltempo-theme-screen-67d9b32da0.webp",
+        "sha256": "67d9b32da03d764f2e7e963098bc5f5f0a447d338ac74f78e371c6f67008d46c",
         "crop": {
           "left": 22,
           "top": 52,
@@ -1821,26 +1821,26 @@
     "design": "Consistent two-device mobile showcase; slim graphite hardware, equal dimensions and baseline; original app UI and logos"
   },
   "app-calivora": {
-    "src": "/images/thumbnails/app-calivora-9b2914738d.webp",
+    "src": "/images/thumbnails/app-calivora-bb45da433d.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "0591f200f7877af2c15c72d4033536e0a7836a62bfee33402e009cdb3bd7b769",
-    "bytes": 46158,
+    "sha256": "01398a656ca297293c91b964f8bcb29f98d373ce7426a2fb6df2ba28bf923a5a",
+    "bytes": 46240,
     "card": {
-      "src": "/images/thumbnails/app-calivora-9b2914738d-card.webp",
+      "src": "/images/thumbnails/app-calivora-bb45da433d-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "34ce7391f071e28d32d26a52e1484c5722719e2a7f78a26bfe8bdd2b6731b473",
-      "bytes": 16842
+      "sha256": "581a8b545df59db947ba8b0286ad13ba3d1431a62be8a0e8b562fc1147aa19d5",
+      "bytes": 16792
     },
     "medium": {
-      "src": "/images/thumbnails/app-calivora-9b2914738d-medium.webp",
+      "src": "/images/thumbnails/app-calivora-bb45da433d-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "7b0b1610ca1359b0ef73f874c33fa6f0f8df96bb3b159e2f3001b05311371e50",
-      "bytes": 24402
+      "sha256": "d5fcb1ec1cd1980069b332a681a7e7b3bb45aed525a0b532b9db427d987d7401",
+      "bytes": 24348
     },
-    "exportSha256": "9b2914738d060d1e03937a0431f1b473666fea3edb9eee2069970da9fddac680",
+    "exportSha256": "bb45da433db34d09a9ef27801e42c951162820991794e9e6b7a6af8f51b2051d",
     "sourceRefs": [
       {
         "src": "/images/projects/app-calivora-theme-screen-20864eac6f.webp",
@@ -1853,8 +1853,8 @@
         }
       },
       {
-        "src": "/images/projects/app-calivora-theme-screen-92e13b099c.webp",
-        "sha256": "92e13b099c0bee2460be8376aafba0ef398d1ef772a43090caca4cc94dc6c89e",
+        "src": "/images/projects/app-calivora-theme-screen-6cfb299b93.webp",
+        "sha256": "6cfb299b93073a583b47683cb2855a8b96b387a82b86913c56320d7fc04ad2f5",
         "crop": {
           "left": 12,
           "top": 55,
