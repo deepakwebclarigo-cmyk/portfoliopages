@@ -1,0 +1,306 @@
+{
+  "checks": 42,
+  "densities": [
+    1,
+    2
+  ],
+  "projects": 21,
+  "browserErrors": [],
+  "screenshots": 12,
+  "results": [
+    {
+      "slug": "streamdexa",
+      "density": 1,
+      "source": "/images/thumbnails/streamdexa-589941e0f5-card.webp",
+      "contrastRatio": 0.9938685913418928,
+      "meanPixelDifference": 14.089274088541666
+    },
+    {
+      "slug": "tukora-connect",
+      "density": 1,
+      "source": "/images/thumbnails/tukora-connect-c1c2759a91-card.webp",
+      "contrastRatio": 0.9800914137647504,
+      "meanPixelDifference": 14.489583333333334
+    },
+    {
+      "slug": "paranest",
+      "density": 1,
+      "source": "/images/thumbnails/paranest-1d8a4eca05-card.webp",
+      "contrastRatio": 0.9911884422551908,
+      "meanPixelDifference": 3.613037109375
+    },
+    {
+      "slug": "alumvia",
+      "density": 1,
+      "source": "/images/thumbnails/alumvia-e411bab574-card.webp",
+      "contrastRatio": 0.9371097747392709,
+      "meanPixelDifference": 8.000325520833334
+    },
+    {
+      "slug": "kegeltempo",
+      "density": 1,
+      "source": "/images/thumbnails/kegeltempo-aa180b510e-card.webp",
+      "contrastRatio": 0.9985531811793575,
+      "meanPixelDifference": 9.752360026041666
+    },
+    {
+      "slug": "rallybridge",
+      "density": 1,
+      "source": "/images/thumbnails/rallybridge-89efeec565-card.webp",
+      "contrastRatio": 0.996871988117701,
+      "meanPixelDifference": 8.918619791666666
+    },
+    {
+      "slug": "whizlume",
+      "density": 1,
+      "source": "/images/thumbnails/whizlume-247e64b93d-card.webp",
+      "contrastRatio": 0.9672987757279611,
+      "meanPixelDifference": 11.979736328125
+    },
+    {
+      "slug": "estrata",
+      "density": 1,
+      "source": "/images/thumbnails/estrata-f27add3ee7-card.webp",
+      "contrastRatio": 1.0068248760672314,
+      "meanPixelDifference": 3.63818359375
+    },
+    {
+      "slug": "leadforma",
+      "density": 1,
+      "source": "/images/thumbnails/leadforma-b814aceb0b-card.webp",
+      "contrastRatio": 0.9824599967401874,
+      "meanPixelDifference": 15.503011067708334
+    },
+    {
+      "slug": "app-simplyscouted",
+      "density": 1,
+      "source": "/images/thumbnails/app-simplyscouted-402bfca695-card.webp",
+      "contrastRatio": 1.0042993045722157,
+      "meanPixelDifference": 8.062906901041666
+    },
+    {
+      "slug": "app-infinote",
+      "density": 1,
+      "source": "/images/thumbnails/app-infinote-f7d13b619c-card.webp",
+      "contrastRatio": 1.0060062861205075,
+      "meanPixelDifference": 6.253824869791667
+    },
+    {
+      "slug": "app-silaflow",
+      "density": 1,
+      "source": "/images/thumbnails/app-silaflow-c271e579a6-card.webp",
+      "contrastRatio": 0.9584283439915987,
+      "meanPixelDifference": 9.305257161458334
+    },
+    {
+      "slug": "app-habitstride",
+      "density": 1,
+      "source": "/images/thumbnails/app-habitstride-dcff12275a-card.webp",
+      "contrastRatio": 0.9523621641937077,
+      "meanPixelDifference": 6.406575520833333
+    },
+    {
+      "slug": "app-tukora-connect",
+      "density": 1,
+      "source": "/images/thumbnails/app-tukora-connect-7c7687c2c8-card.webp",
+      "contrastRatio": 0.9727756025076858,
+      "meanPixelDifference": 8.029622395833334
+    },
+    {
+      "slug": "app-pantryone",
+      "density": 1,
+      "source": "/images/thumbnails/app-pantryone-75a3417534-card.webp",
+      "contrastRatio": 0.9737975888176993,
+      "meanPixelDifference": 7.173665364583333
+    },
+    {
+      "slug": "app-streetslate",
+      "density": 1,
+      "source": "/images/thumbnails/app-streetslate-f5a56f598c-card.webp",
+      "contrastRatio": 0.9998938277567309,
+      "meanPixelDifference": 7.185628255208333
+    },
+    {
+      "slug": "app-kegeltempo",
+      "density": 1,
+      "source": "/images/thumbnails/app-kegeltempo-2ce44db807-card.webp",
+      "contrastRatio": 0.9466459123706669,
+      "meanPixelDifference": 7.227620442708333
+    },
+    {
+      "slug": "app-strivaro",
+      "density": 1,
+      "source": "/images/thumbnails/app-strivaro-b78476131b-card.webp",
+      "contrastRatio": 1.0078125052456908,
+      "meanPixelDifference": 8.263916015625
+    },
+    {
+      "slug": "app-axorabid",
+      "density": 1,
+      "source": "/images/thumbnails/app-axorabid-2a2fdf6432-card.webp",
+      "contrastRatio": 0.999439950860552,
+      "meanPixelDifference": 6.796549479166667
+    },
+    {
+      "slug": "axorabid",
+      "density": 1,
+      "source": "/images/thumbnails/axorabid-fd5cc5bde0-card.webp",
+      "contrastRatio": 0.9405098656213505,
+      "meanPixelDifference": 6.500325520833333
+    },
+    {
+      "slug": "app-calivora",
+      "density": 1,
+      "source": "/images/thumbnails/app-calivora-9b2914738d-card.webp",
+      "contrastRatio": 1.012421165164631,
+      "meanPixelDifference": 6.888264973958333
+    },
+    {
+      "slug": "streamdexa",
+      "density": 2,
+      "source": "/images/thumbnails/streamdexa-589941e0f5-medium.webp",
+      "contrastRatio": 0.9887350551898322,
+      "meanPixelDifference": 14.182535807291666
+    },
+    {
+      "slug": "tukora-connect",
+      "density": 2,
+      "source": "/images/thumbnails/tukora-connect-c1c2759a91-medium.webp",
+      "contrastRatio": 0.9515328328970312,
+      "meanPixelDifference": 14.775472005208334
+    },
+    {
+      "slug": "paranest",
+      "density": 2,
+      "source": "/images/thumbnails/paranest-1d8a4eca05-medium.webp",
+      "contrastRatio": 0.9795097413173073,
+      "meanPixelDifference": 4.02734375
+    },
+    {
+      "slug": "alumvia",
+      "density": 2,
+      "source": "/images/thumbnails/alumvia-e411bab574-medium.webp",
+      "contrastRatio": 0.915419837405726,
+      "meanPixelDifference": 8.898356119791666
+    },
+    {
+      "slug": "kegeltempo",
+      "density": 2,
+      "source": "/images/thumbnails/kegeltempo-aa180b510e-medium.webp",
+      "contrastRatio": 0.9949551631462465,
+      "meanPixelDifference": 10.621907552083334
+    },
+    {
+      "slug": "rallybridge",
+      "density": 2,
+      "source": "/images/thumbnails/rallybridge-89efeec565-medium.webp",
+      "contrastRatio": 0.9928596983329041,
+      "meanPixelDifference": 9.559814453125
+    },
+    {
+      "slug": "whizlume",
+      "density": 2,
+      "source": "/images/thumbnails/whizlume-247e64b93d-medium.webp",
+      "contrastRatio": 0.9349767598906975,
+      "meanPixelDifference": 12.543782552083334
+    },
+    {
+      "slug": "estrata",
+      "density": 2,
+      "source": "/images/thumbnails/estrata-f27add3ee7-medium.webp",
+      "contrastRatio": 1.0014582734928108,
+      "meanPixelDifference": 3.9422200520833335
+    },
+    {
+      "slug": "leadforma",
+      "density": 2,
+      "source": "/images/thumbnails/leadforma-b814aceb0b-medium.webp",
+      "contrastRatio": 0.962880969760107,
+      "meanPixelDifference": 16.674479166666668
+    },
+    {
+      "slug": "app-simplyscouted",
+      "density": 2,
+      "source": "/images/thumbnails/app-simplyscouted-402bfca695-medium.webp",
+      "contrastRatio": 0.9982842985852993,
+      "meanPixelDifference": 8.118815104166666
+    },
+    {
+      "slug": "app-infinote",
+      "density": 2,
+      "source": "/images/thumbnails/app-infinote-f7d13b619c-medium.webp",
+      "contrastRatio": 0.9873211443621206,
+      "meanPixelDifference": 6.87353515625
+    },
+    {
+      "slug": "app-silaflow",
+      "density": 2,
+      "source": "/images/thumbnails/app-silaflow-c271e579a6-medium.webp",
+      "contrastRatio": 0.9341883795855355,
+      "meanPixelDifference": 9.636067708333334
+    },
+    {
+      "slug": "app-habitstride",
+      "density": 2,
+      "source": "/images/thumbnails/app-habitstride-dcff12275a-medium.webp",
+      "contrastRatio": 0.9295804970975089,
+      "meanPixelDifference": 6.2626953125
+    },
+    {
+      "slug": "app-tukora-connect",
+      "density": 2,
+      "source": "/images/thumbnails/app-tukora-connect-7c7687c2c8-medium.webp",
+      "contrastRatio": 0.9576485723739283,
+      "meanPixelDifference": 8.819661458333334
+    },
+    {
+      "slug": "app-pantryone",
+      "density": 2,
+      "source": "/images/thumbnails/app-pantryone-75a3417534-medium.webp",
+      "contrastRatio": 0.9579826834883675,
+      "meanPixelDifference": 7.009847005208333
+    },
+    {
+      "slug": "app-streetslate",
+      "density": 2,
+      "source": "/images/thumbnails/app-streetslate-f5a56f598c-medium.webp",
+      "contrastRatio": 0.9903015363194144,
+      "meanPixelDifference": 7.029296875
+    },
+    {
+      "slug": "app-kegeltempo",
+      "density": 2,
+      "source": "/images/thumbnails/app-kegeltempo-2ce44db807-medium.webp",
+      "contrastRatio": 0.9214144685653999,
+      "meanPixelDifference": 7.079427083333333
+    },
+    {
+      "slug": "app-strivaro",
+      "density": 2,
+      "source": "/images/thumbnails/app-strivaro-b78476131b-medium.webp",
+      "contrastRatio": 1.0039005173845859,
+      "meanPixelDifference": 8.810953776041666
+    },
+    {
+      "slug": "app-axorabid",
+      "density": 2,
+      "source": "/images/thumbnails/app-axorabid-2a2fdf6432-medium.webp",
+      "contrastRatio": 0.9907119891957469,
+      "meanPixelDifference": 7.630289713541667
+    },
+    {
+      "slug": "axorabid",
+      "density": 2,
+      "source": "/images/thumbnails/axorabid-fd5cc5bde0-medium.webp",
+      "contrastRatio": 0.9210380119142616,
+      "meanPixelDifference": 6.362711588541667
+    },
+    {
+      "slug": "app-calivora",
+      "density": 2,
+      "source": "/images/thumbnails/app-calivora-9b2914738d-medium.webp",
+      "contrastRatio": 1.0094294759178175,
+      "meanPixelDifference": 7.070556640625
+    }
+  ]
+}
