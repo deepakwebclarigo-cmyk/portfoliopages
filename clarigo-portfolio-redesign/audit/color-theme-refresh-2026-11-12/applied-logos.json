@@ -1,0 +1,1346 @@
+[
+  {
+    "file": "public/images/brand/projects/alumvia-horizontal.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/alumvia-horizontal.png",
+    "theme": "Alumvia",
+    "sourceSha256": "ae77f4801ca9977d5db117cffa77a4027c5d3e1b0244c721974e4dc784af508b",
+    "sha256": "14c83ae6f47e7976e020b4ccc753e9acec12e5154c51d838094ced18b112be23",
+    "width": 682,
+    "height": 180,
+    "stats": {
+      "changedPixels": 37038,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0023483595172069105,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/alumvia.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/alumvia.png",
+    "theme": "Alumvia",
+    "sourceSha256": "ef553a251e091781c1c039a5abbf73a1ee3a924b58bdcc901de7912143c04a95",
+    "sha256": "a177427145ff5b0cca2ca0c9992606bb10403256eaada0f2bccfb8366e178bed",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 206909,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0027936299405084686,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/axorabid-icon-1000.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/axorabid-icon-1000.png",
+    "theme": "AxoraBid",
+    "sourceSha256": "8feadb3b8bfb46ae4729c864ed3264a164e35ab5e7126e527592c661be67020a",
+    "sha256": "a51df91911dd1a95f98f30cbb25834f353eb54a79022ca81f0c13694274f123c",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 332238,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.001140464521475315,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/axorabid-icon-180.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/axorabid-icon-180.png",
+    "theme": "AxoraBid",
+    "sourceSha256": "9a2e697ec8b698c62fe6310013169faed64392e58f70cb239820ce2f0f91f5ee",
+    "sha256": "222c5a9aef31a830459bf35a276cc6baf8329b7f4479e2368f487771bc2d68ee",
+    "width": 180,
+    "height": 180,
+    "stats": {
+      "changedPixels": 11150,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.001140464521475315,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/axorabid-icon-192.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/axorabid-icon-192.png",
+    "theme": "AxoraBid",
+    "sourceSha256": "5dd9d86dc9bf4eea0cbe2974872139581ceaa8188467aedc83666900a46718cc",
+    "sha256": "65a3a1c6ad74e78292f3b5f45b4cf32590c11fdef7b584a26746f4fcba83c58c",
+    "width": 192,
+    "height": 192,
+    "stats": {
+      "changedPixels": 12666,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0010239096244395174,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/axorabid-icon-32.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/axorabid-icon-32.png",
+    "theme": "AxoraBid",
+    "sourceSha256": "0eeffef9ad1c467c0e17004cf45733b36cf7e026caa763ba7624e68ae50a8494",
+    "sha256": "9cf345c3be56088fc7d11769ddb7fc9feddb3d89e0af66912e86f266fdd04bdd",
+    "width": 32,
+    "height": 32,
+    "stats": {
+      "changedPixels": 460,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0011875925532392473,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/axorabid-logo-1000.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/axorabid-logo-1000.png",
+    "theme": "AxoraBid",
+    "sourceSha256": "581902cc2d7f2696f82bc5372d68aa2b2b884943a1777380428700f092daf76e",
+    "sha256": "9df5cb394f917790e9f35f461f5b8d62fa28209219dde493cafd7308dcbacb17",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 49403,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0010239096244395174,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/axorabid-logo-white.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/axorabid-logo-white.png",
+    "theme": "AxoraBid",
+    "sourceSha256": "9ef3f98e4383a6ad541f20ef48329a0c8e063af94898fd4c2ff59a02e3537de1",
+    "sha256": "11bdbecc190a889287d25b5702efbde39c655037db8051b6b297796a780978bb",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 50539,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/calivora-icon-180.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/calivora-icon-180.png",
+    "theme": "Calivora",
+    "sourceSha256": "57be01b28cee75b2b2859c5cd69abf722602360c3b689dfd1e5085fa5333f73e",
+    "sha256": "0a57efce2f3f011376c134a10fbec3acbdfce49bb4d798f348716cc6a52a257d",
+    "width": 180,
+    "height": 180,
+    "stats": {
+      "changedPixels": 15826,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003130216507284067,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/calivora-icon-192.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/calivora-icon-192.png",
+    "theme": "Calivora",
+    "sourceSha256": "c68ee0fa0323ee57e6299c7bcf77b714c7d4d85d0e7f42fcc26a1805461a35e6",
+    "sha256": "ca015e9333092359d3c185637d68c3a043e94e4db1ef59a353fe50efb503d8d4",
+    "width": 192,
+    "height": 192,
+    "stats": {
+      "changedPixels": 17941,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003130216507284067,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/calivora-icon-32.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/calivora-icon-32.png",
+    "theme": "Calivora",
+    "sourceSha256": "e9a7b8f0e748d8127c4bac79f28536859bbad59c560d8cefd89b8fc175f649ca",
+    "sha256": "b0941d386b14031e3ed35508cd6edd3ac0d373003d76f548e4e044aecc509da1",
+    "width": 32,
+    "height": 32,
+    "stats": {
+      "changedPixels": 612,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.002560917354420711,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/calivora-logo-1000.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/calivora-logo-1000.png",
+    "theme": "Calivora",
+    "sourceSha256": "0e67bcb5d5cbe58ebd6a101f0dd5cb7d39a360c12d6052fc1b4269eb0e2c862d",
+    "sha256": "bbfd3efa7e144e3e72efe87d6ebe5e4abe508ad06745c4cb193c4f3fc25eb736",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 151912,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003130216507284067,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/calivora-logo-horizontal-white.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/calivora-logo-horizontal-white.png",
+    "theme": "Calivora",
+    "sourceSha256": "3dc54c24ecf0b0682ebba0bef7e5a0365349bab695b295f57ddfdec1fa815cc8",
+    "sha256": "153d98f94caa04a633a848a1bfa5f24f078f4b5530ab9e5883474dc1a525182d",
+    "width": 640,
+    "height": 180,
+    "stats": {
+      "changedPixels": 30640,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003130216507284067,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/calivora-logo-white.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/calivora-logo-white.png",
+    "theme": "Calivora",
+    "sourceSha256": "240412f37e86fe41e023a2e0e8dba111feccc9c502ef144756fb4088c99364e7",
+    "sha256": "e4a57a27b56b6056c1583854378713080fb6e573bfb9b02f348188fb08ccd5b5",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 153355,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003130216507284067,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/calivora-symbol-1000.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/calivora-symbol-1000.png",
+    "theme": "Calivora",
+    "sourceSha256": "81cab9d2a34f791167013a8e4437147c0a294e9a09a0d99b9993e1bc2b4d86dc",
+    "sha256": "99a287d65deec7661cfd7c423a2932c55d8424dce4012ce896f2b1b900e388c9",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 461918,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003130216507284067,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/infinote-app-icon-180.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/infinote-app-icon-180.png",
+    "theme": "Infinote",
+    "sourceSha256": "9aeb803634e90055af4290eab688428432d19a82e79c9d1d449a4012279f5893",
+    "sha256": "e09baa7a8d6f482154b01b979b213a08951c1a4b91cf957fa3b2bec8873deada",
+    "width": 180,
+    "height": 180,
+    "stats": {
+      "changedPixels": 31851,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0006961036901796253,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/infinote-app-icon-192.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/infinote-app-icon-192.png",
+    "theme": "Infinote",
+    "sourceSha256": "2bf62575c567e56ef04fc9c8da88841af0778aff673da0f6e04cfb760b6d83f6",
+    "sha256": "b7ea834b53648038e81f0d99fa0733bb51f8468e1784a72df4b72252d89b480f",
+    "width": 192,
+    "height": 192,
+    "stats": {
+      "changedPixels": 36226,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0006961036901796253,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/infinote-app-icon-32.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/infinote-app-icon-32.png",
+    "theme": "Infinote",
+    "sourceSha256": "3a7a9a024ae5c1f1f3e77d7026139d020e7c919ae48e0102d40f58a2e73463e1",
+    "sha256": "5875be481be4122a8862b209f1733b8e5ea28dd8b650b543cb19df6b6a805008",
+    "width": 32,
+    "height": 32,
+    "stats": {
+      "changedPixels": 957,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0007020573123523999,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/infinote-app-icon-512.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/infinote-app-icon-512.png",
+    "theme": "Infinote",
+    "sourceSha256": "164d383d3608187e5688abcf5ac5bb7ad31da88d7b95ac53a7c852510baff046",
+    "sha256": "be9395ac29bf004741e75d10f3c9fcabb984c4e5ac5ad63c2fcaa8a2f40ae0f2",
+    "width": 512,
+    "height": 512,
+    "stats": {
+      "changedPixels": 260215,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0007267143613641502,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/infinote-app-icon.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/infinote-app-icon.png",
+    "theme": "Infinote",
+    "sourceSha256": "dc9bc6c085dc510e619a966ac05663ae1c604e0cf99dccd9f3036299e20d9641",
+    "sha256": "8308dbacf646e87a7989ec0d6770e6b3309fc888827ac19eba5b3f2d1fb18d49",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 996967,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/infinote-logo.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/infinote-logo.png",
+    "theme": "Infinote",
+    "sourceSha256": "dc9bc6c085dc510e619a966ac05663ae1c604e0cf99dccd9f3036299e20d9641",
+    "sha256": "8308dbacf646e87a7989ec0d6770e6b3309fc888827ac19eba5b3f2d1fb18d49",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 996967,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/infinote-wordmark-green.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/infinote-wordmark-green.png",
+    "theme": "Infinote",
+    "sourceSha256": "4e5b8d84afca5f8d234d4b7a59ff1b8b1502be9b267f624bb38f66a544100233",
+    "sha256": "f84fc484b7e2ea25da9b95dc88d612788d6e0b2148fe2f877fbef3fb6332bed3",
+    "width": 744,
+    "height": 178,
+    "stats": {
+      "changedPixels": 36676,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/infinote-wordmark-white.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/infinote-wordmark-white.png",
+    "theme": "Infinote",
+    "sourceSha256": "a63164d9cc25a42e4836d56e6ca5e1778950ca5f763310f451ac6d4917d4898e",
+    "sha256": "b5685cc9b7c68525a70cdcf01e3c7b2f51df911b998ec5ea6e82360192192bd0",
+    "width": 744,
+    "height": 178,
+    "stats": {
+      "changedPixels": 36676,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/kegeltempo-horizontal.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/kegeltempo-horizontal.png",
+    "theme": "KegelTempo",
+    "sourceSha256": "d33830c85b84b45134f21f047e972a18839842fdabc33839dd15acf2a8f7007a",
+    "sha256": "5e68ddee478776c8443e13d99449fc30eeb8b3f43ce28655ebacc9450b6dca3d",
+    "width": 740,
+    "height": 180,
+    "stats": {
+      "changedPixels": 21772,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.002957341558036286,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/kegeltempo.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/kegeltempo.png",
+    "theme": "KegelTempo",
+    "sourceSha256": "97a2b9fdb5dfbc4f1cc7120dbafd2a1d34d111ae24caef4068bd389f5c66dd9b",
+    "sha256": "ffe09f1d5d80fd0b7dbe01c0d5809ae3354f8318a4069de82a0574ecf10f84c5",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 120622,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0030343701588059213,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/strivaro-icon-1000.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/strivaro-icon-1000.png",
+    "theme": "Strivaro",
+    "sourceSha256": "acd4476edc42fcb8851ecebbdb88b2ab21ede7353076bf1c5ed609043c2dc0cd",
+    "sha256": "326856ff45ca67c10d36676bea29716e9876bbaa126b08769a2c304b8209dfa6",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 393710,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.002948486816629181,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/strivaro-icon-180.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/strivaro-icon-180.png",
+    "theme": "Strivaro",
+    "sourceSha256": "83bea7a55419332feaed8a55e7bb347f30d38b73388c0983afe5c6945fb34cf9",
+    "sha256": "ad3e2f8c65391ac3b9c4369a56952c5fbbbc25acaaf5a6913de4345253ca7c63",
+    "width": 180,
+    "height": 180,
+    "stats": {
+      "changedPixels": 13167,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0028340139558646893,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/strivaro-icon-192.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/strivaro-icon-192.png",
+    "theme": "Strivaro",
+    "sourceSha256": "c0941cee5eb41bc7db6b851aee3f023d894163aef8e0791a983a93fb0dff3239",
+    "sha256": "e353f07348beca3a1ecd9a041fee99384e7875e7694fa40e0b1f4825ae33aecf",
+    "width": 192,
+    "height": 192,
+    "stats": {
+      "changedPixels": 14936,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0028502895072720635,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/strivaro-icon-32.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/strivaro-icon-32.png",
+    "theme": "Strivaro",
+    "sourceSha256": "6d9b80e17700d6cb70427d9ae7fdd68d9f4f2134b6cc3c9e90e0782d58a070ee",
+    "sha256": "dc1e47bd6c474ff842ca9cab064b195f42baa6c22b56b2f13a81532c65638721",
+    "width": 32,
+    "height": 32,
+    "stats": {
+      "changedPixels": 533,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0024997823984443945,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/strivaro-logo-1000.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/strivaro-logo-1000.png",
+    "theme": "Strivaro",
+    "sourceSha256": "4f47aafb5a23201a625f12c7da16d84a7e30badde23a6112c0a273d807bc5db2",
+    "sha256": "4cb0702f3b69812591ec5c1ab41dc1bcd98a68b4085ebdaaee767798335b986d",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 131638,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.002882918570917492,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/strivaro-logo-white.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/strivaro-logo-white.png",
+    "theme": "Strivaro",
+    "sourceSha256": "e8b5f22eb8830318d73ce4314f687a004984145c8a59dfb9041859bcba59289b",
+    "sha256": "76175c29399c04cfae8695a4121eb1f6fb4c21a4fddba6650bce53e73be0d22e",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 138772,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.002882918570917492,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/tukora-connect-horizontal.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/tukora-connect-horizontal.png",
+    "theme": "Tukora Connect",
+    "sourceSha256": "f60389e2594a483c0b7ce8cff1663dce3beb2c388ed0a3ee4b073a48babdc7e0",
+    "sha256": "b2543c5c64ddb185143bb1606f96897be71364136c133df2c18977ed93fc7cbb",
+    "width": 535,
+    "height": 180,
+    "stats": {
+      "changedPixels": 33999,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0020484710965455455,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/tukora-connect.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/tukora-connect.png",
+    "theme": "Tukora Connect",
+    "sourceSha256": "e04447334746bbd8efca7866e8d96a689f6b70180bdfc909652fc0b4ad0a5840",
+    "sha256": "11ca38f863056b704487b839dfa6641f19eb06f86516182f69986488015fefbd",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 249472,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.002677197405405063,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/whizlume-horizontal.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/whizlume-horizontal.png",
+    "theme": "Whizlume",
+    "sourceSha256": "0aeb677a70c5518aa94948799ac4141445b8c0866488aa2865d55e1d3d6b8e0b",
+    "sha256": "6457f2fac219b1f370e074e8af04d8abd2489a07f1c54b8fa10585436f8b722c",
+    "width": 813,
+    "height": 180,
+    "stats": {
+      "changedPixels": 42940,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.001924844561473793,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "public/images/brand/projects/whizlume.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/logos/whizlume.png",
+    "theme": "Whizlume",
+    "sourceSha256": "abe4bc739e1fb6d88b670f5576f88502a25ca258553d7263e6f0a8bbce961836",
+    "sha256": "851b4268e2ea39468f2fe720bbaea4650ed3a809d6b7cc2ace7cd07a39e29627",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 193093,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0019789761819443696,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/four-refreshed-project-logos/Alumvia.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/04878fe0fc82-Alumvia.png",
+    "theme": "Alumvia",
+    "sourceSha256": "ef553a251e091781c1c039a5abbf73a1ee3a924b58bdcc901de7912143c04a95",
+    "sha256": "a177427145ff5b0cca2ca0c9992606bb10403256eaada0f2bccfb8366e178bed",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 206909,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0027936299405084686,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/four-refreshed-project-logos/KegelTempo.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/97fa144112f3-KegelTempo.png",
+    "theme": "KegelTempo",
+    "sourceSha256": "97a2b9fdb5dfbc4f1cc7120dbafd2a1d34d111ae24caef4068bd389f5c66dd9b",
+    "sha256": "ffe09f1d5d80fd0b7dbe01c0d5809ae3354f8318a4069de82a0574ecf10f84c5",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 120622,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0030343701588059213,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/four-refreshed-project-logos/Tukora-Connect.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/567b371502e8-Tukora-Connect.png",
+    "theme": "Tukora Connect",
+    "sourceSha256": "e04447334746bbd8efca7866e8d96a689f6b70180bdfc909652fc0b4ad0a5840",
+    "sha256": "11ca38f863056b704487b839dfa6641f19eb06f86516182f69986488015fefbd",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 249472,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.002677197405405063,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/four-refreshed-project-logos/Whizlume.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/e34afa25211f-Whizlume.png",
+    "theme": "Whizlume",
+    "sourceSha256": "abe4bc739e1fb6d88b670f5576f88502a25ca258553d7263e6f0a8bbce961836",
+    "sha256": "851b4268e2ea39468f2fe720bbaea4650ed3a809d6b7cc2ace7cd07a39e29627",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 193093,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0019789761819443696,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Infinote-branding/Infinote-app-icon-180.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/83a0c990a20d-Infinote-app-icon-180.png",
+    "theme": "Infinote",
+    "sourceSha256": "9aeb803634e90055af4290eab688428432d19a82e79c9d1d449a4012279f5893",
+    "sha256": "e09baa7a8d6f482154b01b979b213a08951c1a4b91cf957fa3b2bec8873deada",
+    "width": 180,
+    "height": 180,
+    "stats": {
+      "changedPixels": 31851,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0006961036901796253,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Infinote-branding/Infinote-app-icon-192.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/b3d8532c6db2-Infinote-app-icon-192.png",
+    "theme": "Infinote",
+    "sourceSha256": "2bf62575c567e56ef04fc9c8da88841af0778aff673da0f6e04cfb760b6d83f6",
+    "sha256": "b7ea834b53648038e81f0d99fa0733bb51f8468e1784a72df4b72252d89b480f",
+    "width": 192,
+    "height": 192,
+    "stats": {
+      "changedPixels": 36226,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0006961036901796253,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Infinote-branding/Infinote-app-icon-32.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/906fe9f50642-Infinote-app-icon-32.png",
+    "theme": "Infinote",
+    "sourceSha256": "3a7a9a024ae5c1f1f3e77d7026139d020e7c919ae48e0102d40f58a2e73463e1",
+    "sha256": "5875be481be4122a8862b209f1733b8e5ea28dd8b650b543cb19df6b6a805008",
+    "width": 32,
+    "height": 32,
+    "stats": {
+      "changedPixels": 957,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0007020573123523999,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Infinote-branding/Infinote-app-icon-512.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/15ef6823a4d5-Infinote-app-icon-512.png",
+    "theme": "Infinote",
+    "sourceSha256": "164d383d3608187e5688abcf5ac5bb7ad31da88d7b95ac53a7c852510baff046",
+    "sha256": "be9395ac29bf004741e75d10f3c9fcabb984c4e5ac5ad63c2fcaa8a2f40ae0f2",
+    "width": 512,
+    "height": 512,
+    "stats": {
+      "changedPixels": 260215,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0007267143613641502,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Infinote-branding/Infinote-logo-1000px.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/b67778d76c6d-Infinote-logo-1000px.png",
+    "theme": "Infinote",
+    "sourceSha256": "dc9bc6c085dc510e619a966ac05663ae1c604e0cf99dccd9f3036299e20d9641",
+    "sha256": "8308dbacf646e87a7989ec0d6770e6b3309fc888827ac19eba5b3f2d1fb18d49",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 996967,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Infinote-branding/Infinote-wordmark-transparent.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/d4caf80f845a-Infinote-wordmark-transparent.png",
+    "theme": "Infinote",
+    "sourceSha256": "a63164d9cc25a42e4836d56e6ca5e1778950ca5f763310f451ac6d4917d4898e",
+    "sha256": "b5685cc9b7c68525a70cdcf01e3c7b2f51df911b998ec5ea6e82360192192bd0",
+    "width": 744,
+    "height": 178,
+    "stats": {
+      "changedPixels": 36676,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Strivaro-Brand/Strivaro-App-Icon-1000x1000-Transparent.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/776708fbf1f8-Strivaro-App-Icon-1000x1000-Transparent.png",
+    "theme": "Strivaro",
+    "sourceSha256": "acd4476edc42fcb8851ecebbdb88b2ab21ede7353076bf1c5ed609043c2dc0cd",
+    "sha256": "326856ff45ca67c10d36676bea29716e9876bbaa126b08769a2c304b8209dfa6",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 393710,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.002948486816629181,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Strivaro-Brand/Strivaro-Logo-1000x1000-Transparent.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/b224fd7934be-Strivaro-Logo-1000x1000-Transparent.png",
+    "theme": "Strivaro",
+    "sourceSha256": "4f47aafb5a23201a625f12c7da16d84a7e30badde23a6112c0a273d807bc5db2",
+    "sha256": "4cb0702f3b69812591ec5c1ab41dc1bcd98a68b4085ebdaaee767798335b986d",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 131638,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.002882918570917492,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Strivaro-Brand/Strivaro-Logo-White-1000x1000-Transparent.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/9b763f5999dc-Strivaro-Logo-White-1000x1000-Transparent.png",
+    "theme": "Strivaro",
+    "sourceSha256": "e8b5f22eb8830318d73ce4314f687a004984145c8a59dfb9041859bcba59289b",
+    "sha256": "76175c29399c04cfae8695a4121eb1f6fb4c21a4fddba6650bce53e73be0d22e",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 138772,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.002882918570917492,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/AxoraBid-Brand/AxoraBid-App-Icon-1000x1000-Transparent.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/4da20da287c9-AxoraBid-App-Icon-1000x1000-Transparent.png",
+    "theme": "AxoraBid",
+    "sourceSha256": "8feadb3b8bfb46ae4729c864ed3264a164e35ab5e7126e527592c661be67020a",
+    "sha256": "a51df91911dd1a95f98f30cbb25834f353eb54a79022ca81f0c13694274f123c",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 332238,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.001140464521475315,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/AxoraBid-Brand/AxoraBid-Logo-1000x1000-Transparent.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/4901cd25a261-AxoraBid-Logo-1000x1000-Transparent.png",
+    "theme": "AxoraBid",
+    "sourceSha256": "581902cc2d7f2696f82bc5372d68aa2b2b884943a1777380428700f092daf76e",
+    "sha256": "9df5cb394f917790e9f35f461f5b8d62fa28209219dde493cafd7308dcbacb17",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 49403,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0010239096244395174,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/AxoraBid-Brand/AxoraBid-Logo-White-1000x1000-Transparent.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/17c55b06145e-AxoraBid-Logo-White-1000x1000-Transparent.png",
+    "theme": "AxoraBid",
+    "sourceSha256": "9ef3f98e4383a6ad541f20ef48329a0c8e063af94898fd4c2ff59a02e3537de1",
+    "sha256": "11bdbecc190a889287d25b5702efbde39c655037db8051b6b297796a780978bb",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 50539,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Calivora-Brand/Calivora-Logo-1000x1000-Transparent.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/a31e11a248f6-Calivora-Logo-1000x1000-Transparent.png",
+    "theme": "Calivora",
+    "sourceSha256": "0e67bcb5d5cbe58ebd6a101f0dd5cb7d39a360c12d6052fc1b4269eb0e2c862d",
+    "sha256": "bbfd3efa7e144e3e72efe87d6ebe5e4abe508ad06745c4cb193c4f3fc25eb736",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 151912,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003130216507284067,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Calivora-Brand/Calivora-Logo-White-1000x1000-Transparent.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/bfbc958ea6be-Calivora-Logo-White-1000x1000-Transparent.png",
+    "theme": "Calivora",
+    "sourceSha256": "240412f37e86fe41e023a2e0e8dba111feccc9c502ef144756fb4088c99364e7",
+    "sha256": "e4a57a27b56b6056c1583854378713080fb6e573bfb9b02f348188fb08ccd5b5",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 153355,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003130216507284067,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Calivora-Brand/Calivora-Symbol-1000x1000-Transparent.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/5c8bbd349398-Calivora-Symbol-1000x1000-Transparent.png",
+    "theme": "Calivora",
+    "sourceSha256": "81cab9d2a34f791167013a8e4437147c0a294e9a09a0d99b9993e1bc2b4d86dc",
+    "sha256": "99a287d65deec7661cfd7c423a2932c55d8424dce4012ce896f2b1b900e388c9",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 461918,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003130216507284067,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos/EStrata.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/1d46c7dd70bc-EStrata.png",
+    "theme": "EStrata",
+    "sourceSha256": "289dbb8e9cdcc8837ea2d25ba0261c8bd3009fc78ae5172a47c93b5625aba4a5",
+    "sha256": "0b9f7aed793f589d7309650c4cc164c23e4b5919738d084dcd9159a27419c8e0",
+    "width": 225,
+    "height": 62,
+    "stats": {
+      "changedPixels": 1463,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0036003750480113617,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos/HabitStride.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/396a07ca8f02-HabitStride.png",
+    "theme": "HabitStride",
+    "sourceSha256": "3636c02bf56a05d736e3237e5c8f5b2da1cc0c566834e1579a755c04bc989db4",
+    "sha256": "32f202e59f9b6a8bf181df54f5d12511e6d05259004276dc61e4a9f4e21ad74c",
+    "width": 159,
+    "height": 226,
+    "stats": {
+      "changedPixels": 5577,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0036394979439482444,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos/LeadForma.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/33e8fb64d241-LeadForma.png",
+    "theme": "LeadForma",
+    "sourceSha256": "e1de04e7c591358a9e33b5ee42f3ebbe8650fd9b9b826bbfdda8d5cc359bc43c",
+    "sha256": "6be67b8c3dfae4e08b7d55df4c85b146f0ea13a4f251a4ecbb8d6694111d7a6a",
+    "width": 629,
+    "height": 97,
+    "stats": {
+      "changedPixels": 16030,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.002923832812708249,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos/PantryOne.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/837e265bb648-PantryOne.png",
+    "theme": "PantryOne",
+    "sourceSha256": "2f9d66daf75b85326a4f716eda38a4f475c6c502ca2181967903d041567e7a19",
+    "sha256": "1ddca92c15ed7c9a6b2cd286ec517ad73b734219963c1a154dffa1eaee96d18f",
+    "width": 270,
+    "height": 270,
+    "stats": {
+      "changedPixels": 39264,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003922053276446347,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos/ParaNest.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/5d7edd483092-ParaNest.png",
+    "theme": "ParaNest",
+    "sourceSha256": "485703968e2afdbca465b8687d075879d9618aa1de83b2e5e3f69b3a5794c915",
+    "sha256": "21d5cd85908fdfac49e2e29e93989d66e878ecb594f8552a20c37ac549596092",
+    "width": 202,
+    "height": 43,
+    "stats": {
+      "changedPixels": 33,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos/RallyBridge.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/481d77e47e8e-RallyBridge.png",
+    "theme": "RallyBridge",
+    "sourceSha256": "a2991f903cf4b427e3589f3c888954cadbda72037429504e825525c372a04a7f",
+    "sha256": "2666331c08b8d770e861e9ebc5e96fb7957b4d72aa4933322054a49e0c56322c",
+    "width": 188,
+    "height": 85,
+    "stats": {
+      "changedPixels": 1944,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0024540212135427675,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos/SilaFlow.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/7859c0e25208-SilaFlow.png",
+    "theme": "SilaFlow",
+    "sourceSha256": "2d5efa74b97567aab59f9685551f298b2baff2877b6fa1d761a6cf30995c97d3",
+    "sha256": "232814b36d0e35168a3a06fc01ee87f260ffef66c0dac88a5ee3462185e56d3b",
+    "width": 290,
+    "height": 81,
+    "stats": {
+      "changedPixels": 532,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003236798500988236,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos/SimplyScouted.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/4b5fb24f8504-SimplyScouted.png",
+    "theme": "SimplyScouted",
+    "sourceSha256": "3888a36badceee5bf5c47cb846abe57cd3fe87005e7320984bb73c9430c2632a",
+    "sha256": "5ef209dbb4da4cfcd9190cd0734aff3b6653162d32f38850b2950c422c4c0b8c",
+    "width": 350,
+    "height": 59,
+    "stats": {
+      "changedPixels": 5514,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos/StreamDexa.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/ceff75e2a23e-StreamDexa.png",
+    "theme": "StreamDexa",
+    "sourceSha256": "55fbe5170a3493784ae190f50d5945ce1c1fb5774b52aa7700cf8a2c935f7ad3",
+    "sha256": "a021222e7c7a11e3c3d922ef15e74a0381666d488a821bfd77d294027d76e0a9",
+    "width": 190,
+    "height": 59,
+    "stats": {
+      "changedPixels": 2461,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003404418511431362,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos/StreetSlate.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/a4966443c246-StreetSlate.png",
+    "theme": "StreetSlate",
+    "sourceSha256": "f5ebfd256a7c33bf2ae69ce8ec9e5059a6efda95b253724e7242e91e1679a108",
+    "sha256": "7acfc9d38c8f0ba75b392c0e6255b9493e5fbd9f6565b9063d64ebb52066aec8",
+    "width": 356,
+    "height": 361,
+    "stats": {
+      "changedPixels": 31654,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0025846888165959037,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos-1000px/EStrata.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/405f403669d9-EStrata.png",
+    "theme": "EStrata",
+    "sourceSha256": "d4a3570bb77fe63f6691aadb10310042c32f83705617c26139f7f511cb525500",
+    "sha256": "cf400925700e82a30bf3130899502c811b290d90c8d4717d9a4d223f8c75244c",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 29444,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0038100790735908774,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos-1000px/HabitStride.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/e8b184fdb830-HabitStride.png",
+    "theme": "HabitStride",
+    "sourceSha256": "3c8ec8c7c385273fa9cbd48ec0e1cc7b611405dcceebe42b48dc43a3e47c1754",
+    "sha256": "b821aac665f4750cc7b09b3e570f198c5b46d7f51cbb0918600c3e7151929ac6",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 97791,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0036394979439482444,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos-1000px/LeadForma.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/8e806d36ba2f-LeadForma.png",
+    "theme": "LeadForma",
+    "sourceSha256": "f4f9a31b09263617c57dd3e595cb3d4ce032d6a33189f215c0c4f0d1e44a12c7",
+    "sha256": "e5be59f862d9df04f263e3d3054c86b8586c21ecad37739c6bde656c901abcee",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 31997,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0037874420947020537,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos-1000px/PantryOne.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/b2596ef4e428-PantryOne.png",
+    "theme": "PantryOne",
+    "sourceSha256": "9c63714f47b35c690b7505f615cedc6dada339d4f30506cd7acc1f6282be4e24",
+    "sha256": "71d027f8d49387cc9d0c1e0cfd83472b0c58827859a06f5d838e587739aa3c97",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 410172,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003982654745592451,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos-1000px/ParaNest.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/d463f89ca43c-ParaNest.png",
+    "theme": "ParaNest",
+    "sourceSha256": "1f8b34ef412759b5900d4520d2d4b8bcb5b7fae6d6aa809958b40fb7c9ec4e47",
+    "sha256": "354e7a682ce0e33fa6b7dc505e35aae55a8e9ea8c176dcdb6fa2f8e3badd94d4",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 5043,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos-1000px/RallyBridge.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/50ed77d99299-RallyBridge.png",
+    "theme": "RallyBridge",
+    "sourceSha256": "4ee0cd58a26658440ba4d0ba33271a247a3cbfa44d3847808027bdc2d30587b7",
+    "sha256": "edeb7b30266bba17660e6c4af6f76a38f98ea05def7c6124ed60560ad4b8ce32",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 54843,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.002712829270647421,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos-1000px/SilaFlow.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/607961b323b3-SilaFlow.png",
+    "theme": "SilaFlow",
+    "sourceSha256": "a439677f2c364d456e754e771c1f8e4b81e142f8caf6d3be8e2cbf8c808dfc92",
+    "sha256": "f3dc9bc018b8d37a4f5ee90495d66cdfde65b4fe68217abb57f8c6197d52b415",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 6776,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0038995249524871323,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos-1000px/SimplyScouted.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/c782bd776b4e-SimplyScouted.png",
+    "theme": "SimplyScouted",
+    "sourceSha256": "6a6bf4f610484ccb9b31ba90d57b84524cdf7bcca0e69ebb9116d37bfc4e57d4",
+    "sha256": "2b3f872eb3df2769512cbe7b222afa551957c48829b1fcc7982d60610dc61618",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 38341,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos-1000px/StreamDexa.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/3fe4d6fcc3fe-StreamDexa.png",
+    "theme": "StreamDexa",
+    "sourceSha256": "cec28d7b02737333b8a3a5c0e2b147551c0037d2d349d453cecdd6357dc4b525",
+    "sha256": "5862819fcb40f4908b5df4d98489a7b535437fe591aefa1e0a5a867f20725f36",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 63243,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003966365683318318,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/updated-project-logos-1000px/StreetSlate.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/956d481934a2-StreetSlate.png",
+    "theme": "StreetSlate",
+    "sourceSha256": "05c77cbe737d416cdeedf0e1d59213e2654ed3ca1e332ec240797aaab745e2d0",
+    "sha256": "55a0cd8ba021dbbe073a9ef35e77489db28f09a591d2b7123a84f88a7ee435c5",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 192707,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.00267734993728308,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Clarigo-Project-Logos-1000x1000/updated-project-logos-1000px/EStrata.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/b2691cac2c8a-EStrata.png",
+    "theme": "EStrata",
+    "sourceSha256": "d4a3570bb77fe63f6691aadb10310042c32f83705617c26139f7f511cb525500",
+    "sha256": "cf400925700e82a30bf3130899502c811b290d90c8d4717d9a4d223f8c75244c",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 29444,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0038100790735908774,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Clarigo-Project-Logos-1000x1000/updated-project-logos-1000px/HabitStride.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/47eb6d026c67-HabitStride.png",
+    "theme": "HabitStride",
+    "sourceSha256": "3c8ec8c7c385273fa9cbd48ec0e1cc7b611405dcceebe42b48dc43a3e47c1754",
+    "sha256": "b821aac665f4750cc7b09b3e570f198c5b46d7f51cbb0918600c3e7151929ac6",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 97791,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0036394979439482444,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Clarigo-Project-Logos-1000x1000/updated-project-logos-1000px/LeadForma.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/79323f15d5f4-LeadForma.png",
+    "theme": "LeadForma",
+    "sourceSha256": "f4f9a31b09263617c57dd3e595cb3d4ce032d6a33189f215c0c4f0d1e44a12c7",
+    "sha256": "e5be59f862d9df04f263e3d3054c86b8586c21ecad37739c6bde656c901abcee",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 31997,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0037874420947020537,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Clarigo-Project-Logos-1000x1000/updated-project-logos-1000px/PantryOne.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/c6c2b6c73af7-PantryOne.png",
+    "theme": "PantryOne",
+    "sourceSha256": "9c63714f47b35c690b7505f615cedc6dada339d4f30506cd7acc1f6282be4e24",
+    "sha256": "71d027f8d49387cc9d0c1e0cfd83472b0c58827859a06f5d838e587739aa3c97",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 410172,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003982654745592451,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Clarigo-Project-Logos-1000x1000/updated-project-logos-1000px/ParaNest.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/1379856b5bed-ParaNest.png",
+    "theme": "ParaNest",
+    "sourceSha256": "1f8b34ef412759b5900d4520d2d4b8bcb5b7fae6d6aa809958b40fb7c9ec4e47",
+    "sha256": "354e7a682ce0e33fa6b7dc505e35aae55a8e9ea8c176dcdb6fa2f8e3badd94d4",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 5043,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Clarigo-Project-Logos-1000x1000/updated-project-logos-1000px/RallyBridge.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/7281b14edcda-RallyBridge.png",
+    "theme": "RallyBridge",
+    "sourceSha256": "4ee0cd58a26658440ba4d0ba33271a247a3cbfa44d3847808027bdc2d30587b7",
+    "sha256": "edeb7b30266bba17660e6c4af6f76a38f98ea05def7c6124ed60560ad4b8ce32",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 54843,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.002712829270647421,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Clarigo-Project-Logos-1000x1000/updated-project-logos-1000px/SilaFlow.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/ce8a2e7c3ceb-SilaFlow.png",
+    "theme": "SilaFlow",
+    "sourceSha256": "a439677f2c364d456e754e771c1f8e4b81e142f8caf6d3be8e2cbf8c808dfc92",
+    "sha256": "f3dc9bc018b8d37a4f5ee90495d66cdfde65b4fe68217abb57f8c6197d52b415",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 6776,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.0038995249524871323,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Clarigo-Project-Logos-1000x1000/updated-project-logos-1000px/SimplyScouted.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/416d76b7f2ed-SimplyScouted.png",
+    "theme": "SimplyScouted",
+    "sourceSha256": "6a6bf4f610484ccb9b31ba90d57b84524cdf7bcca0e69ebb9116d37bfc4e57d4",
+    "sha256": "2b3f872eb3df2769512cbe7b222afa551957c48829b1fcc7982d60610dc61618",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 38341,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Clarigo-Project-Logos-1000x1000/updated-project-logos-1000px/StreamDexa.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/858d44a5b7fc-StreamDexa.png",
+    "theme": "StreamDexa",
+    "sourceSha256": "cec28d7b02737333b8a3a5c0e2b147551c0037d2d349d453cecdd6357dc4b525",
+    "sha256": "5862819fcb40f4908b5df4d98489a7b535437fe591aefa1e0a5a867f20725f36",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 63243,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003966365683318318,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "file": "exports/Clarigo-Project-Logos-1000x1000/updated-project-logos-1000px/StreetSlate.png",
+    "beforeFile": "audit/color-theme-refresh-2026-11-12/before/exports/f5c4bddf9e42-StreetSlate.png",
+    "theme": "StreetSlate",
+    "sourceSha256": "05c77cbe737d416cdeedf0e1d59213e2654ed3ca1e332ec240797aaab745e2d0",
+    "sha256": "55a0cd8ba021dbbe073a9ef35e77489db28f09a591d2b7123a84f88a7ee435c5",
+    "width": 1000,
+    "height": 1000,
+    "stats": {
+      "changedPixels": 192707,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.00267734993728308,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "existingProjectsUnchanged": 47,
+  "originalUploadsUnchanged": 14,
+  "publishedAssetsOcrChecked": 14,
+  "oldBrandFound": false,
+  "brandingRegionChecks": 14,
+  "pngs": [
+    {
+      "file": "Calivora-Logo-1000x1000-Transparent.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true
+    },
+    {
+      "file": "Calivora-Logo-White-1000x1000-Transparent.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true
+    },
+    {
+      "file": "Calivora-Symbol-1000x1000-Transparent.png",
+      "width": 1000,
+      "height": 1000,
+      "transparent": true
+    }
+  ]
+}

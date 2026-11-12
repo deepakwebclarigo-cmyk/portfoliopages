@@ -1,9 +1,14 @@
 ﻿import fs from 'node:fs/promises';import crypto from 'node:crypto';import sharp from 'sharp';
 const dir='audit/thumbnail-system-2026-11-12',read=async f=>JSON.parse(await fs.readFile(f,'utf8')),inv=await read('lib/project-inventory.json'),thumbs=await read('lib/project-thumbnails.json'),records=await read(dir+'/rendered-thumbnails.json'),before=await read(dir+'/assets-before.json'),assets=await read('lib/project-assets.json'),hash=b=>crypto.createHash('sha256').update(b).digest('hex');
 const errors=[];let decoded=0,exported=0,totalCardBytes=0;
+let paletteChanges=[];try{paletteChanges=await read('audit/color-theme-refresh-2026-11-12/applied-images.json');}catch(e){if(e.code!=='ENOENT')throw e;}
+const paletteMap=new Map(paletteChanges.map(r=>[r.old.src,r.asset]));
+function expectedPalette(value){if(Array.isArray(value))return value.map(expectedPalette);if(value&&typeof value==='object'){const replacement=paletteMap.get(value.src);return replacement??Object.fromEntries(Object.entries(value).map(([k,v])=>[k,expectedPalette(v)]));}return value;}
 const existingArtworkUnchanged=Object.entries(before).every(([slug,set])=>JSON.stringify(set)===JSON.stringify(assets[slug]));
-if(!existingArtworkUnchanged)errors.push('Existing detail artwork manifest changed.');
-const previousInventory=await read(dir+'/inventory-before.json'),existingInventoryUnchanged=previousInventory.every((item,index)=>JSON.stringify(item)===JSON.stringify(inv[index]));
+const approvedPaletteArtwork=Object.entries(before).every(([slug,set])=>JSON.stringify(expectedPalette(set))===JSON.stringify(assets[slug]));
+if(!existingArtworkUnchanged&&!approvedPaletteArtwork)errors.push('Detail artwork differs outside the documented palette refresh.');
+for(const r of paletteChanges){if(hash(await fs.readFile('public'+r.old.src))!==r.old.sha256)errors.push('Original palette source was modified: '+r.old.src);}
+const previousInventory=await read(dir+'/inventory-before.json'),existingInventoryUnchanged=previousInventory.every((item,index)=>JSON.stringify({...item,image:paletteMap.get(item.image)?.src??item.image})===JSON.stringify(inv[index]));
 if(!existingInventoryUnchanged)errors.push('Existing inventory entries changed.');
 if(Object.keys(thumbs).length!==inv.length)errors.push('Thumbnail count differs from inventory.');
 for(const p of inv){
@@ -15,6 +20,6 @@ for(const p of inv){
  const own=[assets[p.slug].poster,...assets[p.slug].images];for(const source of r.sourceRefs){const a=own.find(a=>a.src===source.src);if(!a||a.sha256!==source.sha256||hash(await fs.readFile('public'+source.src))!==source.sha256)errors.push('Source ownership differs: '+p.slug);}
  if(!r.fit.titleFits||!r.fit.images)errors.push('Layout fit failed '+p.slug);totalCardBytes+=t.card.bytes;
 }
-const report={projects:inv.length,web:inv.filter(p=>p.kind==='web').length,mobile:inv.filter(p=>p.kind==='mobile').length,decodedWebpVariants:decoded,verifiedPngExports:exported,existingDetailArtworkUnchanged:existingArtworkUnchanged,existingInventoryUnchanged,canvas:[1600,1325],widths:[720,960,1600],averageCardKB:Math.round(totalCardBytes/inv.length/1024*10)/10,errors};
+const report={projects:inv.length,web:inv.filter(p=>p.kind==='web').length,mobile:inv.filter(p=>p.kind==='mobile').length,decodedWebpVariants:decoded,verifiedPngExports:exported,existingDetailArtworkUnchanged:existingArtworkUnchanged,approvedPaletteArtwork,documentedColorUpdates:paletteChanges.length,existingInventoryUnchanged,canvas:[1600,1325],widths:[720,960,1600],averageCardKB:Math.round(totalCardBytes/inv.length/1024*10)/10,errors};
 await fs.writeFile(dir+'/asset-verification.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report));if(errors.length)process.exitCode=1;
 

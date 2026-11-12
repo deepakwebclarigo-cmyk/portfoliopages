@@ -1,4 +1,5 @@
 import inventory from './project-inventory.json';
+import themePalettes from './project-themes.json';
 import assets from './project-assets.json';
 import thumbnails from './project-thumbnails.json';
 import { projectContent } from './project-content';
@@ -54,7 +55,7 @@ export const projects: Project[] = inventory.map((item) => {
     rebranded: 'rebranded' in item && Boolean(item.rebranded),
     legacy: item.page ? host + '/landing%20page/' + encodeURIComponent(item.page) : undefined,
     summary: content.summary, headline: content.headline, discipline: content.discipline,
-    accent: colors[item.slug] ?? '#ececf2', note: content.note,
+    accent: (themePalettes as Record<string, { surface: string }>)[item.slug]?.surface ?? colors[item.slug] ?? '#ececf2', note: content.note,
   };
 });
 export const webProjects = projects.filter((project) => project.kind === 'web');

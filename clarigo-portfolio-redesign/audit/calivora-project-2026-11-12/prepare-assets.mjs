@@ -5,7 +5,7 @@ import sharp from 'sharp';
 const d='audit/calivora-project-2026-11-12',brand='public/images/brand/projects',exp='exports/Calivora-Brand';
 const hash=b=>crypto.createHash('sha256').update(b).digest('hex');
 await fs.mkdir(d+'/branded-png',{recursive:true});await fs.mkdir(brand,{recursive:true});await fs.mkdir(exp,{recursive:true});
-const source=await fs.readFile(d+'/logo-generated.png'),geo=JSON.parse(await fs.readFile(d+'/logo-geometry.json','utf8'));
+const source=await fs.readFile(d+'/logo-clean.png'),geo=JSON.parse(await fs.readFile(d+'/logo-geometry.json','utf8'));
 const iconExtract=await sharp(source).extract({left:0,top:0,width:geo.width,height:geo.wordmarkTop-8}).png().toBuffer();
 const wordExtract=await sharp(source).extract({left:0,top:geo.wordmarkTop-2,width:geo.width,height:geo.height-geo.wordmarkTop+2}).png().toBuffer();
 const icon=await sharp(iconExtract).trim().png().toBuffer(),word=await sharp(wordExtract).trim().png().toBuffer();

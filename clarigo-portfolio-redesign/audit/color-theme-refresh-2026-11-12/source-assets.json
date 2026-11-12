@@ -1,0 +1,1434 @@
+[
+  {
+    "slug": "streamdexa",
+    "src": "/images/projects/streamdexa-preview-06a41782d5.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/streamdexa-preview-06a41782d5.webp",
+    "sha256": "06a41782d57a3abfd3b73b07f1f8f9288cb3e4caccaedbee8fa009c0dcd305e5",
+    "width": 1600,
+    "height": 1334
+  },
+  {
+    "slug": "streamdexa",
+    "src": "/images/projects/streamdexa-artwork-c40cba764a.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/streamdexa-artwork-c40cba764a.webp",
+    "sha256": "c40cba764af0fa8d210c0e7938fc4ac58a98275ba6aa2e95bd762a99bb32b0a0",
+    "width": 1600,
+    "height": 1325
+  },
+  {
+    "slug": "streamdexa",
+    "src": "/images/projects/streamdexa-artwork-126bbd8a91.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/streamdexa-artwork-126bbd8a91.webp",
+    "sha256": "126bbd8a917f208541f2c6941a5a279d91f5160d1afe54a2199406b6d041c8e2",
+    "width": 1495,
+    "height": 2200
+  },
+  {
+    "slug": "streamdexa",
+    "src": "/images/projects/streamdexa-artwork-7b081649b8.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/streamdexa-artwork-7b081649b8.webp",
+    "sha256": "7b081649b88332eacd73afb2da9241212e57a6de4507c3d07a9cf4a5404b5463",
+    "width": 998,
+    "height": 1273
+  },
+  {
+    "slug": "streamdexa",
+    "src": "/images/projects/streamdexa-artwork-dbdf77ee0f.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/streamdexa-artwork-dbdf77ee0f.webp",
+    "sha256": "dbdf77ee0f23d6187cde6a9b6348930e037146c4858a29dc9cbbba8bd4b1e9fb",
+    "width": 1495,
+    "height": 2200
+  },
+  {
+    "slug": "streamdexa",
+    "src": "/images/projects/streamdexa-artwork-80d8f8e753.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/streamdexa-artwork-80d8f8e753.webp",
+    "sha256": "80d8f8e7531ce30f433c71a5aefa2075d911314eedb17a4c81abadb5a816ba7e",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "streamdexa",
+    "src": "/images/projects/streamdexa-artwork-58c083c4ff.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/streamdexa-artwork-58c083c4ff.webp",
+    "sha256": "58c083c4fff1180a2ea5b7c994f25b14b215f632c65626bc66e98d4c9f10efef",
+    "width": 1495,
+    "height": 2200
+  },
+  {
+    "slug": "streamdexa",
+    "src": "/images/projects/streamdexa-artwork-a19c505060.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/streamdexa-artwork-a19c505060.webp",
+    "sha256": "a19c50506082345a82a8b79a645143a7c7caf7e70ad98d7db52741b7ed935f4c",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "streamdexa",
+    "src": "/images/projects/streamdexa-artwork-6ad4d373a2.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/streamdexa-artwork-6ad4d373a2.webp",
+    "sha256": "6ad4d373a20a1e385cf05a0028d640162d36ea713c9242ae95c03b55e16d3ebf",
+    "width": 1493,
+    "height": 2200
+  },
+  {
+    "slug": "tukora-connect",
+    "src": "/images/projects/tukora-connect-preview-4ba2862610.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/tukora-connect-preview-4ba2862610.webp",
+    "sha256": "4ba28626107f74b74271d00348221fb7cb87c4cf66881b7f517aa2cb1232c1f4",
+    "width": 1600,
+    "height": 1334
+  },
+  {
+    "slug": "tukora-connect",
+    "src": "/images/projects/tukora-connect-artwork-14528bb352.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/tukora-connect-artwork-14528bb352.webp",
+    "sha256": "14528bb352cfb3629223e39e55ec6ceec20b8d9aa808edc58f90e93952174f0f",
+    "width": 1600,
+    "height": 1326
+  },
+  {
+    "slug": "tukora-connect",
+    "src": "/images/projects/tukora-connect-artwork-8c8519b14f.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/tukora-connect-artwork-8c8519b14f.webp",
+    "sha256": "8c8519b14fd1774b082bce54840fd89481a4181d767c7654127fa1d6ead66603",
+    "width": 1495,
+    "height": 2200
+  },
+  {
+    "slug": "tukora-connect",
+    "src": "/images/projects/tukora-connect-artwork-162b001d81.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/tukora-connect-artwork-162b001d81.webp",
+    "sha256": "162b001d8155aa7bc2b6f54f70216a523b80e1d0a30b2e0df2e724937eb6129d",
+    "width": 999,
+    "height": 1273
+  },
+  {
+    "slug": "tukora-connect",
+    "src": "/images/projects/tukora-connect-artwork-8661c74bc4.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/tukora-connect-artwork-8661c74bc4.webp",
+    "sha256": "8661c74bc43450046515b954f5cbe2106c1ba79cb018d08f593f26290f88d5c8",
+    "width": 1495,
+    "height": 2200
+  },
+  {
+    "slug": "tukora-connect",
+    "src": "/images/projects/tukora-connect-artwork-a0a08bf012.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/tukora-connect-artwork-a0a08bf012.webp",
+    "sha256": "a0a08bf01217f77c3cefc71429729af3c17d649430a4eb418c04d35ad1f18d24",
+    "width": 1495,
+    "height": 2200
+  },
+  {
+    "slug": "tukora-connect",
+    "src": "/images/projects/tukora-connect-artwork-2b0d330d36.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/tukora-connect-artwork-2b0d330d36.webp",
+    "sha256": "2b0d330d36003bcad6af4a4670a52b339c7a1a43275feb183ffc03e11fd28466",
+    "width": 1495,
+    "height": 2200
+  },
+  {
+    "slug": "tukora-connect",
+    "src": "/images/projects/tukora-connect-artwork-7170d71d4c.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/tukora-connect-artwork-7170d71d4c.webp",
+    "sha256": "7170d71d4ce8f4c192eef3fa11f5860c2842730c7976a45b208f83f01b214a97",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "tukora-connect",
+    "src": "/images/projects/tukora-connect-artwork-6c87fc750e.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/tukora-connect-artwork-6c87fc750e.webp",
+    "sha256": "6c87fc750e42454c6dda7b517ef2a7ec32083d72ba21ae1f68a23993b6637925",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "paranest",
+    "src": "/images/projects/paranest-preview-eea8a9ab8f.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/paranest-preview-eea8a9ab8f.webp",
+    "sha256": "eea8a9ab8ff57f9fd6e7ff1f09251f96be6f46901aed2362a6f63f12e805d451",
+    "width": 1501,
+    "height": 1232
+  },
+  {
+    "slug": "paranest",
+    "src": "/images/projects/paranest-artwork-3dcf825fe0.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/paranest-artwork-3dcf825fe0.webp",
+    "sha256": "3dcf825fe0b5270fbabb4e229d0df68c9b79b48c6f4f433c07efaf8d0318fd32",
+    "width": 1600,
+    "height": 1325
+  },
+  {
+    "slug": "paranest",
+    "src": "/images/projects/paranest-artwork-f0ffbce793.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/paranest-artwork-f0ffbce793.webp",
+    "sha256": "f0ffbce793af19d8f3e1a9463e4df5d41d53fd41157bd921343cf5b5d591d0a4",
+    "width": 1495,
+    "height": 2200
+  },
+  {
+    "slug": "paranest",
+    "src": "/images/projects/paranest-artwork-3957f4c7bc.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/paranest-artwork-3957f4c7bc.webp",
+    "sha256": "3957f4c7bcbd017c40a0c5a64c269f956d8f084556e8187b6da4d9aa0fb4d7e5",
+    "width": 999,
+    "height": 1273
+  },
+  {
+    "slug": "paranest",
+    "src": "/images/projects/paranest-artwork-c7a5793af5.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/paranest-artwork-c7a5793af5.webp",
+    "sha256": "c7a5793af5730684320da525a29162557af5bc205e974f9e4412fe10db656360",
+    "width": 1495,
+    "height": 2200
+  },
+  {
+    "slug": "paranest",
+    "src": "/images/projects/paranest-artwork-67af09f40d.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/paranest-artwork-67af09f40d.webp",
+    "sha256": "67af09f40d83511c3196aa0403bab142dae0f13429eec02e28b4d1e3ba5c5be7",
+    "width": 1495,
+    "height": 2200
+  },
+  {
+    "slug": "paranest",
+    "src": "/images/projects/paranest-artwork-e4ab6596ff.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/paranest-artwork-e4ab6596ff.webp",
+    "sha256": "e4ab6596ffb22b3a1191f639ef3a24b19a07f438e486da44ac9b637e10598eb1",
+    "width": 1495,
+    "height": 2200
+  },
+  {
+    "slug": "paranest",
+    "src": "/images/projects/paranest-artwork-b14efb60b7.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/paranest-artwork-b14efb60b7.webp",
+    "sha256": "b14efb60b782614898936751a820d755e8cc23b659b081514d9d2f8f7c5c7f2d",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "paranest",
+    "src": "/images/projects/paranest-artwork-d3c8e0705a.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/paranest-artwork-d3c8e0705a.webp",
+    "sha256": "d3c8e0705afdda51b599ff54bfd3d6125779fbbe62324357218d6c1645af7ed6",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "alumvia",
+    "src": "/images/projects/alumvia-preview-ac91e561df.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/alumvia-preview-ac91e561df.webp",
+    "sha256": "ac91e561dff45a22c25b5dc06637a261b006aa909d2cf968625581ff3083d395",
+    "width": 1456,
+    "height": 1232
+  },
+  {
+    "slug": "alumvia",
+    "src": "/images/projects/alumvia-artwork-952dc52187.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/alumvia-artwork-952dc52187.webp",
+    "sha256": "952dc52187c68c473f9b838b1ccda8b2a4417654595e50c255f97501c06ecef8",
+    "width": 1600,
+    "height": 1326
+  },
+  {
+    "slug": "alumvia",
+    "src": "/images/projects/alumvia-artwork-dcee8e7996.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/alumvia-artwork-dcee8e7996.webp",
+    "sha256": "dcee8e7996c37f6b9a0a04990833e49ebe6510faa3d4e0f31360c2b7f5650cd6",
+    "width": 1495,
+    "height": 2200
+  },
+  {
+    "slug": "alumvia",
+    "src": "/images/projects/alumvia-artwork-bd1dcafa55.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/alumvia-artwork-bd1dcafa55.webp",
+    "sha256": "bd1dcafa5585c56b0533cd7b6f088d487e0873fc7244caabeab084ba5561638f",
+    "width": 1495,
+    "height": 2200
+  },
+  {
+    "slug": "alumvia",
+    "src": "/images/projects/alumvia-artwork-6e07d2b07a.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/alumvia-artwork-6e07d2b07a.webp",
+    "sha256": "6e07d2b07adb511ac53204d6e4a94f2f4adbc41e68872c09535718e4df8dd34a",
+    "width": 1495,
+    "height": 2200
+  },
+  {
+    "slug": "kegeltempo",
+    "src": "/images/projects/kegeltempo-preview-0a208beed8.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/kegeltempo-preview-0a208beed8.webp",
+    "sha256": "0a208beed8f35b1e52ed3b736830de91d8eb8642598452f249fb3afbb4aabde0",
+    "width": 1456,
+    "height": 1232
+  },
+  {
+    "slug": "kegeltempo",
+    "src": "/images/projects/kegeltempo-artwork-40b9d2c293.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/kegeltempo-artwork-40b9d2c293.webp",
+    "sha256": "40b9d2c293a56a3816fd8dc4df25006a72db01ef6b08080ad453e7a325c38822",
+    "width": 1600,
+    "height": 1326
+  },
+  {
+    "slug": "kegeltempo",
+    "src": "/images/projects/kegeltempo-artwork-7d63a2bc3b.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/kegeltempo-artwork-7d63a2bc3b.webp",
+    "sha256": "7d63a2bc3bdb7ed5cd12a0e34204191395f318ccc9823e1adcfbbfb8b8a54691",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "kegeltempo",
+    "src": "/images/projects/kegeltempo-artwork-8f5544605c.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/kegeltempo-artwork-8f5544605c.webp",
+    "sha256": "8f5544605c7210d18e6043b27269124e129ed8cb22a888dd73e2799d8d740f4a",
+    "width": 999,
+    "height": 1274
+  },
+  {
+    "slug": "kegeltempo",
+    "src": "/images/projects/kegeltempo-artwork-c56f400cb3.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/kegeltempo-artwork-c56f400cb3.webp",
+    "sha256": "c56f400cb33f2b285f094c8491c99dd1809941a443413672f76d84c0c2d0d421",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "kegeltempo",
+    "src": "/images/projects/kegeltempo-artwork-94df508de0.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/kegeltempo-artwork-94df508de0.webp",
+    "sha256": "94df508de0965ab29af4f48d7dea5a779ed806db57f0df012fb5e88890764032",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "kegeltempo",
+    "src": "/images/projects/kegeltempo-artwork-d98af26fc4.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/kegeltempo-artwork-d98af26fc4.webp",
+    "sha256": "d98af26fc4c26655919864bd528f3c42cf0e2bd9d4b4466642bd8f14d1d8fa82",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "kegeltempo",
+    "src": "/images/projects/kegeltempo-artwork-e8f2deb77b.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/kegeltempo-artwork-e8f2deb77b.webp",
+    "sha256": "e8f2deb77bbe836e73d49c7dcb5cad55f264649e05fc8be745806d74084ad0d4",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "kegeltempo",
+    "src": "/images/projects/kegeltempo-artwork-572ff1ce7a.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/kegeltempo-artwork-572ff1ce7a.webp",
+    "sha256": "572ff1ce7a6974ee7dc725c7008764966568789a15c48ccb6ac2dfa3be7f1c38",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "rallybridge",
+    "src": "/images/projects/rallybridge-preview-67f205f925.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/rallybridge-preview-67f205f925.webp",
+    "sha256": "67f205f9253822d8337e7f6228a1d8f7032a193d9aa1f9bfefa7c48750ea288d",
+    "width": 1456,
+    "height": 1232
+  },
+  {
+    "slug": "rallybridge",
+    "src": "/images/projects/rallybridge-artwork-43d92ae482.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/rallybridge-artwork-43d92ae482.webp",
+    "sha256": "43d92ae4823561bb8adff1794f3584d0597e615baa3ea5f87cd8cc94e9c0eebd",
+    "width": 1600,
+    "height": 1326
+  },
+  {
+    "slug": "rallybridge",
+    "src": "/images/projects/rallybridge-artwork-d450ef8d25.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/rallybridge-artwork-d450ef8d25.webp",
+    "sha256": "d450ef8d25392a8693cc9e19c4527d1eb02324c2fd83903dcc3dc2250d7abbc6",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "rallybridge",
+    "src": "/images/projects/rallybridge-artwork-77b7ff467e.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/rallybridge-artwork-77b7ff467e.webp",
+    "sha256": "77b7ff467e51d3fc665c0bec46a3dc96c9a2e6624c3faa234d04371d9fc2eaf1",
+    "width": 999,
+    "height": 1274
+  },
+  {
+    "slug": "rallybridge",
+    "src": "/images/projects/rallybridge-artwork-b0bb041d1d.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/rallybridge-artwork-b0bb041d1d.webp",
+    "sha256": "b0bb041d1db48b10651da6fe4c70352b1ca2f28feb0eee982b68dafac4991b97",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "rallybridge",
+    "src": "/images/projects/rallybridge-artwork-b82fdfc587.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/rallybridge-artwork-b82fdfc587.webp",
+    "sha256": "b82fdfc5874de56089972529caab5f2bea321e1780d6988d00b08bc8a8189ae3",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "rallybridge",
+    "src": "/images/projects/rallybridge-artwork-b603135523.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/rallybridge-artwork-b603135523.webp",
+    "sha256": "b6031355231d50dc2492966ac1a016c3349dbce86db70f7780496ba7c16cef50",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "rallybridge",
+    "src": "/images/projects/rallybridge-artwork-c9b8b21cd9.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/rallybridge-artwork-c9b8b21cd9.webp",
+    "sha256": "c9b8b21cd9ea0ca70c2d7d10679fed942a9f7bbed76ef7402bf1e7b076f0ed6e",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "whizlume",
+    "src": "/images/projects/whizlume-preview-3302361b6f.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/whizlume-preview-3302361b6f.webp",
+    "sha256": "3302361b6f26a9af19c1787b88d0e13f1d41c7f8bad0fd16d7d5d8949ea32e90",
+    "width": 1600,
+    "height": 1333
+  },
+  {
+    "slug": "whizlume",
+    "src": "/images/projects/whizlume-artwork-912ad5c34f.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/whizlume-artwork-912ad5c34f.webp",
+    "sha256": "912ad5c34f9a0d28511279fe4e05869df24c23c6aafd3ade6d3d50e21c48ed95",
+    "width": 1600,
+    "height": 1326
+  },
+  {
+    "slug": "whizlume",
+    "src": "/images/projects/whizlume-artwork-0749a2704d.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/whizlume-artwork-0749a2704d.webp",
+    "sha256": "0749a2704dfe40cf30930a8beac45333c4d1885e61d5f57eedae9ee93ddbf67c",
+    "width": 999,
+    "height": 1274
+  },
+  {
+    "slug": "whizlume",
+    "src": "/images/projects/whizlume-artwork-3f6d03e8c8.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/whizlume-artwork-3f6d03e8c8.webp",
+    "sha256": "3f6d03e8c83a34c5adaba0305ce254a8b05991fab68b272fa840ecd33a56686c",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "whizlume",
+    "src": "/images/projects/whizlume-artwork-37f64b2cff.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/whizlume-artwork-37f64b2cff.webp",
+    "sha256": "37f64b2cff05f2a7ed7bbecb19b7ae0f3def6fb35df2c7b888016b96561558ad",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "whizlume",
+    "src": "/images/projects/whizlume-artwork-03437199c8.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/whizlume-artwork-03437199c8.webp",
+    "sha256": "03437199c87d92b7e1d281cedd92e65445f98633717576b2267e300149c1b4cd",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "whizlume",
+    "src": "/images/projects/whizlume-artwork-58235ec492.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/whizlume-artwork-58235ec492.webp",
+    "sha256": "58235ec49258ec1b24da0ed7be45fff65d4d1f5a20d8fb8a031ecb8400c43267",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "whizlume",
+    "src": "/images/projects/whizlume-artwork-6cb9c4d65e.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/whizlume-artwork-6cb9c4d65e.webp",
+    "sha256": "6cb9c4d65ece1ec810972c34417fd7af0576fd68b906f71cdd0e26ed268a6c0a",
+    "width": 1493,
+    "height": 2200
+  },
+  {
+    "slug": "estrata",
+    "src": "/images/projects/estrata-preview-71028bd2da.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/estrata-preview-71028bd2da.webp",
+    "sha256": "71028bd2da601cb6effd4e8b557df7aaecd2d0b3e55c71d2e03b1718524da855",
+    "width": 1600,
+    "height": 1333
+  },
+  {
+    "slug": "estrata",
+    "src": "/images/projects/estrata-artwork-f923ec6d09.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/estrata-artwork-f923ec6d09.webp",
+    "sha256": "f923ec6d09c374717239c71dce8f832d20036ea0aa076ed9621af6fb5449c9e2",
+    "width": 1600,
+    "height": 1326
+  },
+  {
+    "slug": "estrata",
+    "src": "/images/projects/estrata-artwork-27cb2cff22.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/estrata-artwork-27cb2cff22.webp",
+    "sha256": "27cb2cff2299930d41894cb09c669b84865db23fabf67e3b7c48c433b278302f",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "estrata",
+    "src": "/images/projects/estrata-artwork-e10f4b409e.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/estrata-artwork-e10f4b409e.webp",
+    "sha256": "e10f4b409e577a16c96425048001b8bc84ff4a8cb510df36022b7ec810bb728b",
+    "width": 999,
+    "height": 1274
+  },
+  {
+    "slug": "estrata",
+    "src": "/images/projects/estrata-artwork-e297b02be2.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/estrata-artwork-e297b02be2.webp",
+    "sha256": "e297b02be27fa5834f1c7deb6b1b64c67b5991464f3736601a34a2635bac6981",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "estrata",
+    "src": "/images/projects/estrata-artwork-13b58c943c.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/estrata-artwork-13b58c943c.webp",
+    "sha256": "13b58c943c8769378a62e3a5bd25d37fbfa8a6feaa6089600a439c89655b5416",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "estrata",
+    "src": "/images/projects/estrata-artwork-d95fad3561.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/estrata-artwork-d95fad3561.webp",
+    "sha256": "d95fad3561e7fffcf2d52d49afd67c62dad39575e80c40d3ebcdf131cce03dcf",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "estrata",
+    "src": "/images/projects/estrata-artwork-e2cb42334e.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/estrata-artwork-e2cb42334e.webp",
+    "sha256": "e2cb42334ebc71790c9a34af0da584c83384fa00f67d4946f0e65c480b83e228",
+    "width": 1494,
+    "height": 2200
+  },
+  {
+    "slug": "leadforma",
+    "src": "/images/projects/leadforma-preview-76d088504c.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/leadforma-preview-76d088504c.webp",
+    "sha256": "76d088504c203ff4256d660af8da5da79b24ec5822af97a551f7b8a44ff46c75",
+    "width": 1600,
+    "height": 1333
+  },
+  {
+    "slug": "app-simplyscouted",
+    "src": "/images/projects/app-simplyscouted-preview-e4ae14e776.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-simplyscouted-preview-e4ae14e776.webp",
+    "sha256": "e4ae14e776f58b263ff4c9b7d9feac63424ec04924106337a2353277176d5108",
+    "width": 1600,
+    "height": 1251
+  },
+  {
+    "slug": "app-simplyscouted",
+    "src": "/images/projects/app-simplyscouted-artwork-67a863b878.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-simplyscouted-artwork-67a863b878.webp",
+    "sha256": "67a863b878bbcac2d25b87199718dadfa14715a7653a2411d189f4a92c55341f",
+    "width": 1600,
+    "height": 1440
+  },
+  {
+    "slug": "app-simplyscouted",
+    "src": "/images/projects/app-simplyscouted-artwork-13f105504a.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-simplyscouted-artwork-13f105504a.webp",
+    "sha256": "13f105504a77a5b5a22088ac805b75682c3a5b4b82ff957716f4579231ec5671",
+    "width": 710,
+    "height": 711
+  },
+  {
+    "slug": "app-simplyscouted",
+    "src": "/images/projects/app-simplyscouted-artwork-c7cd1aa78b.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-simplyscouted-artwork-c7cd1aa78b.webp",
+    "sha256": "c7cd1aa78b814d3fe27fc2eb39b420fa06336c4e178c3ca9524114a07ebb2422",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-simplyscouted",
+    "src": "/images/projects/app-simplyscouted-artwork-3a4515a025.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-simplyscouted-artwork-3a4515a025.webp",
+    "sha256": "3a4515a025e1d57b71c7f87d0df0eddaadf801de8a12db9da4438dd37a4d5445",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-simplyscouted",
+    "src": "/images/projects/app-simplyscouted-artwork-fdb1248571.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-simplyscouted-artwork-fdb1248571.webp",
+    "sha256": "fdb1248571c2f022e21531a88215f28511109be888feac4cfd455c8cb40ebe1e",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-simplyscouted",
+    "src": "/images/projects/app-simplyscouted-artwork-22ddb8eb68.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-simplyscouted-artwork-22ddb8eb68.webp",
+    "sha256": "22ddb8eb68214886f05f4b2ced733bc2247e51b6b6391886b00c35de73472327",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-simplyscouted",
+    "src": "/images/projects/app-simplyscouted-artwork-dbe277e274.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-simplyscouted-artwork-dbe277e274.webp",
+    "sha256": "dbe277e274143ef769450c6bc6725be57a300265c4ddb0e6565ac355648d236b",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-infinote",
+    "src": "/images/projects/app-infinote-preview-8e80c527a0.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-infinote-preview-8e80c527a0.webp",
+    "sha256": "8e80c527a003fa2875ffb827109329642218ccd54f3ae2eef68f20e55df22e54",
+    "width": 1600,
+    "height": 1251
+  },
+  {
+    "slug": "app-infinote",
+    "src": "/images/projects/app-infinote-artwork-687b9c5fb2.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-infinote-artwork-687b9c5fb2.webp",
+    "sha256": "687b9c5fb24b6688f90e84ccff736e27b0cb121f26a5edce7321eae00f3aa489",
+    "width": 1600,
+    "height": 1313
+  },
+  {
+    "slug": "app-infinote",
+    "src": "/images/projects/app-infinote-artwork-d4dcf9905d.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-infinote-artwork-d4dcf9905d.webp",
+    "sha256": "d4dcf9905db815b6bb5c1d7e31180b4305f2eb37acb439070507f21d8b059ab8",
+    "width": 1076,
+    "height": 2180
+  },
+  {
+    "slug": "app-infinote",
+    "src": "/images/projects/app-infinote-artwork-b743e39f1f.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-infinote-artwork-b743e39f1f.webp",
+    "sha256": "b743e39f1fe1ba11f9eff4af160675bfe01f79d50314e5279211f8a5a7942d5e",
+    "width": 710,
+    "height": 711
+  },
+  {
+    "slug": "app-infinote",
+    "src": "/images/projects/app-infinote-artwork-0fc4000de7.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-infinote-artwork-0fc4000de7.webp",
+    "sha256": "0fc4000de7e72bc5574751e609dfa6cd8ebcc4a3d1fc52421636ff1eaefe49b4",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-infinote",
+    "src": "/images/projects/app-infinote-artwork-1c07875ab6.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-infinote-artwork-1c07875ab6.webp",
+    "sha256": "1c07875ab694558f8b91bd7122a449736104e724eaa628bb38111caf8513e9f2",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-infinote",
+    "src": "/images/projects/app-infinote-artwork-74af55f03b.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-infinote-artwork-74af55f03b.webp",
+    "sha256": "74af55f03b79236c88aefdba9592440ab420b68e61fb2eb709b6e82fb698ad96",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-infinote",
+    "src": "/images/projects/app-infinote-artwork-11c2ca55f9.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-infinote-artwork-11c2ca55f9.webp",
+    "sha256": "11c2ca55f97eb2e61f0882ab02ba5355fd4156adfc5160b0780d07fc794cca6b",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-infinote",
+    "src": "/images/projects/app-infinote-artwork-6bc405e873.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-infinote-artwork-6bc405e873.webp",
+    "sha256": "6bc405e8731d694b6b4794c9fc04734d22402589503c4200a205dd2ca25e60e7",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-silaflow",
+    "src": "/images/projects/app-silaflow-preview-2881215e70.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-silaflow-preview-2881215e70.webp",
+    "sha256": "2881215e70b0cdea0af1650677f378a4c6894933722af04974e49facafceaa0f",
+    "width": 1600,
+    "height": 1251
+  },
+  {
+    "slug": "app-silaflow",
+    "src": "/images/projects/app-silaflow-artwork-a184ff2668.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-silaflow-artwork-a184ff2668.webp",
+    "sha256": "a184ff266859aac77e186cbe5379ec6e8a6bcb61b2edeefeea327c0fe2f9c331",
+    "width": 1600,
+    "height": 1313
+  },
+  {
+    "slug": "app-silaflow",
+    "src": "/images/projects/app-silaflow-artwork-9da0e9812e.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-silaflow-artwork-9da0e9812e.webp",
+    "sha256": "9da0e9812ea1e356b278f41c6c5a1bd09927b47b987714be38e18b760165c232",
+    "width": 1076,
+    "height": 2180
+  },
+  {
+    "slug": "app-silaflow",
+    "src": "/images/projects/app-silaflow-artwork-abda93ab83.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-silaflow-artwork-abda93ab83.webp",
+    "sha256": "abda93ab8368869fef4e98ce1c4a21bbe8fd745f5a5e1ff7e94235205075ca75",
+    "width": 710,
+    "height": 711
+  },
+  {
+    "slug": "app-silaflow",
+    "src": "/images/projects/app-silaflow-artwork-150eb225a7.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-silaflow-artwork-150eb225a7.webp",
+    "sha256": "150eb225a7bb8b643d4c8da14478d645542cbf64c935a01ba3b094af1f3bbfe1",
+    "width": 375,
+    "height": 813
+  },
+  {
+    "slug": "app-silaflow",
+    "src": "/images/projects/app-silaflow-artwork-e55b8246d8.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-silaflow-artwork-e55b8246d8.webp",
+    "sha256": "e55b8246d83b4b1b85da6f690582f123c312ee6dd4ebe89c7c640395890f304d",
+    "width": 375,
+    "height": 813
+  },
+  {
+    "slug": "app-silaflow",
+    "src": "/images/projects/app-silaflow-artwork-e6037b0a8d.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-silaflow-artwork-e6037b0a8d.webp",
+    "sha256": "e6037b0a8d8662aefa189be18f60c3168970751e4cb14a64d2e37eec5161c5f8",
+    "width": 375,
+    "height": 813
+  },
+  {
+    "slug": "app-silaflow",
+    "src": "/images/projects/app-silaflow-artwork-6664547e6d.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-silaflow-artwork-6664547e6d.webp",
+    "sha256": "6664547e6d0978bdb67a4028d678bce4a3767a7a374f774289767330ddc7c138",
+    "width": 375,
+    "height": 813
+  },
+  {
+    "slug": "app-habitstride",
+    "src": "/images/projects/app-habitstride-preview-4f2287587a.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-habitstride-preview-4f2287587a.webp",
+    "sha256": "4f2287587a0f106a7067052aa864a8daec1002858eb8be1a12f01da6ace412ee",
+    "width": 1600,
+    "height": 1251
+  },
+  {
+    "slug": "app-habitstride",
+    "src": "/images/projects/app-habitstride-artwork-f2801cfeb0.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-habitstride-artwork-f2801cfeb0.webp",
+    "sha256": "f2801cfeb0b6cef5feb50cf8ae5602613bddf5e874de09f41ba87b00a8b625d6",
+    "width": 1600,
+    "height": 1313
+  },
+  {
+    "slug": "app-habitstride",
+    "src": "/images/projects/app-habitstride-artwork-e2ace8381d.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-habitstride-artwork-e2ace8381d.webp",
+    "sha256": "e2ace8381d1e4aadcb59681334e694a236e2f05ab834f8d4196fb3b2faa4f2a7",
+    "width": 1076,
+    "height": 2180
+  },
+  {
+    "slug": "app-habitstride",
+    "src": "/images/projects/app-habitstride-artwork-cdcdf88c9b.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-habitstride-artwork-cdcdf88c9b.webp",
+    "sha256": "cdcdf88c9befa36c506c31d129a0220f3b14ac35ae8a0577a20a259c6db854a4",
+    "width": 710,
+    "height": 711
+  },
+  {
+    "slug": "app-habitstride",
+    "src": "/images/projects/app-habitstride-artwork-e8b6d533ae.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-habitstride-artwork-e8b6d533ae.webp",
+    "sha256": "e8b6d533aef020a795c137a5759418a865aab885cd8d8e3fdd450c80fae7eec2",
+    "width": 376,
+    "height": 813
+  },
+  {
+    "slug": "app-habitstride",
+    "src": "/images/projects/app-habitstride-artwork-4c62999422.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-habitstride-artwork-4c62999422.webp",
+    "sha256": "4c62999422519cd7bc8962817a622d4019405fd4a2eb1f2219831b48a9af859d",
+    "width": 376,
+    "height": 813
+  },
+  {
+    "slug": "app-habitstride",
+    "src": "/images/projects/app-habitstride-artwork-59165b9d64.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-habitstride-artwork-59165b9d64.webp",
+    "sha256": "59165b9d648c0413d9ed372b75426db00ecd8f9294a1397bd1d30e6ad2c2219d",
+    "width": 376,
+    "height": 813
+  },
+  {
+    "slug": "app-habitstride",
+    "src": "/images/projects/app-habitstride-artwork-d31d050563.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-habitstride-artwork-d31d050563.webp",
+    "sha256": "d31d050563dce190a74dc96ccf5fee46207595dcdeeab940de0db9785417d7e3",
+    "width": 376,
+    "height": 813
+  },
+  {
+    "slug": "app-tukora-connect",
+    "src": "/images/projects/app-tukora-connect-preview-b789498701.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-tukora-connect-preview-b789498701.webp",
+    "sha256": "b789498701177a23390c02fb94ad97049569dd7e74f275cbbd4af3e95ce59399",
+    "width": 1600,
+    "height": 1199
+  },
+  {
+    "slug": "app-tukora-connect",
+    "src": "/images/projects/app-tukora-connect-artwork-4a36222632.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-tukora-connect-artwork-4a36222632.webp",
+    "sha256": "4a3622263206089a568c442b0f9101f3a96141e40a58bc58f3fa3bcf879b27e0",
+    "width": 1600,
+    "height": 1312
+  },
+  {
+    "slug": "app-tukora-connect",
+    "src": "/images/projects/app-tukora-connect-artwork-8334217631.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-tukora-connect-artwork-8334217631.webp",
+    "sha256": "83342176310ca9cad02fe4403127ddc98736ec713e02f0d5d962aa5d0a42fb88",
+    "width": 1077,
+    "height": 2180
+  },
+  {
+    "slug": "app-tukora-connect",
+    "src": "/images/projects/app-tukora-connect-artwork-fda26c6f4b.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-tukora-connect-artwork-fda26c6f4b.webp",
+    "sha256": "fda26c6f4bcee210cca0fe8c98e2cc340ab7c4740a5e861e562018f45408a53a",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-tukora-connect",
+    "src": "/images/projects/app-tukora-connect-artwork-59ed526344.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-tukora-connect-artwork-59ed526344.webp",
+    "sha256": "59ed5263445c7cf1b36a2e8b89561932f81305716f9fbfaa4beabd723c37418b",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-tukora-connect",
+    "src": "/images/projects/app-tukora-connect-artwork-25a03fe6ba.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-tukora-connect-artwork-25a03fe6ba.webp",
+    "sha256": "25a03fe6bacf14b7f674aa04c065dbceafd7f5c79ae94c6ba067396e93b58265",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-tukora-connect",
+    "src": "/images/projects/app-tukora-connect-artwork-75eaf9afdc.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-tukora-connect-artwork-75eaf9afdc.webp",
+    "sha256": "75eaf9afdcb5efa8557ea8855eda603253b69c25ec2bf5cd7c34d37a2c568d76",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-pantryone",
+    "src": "/images/projects/app-pantryone-preview-0a7994a06a.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-pantryone-preview-0a7994a06a.webp",
+    "sha256": "0a7994a06a4da3170759fc6fa48723bf3dda65e196d5dc7ddfb6eb91d0bae8a4",
+    "width": 1600,
+    "height": 1199
+  },
+  {
+    "slug": "app-pantryone",
+    "src": "/images/projects/app-pantryone-artwork-04fc708798.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-pantryone-artwork-04fc708798.webp",
+    "sha256": "04fc7087985824f55dda284e4d59bc1bfa2eb01cc7316ec084060349cebc3597",
+    "width": 1600,
+    "height": 1312
+  },
+  {
+    "slug": "app-pantryone",
+    "src": "/images/projects/app-pantryone-artwork-a697570f7a.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-pantryone-artwork-a697570f7a.webp",
+    "sha256": "a697570f7ae15e129997c3861392f3d8da631dbf02ea3365e25a9fd6cac6d808",
+    "width": 331,
+    "height": 669
+  },
+  {
+    "slug": "app-pantryone",
+    "src": "/images/projects/app-pantryone-artwork-39388534c5.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-pantryone-artwork-39388534c5.webp",
+    "sha256": "39388534c5d57f48523cffd1fcc23b4efac6ce55fd8af0bd5bdae5bb6a9b75bf",
+    "width": 376,
+    "height": 813
+  },
+  {
+    "slug": "app-pantryone",
+    "src": "/images/projects/app-pantryone-artwork-acb9f2a1f2.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-pantryone-artwork-acb9f2a1f2.webp",
+    "sha256": "acb9f2a1f2777d032aee57b046ce3263a133f9d85b0df856ba24bd5f422a6ca5",
+    "width": 376,
+    "height": 813
+  },
+  {
+    "slug": "app-pantryone",
+    "src": "/images/projects/app-pantryone-artwork-8d49ef7677.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-pantryone-artwork-8d49ef7677.webp",
+    "sha256": "8d49ef76775be4bbcad7fb35df088ba1b840fbc620d4d7d0095a9ab03314a0ce",
+    "width": 376,
+    "height": 813
+  },
+  {
+    "slug": "app-pantryone",
+    "src": "/images/projects/app-pantryone-artwork-e03a8ad8ad.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-pantryone-artwork-e03a8ad8ad.webp",
+    "sha256": "e03a8ad8adfa56e20153bbc614fc7bdb1cfcf2cef6d74b109b7c07fa40f84eed",
+    "width": 376,
+    "height": 813
+  },
+  {
+    "slug": "app-streetslate",
+    "src": "/images/projects/app-streetslate-preview-cf7af19a83.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-streetslate-preview-cf7af19a83.webp",
+    "sha256": "cf7af19a8366b237ac4732ecd6993d8bb6d4125e2cd5f21fa5016fb528676b6a",
+    "width": 1499,
+    "height": 1250
+  },
+  {
+    "slug": "app-streetslate",
+    "src": "/images/projects/app-streetslate-artwork-8a844c4ce1.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-streetslate-artwork-8a844c4ce1.webp",
+    "sha256": "8a844c4ce1f8b1ad617658656ea01d51e21a05d3647f25ba258d89f3455d6e47",
+    "width": 842,
+    "height": 1611
+  },
+  {
+    "slug": "app-streetslate",
+    "src": "/images/projects/app-streetslate-artwork-7b47c7d3de.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-streetslate-artwork-7b47c7d3de.webp",
+    "sha256": "7b47c7d3de0fca58a23fcf635983563697677efb4a77349cea560dd0fda1543d",
+    "width": 331,
+    "height": 669
+  },
+  {
+    "slug": "app-streetslate",
+    "src": "/images/projects/app-streetslate-artwork-df247e484e.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-streetslate-artwork-df247e484e.webp",
+    "sha256": "df247e484e3fef5386cc51bcf20e52aca6322fdd3c34e4f29743927fd4bc2d2b",
+    "width": 331,
+    "height": 669
+  },
+  {
+    "slug": "app-streetslate",
+    "src": "/images/projects/app-streetslate-artwork-3a7b95e78a.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-streetslate-artwork-3a7b95e78a.webp",
+    "sha256": "3a7b95e78a51df509f9f5df6fdbc6c76ab7969e109fa2f5e9a2df4b5f1a0f12c",
+    "width": 331,
+    "height": 669
+  },
+  {
+    "slug": "app-streetslate",
+    "src": "/images/projects/app-streetslate-artwork-7755b4e653.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-streetslate-artwork-7755b4e653.webp",
+    "sha256": "7755b4e653eb1775a25708f10445ca7f3ba81c3efd1daf819a450e83803a43b1",
+    "width": 331,
+    "height": 669
+  },
+  {
+    "slug": "app-streetslate",
+    "src": "/images/projects/app-streetslate-artwork-fb45f5eab6.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-streetslate-artwork-fb45f5eab6.webp",
+    "sha256": "fb45f5eab67ae6dea210edcfe5b43170076adb47020eac341b8031a6082fcfe6",
+    "width": 331,
+    "height": 669
+  },
+  {
+    "slug": "app-kegeltempo",
+    "src": "/images/projects/app-kegeltempo-preview-4c0adc9dfa.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-kegeltempo-preview-4c0adc9dfa.webp",
+    "sha256": "4c0adc9dfa25daf1c9d2bf1f2a1910783eb1a425db921376ef93496875e60087",
+    "width": 1600,
+    "height": 1334
+  },
+  {
+    "slug": "app-kegeltempo",
+    "src": "/images/projects/app-kegeltempo-artwork-17ede1ee90.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-kegeltempo-artwork-17ede1ee90.webp",
+    "sha256": "17ede1ee908eff5b18178ccfd87b176273b6a6196114bb113237dd36e66b6681",
+    "width": 1298,
+    "height": 1325
+  },
+  {
+    "slug": "app-kegeltempo",
+    "src": "/images/projects/app-kegeltempo-artwork-62e10dd711.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-kegeltempo-artwork-62e10dd711.webp",
+    "sha256": "62e10dd711ef2d8f3c4c40d0513147b4aad3e8209600ca0fd727e8b6a5f9e240",
+    "width": 1267,
+    "height": 2200
+  },
+  {
+    "slug": "app-kegeltempo",
+    "src": "/images/projects/app-kegeltempo-artwork-e347393ba9.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-kegeltempo-artwork-e347393ba9.webp",
+    "sha256": "e347393ba9ae053f3416ddb44e45478d1b7ba6b8aba3e347424af9ba91a1aad3",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-kegeltempo",
+    "src": "/images/projects/app-kegeltempo-artwork-2cd0b6be74.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-kegeltempo-artwork-2cd0b6be74.webp",
+    "sha256": "2cd0b6be74246e42160f72e81b71e3157276c66f8901348f7b819a4872f567b5",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-kegeltempo",
+    "src": "/images/projects/app-kegeltempo-artwork-b8078fd735.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-kegeltempo-artwork-b8078fd735.webp",
+    "sha256": "b8078fd73554f81e39cf0e9f92aa7f82d5d0d5db106e37df32ab2d555f6902fa",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-kegeltempo",
+    "src": "/images/projects/app-kegeltempo-artwork-e26d976bb0.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-kegeltempo-artwork-e26d976bb0.webp",
+    "sha256": "e26d976bb06219ccadd20485f277958896e1843aa04c1477da8224a3a4e2a073",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-kegeltempo",
+    "src": "/images/projects/app-kegeltempo-artwork-2a33362b7e.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-kegeltempo-artwork-2a33362b7e.webp",
+    "sha256": "2a33362b7e104bb78dea60341967f49c5135f34ac3fa6f7d82c448f4985d0155",
+    "width": 375,
+    "height": 812
+  },
+  {
+    "slug": "app-strivaro",
+    "src": "/images/projects/app-strivaro-preview-d16fb9128c.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-strivaro-preview-d16fb9128c.webp",
+    "sha256": "d16fb9128cc12ecaf2e8ccab39bd5a8a5beb97d18750eb63e0ad43795682b3e4",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "slug": "app-strivaro",
+    "src": "/images/projects/app-strivaro-splash-20dc36310a.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-strivaro-splash-20dc36310a.webp",
+    "sha256": "20dc36310a62ef3125043ede01309c0c94f489c051a75afbcac9ed2cc4683bec",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "slug": "app-strivaro",
+    "src": "/images/projects/app-strivaro-dashboard-ee1afee00d.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-strivaro-dashboard-ee1afee00d.webp",
+    "sha256": "ee1afee00dfb2718fd2a2a70aebc7ca6e78143bcea4af7d117ceeed4f21df75c",
+    "width": 390,
+    "height": 1143
+  },
+  {
+    "slug": "app-strivaro",
+    "src": "/images/projects/app-strivaro-goals-e147f9da0f.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-strivaro-goals-e147f9da0f.webp",
+    "sha256": "e147f9da0f8e427f9f36eaa30b4f4e8966631bb84d96d92b50549ef72aae118b",
+    "width": 390,
+    "height": 1340
+  },
+  {
+    "slug": "app-strivaro",
+    "src": "/images/projects/app-strivaro-community-feed-3ea2852c29.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-strivaro-community-feed-3ea2852c29.webp",
+    "sha256": "3ea2852c29740e2a62052c54c9919937135fcd1a0cf79cc41f4adad55e9e591c",
+    "width": 390,
+    "height": 1747
+  },
+  {
+    "slug": "app-strivaro",
+    "src": "/images/projects/app-strivaro-daily-reward-c301eb3ed0.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-strivaro-daily-reward-c301eb3ed0.webp",
+    "sha256": "c301eb3ed0dec1dd6ceb749051cab61f1101b342fe7bd2df243bed2dcb976d77",
+    "width": 390,
+    "height": 823
+  },
+  {
+    "slug": "app-strivaro",
+    "src": "/images/projects/app-strivaro-goal-preview-ac12460c45.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-strivaro-goal-preview-ac12460c45.webp",
+    "sha256": "ac12460c458454afc19437b2698bc1dfff4c9950dda32a49995fd8e9ec0d797c",
+    "width": 390,
+    "height": 980
+  },
+  {
+    "slug": "app-strivaro",
+    "src": "/images/projects/app-strivaro-profile-setup-bcc92a6afc.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-strivaro-profile-setup-bcc92a6afc.webp",
+    "sha256": "bcc92a6afc7c7253f57d7797d4a448b13f88cb768328a1c3a71592562bb956db",
+    "width": 390,
+    "height": 1026
+  },
+  {
+    "slug": "app-strivaro",
+    "src": "/images/projects/app-strivaro-settings-59f7537160.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-strivaro-settings-59f7537160.webp",
+    "sha256": "59f753716065766c1912aaf3827c7634868551bed36e839a1bf97f565b531677",
+    "width": 390,
+    "height": 1170
+  },
+  {
+    "slug": "app-strivaro",
+    "src": "/images/projects/app-strivaro-sign-in-validation-0725da835b.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-strivaro-sign-in-validation-0725da835b.webp",
+    "sha256": "0725da835b194a83b297a3258166c77d9e6269c0ce974985f68d3439d4458c53",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "slug": "app-axorabid",
+    "src": "/images/projects/app-axorabid-preview-9139a4a5c6.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-axorabid-preview-9139a4a5c6.webp",
+    "sha256": "9139a4a5c6a1f71b03ee04187595c363c531ecc97bfea43af13f49439f582182",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "slug": "app-axorabid",
+    "src": "/images/projects/app-axorabid-splash-3f065294d7.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-axorabid-splash-3f065294d7.webp",
+    "sha256": "3f065294d73ac4899c6d751d06b0a2e52191c4678b0a83fafaa8df1118eceb73",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "slug": "app-axorabid",
+    "src": "/images/projects/app-axorabid-role-selection-c93684de7f.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-axorabid-role-selection-c93684de7f.webp",
+    "sha256": "c93684de7f3ac96ffeee331aac05b85ff6dcaaf4a22e7d3d0ce5d18450266858",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "slug": "app-axorabid",
+    "src": "/images/projects/app-axorabid-onboarding-ba26d5e85c.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-axorabid-onboarding-ba26d5e85c.webp",
+    "sha256": "ba26d5e85c22cc772029693f20a8f3e4e652b8357b9104866979802269c51525",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "slug": "app-axorabid",
+    "src": "/images/projects/app-axorabid-sign-in-c9e178ce19.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-axorabid-sign-in-c9e178ce19.webp",
+    "sha256": "c9e178ce196026c22374cb8d61c4408ea93afeb452ecb4d1a1f7cdef966afb2a",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "slug": "app-axorabid",
+    "src": "/images/projects/app-axorabid-registration-44bc65f919.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-axorabid-registration-44bc65f919.webp",
+    "sha256": "44bc65f919d5c1a92641b92c1982408bbfebb5e92735ac0270c2edc53e4f9c6d",
+    "width": 390,
+    "height": 867
+  },
+  {
+    "slug": "app-axorabid",
+    "src": "/images/projects/app-axorabid-seller-dashboard-65eb1cf4f9.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-axorabid-seller-dashboard-65eb1cf4f9.webp",
+    "sha256": "65eb1cf4f9643032ef24e7bc19811c4b05aa83318d0e191de74a18f4186b5e1f",
+    "width": 393,
+    "height": 1516
+  },
+  {
+    "slug": "app-axorabid",
+    "src": "/images/projects/app-axorabid-upcoming-auctions-5b4b8295b4.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-axorabid-upcoming-auctions-5b4b8295b4.webp",
+    "sha256": "5b4b8295b4a1808e2a4d33b022964365788cdb5bc784d54dbb7b3f7ddb07ab38",
+    "width": 393,
+    "height": 961
+  },
+  {
+    "slug": "app-axorabid",
+    "src": "/images/projects/app-axorabid-draft-listings-8c95eeb3f8.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-axorabid-draft-listings-8c95eeb3f8.webp",
+    "sha256": "8c95eeb3f8109cf9e9ef1b5dc209924536ae4b96c26b6ac8d16daf80dbbe526a",
+    "width": 393,
+    "height": 871
+  },
+  {
+    "slug": "app-axorabid",
+    "src": "/images/projects/app-axorabid-vehicle-media-414aae23af.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-axorabid-vehicle-media-414aae23af.webp",
+    "sha256": "414aae23af96214dac7ecbf926f15ce26302762df5829e2dc03363a3721b7e77",
+    "width": 393,
+    "height": 1255
+  },
+  {
+    "slug": "app-axorabid",
+    "src": "/images/projects/app-axorabid-profile-2bd2252daa.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-axorabid-profile-2bd2252daa.webp",
+    "sha256": "2bd2252daa23d7c8d98cb05b7c1057a818cb7981b48f5981cfb2776726110c7e",
+    "width": 393,
+    "height": 967
+  },
+  {
+    "slug": "app-axorabid",
+    "src": "/images/projects/app-axorabid-brand-identity-9037c22cda.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-axorabid-brand-identity-9037c22cda.webp",
+    "sha256": "9037c22cda1133610d5f5c9fd101e38e694cc653184f78e6888a4983cb9737e7",
+    "width": 500,
+    "height": 500
+  },
+  {
+    "slug": "axorabid",
+    "src": "/images/projects/axorabid-preview-b1544c6d73.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/axorabid-preview-b1544c6d73.webp",
+    "sha256": "b1544c6d73b72dd233c7bb2acf4480d701a6a7219df8d431c238f8442effb804",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "slug": "axorabid",
+    "src": "/images/projects/axorabid-homepage-58de8b8268.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/axorabid-homepage-58de8b8268.webp",
+    "sha256": "58de8b826875d828c48d8e67a29f365823af2e25fae461c81afa2cbc62367e80",
+    "width": 1440,
+    "height": 4854
+  },
+  {
+    "slug": "axorabid",
+    "src": "/images/projects/axorabid-seller-dashboard-4644c4b2b3.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/axorabid-seller-dashboard-4644c4b2b3.webp",
+    "sha256": "4644c4b2b3bb0b4933111deb00985204855d13e13e6327cad97759e4e4ef1702",
+    "width": 1468,
+    "height": 1138
+  },
+  {
+    "slug": "axorabid",
+    "src": "/images/projects/axorabid-vehicle-list-f6a979e49e.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/axorabid-vehicle-list-f6a979e49e.webp",
+    "sha256": "f6a979e49ee0093d68cdd6a9662663209ae8bf13c17579cb0af4478ba9fbf7d8",
+    "width": 1468,
+    "height": 1297
+  },
+  {
+    "slug": "axorabid",
+    "src": "/images/projects/axorabid-auction-bids-c9115f53f0.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/axorabid-auction-bids-c9115f53f0.webp",
+    "sha256": "c9115f53f0d1df723ea5453a73e092f166b5731b88d70acff94e70971a595828",
+    "width": 1468,
+    "height": 2460
+  },
+  {
+    "slug": "axorabid",
+    "src": "/images/projects/axorabid-negotiation-32d36ecba9.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/axorabid-negotiation-32d36ecba9.webp",
+    "sha256": "32d36ecba9f8f9d57934ac2ccb59dd76c1e864914c5b65084e594634594175d7",
+    "width": 1468,
+    "height": 1168
+  },
+  {
+    "slug": "axorabid",
+    "src": "/images/projects/axorabid-listing-details-3d7fbce694.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/axorabid-listing-details-3d7fbce694.webp",
+    "sha256": "3d7fbce69431c762552cc9889bcb23a72ec20ed31e823674bd4fb62c56d4457a",
+    "width": 1456,
+    "height": 1144
+  },
+  {
+    "slug": "axorabid",
+    "src": "/images/projects/axorabid-vehicle-gallery-c0ea267c37.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/axorabid-vehicle-gallery-c0ea267c37.webp",
+    "sha256": "c0ea267c37579054b3d87e9b62829fce53dd0712e9cb739605018c995f407054",
+    "width": 1468,
+    "height": 1056
+  },
+  {
+    "slug": "axorabid",
+    "src": "/images/projects/axorabid-seller-sign-in-3e011ae418.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/axorabid-seller-sign-in-3e011ae418.webp",
+    "sha256": "3e011ae41809d03908c64d37c5ad4ada7a37311edbe3c1339f30380a77799ff1",
+    "width": 1456,
+    "height": 1040
+  },
+  {
+    "slug": "axorabid",
+    "src": "/images/projects/axorabid-identity-upload-cfed8eecff.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/axorabid-identity-upload-cfed8eecff.webp",
+    "sha256": "cfed8eecffa1a52f9061ff740b848b2630080b619566175daaa1e1fa3c600437",
+    "width": 1456,
+    "height": 1166
+  },
+  {
+    "slug": "axorabid",
+    "src": "/images/projects/axorabid-verification-status-f368f6dbef.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/axorabid-verification-status-f368f6dbef.webp",
+    "sha256": "f368f6dbefb7a02e3a0b612963dace2f40014bda283ae5758ed34db50b1bad17",
+    "width": 1468,
+    "height": 1309
+  },
+  {
+    "slug": "axorabid",
+    "src": "/images/projects/axorabid-pending-payouts-30b892a722.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/axorabid-pending-payouts-30b892a722.webp",
+    "sha256": "30b892a7226805a67c0a4df8b822c89672003882daa93212ce5676304f6494f4",
+    "width": 1468,
+    "height": 1196
+  },
+  {
+    "slug": "axorabid",
+    "src": "/images/projects/axorabid-completed-payouts-72232e045a.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/axorabid-completed-payouts-72232e045a.webp",
+    "sha256": "72232e045a5bcf631f09136737a2d9d13583b587174db196a11cf494a0e27a32",
+    "width": 1468,
+    "height": 1196
+  },
+  {
+    "slug": "axorabid",
+    "src": "/images/projects/axorabid-sales-history-92b566be9d.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/axorabid-sales-history-92b566be9d.webp",
+    "sha256": "92b566be9dd6c8ecd2cd82d9da415b639a0c53750cb30bb5e60ec26b82bbea7c",
+    "width": 1468,
+    "height": 1297
+  },
+  {
+    "slug": "app-calivora",
+    "src": "/images/projects/app-calivora-preview-f0183bb6e5.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/app-calivora-preview-f0183bb6e5.webp",
+    "sha256": "f0183bb6e549cc1a7670311954651a4db004d9b81ef05f2d8c7944846ab36518",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "slug": "app-calivora",
+    "src": "/images/projects/calivora-splash-03f8d2e534.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/calivora-splash-03f8d2e534.webp",
+    "sha256": "03f8d2e5346b4397ab58506b6b1318b911a74d1fe8a8a04f0492c88ad6cf2815",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "slug": "app-calivora",
+    "src": "/images/projects/calivora-home-fe819d2c1d.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/calivora-home-fe819d2c1d.webp",
+    "sha256": "fe819d2c1db92bd673a7a4620c2dc1163a741d168965dc042e8af56138cae3fe",
+    "width": 390,
+    "height": 1661
+  },
+  {
+    "slug": "app-calivora",
+    "src": "/images/projects/calivora-personal-info-9384e148e5.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/calivora-personal-info-9384e148e5.webp",
+    "sha256": "9384e148e5b223f30ce48ef979f1d107071693adeeb533750578c4a1f50cb2ba",
+    "width": 390,
+    "height": 979
+  },
+  {
+    "slug": "app-calivora",
+    "src": "/images/projects/calivora-medical-history-67e064e98d.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/calivora-medical-history-67e064e98d.webp",
+    "sha256": "67e064e98d76a41e4b7167a23cca5a4906c3390ececed5f4dcd10f60b17b5525",
+    "width": 390,
+    "height": 866
+  },
+  {
+    "slug": "app-calivora",
+    "src": "/images/projects/calivora-care-plans-84e5858468.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/calivora-care-plans-84e5858468.webp",
+    "sha256": "84e58584683da2764272784a962a557761197837abc3da59a6230ff170c4aee6",
+    "width": 390,
+    "height": 894
+  },
+  {
+    "slug": "app-calivora",
+    "src": "/images/projects/calivora-daily-log-ebc35cc32f.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/calivora-daily-log-ebc35cc32f.webp",
+    "sha256": "ebc35cc32f4c0ce4590cfb2925fad59ccb46d08035c98df6d15f2331fb967572",
+    "width": 390,
+    "height": 866
+  },
+  {
+    "slug": "app-calivora",
+    "src": "/images/projects/calivora-labs-8f444036b9.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/calivora-labs-8f444036b9.webp",
+    "sha256": "8f444036b9022318d593471f0c903a0190d7613e0489425e66ec35214c1df93e",
+    "width": 390,
+    "height": 1159
+  },
+  {
+    "slug": "app-calivora",
+    "src": "/images/projects/calivora-upload-labs-1fda64d9d1.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/calivora-upload-labs-1fda64d9d1.webp",
+    "sha256": "1fda64d9d1b989ca376367b7eadf7a9fd83ecd2698e49d5c976ea14204cba6d7",
+    "width": 390,
+    "height": 888
+  },
+  {
+    "slug": "app-calivora",
+    "src": "/images/projects/calivora-provider-chat-cc72428367.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/calivora-provider-chat-cc72428367.webp",
+    "sha256": "cc7242836721c077d7d585c520b88f532c12f7770c8bbd8ca38d0d5cef1cbf82",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "slug": "app-calivora",
+    "src": "/images/projects/calivora-video-call-b583ffa91c.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/calivora-video-call-b583ffa91c.webp",
+    "sha256": "b583ffa91c317c77263c045d4ba692e1cc78a46b75a3bd9ff73257f5114c5055",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "slug": "app-calivora",
+    "src": "/images/projects/calivora-sign-in-ae15c6d3b3.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/calivora-sign-in-ae15c6d3b3.webp",
+    "sha256": "ae15c6d3b3b2648e205bc66dbba40738403dded8d8117db6c1d9b60f1469a0ae",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "slug": "app-calivora",
+    "src": "/images/projects/calivora-registration-9d8476678a.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/calivora-registration-9d8476678a.webp",
+    "sha256": "9d8476678a4010d4d77c8e3092e4bf344c06197169de5f9ea87491f76477daae",
+    "width": 390,
+    "height": 844
+  },
+  {
+    "slug": "app-calivora",
+    "src": "/images/projects/calivora-account-a727dcb55e.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/calivora-account-a727dcb55e.webp",
+    "sha256": "a727dcb55e49ae1ddcec9c0c39247ba47bb3967133afe3a6bc76ca736622247a",
+    "width": 390,
+    "height": 1069
+  },
+  {
+    "slug": "app-calivora",
+    "src": "/images/projects/calivora-brand-identity-406dc97788.webp",
+    "file": "audit/color-theme-refresh-2026-11-12/before/assets/calivora-brand-identity-406dc97788.webp",
+    "sha256": "406dc97788e82817e661a5514108c868df6b3a9bccc9b094bb1da87a9f0732ce",
+    "width": 256,
+    "height": 182
+  }
+]

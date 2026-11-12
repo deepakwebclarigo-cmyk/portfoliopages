@@ -1,0 +1,29 @@
+{
+  "hoverChecks": [
+    {
+      "density": 1,
+      "source": "/images/thumbnails/app-calivora-6ee6453042-card.webp",
+      "contrastRatio": 1.0124310627313715,
+      "pixelDifference": 7.327880859375
+    },
+    {
+      "density": 2,
+      "source": "/images/thumbnails/app-calivora-6ee6453042-medium.webp",
+      "contrastRatio": 1.0100313150373474,
+      "pixelDifference": 8.224039713541666
+    }
+  ],
+  "logo": {
+    "width": 1000,
+    "height": 1000,
+    "alpha": true,
+    "deliveredExportExact": true
+  },
+  "galleryScreens": 14,
+  "responsive": [
+    "desktop",
+    "tablet",
+    "mobile"
+  ],
+  "browserErrors": []
+}

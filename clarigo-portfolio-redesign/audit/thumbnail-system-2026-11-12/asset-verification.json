@@ -4,7 +4,9 @@
   "mobile": 28,
   "decodedWebpVariants": 144,
   "verifiedPngExports": 48,
-  "existingDetailArtworkUnchanged": true,
+  "existingDetailArtworkUnchanged": false,
+  "approvedPaletteArtwork": true,
+  "documentedColorUpdates": 179,
   "existingInventoryUnchanged": true,
   "canvas": [
     1600,

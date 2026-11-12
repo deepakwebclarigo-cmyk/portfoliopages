@@ -2,8 +2,8 @@
   "slug": "app-calivora",
   "hero": [
     {
-      "src": "/images/projects/calivora-splash-449fcf995d.webp",
-      "sha256": "449fcf995da3454655708ad68433e63eaaedf24cb234ca9835d522f739cfd2c9",
+      "src": "/images/projects/calivora-splash-03f8d2e534.webp",
+      "sha256": "03f8d2e5346b4397ab58506b6b1318b911a74d1fe8a8a04f0492c88ad6cf2815",
       "crop": {
         "left": 12,
         "top": 55,
@@ -34,8 +34,8 @@
   ],
   "thumbnail": [
     {
-      "src": "/images/projects/calivora-splash-449fcf995d.webp",
-      "sha256": "449fcf995da3454655708ad68433e63eaaedf24cb234ca9835d522f739cfd2c9",
+      "src": "/images/projects/calivora-splash-03f8d2e534.webp",
+      "sha256": "03f8d2e5346b4397ab58506b6b1318b911a74d1fe8a8a04f0492c88ad6cf2815",
       "crop": {
         "left": 12,
         "top": 55,

@@ -38,30 +38,30 @@
     }
   },
   "streamdexa": {
-    "src": "/images/thumbnails/streamdexa-9889779100.webp",
+    "src": "/images/thumbnails/streamdexa-589941e0f5.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "962a02899ca482b0da4aa33372ea6904b9e3055453f6fc894210579156e4e144",
-    "bytes": 82454,
+    "sha256": "8aca33dde617b3c448b5550c2f7a8e6da769ff2a8f030592679e8e90c9451d4d",
+    "bytes": 82818,
     "card": {
-      "src": "/images/thumbnails/streamdexa-9889779100-card.webp",
+      "src": "/images/thumbnails/streamdexa-589941e0f5-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "4ad585d9ff0992649d2cf11038da49d2cf6de4a5ca8968b56f477c80a7b479c4",
-      "bytes": 31124
+      "sha256": "2fe38f9731e9ef622c279e1d2ea9a366b123bebab14a4d0286ceee9e8cfa0191",
+      "bytes": 30814
     },
     "medium": {
-      "src": "/images/thumbnails/streamdexa-9889779100-medium.webp",
+      "src": "/images/thumbnails/streamdexa-589941e0f5-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "ef4e1dd599e2069ccc251b5549245fe550da3b14867c150205b7014a8f98e6b3",
-      "bytes": 45358
+      "sha256": "0d7616d63ae2e6efc2409b0225b4930e6896e4a65f8de195f647c82454851477",
+      "bytes": 45558
     },
-    "exportSha256": "9889779100951fcfae3c07abd27d48a8e77c9af14af8c95347da639620c1ee8a",
+    "exportSha256": "589941e0f53a38fb1dd746017fbfc05fe6f88f4da725f5ec89cff4e04cd085c4",
     "sourceRefs": [
       {
-        "src": "/images/projects/streamdexa-artwork-c40cba764a.webp",
-        "sha256": "c40cba764af0fa8d210c0e7938fc4ac58a98275ba6aa2e95bd762a99bb32b0a0",
+        "src": "/images/projects/streamdexa-theme-screen-9faa33485d.webp",
+        "sha256": "9faa33485d0a2f10ffa97ac53140e024e2281454f88fd2f696f08c8fff881747",
         "crop": {
           "left": 66,
           "top": 70,
@@ -146,30 +146,30 @@
     }
   },
   "app-infinote": {
-    "src": "/images/thumbnails/app-infinote-3c6a49c944.webp",
+    "src": "/images/thumbnails/app-infinote-f7d13b619c.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "a64279567f98cda4a7e1ca10dbff0a616c319afe6dfb64b7ff8adbc6df263b9a",
-    "bytes": 59938,
+    "sha256": "9be2555e6db11b0cafecf49b0e108556da2a0e06e17da525bf971371f484abe4",
+    "bytes": 59772,
     "card": {
-      "src": "/images/thumbnails/app-infinote-3c6a49c944-card.webp",
+      "src": "/images/thumbnails/app-infinote-f7d13b619c-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "4907bcac0828dec8872fdd7ff284305e5491642b6ec482854370a9b69ebba12b",
-      "bytes": 20418
+      "sha256": "6591fdd9a97f9553574d4a229bf21fd8e14f0bcfd116888ee4cb347d3d906a40",
+      "bytes": 20458
     },
     "medium": {
-      "src": "/images/thumbnails/app-infinote-3c6a49c944-medium.webp",
+      "src": "/images/thumbnails/app-infinote-f7d13b619c-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "841bde52bc45fb95f8383b99bdd81568f5bc2ecea67fe661c24e1b9b68d77e15",
-      "bytes": 31136
+      "sha256": "9fb0c9788e83b7321a9034783e0c6502780511cc21c4df43946a87e96c72e85e",
+      "bytes": 31050
     },
-    "exportSha256": "3c6a49c944317e84ef150bd3fd908a627f2b8b361f6a1e2311648c50800dc7d8",
+    "exportSha256": "f7d13b619cdf08c562c75a7104d29e8f0ea60daf3eeec74bee63505c12c860d4",
     "sourceRefs": [
       {
-        "src": "/images/projects/app-infinote-artwork-0fc4000de7.webp",
-        "sha256": "0fc4000de7e72bc5574751e609dfa6cd8ebcc4a3d1fc52421636ff1eaefe49b4",
+        "src": "/images/projects/app-infinote-theme-screen-e041941071.webp",
+        "sha256": "e04194107156332b1f16161143061bb3497f64258b560f9ef4b610c249c7e6e3",
         "crop": {
           "left": 22,
           "top": 22,
@@ -178,8 +178,8 @@
         }
       },
       {
-        "src": "/images/projects/app-infinote-artwork-6bc405e873.webp",
-        "sha256": "6bc405e8731d694b6b4794c9fc04734d22402589503c4200a205dd2ca25e60e7",
+        "src": "/images/projects/app-infinote-theme-screen-d985dcbdae.webp",
+        "sha256": "d985dcbdae12abf05cbb1cd8163d33b751d8d6d877d87536d0e81bd593353489",
         "crop": {
           "left": 22,
           "top": 62,
@@ -314,39 +314,39 @@
     }
   },
   "tukora-connect": {
-    "src": "/images/thumbnails/tukora-connect-11aa816001.webp",
+    "src": "/images/thumbnails/tukora-connect-c1c2759a91.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "0a8ade7421f22c6acfbc909ebced0df5f9fb6765a68946d024761419612aecb7",
-    "bytes": 82092,
+    "sha256": "d3e08dcca5e6f44f0fc7add6ad09e2ac9d5cf993bf40bd251cd435efc4e22611",
+    "bytes": 81112,
     "card": {
-      "src": "/images/thumbnails/tukora-connect-11aa816001-card.webp",
+      "src": "/images/thumbnails/tukora-connect-c1c2759a91-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "de71e1f487d84a4e32852c713472c87e36564d78e534f8d12ec906b15e3b3f28",
-      "bytes": 28722
+      "sha256": "5be97da3c0256a272b0f5e82595cc3b019980fea2560eabbaec33f952e584a58",
+      "bytes": 28278
     },
     "medium": {
-      "src": "/images/thumbnails/tukora-connect-11aa816001-medium.webp",
+      "src": "/images/thumbnails/tukora-connect-c1c2759a91-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "246e14cac25de5199f7320b7109eb98aef772dea7f5be8c1299365093379b8b2",
-      "bytes": 41516
+      "sha256": "c872ec21c9629051001963f637bce9fc88a1c5eb4762efeed52efc5a66bd74a6",
+      "bytes": 41892
     },
-    "exportSha256": "11aa8160013207ada4231d11666da8067107d86bcfc881efa11e2530607168b3",
+    "exportSha256": "c1c2759a91f4c5ab4142d3770ab069a676f6220c3e0b6653d470baa88b7d9f9c",
     "sourceRefs": [
       {
-        "src": "/images/projects/tukora-connect-artwork-6c87fc750e.webp",
-        "sha256": "6c87fc750e42454c6dda7b517ef2a7ec32083d72ba21ae1f68a23993b6637925"
+        "src": "/images/projects/tukora-connect-theme-screen-bb5958f6ad.webp",
+        "sha256": "bb5958f6ade8af22d2e91d4f24e52d8cbaa06d81b6ec6a06c88feb8fcc87ac9c"
       },
       {
-        "src": "/images/projects/tukora-connect-artwork-a0a08bf012.webp",
-        "sha256": "a0a08bf01217f77c3cefc71429729af3c17d649430a4eb418c04d35ad1f18d24"
+        "src": "/images/projects/tukora-connect-theme-screen-3e2103914d.webp",
+        "sha256": "3e2103914dc41f8001e03c03b2a83a32f8c8f2040aea963d2899e84a0583073d"
       }
     ],
     "brand": {
       "src": "/images/brand/projects/tukora-connect-horizontal.png",
-      "sha256": "f60389e2594a483c0b7ce8cff1663dce3beb2c388ed0a3ee4b073a48babdc7e0"
+      "sha256": "b2543c5c64ddb185143bb1606f96897be71364136c133df2c18977ed93fc7cbb"
     },
     "fit": {
       "titleFits": true,
@@ -431,30 +431,30 @@
     }
   },
   "paranest": {
-    "src": "/images/thumbnails/paranest-0b699d7317.webp",
+    "src": "/images/thumbnails/paranest-1d8a4eca05.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "3c155d89afbc4bdd8f3b1e2afc36701789aa757ce07a1f1d1f0c58bb74542781",
-    "bytes": 48338,
+    "sha256": "70b4e14be53d858caca4143a046a0ae391f2117209be2315091095d7d12310c4",
+    "bytes": 48790,
     "card": {
-      "src": "/images/thumbnails/paranest-0b699d7317-card.webp",
+      "src": "/images/thumbnails/paranest-1d8a4eca05-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "3407e8118269adef355ce0a531812a1820c74a49908cc37c8be7c61ac309ad4d",
-      "bytes": 18330
+      "sha256": "7fd29288251f5c7c3c1dd8509d6357f8a685c02d55a1f0c0efb7f61fd2044b08",
+      "bytes": 18364
     },
     "medium": {
-      "src": "/images/thumbnails/paranest-0b699d7317-medium.webp",
+      "src": "/images/thumbnails/paranest-1d8a4eca05-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "b42d00a41c0b06e0491a99cc43d68baa52597f39570d306dfc47abb2d5d69339",
-      "bytes": 26104
+      "sha256": "d03360e296223aeab493a548e5b676df952cec61176c11d046029f909523a745",
+      "bytes": 26178
     },
-    "exportSha256": "0b699d731750e172570b3845e66020bfffd2394f5b1b41b3e5c21ac527957c7c",
+    "exportSha256": "1d8a4eca058e190461afb47a9baea67b09103410ee7ad5e46ebd41a8e55affc0",
     "sourceRefs": [
       {
-        "src": "/images/projects/paranest-artwork-3dcf825fe0.webp",
-        "sha256": "3dcf825fe0b5270fbabb4e229d0df68c9b79b48c6f4f433c07efaf8d0318fd32",
+        "src": "/images/projects/paranest-theme-screen-94c798ea16.webp",
+        "sha256": "94c798ea1607bf6e8f1b5b0d13ad4f52bce894a09a543b566f595239310e89b4",
         "crop": {
           "left": 66,
           "top": 70,
@@ -539,30 +539,30 @@
     }
   },
   "alumvia": {
-    "src": "/images/thumbnails/alumvia-4efa20aaf4.webp",
+    "src": "/images/thumbnails/alumvia-e411bab574.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "867af7d5d107ef4196e2acf2f4a6b25985ba06109a33547c21ce0e1d8e2caa20",
-    "bytes": 73192,
+    "sha256": "7f85eb6c0f7518ae125ac9f828fdb1919805725aa426e3bb19c616f7bb4fe3fa",
+    "bytes": 73356,
     "card": {
-      "src": "/images/thumbnails/alumvia-4efa20aaf4-card.webp",
+      "src": "/images/thumbnails/alumvia-e411bab574-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "ea52504daa51aee0a33f3a215c3cf9e793a6795c53a39f2d782f92f768ca3d0f",
-      "bytes": 29636
+      "sha256": "35dea0a65006872bab4ca20a880cfdf4494136ac57b95b69e667bed7d07582e5",
+      "bytes": 29788
     },
     "medium": {
-      "src": "/images/thumbnails/alumvia-4efa20aaf4-medium.webp",
+      "src": "/images/thumbnails/alumvia-e411bab574-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "217d4ee215495a74c7c0c91d3056329821b178d10ef20e017c68af08ff955b60",
-      "bytes": 41376
+      "sha256": "1e4e14867dd7e72608a5418adcce4f20dfe6b1390db291b6cd82b71125071e4c",
+      "bytes": 41696
     },
-    "exportSha256": "4efa20aaf446be9fb211f63e5e24c499a0fd059cb52ce1c77d07c044d3c4a932",
+    "exportSha256": "e411bab57400db29b7793f15e85928340177be12a2670243577d232b8d43933c",
     "sourceRefs": [
       {
-        "src": "/images/projects/alumvia-artwork-952dc52187.webp",
-        "sha256": "952dc52187c68c473f9b838b1ccda8b2a4417654595e50c255f97501c06ecef8",
+        "src": "/images/projects/alumvia-theme-screen-6c50751ab7.webp",
+        "sha256": "6c50751ab727fa25c3ce27485560599ea21c95bd7080aa5c2476cd90947d3e84",
         "crop": {
           "left": 66,
           "top": 70,
@@ -577,30 +577,30 @@
     }
   },
   "kegeltempo": {
-    "src": "/images/thumbnails/kegeltempo-6ae56d1610.webp",
+    "src": "/images/thumbnails/kegeltempo-aa180b510e.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "a98bf6e786f539ccd98e4c38f5e5aeaf7a06b8693927a0628092695c8d9bcf4f",
-    "bytes": 107726,
+    "sha256": "13a2eadbfed7422cc2ab4122b281e2b2c8ba84a292e3569514591df8d26ac2e4",
+    "bytes": 107100,
     "card": {
-      "src": "/images/thumbnails/kegeltempo-6ae56d1610-card.webp",
+      "src": "/images/thumbnails/kegeltempo-aa180b510e-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "97b1f5090d4249f1b2a29596947a0a3f9b67ef6a99e79df0c81d87364d5a6f9d",
-      "bytes": 39004
+      "sha256": "08978c37568a265a565d71ad83a3f9c012826ca6b928b016ee4ba3269151e743",
+      "bytes": 38804
     },
     "medium": {
-      "src": "/images/thumbnails/kegeltempo-6ae56d1610-medium.webp",
+      "src": "/images/thumbnails/kegeltempo-aa180b510e-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "734e8bb67d11d2471e7df8586e67cfc8fe41408a94f402b12210e8bc20b00005",
-      "bytes": 56726
+      "sha256": "1ec6581d302741b0942d1e954f715f5cc151a5f04a58b9a7858cf6de561428a7",
+      "bytes": 56736
     },
-    "exportSha256": "6ae56d16100ebb1130cd4d525d1f4d9b6e1162898bfb90be41f5f3a458ead030",
+    "exportSha256": "aa180b510ec8c598d92ae1fbf27673071fc03f13569e387a326189b3d212ec3b",
     "sourceRefs": [
       {
-        "src": "/images/projects/kegeltempo-artwork-40b9d2c293.webp",
-        "sha256": "40b9d2c293a56a3816fd8dc4df25006a72db01ef6b08080ad453e7a325c38822",
+        "src": "/images/projects/kegeltempo-theme-screen-b4769e94f9.webp",
+        "sha256": "b4769e94f960b2ce4d310a12f541955e680e6616626bde493cf138ce60694f28",
         "crop": {
           "left": 66,
           "top": 70,
@@ -615,30 +615,30 @@
     }
   },
   "rallybridge": {
-    "src": "/images/thumbnails/rallybridge-99f471548d.webp",
+    "src": "/images/thumbnails/rallybridge-89efeec565.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "ed7b23e9de5eab63f0e7ea2d0082c12b226949f8f4be0bfa90fb0667e3fc183a",
-    "bytes": 79488,
+    "sha256": "e8fe8eb4345689944b12ef8f280465ad8841a1288556a7f7e50851fa3722d76e",
+    "bytes": 79380,
     "card": {
-      "src": "/images/thumbnails/rallybridge-99f471548d-card.webp",
+      "src": "/images/thumbnails/rallybridge-89efeec565-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "e715819ecd73ccb1174e9e85266e7c27dba174624b6f8cac299ddb85d544ce2e",
-      "bytes": 29250
+      "sha256": "5eb1a5be02a8bc3cfd8fde4b70e49d96a41d018d6c0c3ad924ebee5ebb94d2c1",
+      "bytes": 29210
     },
     "medium": {
-      "src": "/images/thumbnails/rallybridge-99f471548d-medium.webp",
+      "src": "/images/thumbnails/rallybridge-89efeec565-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "140323da42506f554f472ed2b1da6710ff293e5b0862d5a371715d9bf4135835",
-      "bytes": 42094
+      "sha256": "56d04dd1f884a580b21a38eb09ff5fd8f09028a3e35049805a4aae00f9b10c83",
+      "bytes": 42052
     },
-    "exportSha256": "99f471548df6638900d6b999e6bb30d79c487a4f00f67b26451840cb4a46b18c",
+    "exportSha256": "89efeec56567eed28306550aa83328b9b4050dbc5549a82a08e313aa851c32cc",
     "sourceRefs": [
       {
-        "src": "/images/projects/rallybridge-artwork-43d92ae482.webp",
-        "sha256": "43d92ae4823561bb8adff1794f3584d0597e615baa3ea5f87cd8cc94e9c0eebd",
+        "src": "/images/projects/rallybridge-theme-screen-aa88b3f648.webp",
+        "sha256": "aa88b3f6481f62fbf8c09ecf0f69dfa297992190f76c81f69ff49c4bf7f2e390",
         "crop": {
           "left": 66,
           "top": 70,
@@ -685,30 +685,30 @@
     }
   },
   "whizlume": {
-    "src": "/images/thumbnails/whizlume-90ea1cde31.webp",
+    "src": "/images/thumbnails/whizlume-247e64b93d.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "783f959aba2972f65f3f2133902ae6e0fe6c7cb21e580bad40640037260c6a20",
-    "bytes": 79198,
+    "sha256": "1ac2453e30c34c39240eb2501beab0fa21fdc92af4a859adacec86dc4d02b655",
+    "bytes": 79534,
     "card": {
-      "src": "/images/thumbnails/whizlume-90ea1cde31-card.webp",
+      "src": "/images/thumbnails/whizlume-247e64b93d-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "64b0e761ba90732031107773822e073eeebb11783d45cc020de6547754bc4eb1",
-      "bytes": 30774
+      "sha256": "2c7adb2a1640762d72fd6363946fb545b9ee2a0bee59011e21697923b3df5f55",
+      "bytes": 30742
     },
     "medium": {
-      "src": "/images/thumbnails/whizlume-90ea1cde31-medium.webp",
+      "src": "/images/thumbnails/whizlume-247e64b93d-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "497c5fc79794661cba5cefef06d644542adc59569aa85ec598b6cfefe106b85e",
-      "bytes": 43812
+      "sha256": "b62cd0cc485e2406145ce4d9c314bb5d81f08fd67c97bb72a965b5217a3fdfad",
+      "bytes": 43836
     },
-    "exportSha256": "90ea1cde315a75d9d2ba465ed33592e7f869185bec587fb239ba0f5813bea3e3",
+    "exportSha256": "247e64b93df957e4fe4f9a2afa270929d05b5c45b2414c0313ec44ec1e20abec",
     "sourceRefs": [
       {
-        "src": "/images/projects/whizlume-artwork-912ad5c34f.webp",
-        "sha256": "912ad5c34f9a0d28511279fe4e05869df24c23c6aafd3ade6d3d50e21c48ed95",
+        "src": "/images/projects/whizlume-theme-screen-1ab9924e7c.webp",
+        "sha256": "1ab9924e7c38211e187c007bda3541835563db94a8d7c21f9baaff6bcd9ae2b0",
         "crop": {
           "left": 66,
           "top": 70,
@@ -723,30 +723,30 @@
     }
   },
   "estrata": {
-    "src": "/images/thumbnails/estrata-78498d049c.webp",
+    "src": "/images/thumbnails/estrata-f27add3ee7.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "7c90e985461fa15cabd40ed06fb626de8443719262b177373ce843fd6bd1bfa5",
-    "bytes": 46566,
+    "sha256": "f591cf37e0b45b807257195869946f4519793282e19e77e3731fa2bfa2b151a9",
+    "bytes": 47132,
     "card": {
-      "src": "/images/thumbnails/estrata-78498d049c-card.webp",
+      "src": "/images/thumbnails/estrata-f27add3ee7-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "4410f9132e536afc57242c82e4afdba52162aa3d47cf184a0be1372a8b72e594",
-      "bytes": 16602
+      "sha256": "37a53be7d8de4c0f484dbe076d2871e2d7a71efb4be16529a5f6ec0965d1398e",
+      "bytes": 16360
     },
     "medium": {
-      "src": "/images/thumbnails/estrata-78498d049c-medium.webp",
+      "src": "/images/thumbnails/estrata-f27add3ee7-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "81966392ac246a236fcddb6c2f87cb05692d4f0a3054898660664031c85a83c8",
-      "bytes": 24540
+      "sha256": "936f92689a807c1aceebb4b5520c6a118de545bc7d31c98e16f72616df6b5e1f",
+      "bytes": 24352
     },
-    "exportSha256": "78498d049cacb8bb0ab21973d865d5fd331d58b5972c3c95e2b82aa8d307eeef",
+    "exportSha256": "f27add3ee74d1e0eac9d78c29fd1d02e59f329c268d11965b64e9502233e5041",
     "sourceRefs": [
       {
-        "src": "/images/projects/estrata-artwork-f923ec6d09.webp",
-        "sha256": "f923ec6d09c374717239c71dce8f832d20036ea0aa076ed9621af6fb5449c9e2",
+        "src": "/images/projects/estrata-theme-screen-ad4ebdb3ff.webp",
+        "sha256": "ad4ebdb3ff19dfc7562ae9b7a24b616f4a14a12b5ab85541ca5576888020acb6",
         "crop": {
           "left": 66,
           "top": 70,
@@ -799,30 +799,30 @@
     }
   },
   "leadforma": {
-    "src": "/images/thumbnails/leadforma-b248d35755.webp",
+    "src": "/images/thumbnails/leadforma-b814aceb0b.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "94a38c90529e51e16f6b2a624cdb8b2c0dfab569d957fcdaa5d9827f4cddcf09",
-    "bytes": 49060,
+    "sha256": "02517c5eb3e876f0d0af673e3f2c493421e401b0cab87f78e9acbd657950e0da",
+    "bytes": 48674,
     "card": {
-      "src": "/images/thumbnails/leadforma-b248d35755-card.webp",
+      "src": "/images/thumbnails/leadforma-b814aceb0b-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "549404a4b8153b6e22f8ece48843ca48d7fdc3150940342e9aa8f691385b6e86",
-      "bytes": 16604
+      "sha256": "e622ebebb7948c0315d8d8ee433389b52714a459aacf0343d22836792bd06272",
+      "bytes": 16518
     },
     "medium": {
-      "src": "/images/thumbnails/leadforma-b248d35755-medium.webp",
+      "src": "/images/thumbnails/leadforma-b814aceb0b-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "ec111d9013ec7fe9d30fbc1650b663b99fd4467512d3d24ce3a682b8a665a873",
-      "bytes": 24916
+      "sha256": "c67f80c1796d38a2aa5ac60a2e2fc611d776d27b454c22dbc450f2a87fddbdcc",
+      "bytes": 24698
     },
-    "exportSha256": "b248d35755e7d7bbd9704488a925391535697e9132e36069f3c8a6f0e52c7ad2",
+    "exportSha256": "b814aceb0bc720f908608113e50d864a67d41e6c587691026f7c3a358bc03929",
     "sourceRefs": [
       {
-        "src": "/images/projects/leadforma-preview-76d088504c.webp",
-        "sha256": "76d088504c203ff4256d660af8da5da79b24ec5822af97a551f7b8a44ff46c75",
+        "src": "/images/projects/leadforma-theme-preview-f00ca3769c.webp",
+        "sha256": "f00ca3769c9e333f706bac36dffffd31d8b08c54437f59fb73ecceb1ed3a6687",
         "crop": {
           "left": 265,
           "top": 405,
@@ -924,30 +924,30 @@
     "design": "Consistent two-device mobile showcase; slim graphite hardware, equal dimensions and baseline; original app UI and logos"
   },
   "app-simplyscouted": {
-    "src": "/images/thumbnails/app-simplyscouted-6f32bf367a.webp",
+    "src": "/images/thumbnails/app-simplyscouted-402bfca695.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "b583525e4520f7c81c9ffe88f98e0f9c7547760efe16710dc3cb6c0962ec3cd8",
-    "bytes": 55488,
+    "sha256": "ed7859a50abc2353afa56a0f6f845c2b0e4c479d0dd06e8e4529a55c2dcb8985",
+    "bytes": 55348,
     "card": {
-      "src": "/images/thumbnails/app-simplyscouted-6f32bf367a-card.webp",
+      "src": "/images/thumbnails/app-simplyscouted-402bfca695-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "444e06c2048e16e473b7ef914811f542a2b4288ff81acf54fca662128adfacb8",
-      "bytes": 22084
+      "sha256": "96621077f09ba1e07cbf46a5ad1efcb9fc76ea5858691bb9a616535b62b4c980",
+      "bytes": 21864
     },
     "medium": {
-      "src": "/images/thumbnails/app-simplyscouted-6f32bf367a-medium.webp",
+      "src": "/images/thumbnails/app-simplyscouted-402bfca695-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "7edf1f8f63eda4f074fade3c8b9fe2d67b89705a947f49f2c77c93475d20881b",
-      "bytes": 30832
+      "sha256": "ffffd5913b3c8bdcca901fa7de85815c39138bde5a61995df5cdc90e115b8f76",
+      "bytes": 30694
     },
-    "exportSha256": "6f32bf367a593b9e9335d1a11d8837c911c3524f335c607569f9bb0bb154d398",
+    "exportSha256": "402bfca6956d81313418ee169545b533f93984e590c9b42c18613c42626ac85f",
     "sourceRefs": [
       {
-        "src": "/images/projects/app-simplyscouted-artwork-c7cd1aa78b.webp",
-        "sha256": "c7cd1aa78b814d3fe27fc2eb39b420fa06336c4e178c3ca9524114a07ebb2422",
+        "src": "/images/projects/app-simplyscouted-theme-screen-3ecf3626b9.webp",
+        "sha256": "3ecf3626b98c244d27b1c5a93ac425ead3c8d2ad67cd523982d7209919005bde",
         "crop": {
           "left": 22,
           "top": 54,
@@ -956,8 +956,8 @@
         }
       },
       {
-        "src": "/images/projects/app-simplyscouted-artwork-fdb1248571.webp",
-        "sha256": "fdb1248571c2f022e21531a88215f28511109be888feac4cfd455c8cb40ebe1e",
+        "src": "/images/projects/app-simplyscouted-theme-screen-c5c849a79e.webp",
+        "sha256": "c5c849a79e3a8598908db9a32f86cefe0531c4fc0b099b88cbe070d39a9da077",
         "crop": {
           "left": 22,
           "top": 54,
@@ -989,30 +989,30 @@
     "design": "Consistent two-device mobile showcase; slim graphite hardware, equal dimensions and baseline; original app UI and logos"
   },
   "app-silaflow": {
-    "src": "/images/thumbnails/app-silaflow-d1ba8096eb.webp",
+    "src": "/images/thumbnails/app-silaflow-c271e579a6.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "e7063daab378b2ee73985bb39a8867fcdc11aa19da0ffff4791183bbadb5627d",
-    "bytes": 76650,
+    "sha256": "7123215a70ffadd9e496fafd9ca3eaa8c9c5ce6ba3d69b3002384856064fd7f0",
+    "bytes": 77176,
     "card": {
-      "src": "/images/thumbnails/app-silaflow-d1ba8096eb-card.webp",
+      "src": "/images/thumbnails/app-silaflow-c271e579a6-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "f717e5db73bc0efec39aa6990e0d4370061b477f95d278d11fa6373494d1be85",
-      "bytes": 26796
+      "sha256": "c4d04ea98046135b9f2b160fec5eed07cf0ab9891165950d75d0cbefe2bf9963",
+      "bytes": 26654
     },
     "medium": {
-      "src": "/images/thumbnails/app-silaflow-d1ba8096eb-medium.webp",
+      "src": "/images/thumbnails/app-silaflow-c271e579a6-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "d2a774d560f95fe2b71d79ec2e4e9d17eacce3288aafd33c7c2a92667cd66ef5",
-      "bytes": 40268
+      "sha256": "4603ba68ddd56e072c82cacadc106d0b70fa3f78aee0107e82c5c73d890cef5b",
+      "bytes": 40156
     },
-    "exportSha256": "d1ba8096eba985f7b6cacd6698f4a4112c486bdead5b98a2e4d027d748d490fb",
+    "exportSha256": "c271e579a693ee9c84f674b4596b437c794f083a06b9670eb7d325fc84781a7d",
     "sourceRefs": [
       {
-        "src": "/images/projects/app-silaflow-artwork-e6037b0a8d.webp",
-        "sha256": "e6037b0a8d8662aefa189be18f60c3168970751e4cb14a64d2e37eec5161c5f8",
+        "src": "/images/projects/app-silaflow-theme-screen-adcf8ebe71.webp",
+        "sha256": "adcf8ebe715dd623162d2157fe0fd7f4d43117895911d32a8b119c6fe64edbd7",
         "crop": {
           "left": 22,
           "top": 52,
@@ -1021,8 +1021,8 @@
         }
       },
       {
-        "src": "/images/projects/app-silaflow-artwork-150eb225a7.webp",
-        "sha256": "150eb225a7bb8b643d4c8da14478d645542cbf64c935a01ba3b094af1f3bbfe1",
+        "src": "/images/projects/app-silaflow-theme-screen-01d4a8a78e.webp",
+        "sha256": "01d4a8a78e9117d11b524c481d707873adb6e425d6333c7bf9576d24a387074c",
         "crop": {
           "left": 22,
           "top": 52,
@@ -1054,30 +1054,30 @@
     "design": "Consistent two-device mobile showcase; slim graphite hardware, equal dimensions and baseline; original app UI and logos"
   },
   "app-habitstride": {
-    "src": "/images/thumbnails/app-habitstride-1440ef7a7c.webp",
+    "src": "/images/thumbnails/app-habitstride-dcff12275a.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "4e01fa8091ae2c4d18c290483b336943893d7f04ee69994fca1e26656db06f4d",
-    "bytes": 40910,
+    "sha256": "9e5b0f7cc80c37e813603c8e0f12607821b84f0ad226cde660c786c00a042a29",
+    "bytes": 41044,
     "card": {
-      "src": "/images/thumbnails/app-habitstride-1440ef7a7c-card.webp",
+      "src": "/images/thumbnails/app-habitstride-dcff12275a-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "65ceeb46674e422f751d2fdecaaff1742fe092b59183de1fd2f5854586648ade",
-      "bytes": 15098
+      "sha256": "623110efa5559610cde0dad2bb640b18a6432ebcbdb308c2ef54e3b22394f061",
+      "bytes": 15060
     },
     "medium": {
-      "src": "/images/thumbnails/app-habitstride-1440ef7a7c-medium.webp",
+      "src": "/images/thumbnails/app-habitstride-dcff12275a-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "9645801b2dbff471933527e41906d72e517d85f46caa53bf2e9a7ac9c5557d79",
-      "bytes": 21332
+      "sha256": "620d6ee6b0620bb6fd097d44136d9a10704192c8385a29907536e6772292abc0",
+      "bytes": 21368
     },
-    "exportSha256": "1440ef7a7cdc88cfbb4dc4da00aecc7fe24911ec8addfa8b6f8289917f7f26c1",
+    "exportSha256": "dcff12275aaa0fc005cdeb43586cff0d5ac1bbd07704ad349d1ec58e58be39c4",
     "sourceRefs": [
       {
-        "src": "/images/projects/app-habitstride-artwork-4c62999422.webp",
-        "sha256": "4c62999422519cd7bc8962817a622d4019405fd4a2eb1f2219831b48a9af859d",
+        "src": "/images/projects/app-habitstride-theme-screen-88b884d5ff.webp",
+        "sha256": "88b884d5ffa0f29065eb7d8400b3d4da07e6b8effb9d3c66aed4a5fe4e2e9d70",
         "crop": {
           "left": 22,
           "top": 22,
@@ -1086,8 +1086,8 @@
         }
       },
       {
-        "src": "/images/projects/app-habitstride-artwork-d31d050563.webp",
-        "sha256": "d31d050563dce190a74dc96ccf5fee46207595dcdeeab940de0db9785417d7e3",
+        "src": "/images/projects/app-habitstride-theme-screen-2b04166a88.webp",
+        "sha256": "2b04166a88c09d4e0eb1b40a8210adc55b565fcc10563df1fed34f29b78907cc",
         "crop": {
           "left": 22,
           "top": 62,
@@ -1119,30 +1119,30 @@
     "design": "Consistent two-device mobile showcase; slim graphite hardware, equal dimensions and baseline; original app UI and logos"
   },
   "app-tukora-connect": {
-    "src": "/images/thumbnails/app-tukora-connect-46ee8030f5.webp",
+    "src": "/images/thumbnails/app-tukora-connect-7c7687c2c8.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "1eb2a42f79679fd290ae1996f4992877f7e07592827ad88f91803d24b590f8d7",
-    "bytes": 58446,
+    "sha256": "1b225713dd2b9bd35d213437a03de9dd8e995ca7f3a73c104b942ee1522ef96f",
+    "bytes": 58106,
     "card": {
-      "src": "/images/thumbnails/app-tukora-connect-46ee8030f5-card.webp",
+      "src": "/images/thumbnails/app-tukora-connect-7c7687c2c8-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "9a7936f0454612c4882f299755dda226c9f304a47e333bbbd4e2aac06ca67159",
-      "bytes": 22740
+      "sha256": "fb0f44a8d06bdf2032b635fa1c375cc371ac335db8d8d39705969b2d464e9099",
+      "bytes": 22558
     },
     "medium": {
-      "src": "/images/thumbnails/app-tukora-connect-46ee8030f5-medium.webp",
+      "src": "/images/thumbnails/app-tukora-connect-7c7687c2c8-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "f3bae8aaeb60e8f3b6f3982027a6bb2a9611ae7bdb0c70a56b0e4404ba68bcb9",
-      "bytes": 32074
+      "sha256": "fd0fc1035b4981b7aeddd2d1e7e75722e263fd95d373f6d3305c48dc5a5de064",
+      "bytes": 31910
     },
-    "exportSha256": "46ee8030f5c827ba67aeda5f5c7a5d81546621eb254b9c3f59bbaaf8a7952e25",
+    "exportSha256": "7c7687c2c8e8344b1aaf66bc72e05553851fad1a40ad129db0c758237fd4e9e2",
     "sourceRefs": [
       {
-        "src": "/images/projects/app-tukora-connect-artwork-fda26c6f4b.webp",
-        "sha256": "fda26c6f4bcee210cca0fe8c98e2cc340ab7c4740a5e861e562018f45408a53a",
+        "src": "/images/projects/app-tukora-connect-theme-screen-e3c6a655da.webp",
+        "sha256": "e3c6a655da91c1e6d5e7e03230d25add1471eaaf0c8843fe7c36427d320ba7c1",
         "crop": {
           "left": 22,
           "top": 52,
@@ -1151,8 +1151,8 @@
         }
       },
       {
-        "src": "/images/projects/app-tukora-connect-artwork-75eaf9afdc.webp",
-        "sha256": "75eaf9afdcb5efa8557ea8855eda603253b69c25ec2bf5cd7c34d37a2c568d76",
+        "src": "/images/projects/app-tukora-connect-theme-screen-0949b418f3.webp",
+        "sha256": "0949b418f3b9d1d7639d0689ccaacef945774fb325b9ed8ae02185ee4855e40a",
         "crop": {
           "left": 22,
           "top": 22,
@@ -1639,30 +1639,30 @@
     "design": "Consistent two-device mobile showcase; slim graphite hardware, equal dimensions and baseline; original app UI and logos"
   },
   "app-pantryone": {
-    "src": "/images/thumbnails/app-pantryone-765a8b31d6.webp",
+    "src": "/images/thumbnails/app-pantryone-75a3417534.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "f4115743adc6daf7aefcb43c6f564e91f10793a91f17e7341e8254f69b7adfb9",
-    "bytes": 55222,
+    "sha256": "dc2ab708ce8ed471ad5110596d3e686cf5f77c2d605abae23eb8fc0d0b35cfdf",
+    "bytes": 55466,
     "card": {
-      "src": "/images/thumbnails/app-pantryone-765a8b31d6-card.webp",
+      "src": "/images/thumbnails/app-pantryone-75a3417534-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "baa11705ce8d852a0ff3201d31bb2d3728bc1b7dcccded082a042b4ba6220edc",
-      "bytes": 20802
+      "sha256": "f1a7d6be07370f47afb634c8352892a8ada4903043755374566651d7514cdcff",
+      "bytes": 20854
     },
     "medium": {
-      "src": "/images/thumbnails/app-pantryone-765a8b31d6-medium.webp",
+      "src": "/images/thumbnails/app-pantryone-75a3417534-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "e79cb7e9941f269d0017eb179f8fbbd5c46d6c38c59b1dac4d05d5b1303733ff",
-      "bytes": 29974
+      "sha256": "86dc45c1c62107afad5946e5f471df08f346d1436eb9c48d4610dc08394099ed",
+      "bytes": 29942
     },
-    "exportSha256": "765a8b31d67da2cae3a747d897bc342b5935ebd7b601a3ba0caeb2b0321c49d8",
+    "exportSha256": "75a3417534b700916f1d06aafa22353b766ba24d813fd21d30b5097e1d101683",
     "sourceRefs": [
       {
-        "src": "/images/projects/app-pantryone-artwork-39388534c5.webp",
-        "sha256": "39388534c5d57f48523cffd1fcc23b4efac6ce55fd8af0bd5bdae5bb6a9b75bf",
+        "src": "/images/projects/app-pantryone-theme-screen-e0a114f262.webp",
+        "sha256": "e0a114f262f3282a30f77b2f07f1e7ae3b54b5e5128ee7ac2821477267c03806",
         "crop": {
           "left": 22,
           "top": 22,
@@ -1671,8 +1671,8 @@
         }
       },
       {
-        "src": "/images/projects/app-pantryone-artwork-8d49ef7677.webp",
-        "sha256": "8d49ef76775be4bbcad7fb35df088ba1b840fbc620d4d7d0095a9ab03314a0ce",
+        "src": "/images/projects/app-pantryone-theme-screen-3f8a447dcf.webp",
+        "sha256": "3f8a447dcf7d80cdfcb65cac45216e9c127a8e9c9744f57fd8a7452eb0430b8d",
         "crop": {
           "left": 22,
           "top": 52,
@@ -2029,30 +2029,30 @@
     "design": "Consistent two-device mobile showcase; slim graphite hardware, equal dimensions and baseline; original app UI and logos"
   },
   "app-streetslate": {
-    "src": "/images/thumbnails/app-streetslate-f05e2bbcc3.webp",
+    "src": "/images/thumbnails/app-streetslate-f5a56f598c.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "f3832be63919c4d5eaa0aeab2b146d1bba284c5f0b8000cb74a4a82dc42aeb3c",
-    "bytes": 48234,
+    "sha256": "bb653e2c8b235ae395f4dc3327ef62d6c196a50c2bf8252f9a6e61023f83fa05",
+    "bytes": 47796,
     "card": {
-      "src": "/images/thumbnails/app-streetslate-f05e2bbcc3-card.webp",
+      "src": "/images/thumbnails/app-streetslate-f5a56f598c-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "b131abe5dee99ba5fec399b03df32663c9f41cdbaaf370e1b452d842e14d33c3",
-      "bytes": 18026
+      "sha256": "179739b4bdc6902fe4d1582788966a0f4f9ba18ce1117e79af87a8b26928d81a",
+      "bytes": 17938
     },
     "medium": {
-      "src": "/images/thumbnails/app-streetslate-f05e2bbcc3-medium.webp",
+      "src": "/images/thumbnails/app-streetslate-f5a56f598c-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "b67988abaab9f5469b10477dea1356ade91177f4a1834f6da049eabd5cd16837",
-      "bytes": 26064
+      "sha256": "7531a4cb365e317528ca114262e0e0328365a4c314054e3c8b8cc0c4fdb71bd9",
+      "bytes": 25816
     },
-    "exportSha256": "f05e2bbcc3aad904c6450a31e0de41687db02125918f4eb1cece7e7a0f062eb8",
+    "exportSha256": "f5a56f598c6af23cc61c486f842fd97475ecceadc2d43dc8fd174116223388b3",
     "sourceRefs": [
       {
-        "src": "/images/projects/app-streetslate-artwork-7b47c7d3de.webp",
-        "sha256": "7b47c7d3de0fca58a23fcf635983563697677efb4a77349cea560dd0fda1543d",
+        "src": "/images/projects/app-streetslate-theme-screen-f8e6712632.webp",
+        "sha256": "f8e67126325b00de5d6c67fcf20d4b1aa0abe329e1945bb92947c61082e9b3dc",
         "crop": {
           "left": 19,
           "top": 43,
@@ -2061,8 +2061,8 @@
         }
       },
       {
-        "src": "/images/projects/app-streetslate-artwork-7755b4e653.webp",
-        "sha256": "7755b4e653eb1775a25708f10445ca7f3ba81c3efd1daf819a450e83803a43b1",
+        "src": "/images/projects/app-streetslate-theme-screen-b14bc2a460.webp",
+        "sha256": "b14bc2a460591407317fc43f6a155975b17b28978d38250c6e0d67701a7293ab",
         "crop": {
           "left": 19,
           "top": 43,
@@ -2224,30 +2224,30 @@
     "design": "Consistent two-device mobile showcase; slim graphite hardware, equal dimensions and baseline; original app UI and logos"
   },
   "app-kegeltempo": {
-    "src": "/images/thumbnails/app-kegeltempo-b60bb9e056.webp",
+    "src": "/images/thumbnails/app-kegeltempo-2ce44db807.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "1bc6d602d01404978a727d79c2e31dd9f366fdd9197ee45317316d11bcfb0204",
-    "bytes": 63456,
+    "sha256": "e8ea47d2abde5cfb7f52d312058796cb27100fa1e9100d392fa3d60c145c31c0",
+    "bytes": 62456,
     "card": {
-      "src": "/images/thumbnails/app-kegeltempo-b60bb9e056-card.webp",
+      "src": "/images/thumbnails/app-kegeltempo-2ce44db807-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "de70cb81a5060675ac2052f396f8b91ac8925ed93d3803fc838436af96eebb53",
-      "bytes": 23590
+      "sha256": "89bae34c2deaed1ad6b68ee2d61ed12897f7fe042a9149fd0a7c24e390a0e4a2",
+      "bytes": 23374
     },
     "medium": {
-      "src": "/images/thumbnails/app-kegeltempo-b60bb9e056-medium.webp",
+      "src": "/images/thumbnails/app-kegeltempo-2ce44db807-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "90bbc908c564939ad20b75452d98a8ccdbc69eb85e36a45f9d5e98c90af52dcd",
-      "bytes": 34738
+      "sha256": "298db69aa9bdcb67692f26e43eb48ace8061c7b121ed4a87c623b1ce07a65cee",
+      "bytes": 34176
     },
-    "exportSha256": "b60bb9e05617322a9aeaac10e27ed964632ee5e5267efc76802e8b3cff7c6a5e",
+    "exportSha256": "2ce44db80747466c744a4fec7f3162e4b39ab5206f8ffbdb8755db7dfcb43465",
     "sourceRefs": [
       {
-        "src": "/images/projects/app-kegeltempo-artwork-e347393ba9.webp",
-        "sha256": "e347393ba9ae053f3416ddb44e45478d1b7ba6b8aba3e347424af9ba91a1aad3",
+        "src": "/images/projects/app-kegeltempo-theme-screen-755f7f97b2.webp",
+        "sha256": "755f7f97b2e0d66b34d5e7b5381facd40baef8cb93ca5a1d194c2aa7bdecec46",
         "crop": {
           "left": 22,
           "top": 22,
@@ -2256,8 +2256,8 @@
         }
       },
       {
-        "src": "/images/projects/app-kegeltempo-artwork-e26d976bb0.webp",
-        "sha256": "e26d976bb06219ccadd20485f277958896e1843aa04c1477da8224a3a4e2a073",
+        "src": "/images/projects/app-kegeltempo-theme-screen-9a0bec47f3.webp",
+        "sha256": "9a0bec47f3bb4f49931227c95b1b5ea6dc74b125451eec52faed38ac667a9f19",
         "crop": {
           "left": 22,
           "top": 52,
@@ -2398,30 +2398,30 @@
     "design": "Consistent two-device mobile showcase; slim graphite hardware, equal dimensions and baseline; original app UI and logos"
   },
   "app-strivaro": {
-    "src": "/images/thumbnails/app-strivaro-f4b8d9cff4.webp",
+    "src": "/images/thumbnails/app-strivaro-b78476131b.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "4103f02811391944d268fb57b4755705c33ff4086f1be88a832b4d6ff3eda2ef",
-    "bytes": 50476,
+    "sha256": "97dc4382881db111f86d68c1e7ffc76ccc3921b7a8de0593df41c8823800597a",
+    "bytes": 50502,
     "card": {
-      "src": "/images/thumbnails/app-strivaro-f4b8d9cff4-card.webp",
+      "src": "/images/thumbnails/app-strivaro-b78476131b-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "cb65214b1b074401da0d0c885e208aa4de8878bf99926e58e7406d92a80f0f5e",
-      "bytes": 19466
+      "sha256": "ad865561311dcefdfe688ea70fe212828543f70c9062f57ae645db46a6ec8330",
+      "bytes": 19474
     },
     "medium": {
-      "src": "/images/thumbnails/app-strivaro-f4b8d9cff4-medium.webp",
+      "src": "/images/thumbnails/app-strivaro-b78476131b-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "d62c33f5c38d0b145e8b7ecf6caa9f1dfc8598f9c5cac2d9b60039cc1c338774",
-      "bytes": 27366
+      "sha256": "6a5313031fbd984d77e8e63d5dd70ce8112ff778ed2d9bfff9de353dcc7f1fcf",
+      "bytes": 27246
     },
-    "exportSha256": "f4b8d9cff44a4167095c968ca18c3ed8d85f70503fa2ef0f13c56a73835c0250",
+    "exportSha256": "b78476131b8a671d1d237432155a0293e84fab3910e618c7302b234c065ad8ff",
     "sourceRefs": [
       {
-        "src": "/images/projects/app-strivaro-splash-20dc36310a.webp",
-        "sha256": "20dc36310a62ef3125043ede01309c0c94f489c051a75afbcac9ed2cc4683bec",
+        "src": "/images/projects/app-strivaro-theme-screen-57c0d21a44.webp",
+        "sha256": "57c0d21a44fd6923cdae7f144e5ea9d8d75d8ee8c8cf8da21c99b5be6d26a1e0",
         "crop": {
           "left": 0,
           "top": 17,
@@ -2430,8 +2430,8 @@
         }
       },
       {
-        "src": "/images/projects/app-strivaro-daily-reward-c301eb3ed0.webp",
-        "sha256": "c301eb3ed0dec1dd6ceb749051cab61f1101b342fe7bd2df243bed2dcb976d77",
+        "src": "/images/projects/app-strivaro-theme-screen-91d3879886.webp",
+        "sha256": "91d38798861def375b71b3cf3aca1e6a217f93fae9b900f799477a56ca628355",
         "crop": {
           "left": 0,
           "top": 6,
@@ -2463,30 +2463,30 @@
     "design": "Consistent two-device mobile showcase; slim graphite hardware, equal dimensions and baseline; original app UI and logos"
   },
   "app-axorabid": {
-    "src": "/images/thumbnails/app-axorabid-53cc9b853d.webp",
+    "src": "/images/thumbnails/app-axorabid-2a2fdf6432.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "e5f432ee54b55925c42efd00411b7d8f0374094db3882118f732585cb2d18556",
-    "bytes": 52516,
+    "sha256": "4490336cd607da994bbe8269d5cb6dd0512fcbd926f3ea6ff1f7f17d7eec7c21",
+    "bytes": 51742,
     "card": {
-      "src": "/images/thumbnails/app-axorabid-53cc9b853d-card.webp",
+      "src": "/images/thumbnails/app-axorabid-2a2fdf6432-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "6b0792250caba4eb018cebc12624d55aaf2a62656f33f6da98213c15ed31cc73",
-      "bytes": 18814
+      "sha256": "ac740fe9b17638d442917877c9511598a10c4188ab42185e6fa9ace2965d268c",
+      "bytes": 18714
     },
     "medium": {
-      "src": "/images/thumbnails/app-axorabid-53cc9b853d-medium.webp",
+      "src": "/images/thumbnails/app-axorabid-2a2fdf6432-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "768a4c6c45f31c9bcba1c9108a8be3012d6cf45bd82302abe0e22a2cda521197",
-      "bytes": 27736
+      "sha256": "23fe2e75bfa3a8dc9e554bb43a293653cb5b6974af8c9b7757f0b6441bd76211",
+      "bytes": 27372
     },
-    "exportSha256": "53cc9b853dc2dfdd66de26808a31262ad223da6fc3444fbdf8fe7dd63c551fbc",
+    "exportSha256": "2a2fdf6432444dad16a6e4bfaed30ced6432ab4d9bc5208555a72642c1068ed4",
     "sourceRefs": [
       {
-        "src": "/images/projects/app-axorabid-splash-3f065294d7.webp",
-        "sha256": "3f065294d73ac4899c6d751d06b0a2e52191c4678b0a83fafaa8df1118eceb73",
+        "src": "/images/projects/app-axorabid-theme-screen-4fd98a216f.webp",
+        "sha256": "4fd98a216f4695825059a27a2b56dab21bbf6d762ac1143a8ac04fabf06ba632",
         "crop": {
           "left": 12,
           "top": 55,
@@ -2495,8 +2495,8 @@
         }
       },
       {
-        "src": "/images/projects/app-axorabid-role-selection-c93684de7f.webp",
-        "sha256": "c93684de7f3ac96ffeee331aac05b85ff6dcaaf4a22e7d3d0ce5d18450266858",
+        "src": "/images/projects/app-axorabid-theme-screen-591487856b.webp",
+        "sha256": "591487856b66b19c5de81cc902e01f099e8063f40ed51f7c265f9258d043c3e9",
         "crop": {
           "left": 12,
           "top": 55,
@@ -2528,30 +2528,30 @@
     "design": "Consistent two-device mobile showcase; slim graphite hardware, equal dimensions and baseline; original app UI and logos"
   },
   "axorabid": {
-    "src": "/images/thumbnails/axorabid-d29a84925c.webp",
+    "src": "/images/thumbnails/axorabid-fd5cc5bde0.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "347b15d2b0131b08709851f401ab33fa47b7b578d1889062c4a3359e6c6d2c9b",
-    "bytes": 80344,
+    "sha256": "1d821ba301c4dcd39fcdaf41808fbee22a27e3c7586e34a7294e0314e1e3a765",
+    "bytes": 80298,
     "card": {
-      "src": "/images/thumbnails/axorabid-d29a84925c-card.webp",
+      "src": "/images/thumbnails/axorabid-fd5cc5bde0-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "c2b64eb2f494767bac15efb309640f7e8663634f17dc241e5966a1453cfea4da",
-      "bytes": 28978
+      "sha256": "a5e1de0ee0f813d8591d3cb7815cf644a6550b9d591dcb1a32de8bca484469cb",
+      "bytes": 28958
     },
     "medium": {
-      "src": "/images/thumbnails/axorabid-d29a84925c-medium.webp",
+      "src": "/images/thumbnails/axorabid-fd5cc5bde0-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "508719b99d3dbd949e065211071bb3e7b40013818f42b12f82032d543becde61",
-      "bytes": 42196
+      "sha256": "286ed44fa77ecfe9478312a7a3d59790cc9a712a54f784c1657ba799c122569a",
+      "bytes": 42048
     },
-    "exportSha256": "d29a84925cc54ba5afb3fe23c6a30a1ac52e592ac65d8b09eee030bf4fee16bf",
+    "exportSha256": "fd5cc5bde0d5b525de79fb9b883041158da072d3ab5afaae4b674871133cf94e",
     "sourceRefs": [
       {
-        "src": "/images/projects/axorabid-homepage-58de8b8268.webp",
-        "sha256": "58de8b826875d828c48d8e67a29f365823af2e25fae461c81afa2cbc62367e80",
+        "src": "/images/projects/axorabid-theme-screen-578e025e46.webp",
+        "sha256": "578e025e46f31923380ec65b4e1bb33220c255e0e695be2cedca0fb31a056ba8",
         "crop": {
           "left": 0,
           "top": 0,
@@ -2566,30 +2566,30 @@
     }
   },
   "app-calivora": {
-    "src": "/images/thumbnails/app-calivora-e5fd6d09f2.webp",
+    "src": "/images/thumbnails/app-calivora-9b2914738d.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "5918ca9b693c77c44319afabaca1f266761a0f7e9f12bcaf459a3d73197eec79",
-    "bytes": 46820,
+    "sha256": "0591f200f7877af2c15c72d4033536e0a7836a62bfee33402e009cdb3bd7b769",
+    "bytes": 46158,
     "card": {
-      "src": "/images/thumbnails/app-calivora-e5fd6d09f2-card.webp",
+      "src": "/images/thumbnails/app-calivora-9b2914738d-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "7c790230b6a773955b473875df01bda1f27e314287ad5deaa9804e8197927542",
-      "bytes": 16906
+      "sha256": "34ce7391f071e28d32d26a52e1484c5722719e2a7f78a26bfe8bdd2b6731b473",
+      "bytes": 16842
     },
     "medium": {
-      "src": "/images/thumbnails/app-calivora-e5fd6d09f2-medium.webp",
+      "src": "/images/thumbnails/app-calivora-9b2914738d-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "3e882d6d7b3df7573f900f84cc4e402ad2977985c26c065a7f844b8fb46a82a2",
-      "bytes": 24820
+      "sha256": "7b0b1610ca1359b0ef73f874c33fa6f0f8df96bb3b159e2f3001b05311371e50",
+      "bytes": 24402
     },
-    "exportSha256": "e5fd6d09f2eee91439fe0437ad2b435a5faf57d46bddafecca67f09f949ed6eb",
+    "exportSha256": "9b2914738d060d1e03937a0431f1b473666fea3edb9eee2069970da9fddac680",
     "sourceRefs": [
       {
-        "src": "/images/projects/calivora-splash-449fcf995d.webp",
-        "sha256": "449fcf995da3454655708ad68433e63eaaedf24cb234ca9835d522f739cfd2c9",
+        "src": "/images/projects/app-calivora-theme-screen-20864eac6f.webp",
+        "sha256": "20864eac6fce14fe7a47b15d10b585a1b5e869724311ea8adcbfb0dc9413ceb3",
         "crop": {
           "left": 12,
           "top": 55,
@@ -2598,8 +2598,8 @@
         }
       },
       {
-        "src": "/images/projects/calivora-provider-chat-cc72428367.webp",
-        "sha256": "cc7242836721c077d7d585c520b88f532c12f7770c8bbd8ca38d0d5cef1cbf82",
+        "src": "/images/projects/app-calivora-theme-screen-92e13b099c.webp",
+        "sha256": "92e13b099c0bee2460be8376aafba0ef398d1ef772a43090caca4cc94dc6c89e",
         "crop": {
           "left": 12,
           "top": 55,

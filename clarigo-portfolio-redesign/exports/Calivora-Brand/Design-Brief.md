@@ -9,3 +9,5 @@ Use case: logo-brand. Create one premium modern logo for a personal health and c
 ## Files
 
 Primary and inverse stacked logos and the emblem are provided as genuine transparent 1000 x 1000 PNGs. Public app icons and horizontal lockups derive from the same generated artwork. Uploaded screenshots remain unchanged outside documented branding regions. No new real domain is asserted by the renamed registration and account labels.
+
+Alpha edges were cleaned with a median mask and soft antialiasing before scaling; the original generated artwork is retained in the audit folder.

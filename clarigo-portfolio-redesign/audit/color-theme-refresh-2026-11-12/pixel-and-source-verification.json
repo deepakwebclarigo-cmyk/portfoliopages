@@ -1,0 +1,2167 @@
+{
+  "projects": 48,
+  "refreshedPages": 21,
+  "identities": 18,
+  "imagesVerified": 179,
+  "logosVerified": 84,
+  "changedPixels": 159756312,
+  "protectedPhotoPixels": 25511450,
+  "protectedPhotoChanges": 0,
+  "maxLinearLuminanceDifference": 0.015445046228114045,
+  "sourceFilesRetained": true,
+  "alphaAndDimensionsPreserved": true,
+  "unchangedProjects": 27,
+  "unchangedImplementationFiles": 94,
+  "thumbnailGeometryPreserved": true,
+  "transparent1000Pngs": 18,
+  "images": [
+    {
+      "slug": "streamdexa",
+      "index": 0,
+      "dimensions": [
+        1600,
+        1334
+      ],
+      "changedPixels": 1693526,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015192271374979804
+    },
+    {
+      "slug": "streamdexa",
+      "index": 1,
+      "dimensions": [
+        1600,
+        1325
+      ],
+      "changedPixels": 982103,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015024418724605693
+    },
+    {
+      "slug": "streamdexa",
+      "index": 2,
+      "dimensions": [
+        1495,
+        2200
+      ],
+      "changedPixels": 1282984,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015192271374979804
+    },
+    {
+      "slug": "streamdexa",
+      "index": 3,
+      "dimensions": [
+        998,
+        1273
+      ],
+      "changedPixels": 784412,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015024418724605693
+    },
+    {
+      "slug": "streamdexa",
+      "index": 4,
+      "dimensions": [
+        1495,
+        2200
+      ],
+      "changedPixels": 1775295,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015024418724605693
+    },
+    {
+      "slug": "streamdexa",
+      "index": 5,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1484343,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015192271374979804
+    },
+    {
+      "slug": "streamdexa",
+      "index": 6,
+      "dimensions": [
+        1495,
+        2200
+      ],
+      "changedPixels": 1318391,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015192271374979804
+    },
+    {
+      "slug": "streamdexa",
+      "index": 7,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 937589,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015445046228114045
+    },
+    {
+      "slug": "streamdexa",
+      "index": 8,
+      "dimensions": [
+        1493,
+        2200
+      ],
+      "changedPixels": 1551089,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015024418724605693
+    },
+    {
+      "slug": "tukora-connect",
+      "index": 0,
+      "dimensions": [
+        1600,
+        1334
+      ],
+      "changedPixels": 1766154,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01024430817083355
+    },
+    {
+      "slug": "tukora-connect",
+      "index": 1,
+      "dimensions": [
+        1600,
+        1326
+      ],
+      "changedPixels": 1067463,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "tukora-connect",
+      "index": 2,
+      "dimensions": [
+        1495,
+        2200
+      ],
+      "changedPixels": 1859299,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "tukora-connect",
+      "index": 3,
+      "dimensions": [
+        999,
+        1273
+      ],
+      "changedPixels": 581067,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "tukora-connect",
+      "index": 4,
+      "dimensions": [
+        1495,
+        2200
+      ],
+      "changedPixels": 1991046,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "tukora-connect",
+      "index": 5,
+      "dimensions": [
+        1495,
+        2200
+      ],
+      "changedPixels": 1951916,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "tukora-connect",
+      "index": 6,
+      "dimensions": [
+        1495,
+        2200
+      ],
+      "changedPixels": 1888160,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "tukora-connect",
+      "index": 7,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1888761,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "tukora-connect",
+      "index": 8,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1970869,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "paranest",
+      "index": 0,
+      "dimensions": [
+        1501,
+        1232
+      ],
+      "changedPixels": 1558942,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.010188925103630564
+    },
+    {
+      "slug": "paranest",
+      "index": 1,
+      "dimensions": [
+        1600,
+        1325
+      ],
+      "changedPixels": 1152718,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "paranest",
+      "index": 2,
+      "dimensions": [
+        1495,
+        2200
+      ],
+      "changedPixels": 329028,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "paranest",
+      "index": 3,
+      "dimensions": [
+        999,
+        1273
+      ],
+      "changedPixels": 727180,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "paranest",
+      "index": 4,
+      "dimensions": [
+        1495,
+        2200
+      ],
+      "changedPixels": 1684681,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "paranest",
+      "index": 5,
+      "dimensions": [
+        1495,
+        2200
+      ],
+      "changedPixels": 1541970,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.010133627915364318
+    },
+    {
+      "slug": "paranest",
+      "index": 6,
+      "dimensions": [
+        1495,
+        2200
+      ],
+      "changedPixels": 1719491,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "paranest",
+      "index": 7,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1716450,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "paranest",
+      "index": 8,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 326085,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "alumvia",
+      "index": 0,
+      "dimensions": [
+        1456,
+        1232
+      ],
+      "changedPixels": 1410023,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "alumvia",
+      "index": 1,
+      "dimensions": [
+        1600,
+        1326
+      ],
+      "changedPixels": 915887,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "alumvia",
+      "index": 2,
+      "dimensions": [
+        1495,
+        2200
+      ],
+      "changedPixels": 1762373,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00961239268201508
+    },
+    {
+      "slug": "alumvia",
+      "index": 3,
+      "dimensions": [
+        1495,
+        2200
+      ],
+      "changedPixels": 1453892,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "alumvia",
+      "index": 4,
+      "dimensions": [
+        1495,
+        2200
+      ],
+      "changedPixels": 883740,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "kegeltempo",
+      "index": 0,
+      "dimensions": [
+        1456,
+        1232
+      ],
+      "changedPixels": 1167158,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.009059686343554918
+    },
+    {
+      "slug": "kegeltempo",
+      "index": 1,
+      "dimensions": [
+        1600,
+        1326
+      ],
+      "changedPixels": 344301,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "kegeltempo",
+      "index": 2,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 497096,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "kegeltempo",
+      "index": 3,
+      "dimensions": [
+        999,
+        1274
+      ],
+      "changedPixels": 561617,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "kegeltempo",
+      "index": 4,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1769468,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.009010713432860196
+    },
+    {
+      "slug": "kegeltempo",
+      "index": 5,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1221824,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "kegeltempo",
+      "index": 6,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 353542,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "kegeltempo",
+      "index": 7,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 759888,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "kegeltempo",
+      "index": 8,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1357259,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "rallybridge",
+      "index": 0,
+      "dimensions": [
+        1456,
+        1232
+      ],
+      "changedPixels": 1100816,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.014940692523321752
+    },
+    {
+      "slug": "rallybridge",
+      "index": 1,
+      "dimensions": [
+        1600,
+        1326
+      ],
+      "changedPixels": 241251,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015108278447869772
+    },
+    {
+      "slug": "rallybridge",
+      "index": 2,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1706078,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "rallybridge",
+      "index": 3,
+      "dimensions": [
+        999,
+        1274
+      ],
+      "changedPixels": 779232,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.013874873218822414
+    },
+    {
+      "slug": "rallybridge",
+      "index": 4,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1192734,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.009146855839175738
+    },
+    {
+      "slug": "rallybridge",
+      "index": 5,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1698697,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.009288199209053882
+    },
+    {
+      "slug": "rallybridge",
+      "index": 6,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 574146,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015108278447869772
+    },
+    {
+      "slug": "rallybridge",
+      "index": 7,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1702925,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "whizlume",
+      "index": 0,
+      "dimensions": [
+        1600,
+        1333
+      ],
+      "changedPixels": 1707292,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015108278447869772
+    },
+    {
+      "slug": "whizlume",
+      "index": 1,
+      "dimensions": [
+        1600,
+        1326
+      ],
+      "changedPixels": 951766,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015192271374979804
+    },
+    {
+      "slug": "whizlume",
+      "index": 2,
+      "dimensions": [
+        999,
+        1274
+      ],
+      "changedPixels": 525863,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015192271374979804
+    },
+    {
+      "slug": "whizlume",
+      "index": 3,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1219044,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015024418724605693
+    },
+    {
+      "slug": "whizlume",
+      "index": 4,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1805279,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.014507966744429224
+    },
+    {
+      "slug": "whizlume",
+      "index": 5,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1723047,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015192271374979804
+    },
+    {
+      "slug": "whizlume",
+      "index": 6,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1486695,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015192271374979804
+    },
+    {
+      "slug": "whizlume",
+      "index": 7,
+      "dimensions": [
+        1493,
+        2200
+      ],
+      "changedPixels": 1670922,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015108278447869772
+    },
+    {
+      "slug": "estrata",
+      "index": 0,
+      "dimensions": [
+        1600,
+        1333
+      ],
+      "changedPixels": 1803213,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01024430817083355
+    },
+    {
+      "slug": "estrata",
+      "index": 1,
+      "dimensions": [
+        1600,
+        1326
+      ],
+      "changedPixels": 1178232,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "estrata",
+      "index": 2,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1412622,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "estrata",
+      "index": 3,
+      "dimensions": [
+        999,
+        1274
+      ],
+      "changedPixels": 622984,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "estrata",
+      "index": 4,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1675715,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "estrata",
+      "index": 5,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1628630,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "estrata",
+      "index": 6,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1437767,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "estrata",
+      "index": 7,
+      "dimensions": [
+        1494,
+        2200
+      ],
+      "changedPixels": 1637708,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "leadforma",
+      "index": 0,
+      "dimensions": [
+        1600,
+        1333
+      ],
+      "changedPixels": 1409835,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.012454358570877178
+    },
+    {
+      "slug": "app-simplyscouted",
+      "index": 0,
+      "dimensions": [
+        1600,
+        1251
+      ],
+      "changedPixels": 1740105,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01024430817083355
+    },
+    {
+      "slug": "app-simplyscouted",
+      "index": 1,
+      "dimensions": [
+        1600,
+        1440
+      ],
+      "changedPixels": 870386,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "app-simplyscouted",
+      "index": 2,
+      "dimensions": [
+        710,
+        711
+      ],
+      "changedPixels": 200413,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "app-simplyscouted",
+      "index": 3,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 236145,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "app-simplyscouted",
+      "index": 4,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 149862,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "app-simplyscouted",
+      "index": 5,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 51204,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "app-simplyscouted",
+      "index": 6,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 102605,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "app-simplyscouted",
+      "index": 7,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 120411,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "app-infinote",
+      "index": 0,
+      "dimensions": [
+        1600,
+        1251
+      ],
+      "changedPixels": 1827685,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.010273710684305937
+    },
+    {
+      "slug": "app-infinote",
+      "index": 1,
+      "dimensions": [
+        1600,
+        1313
+      ],
+      "changedPixels": 1159701,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00993916463461586
+    },
+    {
+      "slug": "app-infinote",
+      "index": 2,
+      "dimensions": [
+        1076,
+        2180
+      ],
+      "changedPixels": 12704,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-infinote",
+      "index": 3,
+      "dimensions": [
+        710,
+        711
+      ],
+      "changedPixels": 193809,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00993916463461586
+    },
+    {
+      "slug": "app-infinote",
+      "index": 4,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 238024,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00993916463461586
+    },
+    {
+      "slug": "app-infinote",
+      "index": 5,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 212114,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00993916463461586
+    },
+    {
+      "slug": "app-infinote",
+      "index": 6,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 214610,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00993916463461586
+    },
+    {
+      "slug": "app-infinote",
+      "index": 7,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 189785,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00993916463461586
+    },
+    {
+      "slug": "app-infinote",
+      "index": 8,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 44696,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00993916463461586
+    },
+    {
+      "slug": "app-silaflow",
+      "index": 0,
+      "dimensions": [
+        1600,
+        1251
+      ],
+      "changedPixels": 1716612,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00993916463461586
+    },
+    {
+      "slug": "app-silaflow",
+      "index": 1,
+      "dimensions": [
+        1600,
+        1313
+      ],
+      "changedPixels": 909192,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00993916463461586
+    },
+    {
+      "slug": "app-silaflow",
+      "index": 2,
+      "dimensions": [
+        1076,
+        2180
+      ],
+      "changedPixels": 1610720,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00993916463461586
+    },
+    {
+      "slug": "app-silaflow",
+      "index": 3,
+      "dimensions": [
+        710,
+        711
+      ],
+      "changedPixels": 182999,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00993916463461586
+    },
+    {
+      "slug": "app-silaflow",
+      "index": 4,
+      "dimensions": [
+        375,
+        813
+      ],
+      "changedPixels": 202674,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00993916463461586
+    },
+    {
+      "slug": "app-silaflow",
+      "index": 5,
+      "dimensions": [
+        375,
+        813
+      ],
+      "changedPixels": 144824,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00993916463461586
+    },
+    {
+      "slug": "app-silaflow",
+      "index": 6,
+      "dimensions": [
+        375,
+        813
+      ],
+      "changedPixels": 92201,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00993916463461586
+    },
+    {
+      "slug": "app-silaflow",
+      "index": 7,
+      "dimensions": [
+        375,
+        813
+      ],
+      "changedPixels": 171836,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00993916463461586
+    },
+    {
+      "slug": "app-habitstride",
+      "index": 0,
+      "dimensions": [
+        1600,
+        1251
+      ],
+      "changedPixels": 1774962,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015276397189814217
+    },
+    {
+      "slug": "app-habitstride",
+      "index": 1,
+      "dimensions": [
+        1600,
+        1313
+      ],
+      "changedPixels": 1030487,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015192271374979804
+    },
+    {
+      "slug": "app-habitstride",
+      "index": 2,
+      "dimensions": [
+        1076,
+        2180
+      ],
+      "changedPixels": 1365634,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015192271374979804
+    },
+    {
+      "slug": "app-habitstride",
+      "index": 3,
+      "dimensions": [
+        710,
+        711
+      ],
+      "changedPixels": 211853,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015192271374979804
+    },
+    {
+      "slug": "app-habitstride",
+      "index": 4,
+      "dimensions": [
+        376,
+        813
+      ],
+      "changedPixels": 188736,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015192271374979804
+    },
+    {
+      "slug": "app-habitstride",
+      "index": 5,
+      "dimensions": [
+        376,
+        813
+      ],
+      "changedPixels": 240867,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015192271374979804
+    },
+    {
+      "slug": "app-habitstride",
+      "index": 6,
+      "dimensions": [
+        376,
+        813
+      ],
+      "changedPixels": 106862,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015108278447869772
+    },
+    {
+      "slug": "app-habitstride",
+      "index": 7,
+      "dimensions": [
+        376,
+        813
+      ],
+      "changedPixels": 178662,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015192271374979804
+    },
+    {
+      "slug": "app-tukora-connect",
+      "index": 0,
+      "dimensions": [
+        1600,
+        1199
+      ],
+      "changedPixels": 1759601,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01024430817083355
+    },
+    {
+      "slug": "app-tukora-connect",
+      "index": 1,
+      "dimensions": [
+        1600,
+        1312
+      ],
+      "changedPixels": 1114629,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "app-tukora-connect",
+      "index": 2,
+      "dimensions": [
+        1077,
+        2180
+      ],
+      "changedPixels": 335973,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "app-tukora-connect",
+      "index": 3,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 234538,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "app-tukora-connect",
+      "index": 4,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 202863,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "app-tukora-connect",
+      "index": 5,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 162673,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "app-tukora-connect",
+      "index": 6,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 30029,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "app-pantryone",
+      "index": 0,
+      "dimensions": [
+        1600,
+        1199
+      ],
+      "changedPixels": 1752731,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00908266877476982
+    },
+    {
+      "slug": "app-pantryone",
+      "index": 1,
+      "dimensions": [
+        1600,
+        1312
+      ],
+      "changedPixels": 1147913,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-pantryone",
+      "index": 2,
+      "dimensions": [
+        331,
+        669
+      ],
+      "changedPixels": 175636,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-pantryone",
+      "index": 3,
+      "dimensions": [
+        376,
+        813
+      ],
+      "changedPixels": 228379,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-pantryone",
+      "index": 4,
+      "dimensions": [
+        376,
+        813
+      ],
+      "changedPixels": 153411,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-pantryone",
+      "index": 5,
+      "dimensions": [
+        376,
+        813
+      ],
+      "changedPixels": 143369,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-pantryone",
+      "index": 6,
+      "dimensions": [
+        376,
+        813
+      ],
+      "changedPixels": 180202,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-streetslate",
+      "index": 0,
+      "dimensions": [
+        1499,
+        1250
+      ],
+      "changedPixels": 1575306,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.014507966744429224
+    },
+    {
+      "slug": "app-streetslate",
+      "index": 1,
+      "dimensions": [
+        842,
+        1611
+      ],
+      "changedPixels": 844716,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01360558354155561
+    },
+    {
+      "slug": "app-streetslate",
+      "index": 2,
+      "dimensions": [
+        331,
+        669
+      ],
+      "changedPixels": 192064,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-streetslate",
+      "index": 3,
+      "dimensions": [
+        331,
+        669
+      ],
+      "changedPixels": 153358,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01360558354155561
+    },
+    {
+      "slug": "app-streetslate",
+      "index": 4,
+      "dimensions": [
+        331,
+        669
+      ],
+      "changedPixels": 174861,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-streetslate",
+      "index": 5,
+      "dimensions": [
+        331,
+        669
+      ],
+      "changedPixels": 100922,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.013874873218822414
+    },
+    {
+      "slug": "app-streetslate",
+      "index": 6,
+      "dimensions": [
+        331,
+        669
+      ],
+      "changedPixels": 147926,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.013874873218822414
+    },
+    {
+      "slug": "app-kegeltempo",
+      "index": 0,
+      "dimensions": [
+        1600,
+        1334
+      ],
+      "changedPixels": 1589613,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.009059686343554918
+    },
+    {
+      "slug": "app-kegeltempo",
+      "index": 1,
+      "dimensions": [
+        1298,
+        1325
+      ],
+      "changedPixels": 1228597,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008961816452245475
+    },
+    {
+      "slug": "app-kegeltempo",
+      "index": 2,
+      "dimensions": [
+        1267,
+        2200
+      ],
+      "changedPixels": 2024907,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.009059686343554918
+    },
+    {
+      "slug": "app-kegeltempo",
+      "index": 3,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 237703,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-kegeltempo",
+      "index": 4,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 49283,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-kegeltempo",
+      "index": 5,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 182771,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-kegeltempo",
+      "index": 6,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 123380,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-kegeltempo",
+      "index": 7,
+      "dimensions": [
+        375,
+        812
+      ],
+      "changedPixels": 197557,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-strivaro",
+      "index": 0,
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "changedPixels": 1717145,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01360558354155561
+    },
+    {
+      "slug": "app-strivaro",
+      "index": 1,
+      "dimensions": [
+        390,
+        844
+      ],
+      "changedPixels": 325670,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-strivaro",
+      "index": 2,
+      "dimensions": [
+        390,
+        1143
+      ],
+      "changedPixels": 419963,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-strivaro",
+      "index": 3,
+      "dimensions": [
+        390,
+        1340
+      ],
+      "changedPixels": 430894,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-strivaro",
+      "index": 4,
+      "dimensions": [
+        390,
+        1747
+      ],
+      "changedPixels": 434786,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01338209897965359
+    },
+    {
+      "slug": "app-strivaro",
+      "index": 5,
+      "dimensions": [
+        390,
+        823
+      ],
+      "changedPixels": 303094,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01338209897965359
+    },
+    {
+      "slug": "app-strivaro",
+      "index": 6,
+      "dimensions": [
+        390,
+        980
+      ],
+      "changedPixels": 372812,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-strivaro",
+      "index": 7,
+      "dimensions": [
+        390,
+        1026
+      ],
+      "changedPixels": 394923,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-strivaro",
+      "index": 8,
+      "dimensions": [
+        390,
+        1170
+      ],
+      "changedPixels": 431073,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-strivaro",
+      "index": 9,
+      "dimensions": [
+        390,
+        844
+      ],
+      "changedPixels": 322188,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-axorabid",
+      "index": 0,
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "changedPixels": 1685199,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.013874873218822414
+    },
+    {
+      "slug": "app-axorabid",
+      "index": 1,
+      "dimensions": [
+        390,
+        844
+      ],
+      "changedPixels": 321528,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-axorabid",
+      "index": 2,
+      "dimensions": [
+        390,
+        844
+      ],
+      "changedPixels": 319297,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "app-axorabid",
+      "index": 3,
+      "dimensions": [
+        390,
+        844
+      ],
+      "changedPixels": 283188,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.014754548824444269
+    },
+    {
+      "slug": "app-axorabid",
+      "index": 4,
+      "dimensions": [
+        390,
+        844
+      ],
+      "changedPixels": 321802,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-axorabid",
+      "index": 5,
+      "dimensions": [
+        390,
+        867
+      ],
+      "changedPixels": 318972,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.013797502391589611
+    },
+    {
+      "slug": "app-axorabid",
+      "index": 6,
+      "dimensions": [
+        393,
+        1516
+      ],
+      "changedPixels": 310959,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01473548657155721
+    },
+    {
+      "slug": "app-axorabid",
+      "index": 7,
+      "dimensions": [
+        393,
+        961
+      ],
+      "changedPixels": 194180,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01473548657155721
+    },
+    {
+      "slug": "app-axorabid",
+      "index": 8,
+      "dimensions": [
+        393,
+        871
+      ],
+      "changedPixels": 217286,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01473548657155721
+    },
+    {
+      "slug": "app-axorabid",
+      "index": 9,
+      "dimensions": [
+        393,
+        1255
+      ],
+      "changedPixels": 388602,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01473548657155721
+    },
+    {
+      "slug": "app-axorabid",
+      "index": 10,
+      "dimensions": [
+        393,
+        967
+      ],
+      "changedPixels": 340121,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.014921537818048947
+    },
+    {
+      "slug": "app-axorabid",
+      "index": 11,
+      "dimensions": [
+        500,
+        500
+      ],
+      "changedPixels": 244789,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "axorabid",
+      "index": 0,
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "changedPixels": 1708595,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.015108278447869772
+    },
+    {
+      "slug": "axorabid",
+      "index": 1,
+      "dimensions": [
+        1440,
+        4854
+      ],
+      "changedPixels": 5113489,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.014940692523321752
+    },
+    {
+      "slug": "axorabid",
+      "index": 2,
+      "dimensions": [
+        1468,
+        1138
+      ],
+      "changedPixels": 1543417,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.014940692523321752
+    },
+    {
+      "slug": "axorabid",
+      "index": 3,
+      "dimensions": [
+        1468,
+        1297
+      ],
+      "changedPixels": 1168143,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.014921537818048947
+    },
+    {
+      "slug": "axorabid",
+      "index": 4,
+      "dimensions": [
+        1468,
+        2460
+      ],
+      "changedPixels": 2757821,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01473548657155721
+    },
+    {
+      "slug": "axorabid",
+      "index": 5,
+      "dimensions": [
+        1468,
+        1168
+      ],
+      "changedPixels": 1551284,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.014607129372329997
+    },
+    {
+      "slug": "axorabid",
+      "index": 6,
+      "dimensions": [
+        1456,
+        1144
+      ],
+      "changedPixels": 1600940,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.00945648097504681
+    },
+    {
+      "slug": "axorabid",
+      "index": 7,
+      "dimensions": [
+        1468,
+        1056
+      ],
+      "changedPixels": 11033,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.009301300293268255
+    },
+    {
+      "slug": "axorabid",
+      "index": 8,
+      "dimensions": [
+        1456,
+        1040
+      ],
+      "changedPixels": 1455748,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.014754548824444269
+    },
+    {
+      "slug": "axorabid",
+      "index": 9,
+      "dimensions": [
+        1456,
+        1166
+      ],
+      "changedPixels": 1578657,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.013874873218822414
+    },
+    {
+      "slug": "axorabid",
+      "index": 10,
+      "dimensions": [
+        1468,
+        1309
+      ],
+      "changedPixels": 1876950,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01473548657155721
+    },
+    {
+      "slug": "axorabid",
+      "index": 11,
+      "dimensions": [
+        1468,
+        1196
+      ],
+      "changedPixels": 1629485,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01473548657155721
+    },
+    {
+      "slug": "axorabid",
+      "index": 12,
+      "dimensions": [
+        1468,
+        1196
+      ],
+      "changedPixels": 1633822,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.01473548657155721
+    },
+    {
+      "slug": "axorabid",
+      "index": 13,
+      "dimensions": [
+        1468,
+        1297
+      ],
+      "changedPixels": 1232430,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.014921537818048947
+    },
+    {
+      "slug": "app-calivora",
+      "index": 0,
+      "dimensions": [
+        1600,
+        1200
+      ],
+      "changedPixels": 1439990,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-calivora",
+      "index": 1,
+      "dimensions": [
+        390,
+        844
+      ],
+      "changedPixels": 310527,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-calivora",
+      "index": 2,
+      "dimensions": [
+        390,
+        1661
+      ],
+      "changedPixels": 618065,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-calivora",
+      "index": 3,
+      "dimensions": [
+        390,
+        979
+      ],
+      "changedPixels": 352977,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-calivora",
+      "index": 4,
+      "dimensions": [
+        390,
+        866
+      ],
+      "changedPixels": 314492,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-calivora",
+      "index": 5,
+      "dimensions": [
+        390,
+        894
+      ],
+      "changedPixels": 330152,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-calivora",
+      "index": 6,
+      "dimensions": [
+        390,
+        866
+      ],
+      "changedPixels": 309564,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-calivora",
+      "index": 7,
+      "dimensions": [
+        390,
+        1159
+      ],
+      "changedPixels": 408459,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-calivora",
+      "index": 8,
+      "dimensions": [
+        390,
+        888
+      ],
+      "changedPixels": 266347,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-calivora",
+      "index": 9,
+      "dimensions": [
+        390,
+        844
+      ],
+      "changedPixels": 306282,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.010052512024195104
+    },
+    {
+      "slug": "app-calivora",
+      "index": 10,
+      "dimensions": [
+        390,
+        844
+      ],
+      "changedPixels": 109784,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-calivora",
+      "index": 11,
+      "dimensions": [
+        390,
+        844
+      ],
+      "changedPixels": 300706,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-calivora",
+      "index": 12,
+      "dimensions": [
+        390,
+        844
+      ],
+      "changedPixels": 289114,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-calivora",
+      "index": 13,
+      "dimensions": [
+        390,
+        1069
+      ],
+      "changedPixels": 373520,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    },
+    {
+      "slug": "app-calivora",
+      "index": 14,
+      "dimensions": [
+        256,
+        182
+      ],
+      "changedPixels": 46184,
+      "alphaUnchanged": true,
+      "protectedPhotoChanges": 0,
+      "maxLinearLuminanceDifference": 0.008897902886170206
+    }
+  ]
+}

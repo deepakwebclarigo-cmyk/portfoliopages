@@ -69,13 +69,13 @@
     "views": [
       {
         "index": 2,
-        "src": "/images/projects/app-simplyscouted-artwork-c7cd1aa78b.webp",
+        "src": "/images/projects/app-simplyscouted-theme-screen-3ecf3626b9.webp",
         "width": 375,
         "height": 812,
         "role": "screen",
         "gallery": true,
-        "sha256": "c7cd1aa78b814d3fe27fc2eb39b420fa06336c4e178c3ca9524114a07ebb2422",
-        "bytes": 75920,
+        "sha256": "3ecf3626b98c244d27b1c5a93ac425ead3c8d2ad67cd523982d7209919005bde",
+        "bytes": 75764,
         "originalBytes": 163270,
         "crop": {
           "left": 22,
@@ -86,13 +86,13 @@
       },
       {
         "index": 4,
-        "src": "/images/projects/app-simplyscouted-artwork-fdb1248571.webp",
+        "src": "/images/projects/app-simplyscouted-theme-screen-c5c849a79e.webp",
         "width": 375,
         "height": 812,
         "role": "screen",
         "gallery": true,
-        "sha256": "fdb1248571c2f022e21531a88215f28511109be888feac4cfd455c8cb40ebe1e",
-        "bytes": 165908,
+        "sha256": "c5c849a79e3a8598908db9a32f86cefe0531c4fc0b099b88cbe070d39a9da077",
+        "bytes": 164986,
         "originalBytes": 301332,
         "crop": {
           "left": 22,
@@ -108,13 +108,13 @@
     "views": [
       {
         "index": 3,
-        "src": "/images/projects/app-infinote-artwork-0fc4000de7.webp",
+        "src": "/images/projects/app-infinote-theme-screen-e041941071.webp",
         "width": 375,
         "height": 812,
         "role": "screen",
         "gallery": true,
-        "sha256": "0fc4000de7e72bc5574751e609dfa6cd8ebcc4a3d1fc52421636ff1eaefe49b4",
-        "bytes": 38990,
+        "sha256": "e04194107156332b1f16161143061bb3497f64258b560f9ef4b610c249c7e6e3",
+        "bytes": 38884,
         "originalBytes": 43938,
         "crop": {
           "left": 22,
@@ -125,13 +125,13 @@
       },
       {
         "index": 7,
-        "src": "/images/projects/app-infinote-artwork-6bc405e873.webp",
+        "src": "/images/projects/app-infinote-theme-screen-d985dcbdae.webp",
         "width": 375,
         "height": 812,
         "role": "screen",
         "gallery": true,
-        "sha256": "6bc405e8731d694b6b4794c9fc04734d22402589503c4200a205dd2ca25e60e7",
-        "bytes": 146286,
+        "sha256": "d985dcbdae12abf05cbb1cd8163d33b751d8d6d877d87536d0e81bd593353489",
+        "bytes": 147106,
         "originalBytes": 249299,
         "crop": {
           "left": 22,
@@ -147,13 +147,13 @@
     "views": [
       {
         "index": 5,
-        "src": "/images/projects/app-silaflow-artwork-e6037b0a8d.webp",
+        "src": "/images/projects/app-silaflow-theme-screen-adcf8ebe71.webp",
         "width": 375,
         "height": 813,
         "role": "screen",
         "gallery": true,
-        "sha256": "e6037b0a8d8662aefa189be18f60c3168970751e4cb14a64d2e37eec5161c5f8",
-        "bytes": 168232,
+        "sha256": "adcf8ebe715dd623162d2157fe0fd7f4d43117895911d32a8b119c6fe64edbd7",
+        "bytes": 168038,
         "originalBytes": 240802,
         "crop": {
           "left": 22,
@@ -164,13 +164,13 @@
       },
       {
         "index": 3,
-        "src": "/images/projects/app-silaflow-artwork-150eb225a7.webp",
+        "src": "/images/projects/app-silaflow-theme-screen-01d4a8a78e.webp",
         "width": 375,
         "height": 813,
         "role": "screen",
         "gallery": true,
-        "sha256": "150eb225a7bb8b643d4c8da14478d645542cbf64c935a01ba3b094af1f3bbfe1",
-        "bytes": 109668,
+        "sha256": "01d4a8a78e9117d11b524c481d707873adb6e425d6333c7bf9576d24a387074c",
+        "bytes": 108354,
         "originalBytes": 118074,
         "crop": {
           "left": 22,
@@ -186,13 +186,13 @@
     "views": [
       {
         "index": 4,
-        "src": "/images/projects/app-habitstride-artwork-4c62999422.webp",
+        "src": "/images/projects/app-habitstride-theme-screen-88b884d5ff.webp",
         "width": 376,
         "height": 813,
         "role": "screen",
         "gallery": true,
-        "sha256": "4c62999422519cd7bc8962817a622d4019405fd4a2eb1f2219831b48a9af859d",
-        "bytes": 53986,
+        "sha256": "88b884d5ffa0f29065eb7d8400b3d4da07e6b8effb9d3c66aed4a5fe4e2e9d70",
+        "bytes": 54676,
         "originalBytes": 183471,
         "crop": {
           "left": 22,
@@ -203,13 +203,13 @@
       },
       {
         "index": 6,
-        "src": "/images/projects/app-habitstride-artwork-d31d050563.webp",
+        "src": "/images/projects/app-habitstride-theme-screen-2b04166a88.webp",
         "width": 376,
         "height": 813,
         "role": "screen",
         "gallery": true,
-        "sha256": "d31d050563dce190a74dc96ccf5fee46207595dcdeeab940de0db9785417d7e3",
-        "bytes": 64516,
+        "sha256": "2b04166a88c09d4e0eb1b40a8210adc55b565fcc10563df1fed34f29b78907cc",
+        "bytes": 65576,
         "originalBytes": 95275,
         "crop": {
           "left": 22,
@@ -225,13 +225,13 @@
     "views": [
       {
         "index": 2,
-        "src": "/images/projects/app-tukora-connect-artwork-fda26c6f4b.webp",
+        "src": "/images/projects/app-tukora-connect-theme-screen-e3c6a655da.webp",
         "width": 375,
         "height": 812,
         "role": "screen",
         "gallery": true,
-        "sha256": "fda26c6f4bcee210cca0fe8c98e2cc340ab7c4740a5e861e562018f45408a53a",
-        "bytes": 52514,
+        "sha256": "e3c6a655da91c1e6d5e7e03230d25add1471eaaf0c8843fe7c36427d320ba7c1",
+        "bytes": 52328,
         "originalBytes": 54744,
         "crop": {
           "left": 22,
@@ -242,13 +242,13 @@
       },
       {
         "index": 5,
-        "src": "/images/projects/app-tukora-connect-artwork-75eaf9afdc.webp",
+        "src": "/images/projects/app-tukora-connect-theme-screen-0949b418f3.webp",
         "width": 375,
         "height": 812,
         "role": "screen",
         "gallery": true,
-        "sha256": "75eaf9afdcb5efa8557ea8855eda603253b69c25ec2bf5cd7c34d37a2c568d76",
-        "bytes": 202702,
+        "sha256": "0949b418f3b9d1d7639d0689ccaacef945774fb325b9ed8ae02185ee4855e40a",
+        "bytes": 208696,
         "originalBytes": 361379,
         "crop": {
           "left": 22,
@@ -537,13 +537,13 @@
     "views": [
       {
         "index": 2,
-        "src": "/images/projects/app-pantryone-artwork-39388534c5.webp",
+        "src": "/images/projects/app-pantryone-theme-screen-e0a114f262.webp",
         "width": 376,
         "height": 813,
         "role": "screen",
         "gallery": true,
-        "sha256": "39388534c5d57f48523cffd1fcc23b4efac6ce55fd8af0bd5bdae5bb6a9b75bf",
-        "bytes": 59542,
+        "sha256": "e0a114f262f3282a30f77b2f07f1e7ae3b54b5e5128ee7ac2821477267c03806",
+        "bytes": 60110,
         "originalBytes": 209483,
         "crop": {
           "left": 22,
@@ -554,13 +554,13 @@
       },
       {
         "index": 4,
-        "src": "/images/projects/app-pantryone-artwork-8d49ef7677.webp",
+        "src": "/images/projects/app-pantryone-theme-screen-3f8a447dcf.webp",
         "width": 376,
         "height": 813,
         "role": "screen",
         "gallery": true,
-        "sha256": "8d49ef76775be4bbcad7fb35df088ba1b840fbc620d4d7d0095a9ab03314a0ce",
-        "bytes": 137394,
+        "sha256": "3f8a447dcf7d80cdfcb65cac45216e9c127a8e9c9744f57fd8a7452eb0430b8d",
+        "bytes": 139040,
         "originalBytes": 172827,
         "crop": {
           "left": 22,
@@ -771,13 +771,13 @@
     "views": [
       {
         "index": 1,
-        "src": "/images/projects/app-streetslate-artwork-7b47c7d3de.webp",
+        "src": "/images/projects/app-streetslate-theme-screen-f8e6712632.webp",
         "width": 331,
         "height": 669,
         "role": "composition",
         "gallery": false,
-        "sha256": "7b47c7d3de0fca58a23fcf635983563697677efb4a77349cea560dd0fda1543d",
-        "bytes": 31382,
+        "sha256": "f8e67126325b00de5d6c67fcf20d4b1aa0abe329e1945bb92947c61082e9b3dc",
+        "bytes": 32702,
         "originalBytes": 46492,
         "crop": {
           "left": 19,
@@ -788,13 +788,13 @@
       },
       {
         "index": 4,
-        "src": "/images/projects/app-streetslate-artwork-7755b4e653.webp",
+        "src": "/images/projects/app-streetslate-theme-screen-b14bc2a460.webp",
         "width": 331,
         "height": 669,
         "role": "composition",
         "gallery": false,
-        "sha256": "7755b4e653eb1775a25708f10445ca7f3ba81c3efd1daf819a450e83803a43b1",
-        "bytes": 75624,
+        "sha256": "b14bc2a460591407317fc43f6a155975b17b28978d38250c6e0d67701a7293ab",
+        "bytes": 76398,
         "originalBytes": 99281,
         "crop": {
           "left": 19,
@@ -888,13 +888,13 @@
     "views": [
       {
         "index": 2,
-        "src": "/images/projects/app-kegeltempo-artwork-e347393ba9.webp",
+        "src": "/images/projects/app-kegeltempo-theme-screen-755f7f97b2.webp",
         "width": 375,
         "height": 812,
         "role": "screen",
         "gallery": true,
-        "sha256": "e347393ba9ae053f3416ddb44e45478d1b7ba6b8aba3e347424af9ba91a1aad3",
-        "bytes": 56616,
+        "sha256": "755f7f97b2e0d66b34d5e7b5381facd40baef8cb93ca5a1d194c2aa7bdecec46",
+        "bytes": 55572,
         "originalBytes": 131576,
         "crop": {
           "left": 22,
@@ -905,13 +905,13 @@
       },
       {
         "index": 5,
-        "src": "/images/projects/app-kegeltempo-artwork-e26d976bb0.webp",
+        "src": "/images/projects/app-kegeltempo-theme-screen-9a0bec47f3.webp",
         "width": 375,
         "height": 812,
         "role": "screen",
         "gallery": true,
-        "sha256": "e26d976bb06219ccadd20485f277958896e1843aa04c1477da8224a3a4e2a073",
-        "bytes": 150366,
+        "sha256": "9a0bec47f3bb4f49931227c95b1b5ea6dc74b125451eec52faed38ac667a9f19",
+        "bytes": 154796,
         "originalBytes": 182491,
         "crop": {
           "left": 22,
@@ -1048,13 +1048,13 @@
     "slug": "app-strivaro",
     "views": [
       {
-        "src": "/images/projects/app-strivaro-splash-20dc36310a.webp",
+        "src": "/images/projects/app-strivaro-theme-screen-57c0d21a44.webp",
         "width": 390,
         "height": 844,
         "role": "screen",
         "gallery": true,
-        "sha256": "20dc36310a62ef3125043ede01309c0c94f489c051a75afbcac9ed2cc4683bec",
-        "bytes": 140234,
+        "sha256": "57c0d21a44fd6923cdae7f144e5ea9d8d75d8ee8c8cf8da21c99b5be6d26a1e0",
+        "bytes": 130530,
         "originalBytes": 251388,
         "label": "Brand introduction",
         "description": "Strivaro — brand introduction",
@@ -1067,13 +1067,13 @@
         }
       },
       {
-        "src": "/images/projects/app-strivaro-daily-reward-c301eb3ed0.webp",
+        "src": "/images/projects/app-strivaro-theme-screen-91d3879886.webp",
         "width": 390,
         "height": 823,
         "role": "screen",
         "gallery": true,
-        "sha256": "c301eb3ed0dec1dd6ceb749051cab61f1101b342fe7bd2df243bed2dcb976d77",
-        "bytes": 88798,
+        "sha256": "91d38798861def375b71b3cf3aca1e6a217f93fae9b900f799477a56ca628355",
+        "bytes": 90000,
         "originalBytes": 135744,
         "label": "Daily reward wheel",
         "description": "Strivaro — daily reward wheel",
@@ -1091,13 +1091,13 @@
     "slug": "app-axorabid",
     "views": [
       {
-        "src": "/images/projects/app-axorabid-splash-3f065294d7.webp",
+        "src": "/images/projects/app-axorabid-theme-screen-4fd98a216f.webp",
         "width": 390,
         "height": 844,
         "role": "screen",
         "gallery": true,
-        "sha256": "3f065294d73ac4899c6d751d06b0a2e52191c4678b0a83fafaa8df1118eceb73",
-        "bytes": 138318,
+        "sha256": "4fd98a216f4695825059a27a2b56dab21bbf6d762ac1143a8ac04fabf06ba632",
+        "bytes": 131794,
         "originalBytes": 233453,
         "label": "Brand introduction",
         "description": "AxoraBid - brand introduction",
@@ -1110,13 +1110,13 @@
         }
       },
       {
-        "src": "/images/projects/app-axorabid-role-selection-c93684de7f.webp",
+        "src": "/images/projects/app-axorabid-theme-screen-591487856b.webp",
         "width": 390,
         "height": 844,
         "role": "screen",
         "gallery": true,
-        "sha256": "c93684de7f3ac96ffeee331aac05b85ff6dcaaf4a22e7d3d0ce5d18450266858",
-        "bytes": 138462,
+        "sha256": "591487856b66b19c5de81cc902e01f099e8063f40ed51f7c265f9258d043c3e9",
+        "bytes": 134438,
         "originalBytes": 221763,
         "label": "Seller and dealer entry",
         "description": "AxoraBid - seller and dealer entry",
@@ -1134,13 +1134,13 @@
     "slug": "app-calivora",
     "views": [
       {
-        "src": "/images/projects/calivora-splash-449fcf995d.webp",
+        "src": "/images/projects/app-calivora-theme-screen-20864eac6f.webp",
         "width": 390,
         "height": 844,
         "role": "screen",
         "gallery": true,
-        "sha256": "449fcf995da3454655708ad68433e63eaaedf24cb234ca9835d522f739cfd2c9",
-        "bytes": 51596,
+        "sha256": "20864eac6fce14fe7a47b15d10b585a1b5e869724311ea8adcbfb0dc9413ceb3",
+        "bytes": 51272,
         "originalBytes": 73414,
         "label": "Calivora introduction",
         "description": "Calivora - calivora introduction",
@@ -1153,13 +1153,13 @@
         }
       },
       {
-        "src": "/images/projects/calivora-provider-chat-cc72428367.webp",
+        "src": "/images/projects/app-calivora-theme-screen-92e13b099c.webp",
         "width": 390,
         "height": 844,
         "role": "screen",
         "gallery": true,
-        "sha256": "cc7242836721c077d7d585c520b88f532c12f7770c8bbd8ca38d0d5cef1cbf82",
-        "bytes": 94922,
+        "sha256": "92e13b099c0bee2460be8376aafba0ef398d1ef772a43090caca4cc94dc6c89e",
+        "bytes": 95736,
         "originalBytes": 148551,
         "label": "Provider chat and call states",
         "description": "Calivora - provider chat and call states",

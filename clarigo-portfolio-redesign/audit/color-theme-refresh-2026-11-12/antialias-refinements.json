@@ -1,0 +1,612 @@
+[
+  {
+    "slug": "streamdexa",
+    "index": 0,
+    "additionalUiPixels": 40258
+  },
+  {
+    "slug": "streamdexa",
+    "index": 1,
+    "additionalUiPixels": 83243
+  },
+  {
+    "slug": "streamdexa",
+    "index": 2,
+    "additionalUiPixels": 237816
+  },
+  {
+    "slug": "streamdexa",
+    "index": 3,
+    "additionalUiPixels": 54817
+  },
+  {
+    "slug": "streamdexa",
+    "index": 4,
+    "additionalUiPixels": 279466
+  },
+  {
+    "slug": "streamdexa",
+    "index": 5,
+    "additionalUiPixels": 41138
+  },
+  {
+    "slug": "streamdexa",
+    "index": 6,
+    "additionalUiPixels": 222106
+  },
+  {
+    "slug": "streamdexa",
+    "index": 7,
+    "additionalUiPixels": 207534
+  },
+  {
+    "slug": "streamdexa",
+    "index": 8,
+    "additionalUiPixels": 126955
+  },
+  {
+    "slug": "tukora-connect",
+    "index": 2,
+    "additionalUiPixels": 3178
+  },
+  {
+    "slug": "tukora-connect",
+    "index": 5,
+    "additionalUiPixels": 65791
+  },
+  {
+    "slug": "tukora-connect",
+    "index": 6,
+    "additionalUiPixels": 4460
+  },
+  {
+    "slug": "tukora-connect",
+    "index": 8,
+    "additionalUiPixels": 20374
+  },
+  {
+    "slug": "paranest",
+    "index": 0,
+    "additionalUiPixels": 2553
+  },
+  {
+    "slug": "paranest",
+    "index": 1,
+    "additionalUiPixels": 23114
+  },
+  {
+    "slug": "paranest",
+    "index": 2,
+    "additionalUiPixels": 32876
+  },
+  {
+    "slug": "paranest",
+    "index": 3,
+    "additionalUiPixels": 105879
+  },
+  {
+    "slug": "paranest",
+    "index": 4,
+    "additionalUiPixels": 306712
+  },
+  {
+    "slug": "paranest",
+    "index": 5,
+    "additionalUiPixels": 13522
+  },
+  {
+    "slug": "paranest",
+    "index": 6,
+    "additionalUiPixels": 11214
+  },
+  {
+    "slug": "paranest",
+    "index": 7,
+    "additionalUiPixels": 255198
+  },
+  {
+    "slug": "paranest",
+    "index": 8,
+    "additionalUiPixels": 33640
+  },
+  {
+    "slug": "alumvia",
+    "index": 0,
+    "additionalUiPixels": 75559
+  },
+  {
+    "slug": "alumvia",
+    "index": 1,
+    "additionalUiPixels": 154452
+  },
+  {
+    "slug": "alumvia",
+    "index": 2,
+    "additionalUiPixels": 122098
+  },
+  {
+    "slug": "alumvia",
+    "index": 3,
+    "additionalUiPixels": 34162
+  },
+  {
+    "slug": "alumvia",
+    "index": 4,
+    "additionalUiPixels": 17692
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 0,
+    "additionalUiPixels": 36001
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 1,
+    "additionalUiPixels": 63771
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 2,
+    "additionalUiPixels": 1582
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 3,
+    "additionalUiPixels": 60605
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 4,
+    "additionalUiPixels": 71999
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 5,
+    "additionalUiPixels": 72393
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 6,
+    "additionalUiPixels": 1799
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 7,
+    "additionalUiPixels": 22612
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 8,
+    "additionalUiPixels": 121579
+  },
+  {
+    "slug": "rallybridge",
+    "index": 0,
+    "additionalUiPixels": 9979
+  },
+  {
+    "slug": "rallybridge",
+    "index": 1,
+    "additionalUiPixels": 25438
+  },
+  {
+    "slug": "rallybridge",
+    "index": 2,
+    "additionalUiPixels": 35405
+  },
+  {
+    "slug": "rallybridge",
+    "index": 3,
+    "additionalUiPixels": 86803
+  },
+  {
+    "slug": "rallybridge",
+    "index": 4,
+    "additionalUiPixels": 538471
+  },
+  {
+    "slug": "rallybridge",
+    "index": 5,
+    "additionalUiPixels": 36508
+  },
+  {
+    "slug": "rallybridge",
+    "index": 6,
+    "additionalUiPixels": 81136
+  },
+  {
+    "slug": "rallybridge",
+    "index": 7,
+    "additionalUiPixels": 36686
+  },
+  {
+    "slug": "whizlume",
+    "index": 0,
+    "additionalUiPixels": 11070
+  },
+  {
+    "slug": "whizlume",
+    "index": 1,
+    "additionalUiPixels": 21229
+  },
+  {
+    "slug": "whizlume",
+    "index": 2,
+    "additionalUiPixels": 16492
+  },
+  {
+    "slug": "whizlume",
+    "index": 3,
+    "additionalUiPixels": 48606
+  },
+  {
+    "slug": "whizlume",
+    "index": 4,
+    "additionalUiPixels": 120
+  },
+  {
+    "slug": "whizlume",
+    "index": 5,
+    "additionalUiPixels": 4809
+  },
+  {
+    "slug": "whizlume",
+    "index": 6,
+    "additionalUiPixels": 11446
+  },
+  {
+    "slug": "whizlume",
+    "index": 7,
+    "additionalUiPixels": 13876
+  },
+  {
+    "slug": "estrata",
+    "index": 1,
+    "additionalUiPixels": 15503
+  },
+  {
+    "slug": "estrata",
+    "index": 2,
+    "additionalUiPixels": 52
+  },
+  {
+    "slug": "estrata",
+    "index": 4,
+    "additionalUiPixels": 1691
+  },
+  {
+    "slug": "estrata",
+    "index": 5,
+    "additionalUiPixels": 3554
+  },
+  {
+    "slug": "estrata",
+    "index": 6,
+    "additionalUiPixels": 1412
+  },
+  {
+    "slug": "leadforma",
+    "index": 0,
+    "additionalUiPixels": 9543
+  },
+  {
+    "slug": "app-simplyscouted",
+    "index": 0,
+    "additionalUiPixels": 34202
+  },
+  {
+    "slug": "app-simplyscouted",
+    "index": 1,
+    "additionalUiPixels": 39560
+  },
+  {
+    "slug": "app-simplyscouted",
+    "index": 2,
+    "additionalUiPixels": 45205
+  },
+  {
+    "slug": "app-simplyscouted",
+    "index": 3,
+    "additionalUiPixels": 3557
+  },
+  {
+    "slug": "app-simplyscouted",
+    "index": 4,
+    "additionalUiPixels": 50242
+  },
+  {
+    "slug": "app-simplyscouted",
+    "index": 5,
+    "additionalUiPixels": 1805
+  },
+  {
+    "slug": "app-simplyscouted",
+    "index": 6,
+    "additionalUiPixels": 8781
+  },
+  {
+    "slug": "app-simplyscouted",
+    "index": 7,
+    "additionalUiPixels": 30981
+  },
+  {
+    "slug": "app-infinote",
+    "index": 2,
+    "additionalUiPixels": 39132
+  },
+  {
+    "slug": "app-silaflow",
+    "index": 0,
+    "additionalUiPixels": 2804
+  },
+  {
+    "slug": "app-silaflow",
+    "index": 1,
+    "additionalUiPixels": 6159
+  },
+  {
+    "slug": "app-silaflow",
+    "index": 2,
+    "additionalUiPixels": 73915
+  },
+  {
+    "slug": "app-silaflow",
+    "index": 3,
+    "additionalUiPixels": 2560
+  },
+  {
+    "slug": "app-silaflow",
+    "index": 5,
+    "additionalUiPixels": 3
+  },
+  {
+    "slug": "app-silaflow",
+    "index": 6,
+    "additionalUiPixels": 204
+  },
+  {
+    "slug": "app-silaflow",
+    "index": 7,
+    "additionalUiPixels": 3158
+  },
+  {
+    "slug": "app-habitstride",
+    "index": 1,
+    "additionalUiPixels": 20056
+  },
+  {
+    "slug": "app-habitstride",
+    "index": 2,
+    "additionalUiPixels": 690
+  },
+  {
+    "slug": "app-habitstride",
+    "index": 3,
+    "additionalUiPixels": 787
+  },
+  {
+    "slug": "app-tukora-connect",
+    "index": 0,
+    "additionalUiPixels": 3153
+  },
+  {
+    "slug": "app-tukora-connect",
+    "index": 1,
+    "additionalUiPixels": 9472
+  },
+  {
+    "slug": "app-tukora-connect",
+    "index": 4,
+    "additionalUiPixels": 2526
+  },
+  {
+    "slug": "app-tukora-connect",
+    "index": 5,
+    "additionalUiPixels": 5567
+  },
+  {
+    "slug": "app-pantryone",
+    "index": 0,
+    "additionalUiPixels": 16450
+  },
+  {
+    "slug": "app-pantryone",
+    "index": 1,
+    "additionalUiPixels": 29320
+  },
+  {
+    "slug": "app-pantryone",
+    "index": 2,
+    "additionalUiPixels": 2070
+  },
+  {
+    "slug": "app-pantryone",
+    "index": 3,
+    "additionalUiPixels": 3368
+  },
+  {
+    "slug": "app-pantryone",
+    "index": 4,
+    "additionalUiPixels": 19779
+  },
+  {
+    "slug": "app-pantryone",
+    "index": 5,
+    "additionalUiPixels": 6781
+  },
+  {
+    "slug": "app-pantryone",
+    "index": 6,
+    "additionalUiPixels": 16184
+  },
+  {
+    "slug": "app-streetslate",
+    "index": 0,
+    "additionalUiPixels": 28368
+  },
+  {
+    "slug": "app-streetslate",
+    "index": 2,
+    "additionalUiPixels": 2874
+  },
+  {
+    "slug": "app-streetslate",
+    "index": 3,
+    "additionalUiPixels": 5340
+  },
+  {
+    "slug": "app-streetslate",
+    "index": 4,
+    "additionalUiPixels": 1758
+  },
+  {
+    "slug": "app-streetslate",
+    "index": 5,
+    "additionalUiPixels": 821
+  },
+  {
+    "slug": "app-streetslate",
+    "index": 6,
+    "additionalUiPixels": 11852
+  },
+  {
+    "slug": "app-kegeltempo",
+    "index": 0,
+    "additionalUiPixels": 145896
+  },
+  {
+    "slug": "app-kegeltempo",
+    "index": 1,
+    "additionalUiPixels": 202472
+  },
+  {
+    "slug": "app-kegeltempo",
+    "index": 2,
+    "additionalUiPixels": 137431
+  },
+  {
+    "slug": "app-kegeltempo",
+    "index": 4,
+    "additionalUiPixels": 1307
+  },
+  {
+    "slug": "app-kegeltempo",
+    "index": 5,
+    "additionalUiPixels": 4855
+  },
+  {
+    "slug": "app-kegeltempo",
+    "index": 6,
+    "additionalUiPixels": 65813
+  },
+  {
+    "slug": "app-kegeltempo",
+    "index": 7,
+    "additionalUiPixels": 9217
+  },
+  {
+    "slug": "app-strivaro",
+    "index": 0,
+    "additionalUiPixels": 57215
+  },
+  {
+    "slug": "app-strivaro",
+    "index": 3,
+    "additionalUiPixels": 18195
+  },
+  {
+    "slug": "app-strivaro",
+    "index": 4,
+    "additionalUiPixels": 8782
+  },
+  {
+    "slug": "app-strivaro",
+    "index": 8,
+    "additionalUiPixels": 2308
+  },
+  {
+    "slug": "app-axorabid",
+    "index": 0,
+    "additionalUiPixels": 53104
+  },
+  {
+    "slug": "app-axorabid",
+    "index": 6,
+    "additionalUiPixels": 20614
+  },
+  {
+    "slug": "app-axorabid",
+    "index": 8,
+    "additionalUiPixels": 2758
+  },
+  {
+    "slug": "app-axorabid",
+    "index": 9,
+    "additionalUiPixels": 187
+  },
+  {
+    "slug": "axorabid",
+    "index": 0,
+    "additionalUiPixels": 42455
+  },
+  {
+    "slug": "axorabid",
+    "index": 1,
+    "additionalUiPixels": 19361
+  },
+  {
+    "slug": "axorabid",
+    "index": 2,
+    "additionalUiPixels": 95
+  },
+  {
+    "slug": "axorabid",
+    "index": 3,
+    "additionalUiPixels": 55668
+  },
+  {
+    "slug": "axorabid",
+    "index": 4,
+    "additionalUiPixels": 5366
+  },
+  {
+    "slug": "axorabid",
+    "index": 5,
+    "additionalUiPixels": 327
+  },
+  {
+    "slug": "axorabid",
+    "index": 7,
+    "additionalUiPixels": 131047
+  },
+  {
+    "slug": "axorabid",
+    "index": 10,
+    "additionalUiPixels": 1764
+  },
+  {
+    "slug": "axorabid",
+    "index": 11,
+    "additionalUiPixels": 2048
+  },
+  {
+    "slug": "axorabid",
+    "index": 13,
+    "additionalUiPixels": 53873
+  },
+  {
+    "slug": "app-calivora",
+    "index": 0,
+    "additionalUiPixels": 55245
+  },
+  {
+    "slug": "app-calivora",
+    "index": 9,
+    "additionalUiPixels": 2472
+  },
+  {
+    "slug": "app-calivora",
+    "index": 10,
+    "additionalUiPixels": 2767
+  }
+]

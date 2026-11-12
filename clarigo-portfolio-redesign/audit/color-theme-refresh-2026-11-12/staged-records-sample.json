@@ -1,0 +1,1363 @@
+[
+  {
+    "slug": "kegeltempo",
+    "index": 0,
+    "old": {
+      "src": "/images/projects/kegeltempo-preview-0a208beed8.webp",
+      "width": 1456,
+      "height": 1232,
+      "role": "composition",
+      "gallery": false,
+      "sha256": "0a208beed8f35b1e52ed3b736830de91d8eb8642598452f249fb3afbb4aabde0",
+      "bytes": 398012,
+      "originalBytes": 266073
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/kegeltempo-0.png",
+    "regions": [
+      {
+        "x": 1024,
+        "y": 464,
+        "w": 96,
+        "h": 80
+      },
+      {
+        "x": 352,
+        "y": 480,
+        "w": 352,
+        "h": 304
+      },
+      {
+        "x": 784,
+        "y": 528,
+        "w": 432,
+        "h": 320
+      },
+      {
+        "x": 240,
+        "y": 576,
+        "w": 80,
+        "h": 96
+      },
+      {
+        "x": 256,
+        "y": 768,
+        "w": 64,
+        "h": 80
+      },
+      {
+        "x": 880,
+        "y": 864,
+        "w": 128,
+        "h": 80
+      }
+    ],
+    "stats": {
+      "changedPixels": 1167158,
+      "protectedPixels": 274432,
+      "maxSaturatedLuminanceDrift": 0.0035371126525112206,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 1,
+    "old": {
+      "src": "/images/projects/kegeltempo-artwork-40b9d2c293.webp",
+      "width": 1600,
+      "height": 1326,
+      "role": "composition",
+      "gallery": false,
+      "sha256": "40b9d2c293a56a3816fd8dc4df25006a72db01ef6b08080ad453e7a325c38822",
+      "bytes": 648768,
+      "originalBytes": 1252242
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/kegeltempo-1.png",
+    "regions": [
+      {
+        "x": 1248,
+        "y": 192,
+        "w": 112,
+        "h": 96
+      },
+      {
+        "x": 544,
+        "y": 288,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "x": 896,
+        "y": 304,
+        "w": 512,
+        "h": 464
+      },
+      {
+        "x": 208,
+        "y": 336,
+        "w": 336,
+        "h": 336
+      },
+      {
+        "x": 528,
+        "y": 432,
+        "w": 224,
+        "h": 208
+      },
+      {
+        "x": 1440,
+        "y": 464,
+        "w": 112,
+        "h": 176
+      },
+      {
+        "x": 848,
+        "y": 688,
+        "w": 128,
+        "h": 64
+      },
+      {
+        "x": 1040,
+        "y": 800,
+        "w": 224,
+        "h": 112
+      },
+      {
+        "x": 768,
+        "y": 864,
+        "w": 112,
+        "h": 48
+      }
+    ],
+    "stats": {
+      "changedPixels": 344301,
+      "protectedPixels": 461824,
+      "maxSaturatedLuminanceDrift": 0.0032914580048841735,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 2,
+    "old": {
+      "src": "/images/projects/kegeltempo-artwork-7d63a2bc3b.webp",
+      "width": 1494,
+      "height": 2200,
+      "role": "composition",
+      "gallery": false,
+      "sha256": "7d63a2bc3bdb7ed5cd12a0e34204191395f318ccc9823e1adcfbbfb8b8a54691",
+      "bytes": 332590,
+      "originalBytes": 440762
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/kegeltempo-2.png",
+    "regions": [
+      {
+        "x": 752,
+        "y": 704,
+        "w": 128,
+        "h": 48
+      },
+      {
+        "x": 704,
+        "y": 848,
+        "w": 96,
+        "h": 48
+      }
+    ],
+    "stats": {
+      "changedPixels": 497096,
+      "protectedPixels": 8398,
+      "maxSaturatedLuminanceDrift": 0.003429577355665514,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 3,
+    "old": {
+      "src": "/images/projects/kegeltempo-artwork-8f5544605c.webp",
+      "width": 999,
+      "height": 1274,
+      "role": "composition",
+      "gallery": false,
+      "sha256": "8f5544605c7210d18e6043b27269124e129ed8cb22a888dd73e2799d8d740f4a",
+      "bytes": 467348,
+      "originalBytes": 717335
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/kegeltempo-3.png",
+    "regions": [
+      {
+        "x": 416,
+        "y": 128,
+        "w": 480,
+        "h": 384
+      },
+      {
+        "x": 128,
+        "y": 192,
+        "w": 240,
+        "h": 208
+      },
+      {
+        "x": 96,
+        "y": 560,
+        "w": 80,
+        "h": 48
+      },
+      {
+        "x": 192,
+        "y": 560,
+        "w": 144,
+        "h": 48
+      },
+      {
+        "x": 128,
+        "y": 784,
+        "w": 320,
+        "h": 48
+      },
+      {
+        "x": 496,
+        "y": 784,
+        "w": 384,
+        "h": 48
+      },
+      {
+        "x": 208,
+        "y": 848,
+        "w": 160,
+        "h": 48
+      },
+      {
+        "x": 624,
+        "y": 848,
+        "w": 128,
+        "h": 48
+      },
+      {
+        "x": 128,
+        "y": 992,
+        "w": 736,
+        "h": 144
+      }
+    ],
+    "stats": {
+      "changedPixels": 561617,
+      "protectedPixels": 323520,
+      "maxSaturatedLuminanceDrift": 0.004256636399935898,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 4,
+    "old": {
+      "src": "/images/projects/kegeltempo-artwork-c56f400cb3.webp",
+      "width": 1494,
+      "height": 2200,
+      "role": "screen",
+      "gallery": true,
+      "sha256": "c56f400cb33f2b285f094c8491c99dd1809941a443413672f76d84c0c2d0d421",
+      "bytes": 498622,
+      "originalBytes": 852798
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/kegeltempo-4.png",
+    "regions": [
+      {
+        "x": 176,
+        "y": 272,
+        "w": 1120,
+        "h": 208
+      },
+      {
+        "x": 384,
+        "y": 736,
+        "w": 112,
+        "h": 160
+      },
+      {
+        "x": 320,
+        "y": 912,
+        "w": 192,
+        "h": 128
+      },
+      {
+        "x": 912,
+        "y": 912,
+        "w": 272,
+        "h": 128
+      },
+      {
+        "x": 464,
+        "y": 992,
+        "w": 80,
+        "h": 48
+      },
+      {
+        "x": 1072,
+        "y": 992,
+        "w": 80,
+        "h": 48
+      },
+      {
+        "x": 288,
+        "y": 1056,
+        "w": 288,
+        "h": 64
+      },
+      {
+        "x": 1072,
+        "y": 1072,
+        "w": 112,
+        "h": 48
+      },
+      {
+        "x": 320,
+        "y": 1184,
+        "w": 144,
+        "h": 48
+      },
+      {
+        "x": 944,
+        "y": 1184,
+        "w": 144,
+        "h": 48
+      },
+      {
+        "x": 304,
+        "y": 1296,
+        "w": 144,
+        "h": 80
+      },
+      {
+        "x": 912,
+        "y": 1296,
+        "w": 144,
+        "h": 80
+      },
+      {
+        "x": 288,
+        "y": 1392,
+        "w": 224,
+        "h": 80
+      },
+      {
+        "x": 896,
+        "y": 1392,
+        "w": 224,
+        "h": 80
+      },
+      {
+        "x": 272,
+        "y": 1520,
+        "w": 144,
+        "h": 48
+      },
+      {
+        "x": 896,
+        "y": 1520,
+        "w": 128,
+        "h": 48
+      },
+      {
+        "x": 304,
+        "y": 1632,
+        "w": 256,
+        "h": 48
+      },
+      {
+        "x": 912,
+        "y": 1632,
+        "w": 256,
+        "h": 48
+      },
+      {
+        "x": 304,
+        "y": 1728,
+        "w": 272,
+        "h": 48
+      },
+      {
+        "x": 912,
+        "y": 1728,
+        "w": 272,
+        "h": 48
+      },
+      {
+        "x": 400,
+        "y": 1808,
+        "w": 96,
+        "h": 64
+      }
+    ],
+    "stats": {
+      "changedPixels": 1769468,
+      "protectedPixels": 333202,
+      "maxSaturatedLuminanceDrift": 0.004256636399935898,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 5,
+    "old": {
+      "src": "/images/projects/kegeltempo-artwork-94df508de0.webp",
+      "width": 1494,
+      "height": 2200,
+      "role": "screen",
+      "gallery": true,
+      "sha256": "94df508de0965ab29af4f48d7dea5a779ed806db57f0df012fb5e88890764032",
+      "bytes": 801118,
+      "originalBytes": 426076
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/kegeltempo-5.png",
+    "regions": [
+      {
+        "x": 1040,
+        "y": 352,
+        "w": 304,
+        "h": 432
+      },
+      {
+        "x": 432,
+        "y": 384,
+        "w": 608,
+        "h": 432
+      },
+      {
+        "x": 160,
+        "y": 448,
+        "w": 240,
+        "h": 240
+      },
+      {
+        "x": 1232,
+        "y": 688,
+        "w": 64,
+        "h": 80
+      },
+      {
+        "x": 432,
+        "y": 896,
+        "w": 544,
+        "h": 112
+      },
+      {
+        "x": 400,
+        "y": 1216,
+        "w": 368,
+        "h": 48
+      },
+      {
+        "x": 144,
+        "y": 1280,
+        "w": 192,
+        "h": 64
+      },
+      {
+        "x": 352,
+        "y": 1280,
+        "w": 256,
+        "h": 64
+      },
+      {
+        "x": 624,
+        "y": 1296,
+        "w": 288,
+        "h": 48
+      },
+      {
+        "x": 208,
+        "y": 1360,
+        "w": 464,
+        "h": 64
+      },
+      {
+        "x": 1008,
+        "y": 1440,
+        "w": 336,
+        "h": 256
+      },
+      {
+        "x": 192,
+        "y": 1488,
+        "w": 176,
+        "h": 48
+      },
+      {
+        "x": 368,
+        "y": 1488,
+        "w": 576,
+        "h": 128
+      },
+      {
+        "x": 144,
+        "y": 1552,
+        "w": 208,
+        "h": 64
+      },
+      {
+        "x": 192,
+        "y": 1632,
+        "w": 496,
+        "h": 48
+      },
+      {
+        "x": 128,
+        "y": 1696,
+        "w": 128,
+        "h": 64
+      },
+      {
+        "x": 272,
+        "y": 1696,
+        "w": 528,
+        "h": 64
+      },
+      {
+        "x": 816,
+        "y": 1712,
+        "w": 80,
+        "h": 48
+      },
+      {
+        "x": 960,
+        "y": 1728,
+        "w": 320,
+        "h": 224
+      },
+      {
+        "x": 128,
+        "y": 1776,
+        "w": 272,
+        "h": 64
+      },
+      {
+        "x": 432,
+        "y": 1776,
+        "w": 192,
+        "h": 48
+      },
+      {
+        "x": 128,
+        "y": 1904,
+        "w": 576,
+        "h": 48
+      }
+    ],
+    "stats": {
+      "changedPixels": 1221824,
+      "protectedPixels": 936385,
+      "maxSaturatedLuminanceDrift": 0.004256636399935898,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 6,
+    "old": {
+      "src": "/images/projects/kegeltempo-artwork-d98af26fc4.webp",
+      "width": 1494,
+      "height": 2200,
+      "role": "screen",
+      "gallery": true,
+      "sha256": "d98af26fc4c26655919864bd528f3c42cf0e2bd9d4b4466642bd8f14d1d8fa82",
+      "bytes": 349442,
+      "originalBytes": 471709
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/kegeltempo-6.png",
+    "regions": [
+      {
+        "x": 688,
+        "y": 608,
+        "w": 128,
+        "h": 48
+      }
+    ],
+    "stats": {
+      "changedPixels": 353542,
+      "protectedPixels": 2635,
+      "maxSaturatedLuminanceDrift": 0.003429577355665514,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 7,
+    "old": {
+      "src": "/images/projects/kegeltempo-artwork-e8f2deb77b.webp",
+      "width": 1494,
+      "height": 2200,
+      "role": "screen",
+      "gallery": true,
+      "sha256": "e8f2deb77bbe836e73d49c7dcb5cad55f264649e05fc8be745806d74084ad0d4",
+      "bytes": 1115756,
+      "originalBytes": 930191
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/kegeltempo-7.png",
+    "regions": [
+      {
+        "x": 1264,
+        "y": 256,
+        "w": 80,
+        "h": 48
+      },
+      {
+        "x": 288,
+        "y": 560,
+        "w": 208,
+        "h": 144
+      },
+      {
+        "x": 640,
+        "y": 560,
+        "w": 288,
+        "h": 96
+      },
+      {
+        "x": 976,
+        "y": 560,
+        "w": 224,
+        "h": 256
+      },
+      {
+        "x": 1280,
+        "y": 640,
+        "w": 128,
+        "h": 128
+      },
+      {
+        "x": 96,
+        "y": 656,
+        "w": 48,
+        "h": 80
+      },
+      {
+        "x": 176,
+        "y": 656,
+        "w": 96,
+        "h": 96
+      },
+      {
+        "x": 192,
+        "y": 736,
+        "w": 336,
+        "h": 304
+      },
+      {
+        "x": 528,
+        "y": 800,
+        "w": 96,
+        "h": 96
+      },
+      {
+        "x": 960,
+        "y": 800,
+        "w": 240,
+        "h": 320
+      },
+      {
+        "x": 1216,
+        "y": 848,
+        "w": 192,
+        "h": 176
+      },
+      {
+        "x": 1136,
+        "y": 1056,
+        "w": 112,
+        "h": 128
+      },
+      {
+        "x": 848,
+        "y": 1088,
+        "w": 144,
+        "h": 128
+      },
+      {
+        "x": 656,
+        "y": 1136,
+        "w": 96,
+        "h": 112
+      },
+      {
+        "x": 496,
+        "y": 1152,
+        "w": 128,
+        "h": 160
+      },
+      {
+        "x": 1168,
+        "y": 1200,
+        "w": 64,
+        "h": 96
+      },
+      {
+        "x": 160,
+        "y": 1216,
+        "w": 80,
+        "h": 64
+      },
+      {
+        "x": 736,
+        "y": 1232,
+        "w": 144,
+        "h": 96
+      },
+      {
+        "x": 1040,
+        "y": 1440,
+        "w": 304,
+        "h": 304
+      },
+      {
+        "x": 176,
+        "y": 1536,
+        "w": 224,
+        "h": 240
+      },
+      {
+        "x": 1152,
+        "y": 1760,
+        "w": 160,
+        "h": 112
+      }
+    ],
+    "stats": {
+      "changedPixels": 759888,
+      "protectedPixels": 613120,
+      "maxSaturatedLuminanceDrift": 0.003989860099490206,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "slug": "kegeltempo",
+    "index": 8,
+    "old": {
+      "src": "/images/projects/kegeltempo-artwork-572ff1ce7a.webp",
+      "width": 1494,
+      "height": 2200,
+      "role": "screen",
+      "gallery": true,
+      "sha256": "572ff1ce7a6974ee7dc725c7008764966568789a15c48ccb6ac2dfa3be7f1c38",
+      "bytes": 695844,
+      "originalBytes": 314401
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/kegeltempo-8.png",
+    "regions": [
+      {
+        "x": 640,
+        "y": 288,
+        "w": 704,
+        "h": 592
+      },
+      {
+        "x": 272,
+        "y": 400,
+        "w": 256,
+        "h": 384
+      },
+      {
+        "x": 128,
+        "y": 560,
+        "w": 48,
+        "h": 96
+      },
+      {
+        "x": 192,
+        "y": 560,
+        "w": 80,
+        "h": 112
+      },
+      {
+        "x": 144,
+        "y": 960,
+        "w": 464,
+        "h": 64
+      },
+      {
+        "x": 240,
+        "y": 1040,
+        "w": 288,
+        "h": 48
+      },
+      {
+        "x": 544,
+        "y": 1040,
+        "w": 160,
+        "h": 48
+      },
+      {
+        "x": 720,
+        "y": 1040,
+        "w": 128,
+        "h": 48
+      },
+      {
+        "x": 192,
+        "y": 1328,
+        "w": 112,
+        "h": 48
+      },
+      {
+        "x": 496,
+        "y": 1328,
+        "w": 160,
+        "h": 48
+      },
+      {
+        "x": 800,
+        "y": 1328,
+        "w": 464,
+        "h": 48
+      },
+      {
+        "x": 288,
+        "y": 1424,
+        "w": 288,
+        "h": 80
+      },
+      {
+        "x": 896,
+        "y": 1424,
+        "w": 304,
+        "h": 80
+      },
+      {
+        "x": 176,
+        "y": 1632,
+        "w": 1136,
+        "h": 208
+      }
+    ],
+    "stats": {
+      "changedPixels": 1357259,
+      "protectedPixels": 757770,
+      "maxSaturatedLuminanceDrift": 0.003989860099490206,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "slug": "app-kegeltempo",
+    "index": 0,
+    "old": {
+      "src": "/images/projects/app-kegeltempo-preview-4c0adc9dfa.webp",
+      "width": 1600,
+      "height": 1334,
+      "role": "composition",
+      "gallery": false,
+      "sha256": "4c0adc9dfa25daf1c9d2bf1f2a1910783eb1a425db921376ef93496875e60087",
+      "bytes": 551892,
+      "originalBytes": 4818767
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/app-kegeltempo-0.png",
+    "regions": [
+      {
+        "x": 752,
+        "y": 432,
+        "w": 208,
+        "h": 304
+      },
+      {
+        "x": 656,
+        "y": 448,
+        "w": 80,
+        "h": 96
+      },
+      {
+        "x": 1248,
+        "y": 464,
+        "w": 224,
+        "h": 176
+      },
+      {
+        "x": 1168,
+        "y": 480,
+        "w": 96,
+        "h": 144
+      },
+      {
+        "x": 1152,
+        "y": 640,
+        "w": 384,
+        "h": 160
+      },
+      {
+        "x": 1152,
+        "y": 816,
+        "w": 384,
+        "h": 128
+      },
+      {
+        "x": 736,
+        "y": 896,
+        "w": 128,
+        "h": 128
+      },
+      {
+        "x": 1152,
+        "y": 976,
+        "w": 384,
+        "h": 240
+      },
+      {
+        "x": 640,
+        "y": 1008,
+        "w": 144,
+        "h": 224
+      },
+      {
+        "x": 864,
+        "y": 1008,
+        "w": 80,
+        "h": 80
+      },
+      {
+        "x": 704,
+        "y": 1168,
+        "w": 80,
+        "h": 64
+      },
+      {
+        "x": 800,
+        "y": 1168,
+        "w": 80,
+        "h": 64
+      },
+      {
+        "x": 896,
+        "y": 1168,
+        "w": 64,
+        "h": 64
+      }
+    ],
+    "stats": {
+      "changedPixels": 1589613,
+      "protectedPixels": 388096,
+      "maxSaturatedLuminanceDrift": 0.004256636399935898,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "slug": "app-kegeltempo",
+    "index": 1,
+    "old": {
+      "src": "/images/projects/app-kegeltempo-artwork-17ede1ee90.webp",
+      "width": 1298,
+      "height": 1325,
+      "role": "composition",
+      "gallery": false,
+      "sha256": "17ede1ee908eff5b18178ccfd87b176273b6a6196114bb113237dd36e66b6681",
+      "bytes": 395868,
+      "originalBytes": 1195271
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/app-kegeltempo-1.png",
+    "regions": [
+      {
+        "x": 928,
+        "y": 112,
+        "w": 256,
+        "h": 400
+      },
+      {
+        "x": 800,
+        "y": 144,
+        "w": 128,
+        "h": 192
+      },
+      {
+        "x": 272,
+        "y": 448,
+        "w": 112,
+        "h": 80
+      },
+      {
+        "x": 960,
+        "y": 608,
+        "w": 160,
+        "h": 128
+      },
+      {
+        "x": 816,
+        "y": 656,
+        "w": 80,
+        "h": 144
+      },
+      {
+        "x": 864,
+        "y": 752,
+        "w": 224,
+        "h": 160
+      },
+      {
+        "x": 752,
+        "y": 896,
+        "w": 208,
+        "h": 192
+      },
+      {
+        "x": 992,
+        "y": 896,
+        "w": 208,
+        "h": 192
+      },
+      {
+        "x": 752,
+        "y": 1104,
+        "w": 64,
+        "h": 64
+      },
+      {
+        "x": 848,
+        "y": 1104,
+        "w": 96,
+        "h": 80
+      },
+      {
+        "x": 976,
+        "y": 1104,
+        "w": 96,
+        "h": 80
+      },
+      {
+        "x": 1136,
+        "y": 1104,
+        "w": 48,
+        "h": 80
+      }
+    ],
+    "stats": {
+      "changedPixels": 1228597,
+      "protectedPixels": 292973,
+      "maxSaturatedLuminanceDrift": 0.004256636399935898,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "slug": "app-kegeltempo",
+    "index": 2,
+    "old": {
+      "src": "/images/projects/app-kegeltempo-artwork-62e10dd711.webp",
+      "width": 1267,
+      "height": 2200,
+      "role": "composition",
+      "gallery": false,
+      "sha256": "62e10dd711ef2d8f3c4c40d0513147b4aad3e8209600ca0fd727e8b6a5f9e240",
+      "bytes": 602192,
+      "originalBytes": 3548859
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/app-kegeltempo-2.png",
+    "regions": [
+      {
+        "x": 768,
+        "y": 528,
+        "w": 128,
+        "h": 160
+      },
+      {
+        "x": 928,
+        "y": 544,
+        "w": 256,
+        "h": 176
+      },
+      {
+        "x": 208,
+        "y": 592,
+        "w": 288,
+        "h": 224
+      },
+      {
+        "x": 144,
+        "y": 624,
+        "w": 64,
+        "h": 96
+      },
+      {
+        "x": 1120,
+        "y": 784,
+        "w": 80,
+        "h": 64
+      },
+      {
+        "x": 80,
+        "y": 816,
+        "w": 512,
+        "h": 224
+      },
+      {
+        "x": 80,
+        "y": 1072,
+        "w": 512,
+        "h": 176
+      },
+      {
+        "x": 736,
+        "y": 1088,
+        "w": 176,
+        "h": 48
+      },
+      {
+        "x": 1056,
+        "y": 1088,
+        "w": 80,
+        "h": 48
+      },
+      {
+        "x": 1008,
+        "y": 1152,
+        "w": 48,
+        "h": 128
+      },
+      {
+        "x": 704,
+        "y": 1200,
+        "w": 96,
+        "h": 80
+      },
+      {
+        "x": 464,
+        "y": 1296,
+        "w": 80,
+        "h": 48
+      },
+      {
+        "x": 80,
+        "y": 1360,
+        "w": 512,
+        "h": 256
+      },
+      {
+        "x": 704,
+        "y": 1504,
+        "w": 96,
+        "h": 128
+      }
+    ],
+    "stats": {
+      "changedPixels": 2024907,
+      "protectedPixels": 519424,
+      "maxSaturatedLuminanceDrift": 0.004256636399935898,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "slug": "app-kegeltempo",
+    "index": 3,
+    "old": {
+      "src": "/images/projects/app-kegeltempo-artwork-e347393ba9.webp",
+      "width": 375,
+      "height": 812,
+      "role": "screen",
+      "gallery": true,
+      "sha256": "e347393ba9ae053f3416ddb44e45478d1b7ba6b8aba3e347424af9ba91a1aad3",
+      "bytes": 56616,
+      "originalBytes": 131576
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/app-kegeltempo-3.png",
+    "regions": [],
+    "stats": {
+      "changedPixels": 237703,
+      "protectedPixels": 0,
+      "maxSaturatedLuminanceDrift": 0.003393414116664162,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "slug": "app-kegeltempo",
+    "index": 4,
+    "old": {
+      "src": "/images/projects/app-kegeltempo-artwork-2cd0b6be74.webp",
+      "width": 375,
+      "height": 812,
+      "role": "screen",
+      "gallery": true,
+      "sha256": "2cd0b6be74246e42160f72e81b71e3157276c66f8901348f7b819a4872f567b5",
+      "bytes": 198870,
+      "originalBytes": 323544
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/app-kegeltempo-4.png",
+    "regions": [
+      {
+        "x": 32,
+        "y": 80,
+        "w": 336,
+        "h": 288
+      },
+      {
+        "x": 32,
+        "y": 384,
+        "w": 336,
+        "h": 112
+      },
+      {
+        "x": 32,
+        "y": 560,
+        "w": 304,
+        "h": 176
+      }
+    ],
+    "stats": {
+      "changedPixels": 49283,
+      "protectedPixels": 187904,
+      "maxSaturatedLuminanceDrift": 0.004012536022995894,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "slug": "app-kegeltempo",
+    "index": 5,
+    "old": {
+      "src": "/images/projects/app-kegeltempo-artwork-b8078fd735.webp",
+      "width": 375,
+      "height": 812,
+      "role": "screen",
+      "gallery": true,
+      "sha256": "b8078fd73554f81e39cf0e9f92aa7f82d5d0d5db106e37df32ab2d555f6902fa",
+      "bytes": 112840,
+      "originalBytes": 144457
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/app-kegeltempo-5.png",
+    "regions": [
+      {
+        "x": 64,
+        "y": 48,
+        "w": 80,
+        "h": 80
+      },
+      {
+        "x": 192,
+        "y": 48,
+        "w": 144,
+        "h": 112
+      },
+      {
+        "x": 80,
+        "y": 384,
+        "w": 80,
+        "h": 48
+      }
+    ],
+    "stats": {
+      "changedPixels": 182771,
+      "protectedPixels": 24421,
+      "maxSaturatedLuminanceDrift": 0.004256636399935898,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "slug": "app-kegeltempo",
+    "index": 6,
+    "old": {
+      "src": "/images/projects/app-kegeltempo-artwork-e26d976bb0.webp",
+      "width": 375,
+      "height": 812,
+      "role": "screen",
+      "gallery": true,
+      "sha256": "e26d976bb06219ccadd20485f277958896e1843aa04c1477da8224a3a4e2a073",
+      "bytes": 150366,
+      "originalBytes": 182491
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/app-kegeltempo-6.png",
+    "regions": [
+      {
+        "x": 48,
+        "y": 32,
+        "w": 80,
+        "h": 112
+      },
+      {
+        "x": 176,
+        "y": 48,
+        "w": 160,
+        "h": 272
+      },
+      {
+        "x": 128,
+        "y": 448,
+        "w": 112,
+        "h": 80
+      },
+      {
+        "x": 32,
+        "y": 544,
+        "w": 144,
+        "h": 208
+      },
+      {
+        "x": 192,
+        "y": 544,
+        "w": 144,
+        "h": 96
+      },
+      {
+        "x": 192,
+        "y": 688,
+        "w": 64,
+        "h": 64
+      }
+    ],
+    "stats": {
+      "changedPixels": 123380,
+      "protectedPixels": 105581,
+      "maxSaturatedLuminanceDrift": 0.004256636399935898,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  },
+  {
+    "slug": "app-kegeltempo",
+    "index": 7,
+    "old": {
+      "src": "/images/projects/app-kegeltempo-artwork-2a33362b7e.webp",
+      "width": 375,
+      "height": 812,
+      "role": "screen",
+      "gallery": true,
+      "sha256": "2a33362b7e104bb78dea60341967f49c5135f34ac3fa6f7d82c448f4985d0155",
+      "bytes": 89806,
+      "originalBytes": 150766
+    },
+    "file": "audit/color-theme-refresh-2026-11-12/staged/app-kegeltempo-7.png",
+    "regions": [
+      {
+        "x": 112,
+        "y": 48,
+        "w": 160,
+        "h": 48
+      },
+      {
+        "x": 256,
+        "y": 544,
+        "w": 64,
+        "h": 112
+      },
+      {
+        "x": 48,
+        "y": 560,
+        "w": 64,
+        "h": 96
+      }
+    ],
+    "stats": {
+      "changedPixels": 197557,
+      "protectedPixels": 20955,
+      "maxSaturatedLuminanceDrift": 0.003989860099490206,
+      "alphaUnchanged": true,
+      "dimensionsUnchanged": true
+    }
+  }
+]

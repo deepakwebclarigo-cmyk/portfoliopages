@@ -1,0 +1,21 @@
+﻿export const themes = [
+ {name:'StreamDexa',slugs:['streamdexa'],primary:'#5144b7',surface:'#f3f2fb',bands:[[240,246,40],[215,225,22]],note:'Midnight indigo with softened periwinkle'},
+ {name:'Tukora Connect',slugs:['tukora-connect','app-tukora-connect'],primary:'#337db9',surface:'#edf4fa',bands:[[208,216,36],[151,158,24]],note:'Refined azure and mint'},
+ {name:'ParaNest',slugs:['paranest'],primary:'#438fc1',surface:'#eff6fa',bands:[[211,204,35],[28,25,18]],note:'Calm sky blue and soft apricot'},
+ {name:'Alumvia',slugs:['alumvia'],primary:'#118b91',surface:'#edf7f5',bands:[[187,181,32],[232,230,20]],note:'Balanced teal and cool ivory'},
+ {name:'KegelTempo',slugs:['kegeltempo','app-kegeltempo'],primary:'#b98211',surface:'#fcf6e7',bands:[[48,46,28],[320,325,15]],note:'Warm amber and clean cream'},
+ {name:'RallyBridge',slugs:['rallybridge'],primary:'#304f8b',surface:'#eff3f8',bands:[[228,223,35]],note:'Slate navy with restrained blue'},
+ {name:'Whizlume',slugs:['whizlume'],primary:'#6543af',surface:'#f4f0fa',bands:[[268,273,23],[220,257,28],[30,27,18]],note:'Purple-led learning UI with warm tangerine accents'},
+ {name:'EStrata',slugs:['estrata'],primary:'#206c9f',surface:'#eef4f8',bands:[[207,214,32]],note:'Measured steel blue'},
+ {name:'LeadForma',slugs:['leadforma'],primary:'#cc682a',surface:'#fbf3ed',bands:[[28,23,25]],note:'Softened copper orange'},
+ {name:'SimplyScouted',slugs:['app-simplyscouted'],primary:'#294c84',surface:'#f0f3f8',bands:[[221,227,34]],note:'A polished blue-navy sports workspace'},
+ {name:'Infinote',slugs:['app-infinote'],primary:'#3c574b',surface:'#f0f5f1',bands:[[144,153,40],[228,155,21]],note:'Quiet forest green and sage'},
+ {name:'SilaFlow',slugs:['app-silaflow'],primary:'#397e24',surface:'#f1f7ec',bands:[[103,113,32]],note:'Fresh leaf green with a gentler saturation'},
+ {name:'HabitStride',slugs:['app-habitstride'],primary:'#7762d3',surface:'#f4f1fb',bands:[[250,256,32]],note:'Soft violet and lavender'},
+ {name:'PantryOne',slugs:['app-pantryone'],primary:'#52942d',surface:'#f3f8ec',bands:[[92,99,31]],note:'Natural orchard green'},
+ {name:'StreetSlate',slugs:['app-streetslate'],primary:'#57308e',surface:'#f3eff8',bands:[[269,261,35],[44,41,14]],note:'Slate violet with a muted gold accent'},
+ {name:'Strivaro',slugs:['app-strivaro'],primary:'#6f3d91',surface:'#f4eff8',bands:[[267,272,33],[12,16,22],[199,196,17]],note:'Deep plum and warm coral'},
+ {name:'AxoraBid',slugs:['axorabid','app-axorabid'],primary:'#3159d3',surface:'#eef3fb',bands:[[231,225,34]],note:'Refined cobalt across Web and Mobile'},
+ {name:'Calivora',slugs:['app-calivora'],primary:'#10a98f',surface:'#eaf5f1',bands:[[160,167,27],[276,268,27],[245,246,17]],note:'Emerald-teal on a slightly cooler plum foundation'},
+];
+export const bySlug=Object.fromEntries(themes.flatMap(t=>t.slugs.map(s=>[s,t])));

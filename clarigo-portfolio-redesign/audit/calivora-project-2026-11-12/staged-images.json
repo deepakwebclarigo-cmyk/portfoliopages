@@ -1,12 +1,12 @@
 [
   {
-    "src": "/images/projects/calivora-splash-449fcf995d.webp",
+    "src": "/images/projects/calivora-splash-03f8d2e534.webp",
     "width": 390,
     "height": 844,
     "role": "screen",
     "gallery": true,
-    "sha256": "449fcf995da3454655708ad68433e63eaaedf24cb234ca9835d522f739cfd2c9",
-    "bytes": 51596,
+    "sha256": "03f8d2e5346b4397ab58506b6b1318b911a74d1fe8a8a04f0492c88ad6cf2815",
+    "bytes": 51200,
     "originalBytes": 73414,
     "label": "Calivora introduction",
     "description": "Calivora - calivora introduction"
@@ -120,13 +120,13 @@
     "description": "Calivora - video consultation interface"
   },
   {
-    "src": "/images/projects/calivora-sign-in-519bba6c71.webp",
+    "src": "/images/projects/calivora-sign-in-ae15c6d3b3.webp",
     "width": 390,
     "height": 844,
     "role": "screen",
     "gallery": true,
-    "sha256": "519bba6c71ba71d1cd1e4527256273549cc7cd9c21b43e34747fddb4e730df34",
-    "bytes": 63708,
+    "sha256": "ae15c6d3b3b2648e205bc66dbba40738403dded8d8117db6c1d9b60f1469a0ae",
+    "bytes": 63346,
     "originalBytes": 97235,
     "label": "Calivora sign-in",
     "description": "Calivora - calivora sign-in"
@@ -156,13 +156,13 @@
     "description": "Calivora - account and membership settings"
   },
   {
-    "src": "/images/projects/calivora-brand-identity-9f51b55cb6.webp",
+    "src": "/images/projects/calivora-brand-identity-406dc97788.webp",
     "width": 256,
     "height": 182,
     "role": "composition",
     "gallery": true,
-    "sha256": "9f51b55cb623439466a4651e955dc63751e88d10c3f8447517fb069d60945390",
-    "bytes": 12272,
+    "sha256": "406dc97788e82817e661a5514108c868df6b3a9bccc9b094bb1da87a9f0732ce",
+    "bytes": 11796,
     "originalBytes": 7036,
     "label": "Calivora brand identity",
     "description": "Calivora - calivora brand identity"

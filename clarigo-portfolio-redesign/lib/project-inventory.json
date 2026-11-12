@@ -8,7 +8,7 @@
   },
   {
     "name": "StreamDexa",
-    "image": "/images/projects/streamdexa-preview-06a41782d5.webp",
+    "image": "/images/projects/streamdexa-theme-preview-aac464890f.webp",
     "kind": "web",
     "slug": "streamdexa",
     "rebranded": true
@@ -22,7 +22,7 @@
   },
   {
     "name": "Tukora Connect",
-    "image": "/images/projects/tukora-connect-preview-4ba2862610.webp",
+    "image": "/images/projects/tukora-connect-theme-preview-975b48453b.webp",
     "kind": "web",
     "slug": "tukora-connect",
     "rebranded": true
@@ -50,7 +50,7 @@
   },
   {
     "name": "ParaNest",
-    "image": "/images/projects/paranest-preview-eea8a9ab8f.webp",
+    "image": "/images/projects/paranest-theme-preview-67bd428350.webp",
     "kind": "web",
     "slug": "paranest",
     "rebranded": true
@@ -78,21 +78,21 @@
   },
   {
     "name": "Alumvia",
-    "image": "/images/projects/alumvia-preview-ac91e561df.webp",
+    "image": "/images/projects/alumvia-theme-preview-1193a9c1d7.webp",
     "kind": "web",
     "slug": "alumvia",
     "rebranded": true
   },
   {
     "name": "KegelTempo",
-    "image": "/images/projects/kegeltempo-preview-0a208beed8.webp",
+    "image": "/images/projects/kegeltempo-theme-preview-9f57d8cb64.webp",
     "kind": "web",
     "slug": "kegeltempo",
     "rebranded": true
   },
   {
     "name": "RallyBridge",
-    "image": "/images/projects/rallybridge-preview-67f205f925.webp",
+    "image": "/images/projects/rallybridge-theme-preview-912a26e092.webp",
     "kind": "web",
     "slug": "rallybridge",
     "rebranded": true
@@ -106,14 +106,14 @@
   },
   {
     "name": "Whizlume",
-    "image": "/images/projects/whizlume-preview-3302361b6f.webp",
+    "image": "/images/projects/whizlume-theme-preview-79449184c9.webp",
     "kind": "web",
     "slug": "whizlume",
     "rebranded": true
   },
   {
     "name": "EStrata",
-    "image": "/images/projects/estrata-preview-71028bd2da.webp",
+    "image": "/images/projects/estrata-theme-preview-449efc1dbb.webp",
     "kind": "web",
     "slug": "estrata",
     "rebranded": true
@@ -127,7 +127,7 @@
   },
   {
     "name": "LeadForma",
-    "image": "/images/projects/leadforma-preview-76d088504c.webp",
+    "image": "/images/projects/leadforma-theme-preview-f00ca3769c.webp",
     "kind": "web",
     "slug": "leadforma",
     "rebranded": true
@@ -141,35 +141,35 @@
   },
   {
     "name": "SimplyScouted",
-    "image": "/images/projects/app-simplyscouted-preview-e4ae14e776.webp",
+    "image": "/images/projects/app-simplyscouted-theme-preview-7851937450.webp",
     "kind": "mobile",
     "slug": "app-simplyscouted",
     "rebranded": true
   },
   {
     "name": "Infinote",
-    "image": "/images/projects/app-infinote-preview-8e80c527a0.webp",
+    "image": "/images/projects/app-infinote-theme-preview-cba835af4f.webp",
     "kind": "mobile",
     "slug": "app-infinote",
     "rebranded": true
   },
   {
     "name": "SilaFlow",
-    "image": "/images/projects/app-silaflow-preview-2881215e70.webp",
+    "image": "/images/projects/app-silaflow-theme-preview-37fce1d2a0.webp",
     "kind": "mobile",
     "slug": "app-silaflow",
     "rebranded": true
   },
   {
     "name": "HabitStride",
-    "image": "/images/projects/app-habitstride-preview-4f2287587a.webp",
+    "image": "/images/projects/app-habitstride-theme-preview-34440bd979.webp",
     "kind": "mobile",
     "slug": "app-habitstride",
     "rebranded": true
   },
   {
     "name": "Tukora Connect",
-    "image": "/images/projects/app-tukora-connect-preview-b789498701.webp",
+    "image": "/images/projects/app-tukora-connect-theme-preview-c563cd2ea7.webp",
     "kind": "mobile",
     "slug": "app-tukora-connect",
     "rebranded": true
@@ -225,7 +225,7 @@
   },
   {
     "name": "PantryOne",
-    "image": "/images/projects/app-pantryone-preview-0a7994a06a.webp",
+    "image": "/images/projects/app-pantryone-theme-preview-062fde47cb.webp",
     "kind": "mobile",
     "slug": "app-pantryone",
     "rebranded": true
@@ -267,7 +267,7 @@
   },
   {
     "name": "StreetSlate",
-    "image": "/images/projects/app-streetslate-preview-cf7af19a83.webp",
+    "image": "/images/projects/app-streetslate-theme-preview-1015895fda.webp",
     "kind": "mobile",
     "slug": "app-streetslate",
     "rebranded": true
@@ -288,7 +288,7 @@
   },
   {
     "name": "KegelTempo",
-    "image": "/images/projects/app-kegeltempo-preview-4c0adc9dfa.webp",
+    "image": "/images/projects/app-kegeltempo-theme-preview-314e30db52.webp",
     "kind": "mobile",
     "slug": "app-kegeltempo",
     "rebranded": true
@@ -309,28 +309,28 @@
   },
   {
     "name": "Strivaro",
-    "image": "/images/projects/app-strivaro-preview-d16fb9128c.webp",
+    "image": "/images/projects/app-strivaro-theme-preview-c8041e5999.webp",
     "kind": "mobile",
     "slug": "app-strivaro",
     "rebranded": true
   },
   {
     "name": "AxoraBid",
-    "image": "/images/projects/app-axorabid-preview-9139a4a5c6.webp",
+    "image": "/images/projects/app-axorabid-theme-preview-23ca48c8e4.webp",
     "kind": "mobile",
     "slug": "app-axorabid",
     "rebranded": true
   },
   {
     "name": "AxoraBid",
-    "image": "/images/projects/axorabid-preview-b1544c6d73.webp",
+    "image": "/images/projects/axorabid-theme-preview-1f1b1e5a51.webp",
     "kind": "web",
     "slug": "axorabid",
     "rebranded": true
   },
   {
     "name": "Calivora",
-    "image": "/images/projects/app-calivora-preview-18b5d193e5.webp",
+    "image": "/images/projects/app-calivora-theme-preview-bc744f2595.webp",
     "kind": "mobile",
     "slug": "app-calivora",
     "rebranded": true

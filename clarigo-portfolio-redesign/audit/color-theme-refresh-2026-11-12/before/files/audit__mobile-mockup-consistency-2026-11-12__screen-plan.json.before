@@ -1,0 +1,1176 @@
+[
+  {
+    "slug": "app-livsocial",
+    "views": [
+      {
+        "index": 1,
+        "src": "/images/projects/app-livsocial-3cd64caf50.webp",
+        "width": 1600,
+        "height": 1592,
+        "role": "composition",
+        "gallery": false,
+        "sha256": "60c2109856b703d6591013449b0ed1ff94aa3e5cfa7718566afa2e18c53c152f",
+        "bytes": 234872,
+        "originalBytes": 1640977,
+        "quad": [
+          [
+            197,
+            153
+          ],
+          [
+            819,
+            65
+          ],
+          [
+            1018,
+            1443
+          ],
+          [
+            396,
+            1531
+          ]
+        ],
+        "rectifiedSize": [
+          330,
+          740
+        ],
+        "afterCrop": {
+          "left": 0,
+          "top": 36,
+          "width": 330,
+          "height": 686
+        },
+        "backgroundPoint": [
+          40,
+          12
+        ]
+      },
+      {
+        "index": 2,
+        "src": "/images/projects/app-livsocial-3c5b36b36a.webp",
+        "width": 375,
+        "height": 812,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "0fdd12cea950ffd3ab153fa57562297d5234a3d700d1a6775e50dc3df891c400",
+        "bytes": 62484,
+        "originalBytes": 279617,
+        "crop": {
+          "left": 22,
+          "top": 62,
+          "width": 331,
+          "height": 674
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-simplyscouted",
+    "views": [
+      {
+        "index": 2,
+        "src": "/images/projects/app-simplyscouted-artwork-c7cd1aa78b.webp",
+        "width": 375,
+        "height": 812,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "c7cd1aa78b814d3fe27fc2eb39b420fa06336c4e178c3ca9524114a07ebb2422",
+        "bytes": 75920,
+        "originalBytes": 163270,
+        "crop": {
+          "left": 22,
+          "top": 54,
+          "width": 331,
+          "height": 682
+        }
+      },
+      {
+        "index": 4,
+        "src": "/images/projects/app-simplyscouted-artwork-fdb1248571.webp",
+        "width": 375,
+        "height": 812,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "fdb1248571c2f022e21531a88215f28511109be888feac4cfd455c8cb40ebe1e",
+        "bytes": 165908,
+        "originalBytes": 301332,
+        "crop": {
+          "left": 22,
+          "top": 54,
+          "width": 331,
+          "height": 682
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-infinote",
+    "views": [
+      {
+        "index": 3,
+        "src": "/images/projects/app-infinote-artwork-0fc4000de7.webp",
+        "width": 375,
+        "height": 812,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "0fc4000de7e72bc5574751e609dfa6cd8ebcc4a3d1fc52421636ff1eaefe49b4",
+        "bytes": 38990,
+        "originalBytes": 43938,
+        "crop": {
+          "left": 22,
+          "top": 22,
+          "width": 331,
+          "height": 714
+        }
+      },
+      {
+        "index": 7,
+        "src": "/images/projects/app-infinote-artwork-6bc405e873.webp",
+        "width": 375,
+        "height": 812,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "6bc405e8731d694b6b4794c9fc04734d22402589503c4200a205dd2ca25e60e7",
+        "bytes": 146286,
+        "originalBytes": 249299,
+        "crop": {
+          "left": 22,
+          "top": 62,
+          "width": 331,
+          "height": 674
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-silaflow",
+    "views": [
+      {
+        "index": 5,
+        "src": "/images/projects/app-silaflow-artwork-e6037b0a8d.webp",
+        "width": 375,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "e6037b0a8d8662aefa189be18f60c3168970751e4cb14a64d2e37eec5161c5f8",
+        "bytes": 168232,
+        "originalBytes": 240802,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      },
+      {
+        "index": 3,
+        "src": "/images/projects/app-silaflow-artwork-150eb225a7.webp",
+        "width": 375,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "150eb225a7bb8b643d4c8da14478d645542cbf64c935a01ba3b094af1f3bbfe1",
+        "bytes": 109668,
+        "originalBytes": 118074,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-habitstride",
+    "views": [
+      {
+        "index": 4,
+        "src": "/images/projects/app-habitstride-artwork-4c62999422.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "4c62999422519cd7bc8962817a622d4019405fd4a2eb1f2219831b48a9af859d",
+        "bytes": 53986,
+        "originalBytes": 183471,
+        "crop": {
+          "left": 22,
+          "top": 22,
+          "width": 331,
+          "height": 714
+        }
+      },
+      {
+        "index": 6,
+        "src": "/images/projects/app-habitstride-artwork-d31d050563.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "d31d050563dce190a74dc96ccf5fee46207595dcdeeab940de0db9785417d7e3",
+        "bytes": 64516,
+        "originalBytes": 95275,
+        "crop": {
+          "left": 22,
+          "top": 62,
+          "width": 331,
+          "height": 674
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-tukora-connect",
+    "views": [
+      {
+        "index": 2,
+        "src": "/images/projects/app-tukora-connect-artwork-fda26c6f4b.webp",
+        "width": 375,
+        "height": 812,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "fda26c6f4bcee210cca0fe8c98e2cc340ab7c4740a5e861e562018f45408a53a",
+        "bytes": 52514,
+        "originalBytes": 54744,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      },
+      {
+        "index": 5,
+        "src": "/images/projects/app-tukora-connect-artwork-75eaf9afdc.webp",
+        "width": 375,
+        "height": 812,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "75eaf9afdcb5efa8557ea8855eda603253b69c25ec2bf5cd7c34d37a2c568d76",
+        "bytes": 202702,
+        "originalBytes": 361379,
+        "crop": {
+          "left": 22,
+          "top": 22,
+          "width": 331,
+          "height": 714
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-pace-of-play",
+    "views": [
+      {
+        "index": 3,
+        "src": "/images/projects/app-pace-of-play-5954738d17.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "c2956db5d3053108c120581a62af55e5534437f21483da1a988379f468128416",
+        "bytes": 53052,
+        "originalBytes": 373166,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      },
+      {
+        "index": 4,
+        "src": "/images/projects/app-pace-of-play-66e66a0922.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "fa3cd5aa9278e6d565bae53b4c5295f589812f288bc72e37ca2602dfca3bfb75",
+        "bytes": 35664,
+        "originalBytes": 126639,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-qcop-app",
+    "views": [
+      {
+        "index": 3,
+        "src": "/images/projects/app-qcop-app-0cf8c1c846.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "47a9a6281591a36855b768957ac251a8dd474fbc41a56ed99737776df09c8099",
+        "bytes": 22704,
+        "originalBytes": 83995,
+        "crop": {
+          "left": 22,
+          "top": 22,
+          "width": 331,
+          "height": 714
+        }
+      },
+      {
+        "index": 5,
+        "src": "/images/projects/app-qcop-app-ceef78c4ad.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "eb17f376b0e68b216b637563ae702f17f54bc73b4d15e9e71755ec7ec0b806ca",
+        "bytes": 35756,
+        "originalBytes": 146944,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-little-butterflies",
+    "views": [
+      {
+        "index": 3,
+        "src": "/images/projects/app-little-butterflies-ff77d40d85.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "b538b154eb7f739483b3b99a13ff1417bddf1548182d3c68a4f509840bffa879",
+        "bytes": 18970,
+        "originalBytes": 53962,
+        "crop": {
+          "left": 22,
+          "top": 22,
+          "width": 331,
+          "height": 714
+        }
+      },
+      {
+        "src": "/images/projects/app-little-butterflies-9df5860952.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "fb187c7b5270c5fd3e81eb0e1ca75c0357a1c60f559c156683aa6bff39424a52",
+        "bytes": 39860,
+        "originalBytes": 159947,
+        "index": 4,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-case-management-ase",
+    "views": [
+      {
+        "index": 4,
+        "src": "/images/projects/app-case-management-ase-3ccf70f9cb.webp",
+        "width": 375,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "d333910f6a63c7bbd4ae020d43100534164554b4e353b7df6df1aa77d43a6824",
+        "bytes": 23156,
+        "originalBytes": 96047,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      },
+      {
+        "index": 5,
+        "src": "/images/projects/app-case-management-ase-d711ca601b.webp",
+        "width": 375,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "1699dfccf85e28711ac7f55f149f8fefd3923eadc2a2b850054132d9f4b1bf4c",
+        "bytes": 29968,
+        "originalBytes": 90568,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-printlific",
+    "views": [
+      {
+        "index": 3,
+        "src": "/images/projects/app-printlific-f3b27eeb5b.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "fc696ea0695169a78317e5885f07d93bb66ebea43563ca9043a10c6c0c64cb7b",
+        "bytes": 20144,
+        "originalBytes": 172454,
+        "crop": {
+          "left": 22,
+          "top": 22,
+          "width": 331,
+          "height": 714
+        }
+      },
+      {
+        "index": 5,
+        "src": "/images/projects/app-printlific-5059b3605e.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "15767d6d5af0fd2b8eadc45814caeb59de80a406b3654e69569a56267b62734c",
+        "bytes": 43674,
+        "originalBytes": 257899,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-racepace",
+    "views": [
+      {
+        "index": 1,
+        "src": "/images/projects/app-racepace-033541e3d2.webp",
+        "width": 750,
+        "height": 1624,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "aac0943ad1c234b10cbc99db334d3a1d79280264839a52e11121f17ecdf0bbf8",
+        "bytes": 94224,
+        "originalBytes": 391043,
+        "crop": {
+          "left": 0,
+          "top": 84,
+          "width": 750,
+          "height": 1498
+        }
+      },
+      {
+        "index": 2,
+        "src": "/images/projects/app-racepace-64a9786a12.webp",
+        "width": 750,
+        "height": 1624,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "f94bbdbcae63eec31dd5824cdeead9ad8d68b21607d461e7eeb95acdc8b6314c",
+        "bytes": 90560,
+        "originalBytes": 850037,
+        "crop": {
+          "left": 0,
+          "top": 84,
+          "width": 750,
+          "height": 1498
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-been-there",
+    "views": [
+      {
+        "src": "/images/projects/app-been-there-66455b674f.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "c17606b07bdfa3b6e8e51326cfb141f890d23bc87d166954efb2ec07955ace44",
+        "bytes": 18524,
+        "originalBytes": 248140,
+        "index": 3,
+        "crop": {
+          "left": 22,
+          "top": 22,
+          "width": 331,
+          "height": 714
+        }
+      },
+      {
+        "index": 6,
+        "src": "/images/projects/app-been-there-446720a75f.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "263a3e05575325ec736f094d1ee2a3f668a32a9b68310d83df7d089547379ab1",
+        "bytes": 37668,
+        "originalBytes": 136281,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-pantryone",
+    "views": [
+      {
+        "index": 2,
+        "src": "/images/projects/app-pantryone-artwork-39388534c5.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "39388534c5d57f48523cffd1fcc23b4efac6ce55fd8af0bd5bdae5bb6a9b75bf",
+        "bytes": 59542,
+        "originalBytes": 209483,
+        "crop": {
+          "left": 22,
+          "top": 22,
+          "width": 331,
+          "height": 714
+        }
+      },
+      {
+        "index": 4,
+        "src": "/images/projects/app-pantryone-artwork-8d49ef7677.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "8d49ef76775be4bbcad7fb35df088ba1b840fbc620d4d7d0095a9ab03314a0ce",
+        "bytes": 137394,
+        "originalBytes": 172827,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-escapethehoa",
+    "views": [
+      {
+        "index": 4,
+        "src": "/images/projects/app-escapethehoa-9632458d93.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "4b8e4f80f187a2e1c729a944150530631b34337d0f832d8f3a5470cde8778b43",
+        "bytes": 67320,
+        "originalBytes": 413042,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      },
+      {
+        "index": 3,
+        "src": "/images/projects/app-escapethehoa-eab8f075c0.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "84b578681db04191024f9ebe34b821a0541c0c7557307f73f8f1d646751552ac",
+        "bytes": 51900,
+        "originalBytes": 369302,
+        "crop": {
+          "left": 22,
+          "top": 22,
+          "width": 331,
+          "height": 714
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-dateflow",
+    "views": [
+      {
+        "index": 4,
+        "src": "/images/projects/app-dateflow-10e8f2ab0b.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "7ba4960f059c6111cc86867dd84d8af156c4c57035a4c9b41ad3c193a87938b6",
+        "bytes": 22808,
+        "originalBytes": 62203,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      },
+      {
+        "index": 3,
+        "src": "/images/projects/app-dateflow-806c579753.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "8bd845227fee260db96f463a599af2cfc66176bd8b9deb4985ecf426756d21b0",
+        "bytes": 23898,
+        "originalBytes": 63051,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-meravyaah",
+    "views": [
+      {
+        "index": 3,
+        "src": "/images/projects/app-meravyaah-1d3654537c.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "ec580162efd5299b273e19ff6ae2bfc660dc7dcf1a1d96cf19690c170df03aa1",
+        "bytes": 59268,
+        "originalBytes": 371784,
+        "crop": {
+          "left": 22,
+          "top": 22,
+          "width": 331,
+          "height": 714
+        }
+      },
+      {
+        "index": 4,
+        "src": "/images/projects/app-meravyaah-8c2624eb95.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "586fc88d9a8cefa353585f912840391f2f9d75d505b1335c317c9946ee18a273",
+        "bytes": 40940,
+        "originalBytes": 274090,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-beliri",
+    "views": [
+      {
+        "index": 4,
+        "src": "/images/projects/app-beliri-6ce4647fac.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "980afd793f6b7652813193b8c20592e343ceb8d6484074fb4d7597457254dbc8",
+        "bytes": 27422,
+        "originalBytes": 84408,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      },
+      {
+        "index": 3,
+        "src": "/images/projects/app-beliri-ab2d360790.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "9d5fe426ff0e0477f128777a0659a7169ef718ba166f54c0cc2c697e7b426c86",
+        "bytes": 15672,
+        "originalBytes": 36626,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-fynmate",
+    "views": [
+      {
+        "index": 3,
+        "src": "/images/projects/app-fynmate-05299eccd3.webp",
+        "width": 375,
+        "height": 812,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "709874dc8cf79969a6dd73567e477a5985824f0236129dfbe6db1d1c98db11b0",
+        "bytes": 34898,
+        "originalBytes": 180183,
+        "crop": {
+          "left": 22,
+          "top": 22,
+          "width": 331,
+          "height": 714
+        }
+      },
+      {
+        "index": 4,
+        "src": "/images/projects/app-fynmate-0645b532f1.webp",
+        "width": 375,
+        "height": 812,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "bb2504c8b792ad5c94422edb72bbcf4fa58e23ec51c3e2661b8f0f06910824b4",
+        "bytes": 36086,
+        "originalBytes": 155571,
+        "crop": {
+          "left": 22,
+          "top": 22,
+          "width": 331,
+          "height": 714
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-streetslate",
+    "views": [
+      {
+        "index": 1,
+        "src": "/images/projects/app-streetslate-artwork-7b47c7d3de.webp",
+        "width": 331,
+        "height": 669,
+        "role": "composition",
+        "gallery": false,
+        "sha256": "7b47c7d3de0fca58a23fcf635983563697677efb4a77349cea560dd0fda1543d",
+        "bytes": 31382,
+        "originalBytes": 46492,
+        "crop": {
+          "left": 19,
+          "top": 43,
+          "width": 294,
+          "height": 606
+        }
+      },
+      {
+        "index": 4,
+        "src": "/images/projects/app-streetslate-artwork-7755b4e653.webp",
+        "width": 331,
+        "height": 669,
+        "role": "composition",
+        "gallery": false,
+        "sha256": "7755b4e653eb1775a25708f10445ca7f3ba81c3efd1daf819a450e83803a43b1",
+        "bytes": 75624,
+        "originalBytes": 99281,
+        "crop": {
+          "left": 19,
+          "top": 43,
+          "width": 294,
+          "height": 606
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-ummed",
+    "views": [
+      {
+        "index": 1,
+        "src": "/images/projects/app-ummed-30639d6882.webp",
+        "width": 375,
+        "height": 812,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "d0fa9413c9389435bbaa8e48c8680580dc60fa47b2572aea2518a1fcc6c8144e",
+        "bytes": 20784,
+        "originalBytes": 113916,
+        "crop": {
+          "left": 22,
+          "top": 22,
+          "width": 331,
+          "height": 714
+        }
+      },
+      {
+        "index": 0,
+        "src": "/images/projects/app-ummed-10eb070504.webp",
+        "width": 941,
+        "height": 1611,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "c76ecc4bbb08b6c6f2f9fafd82f46e9614cbe184c50468bb29708a1835bd5b6c",
+        "bytes": 85584,
+        "originalBytes": 677580,
+        "crop": {
+          "left": 305,
+          "top": 241,
+          "width": 565,
+          "height": 1162
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-bubble",
+    "views": [
+      {
+        "index": 3,
+        "src": "/images/projects/app-bubble-a2bb0c8f92.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "72df973feeb11f1661b49142ec3526507dc06da5b25f294e6ad41fd5aafa138e",
+        "bytes": 44704,
+        "originalBytes": 222410,
+        "crop": {
+          "left": 22,
+          "top": 22,
+          "width": 331,
+          "height": 714
+        }
+      },
+      {
+        "index": 5,
+        "src": "/images/projects/app-bubble-f51f27bba0.webp",
+        "width": 376,
+        "height": 813,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "b65f62e2795d30c289705569a9fb031f57a1f3d54bfce71901144355eedb6420",
+        "bytes": 37744,
+        "originalBytes": 167318,
+        "crop": {
+          "left": 22,
+          "top": 22,
+          "width": 331,
+          "height": 714
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-kegeltempo",
+    "views": [
+      {
+        "index": 2,
+        "src": "/images/projects/app-kegeltempo-artwork-e347393ba9.webp",
+        "width": 375,
+        "height": 812,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "e347393ba9ae053f3416ddb44e45478d1b7ba6b8aba3e347424af9ba91a1aad3",
+        "bytes": 56616,
+        "originalBytes": 131576,
+        "crop": {
+          "left": 22,
+          "top": 22,
+          "width": 331,
+          "height": 714
+        }
+      },
+      {
+        "index": 5,
+        "src": "/images/projects/app-kegeltempo-artwork-e26d976bb0.webp",
+        "width": 375,
+        "height": 812,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "e26d976bb06219ccadd20485f277958896e1843aa04c1477da8224a3a4e2a073",
+        "bytes": 150366,
+        "originalBytes": 182491,
+        "crop": {
+          "left": 22,
+          "top": 52,
+          "width": 331,
+          "height": 684
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-heartsync",
+    "views": [
+      {
+        "index": 2,
+        "src": "/images/projects/app-heartsync-f66077d70b.webp",
+        "width": 961,
+        "height": 730,
+        "role": "composition",
+        "gallery": false,
+        "sha256": "f031eddef0ec417f103d530932ca67dd810dde37108434d9a0275bf60f45781b",
+        "bytes": 119620,
+        "originalBytes": 548059,
+        "crop": {
+          "left": 337,
+          "top": 76,
+          "width": 289,
+          "height": 602
+        }
+      },
+      {
+        "index": 1,
+        "src": "/images/projects/app-heartsync-55543424cd.webp",
+        "width": 331,
+        "height": 669,
+        "role": "composition",
+        "gallery": false,
+        "sha256": "c38f07d3d67d4f89b7d1ab313585e1fa9aab4e6563fad28ee5cb8d8b553c0e4a",
+        "bytes": 23914,
+        "originalBytes": 140653,
+        "crop": {
+          "left": 19,
+          "top": 22,
+          "width": 294,
+          "height": 627
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-supplement-management",
+    "views": [
+      {
+        "index": 0,
+        "src": "/images/projects/app-supplement-management-registration-composition-detail-df201dcc8d.webp",
+        "width": 1404,
+        "height": 955,
+        "role": "composition",
+        "gallery": true,
+        "sha256": "df201dcc8d490d1d79ca250ada75fdbafe8cb6cc06256959e6ed898f20858bc8",
+        "bytes": 55892,
+        "originalBytes": 4693927,
+        "quad": [
+          [
+            134,
+            330
+          ],
+          [
+            552,
+            106
+          ],
+          [
+            1170,
+            584
+          ],
+          [
+            752,
+            808
+          ]
+        ],
+        "rectifiedSize": [
+          375,
+          720
+        ],
+        "afterCrop": {
+          "left": 0,
+          "top": 0,
+          "width": 375,
+          "height": 680
+        }
+      },
+      {
+        "index": 1,
+        "src": "/images/projects/app-supplement-management-login-composition-detail-85602c714a.webp",
+        "width": 1532,
+        "height": 1135,
+        "role": "composition",
+        "gallery": true,
+        "sha256": "85602c714a2feb7f5c9e1b0c54905db203666cac910dc65fec193db6f0586d89",
+        "bytes": 70406,
+        "originalBytes": 4693927,
+        "quad": [
+          [
+            294,
+            356
+          ],
+          [
+            680,
+            150
+          ],
+          [
+            1368,
+            662
+          ],
+          [
+            982,
+            868
+          ]
+        ],
+        "rectifiedSize": [
+          375,
+          720
+        ],
+        "afterCrop": {
+          "left": 0,
+          "top": 0,
+          "width": 375,
+          "height": 680
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-strivaro",
+    "views": [
+      {
+        "src": "/images/projects/app-strivaro-splash-20dc36310a.webp",
+        "width": 390,
+        "height": 844,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "20dc36310a62ef3125043ede01309c0c94f489c051a75afbcac9ed2cc4683bec",
+        "bytes": 140234,
+        "originalBytes": 251388,
+        "label": "Brand introduction",
+        "description": "Strivaro — brand introduction",
+        "index": 0,
+        "crop": {
+          "left": 0,
+          "top": 17,
+          "width": 390,
+          "height": 810
+        }
+      },
+      {
+        "src": "/images/projects/app-strivaro-daily-reward-c301eb3ed0.webp",
+        "width": 390,
+        "height": 823,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "c301eb3ed0dec1dd6ceb749051cab61f1101b342fe7bd2df243bed2dcb976d77",
+        "bytes": 88798,
+        "originalBytes": 135744,
+        "label": "Daily reward wheel",
+        "description": "Strivaro — daily reward wheel",
+        "index": 4,
+        "crop": {
+          "left": 0,
+          "top": 6,
+          "width": 390,
+          "height": 810
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-axorabid",
+    "views": [
+      {
+        "src": "/images/projects/app-axorabid-splash-3f065294d7.webp",
+        "width": 390,
+        "height": 844,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "3f065294d73ac4899c6d751d06b0a2e52191c4678b0a83fafaa8df1118eceb73",
+        "bytes": 138318,
+        "originalBytes": 233453,
+        "label": "Brand introduction",
+        "description": "AxoraBid - brand introduction",
+        "index": 0,
+        "crop": {
+          "left": 12,
+          "top": 55,
+          "width": 366,
+          "height": 761
+        }
+      },
+      {
+        "src": "/images/projects/app-axorabid-role-selection-c93684de7f.webp",
+        "width": 390,
+        "height": 844,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "c93684de7f3ac96ffeee331aac05b85ff6dcaaf4a22e7d3d0ce5d18450266858",
+        "bytes": 138462,
+        "originalBytes": 221763,
+        "label": "Seller and dealer entry",
+        "description": "AxoraBid - seller and dealer entry",
+        "index": 1,
+        "crop": {
+          "left": 12,
+          "top": 55,
+          "width": 366,
+          "height": 761
+        }
+      }
+    ]
+  },
+  {
+    "slug": "app-calivora",
+    "views": [
+      {
+        "src": "/images/projects/calivora-splash-03f8d2e534.webp",
+        "width": 390,
+        "height": 844,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "03f8d2e5346b4397ab58506b6b1318b911a74d1fe8a8a04f0492c88ad6cf2815",
+        "bytes": 51200,
+        "originalBytes": 73414,
+        "label": "Calivora introduction",
+        "description": "Calivora - calivora introduction",
+        "index": 0,
+        "crop": {
+          "left": 12,
+          "top": 55,
+          "width": 366,
+          "height": 761
+        }
+      },
+      {
+        "src": "/images/projects/calivora-provider-chat-cc72428367.webp",
+        "width": 390,
+        "height": 844,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "cc7242836721c077d7d585c520b88f532c12f7770c8bbd8ca38d0d5cef1cbf82",
+        "bytes": 94922,
+        "originalBytes": 148551,
+        "label": "Provider chat and call states",
+        "description": "Calivora - provider chat and call states",
+        "index": 8,
+        "crop": {
+          "left": 12,
+          "top": 55,
+          "width": 366,
+          "height": 761
+        }
+      }
+    ]
+  }
+]

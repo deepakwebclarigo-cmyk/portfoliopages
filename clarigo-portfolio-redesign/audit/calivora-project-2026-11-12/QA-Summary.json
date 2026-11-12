@@ -1,0 +1,84 @@
+{
+  "project": "Calivora",
+  "route": "/portfolio/app-calivora",
+  "collection": {
+    "total": 48,
+    "web": 20,
+    "mobile": 28
+  },
+  "productionBuild": "passed; prerendered HTML, RSC and route metadata verified for 48 pages",
+  "typescript": "passed",
+  "browserTests": {
+    "passed": 18,
+    "failed": 0,
+    "flaky": 0,
+    "viewports": [
+      "1440 desktop",
+      "768 tablet",
+      "390 mobile"
+    ]
+  },
+  "visual": {
+    "hoverChecks": [
+      {
+        "density": 1,
+        "source": "/images/thumbnails/app-calivora-6ee6453042-card.webp",
+        "contrastRatio": 1.0124310627313715,
+        "pixelDifference": 7.327880859375
+      },
+      {
+        "density": 2,
+        "source": "/images/thumbnails/app-calivora-6ee6453042-medium.webp",
+        "contrastRatio": 1.0100313150373474,
+        "pixelDifference": 8.224039713541666
+      }
+    ],
+    "logo": {
+      "width": 1000,
+      "height": 1000,
+      "alpha": true,
+      "deliveredExportExact": true
+    },
+    "galleryScreens": 14,
+    "responsive": [
+      "desktop",
+      "tablet",
+      "mobile"
+    ],
+    "browserErrors": []
+  },
+  "preservation": {
+    "existingProjectsUnchanged": 47,
+    "originalUploadsUnchanged": 14,
+    "publishedAssetsOcrChecked": 14,
+    "oldBrandFound": false,
+    "brandingRegionChecks": 14,
+    "pngs": [
+      {
+        "file": "Calivora-Logo-1000x1000-Transparent.png",
+        "width": 1000,
+        "height": 1000,
+        "transparent": true
+      },
+      {
+        "file": "Calivora-Logo-White-1000x1000-Transparent.png",
+        "width": 1000,
+        "height": 1000,
+        "transparent": true
+      },
+      {
+        "file": "Calivora-Symbol-1000x1000-Transparent.png",
+        "width": 1000,
+        "height": 1000,
+        "transparent": true
+      }
+    ]
+  },
+  "assetAudit": {
+    "selectedImages": 359,
+    "responsiveCoverVariants": 96,
+    "thumbnailVariants": 144,
+    "pngThumbnailExports": 48
+  },
+  "deployment": "Local production preview on port 3100; no live-site deployment performed"
+}

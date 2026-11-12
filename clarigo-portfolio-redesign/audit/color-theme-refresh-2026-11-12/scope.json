@@ -1,0 +1,107 @@
+[
+  {
+    "slug": "streamdexa",
+    "name": "StreamDexa",
+    "kind": "web"
+  },
+  {
+    "slug": "tukora-connect",
+    "name": "Tukora Connect",
+    "kind": "web"
+  },
+  {
+    "slug": "paranest",
+    "name": "ParaNest",
+    "kind": "web"
+  },
+  {
+    "slug": "alumvia",
+    "name": "Alumvia",
+    "kind": "web"
+  },
+  {
+    "slug": "kegeltempo",
+    "name": "KegelTempo",
+    "kind": "web"
+  },
+  {
+    "slug": "rallybridge",
+    "name": "RallyBridge",
+    "kind": "web"
+  },
+  {
+    "slug": "whizlume",
+    "name": "Whizlume",
+    "kind": "web"
+  },
+  {
+    "slug": "estrata",
+    "name": "EStrata",
+    "kind": "web"
+  },
+  {
+    "slug": "leadforma",
+    "name": "LeadForma",
+    "kind": "web"
+  },
+  {
+    "slug": "app-simplyscouted",
+    "name": "SimplyScouted",
+    "kind": "mobile"
+  },
+  {
+    "slug": "app-infinote",
+    "name": "Infinote",
+    "kind": "mobile"
+  },
+  {
+    "slug": "app-silaflow",
+    "name": "SilaFlow",
+    "kind": "mobile"
+  },
+  {
+    "slug": "app-habitstride",
+    "name": "HabitStride",
+    "kind": "mobile"
+  },
+  {
+    "slug": "app-tukora-connect",
+    "name": "Tukora Connect",
+    "kind": "mobile"
+  },
+  {
+    "slug": "app-pantryone",
+    "name": "PantryOne",
+    "kind": "mobile"
+  },
+  {
+    "slug": "app-streetslate",
+    "name": "StreetSlate",
+    "kind": "mobile"
+  },
+  {
+    "slug": "app-kegeltempo",
+    "name": "KegelTempo",
+    "kind": "mobile"
+  },
+  {
+    "slug": "app-strivaro",
+    "name": "Strivaro",
+    "kind": "mobile"
+  },
+  {
+    "slug": "app-axorabid",
+    "name": "AxoraBid",
+    "kind": "mobile"
+  },
+  {
+    "slug": "axorabid",
+    "name": "AxoraBid",
+    "kind": "web"
+  },
+  {
+    "slug": "app-calivora",
+    "name": "Calivora",
+    "kind": "mobile"
+  }
+]
