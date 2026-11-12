@@ -1,0 +1,23 @@
+﻿import fs from 'node:fs/promises';import crypto from 'node:crypto';import sharp from 'sharp';import {chromium} from '@playwright/test';
+const dir='audit/tukora-thumbnail-refresh-2026-11-12',slugs=['tukora-connect','app-tukora-connect'],thumbs=JSON.parse(await fs.readFile('lib/project-thumbnails.json','utf8')),before=JSON.parse(await fs.readFile(dir+'/thumbnails-before.json','utf8')),hash=b=>crypto.createHash('sha256').update(b).digest('hex'),checks=[],gpuErrors=[];
+for(const[k,v]of Object.entries(before))if(!slugs.includes(k)&&JSON.stringify(v)!==JSON.stringify(thumbs[k]))throw Error('Other thumbnail changed '+k);
+async function pixels(buffer){const m=await sharp(buffer).metadata(),core=sharp(buffer).extract({left:Math.round(m.width*.16),top:Math.round(m.height*.18),width:Math.round(m.width*.68),height:Math.round(m.height*.64)}).removeAlpha(),stats=await core.clone().stats();return{contrast:Math.sqrt(stats.channels.slice(0,3).reduce((s,c)=>s+c.stdev**2,0)/3),rgb:await core.resize(64,64,{fit:'fill'}).raw().toBuffer()};}
+const browser=await chromium.launch({channel:'chrome',headless:true});try{
+for(const density of[1,2]){
+ const context=await browser.newContext({viewport:{width:1440,height:1000},deviceScaleFactor:density,reducedMotion:'no-preference'}),page=await context.newPage();page.on('console',m=>{if(/GL_INVALID|glTexSubImage/.test(m.text()))gpuErrors.push(m.text());});
+ await page.goto('http://127.0.0.1:3100/#portfolio');await page.getByRole('searchbox').fill('Tukora Connect');await page.waitForFunction(()=>document.querySelectorAll('.projectCard').length===2);
+ for(const slug of slugs){
+  const link=page.locator('.projectLink[href="/portfolio/'+slug+'"]'),visual=link.locator('.visual');await page.mouse.move(1,1);await page.waitForFunction(()=>document.querySelector('.portfolioWebgl')?.getAttribute('data-card-active')!=='true');await link.scrollIntoViewIfNeeded();await link.locator('img').evaluate(i=>i.decode());await page.waitForFunction(s=>{const link=document.querySelector('.projectLink[href="/portfolio/'+s+'"]');return getComputedStyle(link.closest('.projectEntrance')).opacity==='1';},slug);
+  const loaded=await link.locator('img').evaluate(i=>i.currentSrc);if(![thumbs[slug].src,thumbs[slug].card.src,thumbs[slug].medium.src].includes(new URL(loaded).pathname))throw Error('Stale image loaded '+slug);
+  const base=await pixels(await visual.screenshot());await link.hover();await visual.locator('img').evaluate(i=>i.decode());await page.waitForFunction(s=>document.querySelector('.projectLink[href="/portfolio/'+s+'"] .visual')?.getAttribute('data-webgl-artwork')==='active',slug);await page.waitForFunction(()=>Number(document.querySelector('.portfolioWebgl')?.getAttribute('data-card-scale'))>.98);
+  const hovered=await pixels(await visual.screenshot()),difference=base.rgb.reduce((sum,v,i)=>sum+Math.abs(v-hovered.rgb[i]),0)/base.rgb.length;if(hovered.contrast<base.contrast*.5||difference>32)throw Error('Hover image content differs '+slug);
+  await link.screenshot({path:dir+'/'+slug+'-hover-'+density+'x.png'});checks.push({slug,density,source:new URL(loaded).pathname,contrastRatio:hovered.contrast/base.contrast,pixelDifference:difference});
+ }
+ await context.close();
+}
+const mobile=await browser.newContext({viewport:{width:390,height:844},isMobile:true,hasTouch:true,reducedMotion:'reduce'}),page=await mobile.newPage();await page.goto('http://127.0.0.1:3100/#portfolio');await page.getByRole('searchbox').fill('Tukora Connect');await page.waitForFunction(()=>document.querySelectorAll('.projectCard').length===2);for(const slug of slugs){const card=page.locator('.projectCard').filter({has:page.locator('.projectLink[href="/portfolio/'+slug+'"]')});await card.scrollIntoViewIfNeeded();await card.locator('img').evaluate(i=>i.decode());await card.screenshot({path:dir+'/'+slug+'-mobile-card.png'});}if(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1))throw Error('Mobile overflow.');await mobile.close();
+}finally{await browser.close();}
+if(gpuErrors.length)throw Error('GPU errors: '+gpuErrors.join(','));
+const logo=await fs.readFile('public/images/brand/projects/tukora-connect-horizontal.png'),staged=JSON.parse(await fs.readFile(dir+'/staged-thumbnails.json','utf8'));for(const slug of slugs)if(hash(logo)!==staged[slug].brand.sha256)throw Error('Brand logo changed.');
+await fs.writeFile(dir+'/visual-verification.json',JSON.stringify({hoverChecks:checks,zeroGpuErrors:true,mobileCardsVerified:2,unchangedOtherThumbnails:42,logoPreserved:true},null,2));console.log(JSON.stringify({hoverChecks:checks.length,mobileCards:2,gpuErrors:0,unchangedOtherThumbnails:42}));
+

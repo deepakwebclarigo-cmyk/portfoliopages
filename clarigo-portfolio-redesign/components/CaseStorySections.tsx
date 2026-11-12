@@ -19,7 +19,7 @@ export function FeatureShowcase({ project, features, intro, asset }: { project: 
     <div className="storySectionHeading"><div className="sectionLabel"><span>02</span> KEY FEATURES</div><h2>Designed around<br />the experience<span>.</span></h2><p>{intro}</p></div>
     <div className={'caseFeatureGrid featureShowcase ' + (!asset ? 'featureCardsOnly' : portrait ? 'featurePortrait' : 'featureWide')}>
       {column(features.slice(0, 2), 0)}
-      {asset && <figure className="featureArtwork"><div className="featureImageFrame" style={{ '--image-ratio': asset.width / asset.height } as CSSProperties}><Image src={asset.src} unoptimized alt={project.name + ' original interface detail'} width={asset.width} height={asset.height} sizes="(max-width: 700px) 85vw, 35vw" /></div><figcaption>{project.name} / Original interface</figcaption></figure>}
+      {asset && <figure className="featureArtwork"><div className="featureImageFrame" style={{ '--image-ratio': asset.width / asset.height } as CSSProperties}><Image src={asset.src} unoptimized alt={asset.description ?? project.name + ' original interface detail'} width={asset.width} height={asset.height} sizes="(max-width: 700px) 85vw, 35vw" /></div><figcaption>{project.name} / {asset.label ?? 'Original interface'}</figcaption></figure>}
       {column(features.slice(2), 2)}
     </div>
   </div></section>;
@@ -36,7 +36,7 @@ export function ProblemSection({ name, story, asset }: { name: string; story: Pr
   return <section className="caseSection shell problemSection" id="solution" data-reveal>
     <div className="sectionLabel"><span>04</span> DESIGN CHALLENGE &amp; SOLUTION</div>
     <div className={'problemGrid ' + (!asset ? 'problemWithoutImage' : '')}><div><h2>{story.problem.title}</h2><p className="storyLead">{story.problem.text}</p><ul className="solutionList">{story.solutions.map(([title, text]) => <li key={title}><span className="solutionCheck"><Check size={17} aria-hidden="true" /></span><div><h3>{title}</h3><p>{text}</p></div></li>)}</ul></div>
-      {asset && <figure className="solutionArtwork"><div className="solutionImageFrame" style={{ '--image-ratio': asset.width / asset.height } as CSSProperties}><Image src={asset.src} unoptimized alt={name + ' original supporting interface view'} width={asset.width} height={asset.height} sizes="(max-width: 700px) 85vw, 40vw" /></div><figcaption>{name} / Design detail</figcaption></figure>}
+      {asset && <figure className="solutionArtwork"><div className="solutionImageFrame" style={{ '--image-ratio': asset.width / asset.height } as CSSProperties}><Image src={asset.src} unoptimized alt={asset.description ?? name + ' original supporting interface view'} width={asset.width} height={asset.height} sizes="(max-width: 700px) 85vw, 40vw" /></div><figcaption>{name} / {asset.label ?? 'Design detail'}</figcaption></figure>}
     </div>
   </section>;
 }

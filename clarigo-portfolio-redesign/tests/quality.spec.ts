@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 import inventory from '../lib/project-inventory.json';
-import assets from '../lib/project-assets.json';
+import thumbnails from '../lib/project-thumbnails.json';
 
 test('an empty filtered search can be reset without losing keyboard focus', async ({ page }) => {
   await page.goto('/#portfolio');
@@ -46,8 +46,8 @@ test('detail artwork activates Three.js on demand and releases its rendering on 
   await expect.poll(() => page.locator('.caseVisual img').evaluate(image => getComputedStyle(image).opacity)).toBe('1');
 });
 
-test('a failed thumbnail recovers with the same project original artwork', async ({ page }) => {
-  const poster = assets.livsocial.poster.src;
+test('a failed responsive thumbnail recovers with the same project full-size thumbnail', async ({ page }) => {
+  const poster = thumbnails.livsocial.src;
   await page.route('**' + poster.replace('.webp', '-card.webp'), route => route.abort());
   await page.goto('/#portfolio');
   const card = page.locator('.projectLink[href="/portfolio/livsocial"]');

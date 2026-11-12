@@ -1,0 +1,21 @@
+{
+  "thumbnailCount": 44,
+  "web": 19,
+  "mobile": 25,
+  "runtimeManifest": "lib/project-thumbnails.json",
+  "detailArtworkUnchanged": true,
+  "galleriesUnchanged": true,
+  "uniformCanvas": [
+    1600,
+    1325
+  ],
+  "responsiveWidths": [
+    720,
+    960,
+    1600
+  ],
+  "ui": [
+    "listing cards",
+    "related-project cards"
+  ]
+}

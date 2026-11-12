@@ -1,0 +1,20 @@
+{
+  "projects": 44,
+  "web": 19,
+  "mobile": 25,
+  "decodedWebpVariants": 132,
+  "verifiedPngExports": 44,
+  "existingDetailArtworkUnchanged": true,
+  "inventoryUnchanged": true,
+  "canvas": [
+    1600,
+    1325
+  ],
+  "widths": [
+    720,
+    960,
+    1600
+  ],
+  "averageCardKB": 24.2,
+  "errors": []
+}

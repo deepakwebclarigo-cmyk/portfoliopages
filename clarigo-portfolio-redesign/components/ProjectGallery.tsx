@@ -36,11 +36,11 @@ export default function ProjectGallery({ images, name, kind }: { images: Project
       <div className={`projectGallery ${kind === 'mobile' ? 'mobileGallery' : 'webGallery'} ${images.length === 1 ? 'singleImageGallery' : ''} ${images.length === 1 && images[0].height > images[0].width ? 'singlePortraitGallery' : ''}`}>
         {images.map((asset, index) => (
           <figure key={asset.src}>
-            <button className={'galleryOpen' + (asset.role === 'composition' && asset.width > asset.height ? ' galleryComposition' : '')} type="button" onClick={(event) => open(index, event.currentTarget)} aria-label={`Expand ${name} interface view ${index + 1}`}>
-              <Image src={asset.src} unoptimized alt={`${name} — ${asset.role === 'screen' ? 'interface screen' : 'design composition'} ${index + 1}`} width={asset.width} height={asset.height} sizes="(max-width: 700px) 90vw, (max-width: 1000px) 45vw, 30vw" />
+            <button className={'galleryOpen' + (asset.role === 'composition' && asset.width > asset.height ? ' galleryComposition' : '')} type="button" onClick={(event) => open(index, event.currentTarget)} aria-label={asset.label ? "Expand " + name + " " + asset.label.toLowerCase() : `Expand ${name} interface view ${index + 1}`}>
+              <Image src={asset.src} unoptimized alt={asset.description ?? `${name} — ${asset.role === 'screen' ? 'interface screen' : 'design composition'} ${index + 1}`} width={asset.width} height={asset.height} sizes="(max-width: 700px) 90vw, (max-width: 1000px) 45vw, 30vw" />
               <span className="galleryExpand" aria-hidden="true"><Expand size={17} /></span>
             </button>
-            <figcaption><span>{asset.role === 'screen' ? 'INTERFACE SCREEN' : 'DESIGN COMPOSITION'}</span><span>{String(index + 1).padStart(2, '0')}</span></figcaption>
+            <figcaption><span>{asset.label?.toUpperCase() ?? (asset.role === 'screen' ? 'INTERFACE SCREEN' : 'DESIGN COMPOSITION')}</span><span>{String(index + 1).padStart(2, '0')}</span></figcaption>
           </figure>
         ))}
       </div>
@@ -52,7 +52,7 @@ export default function ProjectGallery({ images, name, kind }: { images: Project
             <button type="button" onClick={close} aria-label="Close image viewer" autoFocus><X size={22} /></button>
           </div>
         </div>
-        <div className="galleryDialogImage">{viewerOpen && <motion.div key={images[active].src} className="galleryDialogImageFrame" initial={reducedMotion ? false : { opacity: .35, x: direction * 10 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: reducedMotion ? 0 : .24, ease: [.22, 1, .36, 1] }}><Image src={images[active].src} unoptimized alt={`${name} interface view ${active + 1}, expanded`} width={images[active].width} height={images[active].height} sizes="95vw" /></motion.div>}</div>
+        <div className="galleryDialogImage">{viewerOpen && <motion.div key={images[active].src} className="galleryDialogImageFrame" initial={reducedMotion ? false : { opacity: .35, x: direction * 10 }} animate={{ opacity: 1, x: 0 }} transition={{ duration: reducedMotion ? 0 : .24, ease: [.22, 1, .36, 1] }}><Image src={images[active].src} unoptimized alt={images[active].description ?? `${name} interface view ${active + 1}, expanded`} width={images[active].width} height={images[active].height} sizes="95vw" /></motion.div>}</div>
       </dialog>
     </>
   );

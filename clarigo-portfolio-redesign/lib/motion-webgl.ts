@@ -59,6 +59,8 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointe
   const backing = new THREE.Mesh(new THREE.BoxGeometry(1, 1, .035), backingMaterial);
   const cardGroup = new THREE.Group(); cardGroup.add(backing, imageMesh); cardScene.add(cardGroup);
   const textures = new Map<string, THREE.Texture>();
+  const loadingTextures = new Set<string>(), failedTextures = new Set<string>();
+  const textureLoader = new THREE.TextureLoader();
   const reduce = matchMedia('(prefers-reduced-motion: reduce)'), fine = matchMedia('(hover: hover) and (pointer: fine) and (min-width: 1001px)');
   let heroRect: DOMRect | null = null, heroVisible = false, hovered = false, hoveredIndex = -1, px = 0, py = 0, insideHero = false;
   let heroAssetsReady = !hero;
@@ -177,11 +179,35 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointe
     if (!visual || !image?.complete || !image.naturalWidth) return;
     restoreCard();
     const source = image.currentSrc || image.src;
-    let texture = textures.get(source);
+    const texture = textures.get(source);
     if (!texture) {
-      texture = new THREE.Texture(image); texture.colorSpace = THREE.SRGBColorSpace; texture.needsUpdate = true; texture.anisotropy = Math.min(4, renderer.capabilities.getMaxAnisotropy()); textures.set(source, texture);
-      if (textures.size > 3) { const oldest = textures.keys().next().value!; textures.get(oldest)?.dispose(); textures.delete(oldest); }
+      if (loadingTextures.has(source) || failedTextures.has(source)) return;
+      loadingTextures.add(source);
+      // A responsive DOM image reports density-adjusted dimensions. Uploading it
+      // directly can allocate a smaller texture than its decoded bitmap. Load the
+      // selected URL independently so GPU storage uses the real pixel dimensions.
+      textureLoader.load(source, loaded => {
+        loadingTextures.delete(source);
+        if (!alive) { loaded.dispose(); return; }
+        try {
+          loaded.colorSpace = THREE.SRGBColorSpace;
+          loaded.anisotropy = Math.min(4, renderer.capabilities.getMaxAnisotropy());
+          renderer.initTexture(loaded);
+        } catch {
+          loaded.dispose(); failedTextures.add(source); return;
+        }
+        textures.set(source, loaded);
+        if (textures.size > 3) {
+          const oldest = [...textures].find(([key, cached]) => key !== source && cached !== imageMaterial.map);
+          if (oldest) { oldest[1].dispose(); textures.delete(oldest[0]); }
+        }
+        // Keep the DOM thumbnail visible while loading. Ignore a late completion
+        // after pointer leave, filtering, navigation, or reduced-motion changes.
+        if (link.isConnected && link.matches(':hover')) over({ pointerType: 'mouse', target: link });
+      }, undefined, () => { loadingTextures.delete(source); failedTextures.add(source); });
+      return;
     }
+    if (!contextAvailable) return;
     imageMaterial.map = texture; imageMaterial.needsUpdate = true;
     card = { link, visual, rect: visual.getBoundingClientRect(), badge: link.querySelector('.projectIndex')?.getBoundingClientRect() ?? null, hovered: true, x: 0, y: 0, imageRatio: image.naturalWidth / image.naturalHeight };
     card.x = clamp((pointerX - card.rect.left) / card.rect.width * 2 - 1, -1, 1); card.y = clamp((pointerY - card.rect.top) / card.rect.height * 2 - 1, -1, 1);

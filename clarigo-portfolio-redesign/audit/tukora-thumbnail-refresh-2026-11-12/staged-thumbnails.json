@@ -1,0 +1,84 @@
+{
+  "tukora-connect": {
+    "src": "/images/thumbnails/tukora-connect-11aa816001.webp",
+    "width": 1600,
+    "height": 1325,
+    "sha256": "0a8ade7421f22c6acfbc909ebced0df5f9fb6765a68946d024761419612aecb7",
+    "bytes": 82092,
+    "card": {
+      "src": "/images/thumbnails/tukora-connect-11aa816001-card.webp",
+      "width": 720,
+      "height": 596,
+      "sha256": "de71e1f487d84a4e32852c713472c87e36564d78e534f8d12ec906b15e3b3f28",
+      "bytes": 28722
+    },
+    "medium": {
+      "src": "/images/thumbnails/tukora-connect-11aa816001-medium.webp",
+      "width": 960,
+      "height": 795,
+      "sha256": "246e14cac25de5199f7320b7109eb98aef772dea7f5be8c1299365093379b8b2",
+      "bytes": 41516
+    },
+    "exportSha256": "11aa8160013207ada4231d11666da8067107d86bcfc881efa11e2530607168b3",
+    "sourceRefs": [
+      {
+        "src": "/images/projects/tukora-connect-artwork-6c87fc750e.webp",
+        "sha256": "6c87fc750e42454c6dda7b517ef2a7ec32083d72ba21ae1f68a23993b6637925"
+      },
+      {
+        "src": "/images/projects/tukora-connect-artwork-a0a08bf012.webp",
+        "sha256": "a0a08bf01217f77c3cefc71429729af3c17d649430a4eb418c04d35ad1f18d24"
+      }
+    ],
+    "brand": {
+      "src": "/images/brand/projects/tukora-connect-horizontal.png",
+      "sha256": "f60389e2594a483c0b7ce8cff1663dce3beb2c388ed0a3ee4b073a48babdc7e0"
+    },
+    "fit": {
+      "titleFits": true,
+      "images": true
+    },
+    "design": "Branded device showcase within the existing shared thumbnail frame"
+  },
+  "app-tukora-connect": {
+    "src": "/images/thumbnails/app-tukora-connect-5c1299ba87.webp",
+    "width": 1600,
+    "height": 1325,
+    "sha256": "21e685590fdc0fbed8661e5747e3d9b7f887ed8a9b9ef65125d0330222419589",
+    "bytes": 89420,
+    "card": {
+      "src": "/images/thumbnails/app-tukora-connect-5c1299ba87-card.webp",
+      "width": 720,
+      "height": 596,
+      "sha256": "e80353c56ec2e59b10f6a9a73d2b632896a4974d8ad9142bed2b9ad010e158fd",
+      "bytes": 32568
+    },
+    "medium": {
+      "src": "/images/thumbnails/app-tukora-connect-5c1299ba87-medium.webp",
+      "width": 960,
+      "height": 795,
+      "sha256": "d645a0e1b0153a876f4c09d980547f687c4db9797791e244ae40fb0fde5dd5f2",
+      "bytes": 47426
+    },
+    "exportSha256": "5c1299ba87de6aa0b1cc6118d4a4455308efca18010cff19d4f5e4c812e7c507",
+    "sourceRefs": [
+      {
+        "src": "/images/projects/app-tukora-connect-artwork-59ed526344.webp",
+        "sha256": "59ed5263445c7cf1b36a2e8b89561932f81305716f9fbfaa4beabd723c37418b"
+      },
+      {
+        "src": "/images/projects/app-tukora-connect-artwork-75eaf9afdc.webp",
+        "sha256": "75eaf9afdcb5efa8557ea8855eda603253b69c25ec2bf5cd7c34d37a2c568d76"
+      }
+    ],
+    "brand": {
+      "src": "/images/brand/projects/tukora-connect-horizontal.png",
+      "sha256": "f60389e2594a483c0b7ce8cff1663dce3beb2c388ed0a3ee4b073a48babdc7e0"
+    },
+    "fit": {
+      "titleFits": true,
+      "images": true
+    },
+    "design": "Branded device showcase within the existing shared thumbnail frame"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "hoverChecks": [
+    {
+      "slug": "tukora-connect",
+      "density": 1,
+      "source": "/images/thumbnails/tukora-connect-11aa816001-card.webp",
+      "contrastRatio": 0.967825754910887,
+      "pixelDifference": 14.643961588541666
+    },
+    {
+      "slug": "app-tukora-connect",
+      "density": 1,
+      "source": "/images/thumbnails/app-tukora-connect-5c1299ba87-card.webp",
+      "contrastRatio": 0.9422004084387599,
+      "pixelDifference": 12.27783203125
+    },
+    {
+      "slug": "tukora-connect",
+      "density": 2,
+      "source": "/images/thumbnails/tukora-connect-11aa816001-medium.webp",
+      "contrastRatio": 0.950603476124366,
+      "pixelDifference": 15.335367838541666
+    },
+    {
+      "slug": "app-tukora-connect",
+      "density": 2,
+      "source": "/images/thumbnails/app-tukora-connect-5c1299ba87-medium.webp",
+      "contrastRatio": 0.9210375067850457,
+      "pixelDifference": 12.372314453125
+    }
+  ],
+  "zeroGpuErrors": true,
+  "mobileCardsVerified": 2,
+  "unchangedOtherThumbnails": 42,
+  "logoPreserved": true
+}

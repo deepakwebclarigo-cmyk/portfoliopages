@@ -89,3 +89,13 @@ Tukora Connect, Whizlume, Alumvia, and KegelTempo replace the four previous iden
 ## Infinote branding update
 
 The document-scanning mobile project is now Infinote at /portfolio/app-infinote. Its previous InfiScribe URL redirects permanently to this page. The user-supplied logo is retained exactly in public/images/brand/projects/infinote-logo.png; faithful wordmark and icon variants appear in its project artwork and scoped page metadata. Clarigo's global branding and the other 43 projects are unchanged. Source checkpoints, region conservation, and verification are in audit/infinote-refresh-2026-11-11/.
+
+## Consistent project thumbnails
+
+All 44 project cards use the shared cream/blush thumbnail family in `lib/project-thumbnails.json`, with 720px, 960px, and 1600px WebP variants. The `thumbnail` field is passed through the listing card data and used for small `ProjectVisual` presentations; `image` retains the existing detail-page artwork. High-resolution PNGs are in `exports/Clarigo-consistent-thumbnails/`.
+
+The authoring template is `scripts/render-portfolio-thumbnails.mjs`; audited project-owned source selections and generation records are in `audit/thumbnail-system-2026-11-12/`. After changing sources or the template, regenerate and review the images before updating the runtime manifest. Integrity, preservation, route, browser, and export evidence is recorded alongside the source plan.
+
+
+Tukora Connect's Web and Mobile thumbnails use a brand-showcase recipe in `audit/tukora-thumbnail-refresh-2026-11-12/`. The shared renderer delegates these two layouts using their source-plan entries. Regenerate them with `node scripts/render-portfolio-thumbnails.mjs --only=tukora-connect,app-tukora-connect --write-manifest`; the current separate PNG downloads are in `exports/Tukora-Connect-Thumbnails/`.
+

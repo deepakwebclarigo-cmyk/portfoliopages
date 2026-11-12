@@ -1,0 +1,28 @@
+{
+  "detailPages": 44,
+  "listingPages": 2,
+  "internalProjectLinks": 278,
+  "verifiedRedirects": 22,
+  "infinoteImages": 11,
+  "projectIconSizes": {
+    "32": [
+      32,
+      32
+    ],
+    "180": [
+      180,
+      180
+    ],
+    "192": [
+      192,
+      192
+    ],
+    "512": [
+      512,
+      512
+    ]
+  },
+  "sourceLogoExact": true,
+  "sitemapEntries": 45,
+  "errors": []
+}

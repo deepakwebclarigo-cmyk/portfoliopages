@@ -91,13 +91,13 @@
   },
   {
     "slug": "umeed",
-    "src": "/images/projects/umeed-1cd14b2de8-medium.webp",
+    "src": "/images/projects/umeed-preview-29a3a780b8-medium.webp",
     "width": 960,
     "height": 795,
-    "bytes": 43248,
-    "source": "/images/projects/umeed-1cd14b2de8.webp",
-    "sourceSha256": "db0f712a4d6187f40a9f4c3a16364383de4f9c4321be30e20622a72f7325b95c",
-    "sha256": "353cc66ef89660ecf1b5db8cc69974db2f8c6a76c8245f304e8881edce5a0838"
+    "bytes": 37626,
+    "source": "/images/projects/umeed-preview-29a3a780b8.webp",
+    "sourceSha256": "29a3a780b8e6b88cb8dc9cdfaf6adf412bfd2d98327c156f6b92433808b933aa",
+    "sha256": "c140adaa7fbf5c5109ffb9210eb9fd0a32865905311c688170dfa969552763a5"
   },
   {
     "slug": "rallybridge",

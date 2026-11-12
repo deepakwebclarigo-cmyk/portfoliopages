@@ -1,0 +1,35 @@
+{
+  "state": {
+    "canvas": {
+      "engine": "three",
+      "geometry": "ExtrudeGeometry",
+      "scene": "uiux-ecosystem",
+      "heroObjects": "5",
+      "assets": "ready",
+      "pixelRatio": "1",
+      "state": "running",
+      "frame": "66",
+      "heroHover": "false",
+      "heroExpansion": "0.0000",
+      "heroRotation": "0.0109",
+      "drawCalls": "2",
+      "triangles": "14",
+      "cardActive": "true",
+      "cardScale": "0.9849",
+      "cardTilt": "0.0372"
+    },
+    "image": {
+      "src": "http://127.0.0.1:3100/images/thumbnails/streamdexa-9889779100-card.webp",
+      "currentSrc": "http://127.0.0.1:3100/images/thumbnails/streamdexa-9889779100-card.webp",
+      "complete": true,
+      "width": 375,
+      "height": 278,
+      "naturalWidth": 475,
+      "naturalHeight": 393,
+      "opacity": "0"
+    }
+  },
+  "logs": [
+    "warning: [.WebGL-0x2a7c00e94c00] GL_INVALID_VALUE: glTexSubImage2DRobustANGLE: Offset overflows texture dimensions."
+  ]
+}

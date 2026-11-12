@@ -7,6 +7,7 @@ export type ProjectContent = {
   features: [string, string][];
   note?: string;
   displayName?: string;
+  presentation?: { title: string; overview: string; note: string; caption: string };
 };
 
 // Editorial descriptions of the supplied interfaces, not undocumented delivery claims.
@@ -82,11 +83,35 @@ const originalContent: Record<string, ProjectContent> = {
     features: [['Mail-piece tracking', 'The published overview identifies mail-piece management and delivery tracking.'], ['Organization records', 'Employee and department information form part of the described workspace.'], ['Location information', 'Mail stops, workstations, and addresses support internal routing.'], ['Access permissions', 'The source describes permissions based on user type or privileges.']],
   },
   umeed: {
-    discipline: 'Matrimony & discovery', headline: 'An introduction to meaningful connections.',
-    summary: 'A matrimony website presentation with member discovery, membership information, and profile-led content.',
-    overview: 'Umeed’s web artwork presents a matrimony service through an introductory banner, profile discovery controls, and membership sections. Member cards make people the focal point of the page. The available project-specific website graphics retain the identity shown in Clarigo’s original portfolio.',
-    design: 'Magenta and deep purple frame a bright, celebratory identity. Photography, compact profile cards, and prominent membership panels create a visually layered page, with the header providing clear routes to the main site areas.',
-    features: [['Member discovery', 'Visible search controls provide an introduction to browsing profiles.'], ['Profile cards', 'Member imagery and compact information panels lead the content.'], ['Membership information', 'Dedicated sections explain membership options in the interface.'], ['Public navigation', 'The site header includes informational and account entry points.']],
+      "discipline": "Community & account entry",
+      "headline": "A welcoming first step to meaningful connection.",
+      "summary": "An LGBTQ+ matrimony web experience with a warm community-led welcome, glass-style account entry, and clear sign-in options.",
+      "overview": "Umeed introduces its relationship-focused community through a warm, people-led account-entry screen. The supplied design combines a yellow photographic backdrop and rainbow identity with a centered translucent panel. Email and password fields form the main sign-in path, with visible tabs for OTP login and password recovery. A separate account-creation action and policy links complete the opening experience.",
+      "design": "A sunlit yellow backdrop and rainbow accents make the community identity immediately recognizable. The glass-style panel adds a quieter layer over the photography, while light input surfaces establish clear form boundaries. Purple-to-pink emphasis highlights the sign-in action; the welcome message and supporting account links retain the same soft, expressive palette.",
+      "features": [
+          [
+              "Community-led welcome",
+              "People-focused photography and the rainbow Umeed identity introduce the LGBTQ+ matrimony context."
+          ],
+          [
+              "Focused account entry",
+              "Labeled email and password fields sit together inside a single translucent panel with a prominent sign-in action."
+          ],
+          [
+              "Sign-in and recovery options",
+              "Login, OTP Login, and Forgot Password appear together in the visible account-entry navigation."
+          ],
+          [
+              "Registration and policies",
+              "Create New Account is separated from the sign-in action, with terms, privacy, and child-policy links beneath the form."
+          ]
+      ],
+      "presentation": {
+          "title": "One identity. A closer look.",
+          "overview": "The complete account-entry reference and its focused panel detail share the same warm palette, rainbow identity, and clear form hierarchy.",
+          "note": "Explore the full screen, the login detail, and the desktop presentation in the gallery.",
+          "caption": "Desktop browser presentation"
+      }
   },
   'alumvia': {
     discipline: 'Education & services', headline: 'A clear first step into learning.',
@@ -328,11 +353,35 @@ const originalContent: Record<string, ProjectContent> = {
 // Corrections from the second, image-by-image review. Retain original records above for provenance.
 const contentCorrections: Record<string, Partial<ProjectContent>> = {
   umeed: {
-    headline: 'A clear introduction to a personal connection.',
-    summary: 'A relationship-focused Umeed website with community information, registration messaging, and original mobile product compositions.',
-    overview: 'Umeed’s web presentation introduces a relationship and matrimony-oriented community through a dark public website and companion-app imagery. Introductory sections explain the community focus, while prominent registration messaging and device compositions connect the website with the mobile product. The portfolio documents that public presentation without asserting current download availability.',
-    design: 'Deep navy surfaces and white typography give the website a contained, focused identity. App compositions provide brighter visual contrast, while short explanatory sections keep the community introduction readable across the original device layouts.',
-    features: [['Community introduction', 'Public sections establish Umeed’s relationship-oriented identity and community context.'], ['Registration proposition', 'Prominent introductory messaging identifies registration and connection as visitor goals.'], ['App presentation', 'Original device imagery provides a visual preview of the mobile experience.'], ['Supporting information', 'Longer explanatory content sits within a restrained public website structure.']],
+      "discipline": "Community & account entry",
+      "headline": "A welcoming first step to meaningful connection.",
+      "summary": "An LGBTQ+ matrimony web experience with a warm community-led welcome, glass-style account entry, and clear sign-in options.",
+      "overview": "Umeed introduces its relationship-focused community through a warm, people-led account-entry screen. The supplied design combines a yellow photographic backdrop and rainbow identity with a centered translucent panel. Email and password fields form the main sign-in path, with visible tabs for OTP login and password recovery. A separate account-creation action and policy links complete the opening experience.",
+      "design": "A sunlit yellow backdrop and rainbow accents make the community identity immediately recognizable. The glass-style panel adds a quieter layer over the photography, while light input surfaces establish clear form boundaries. Purple-to-pink emphasis highlights the sign-in action; the welcome message and supporting account links retain the same soft, expressive palette.",
+      "features": [
+          [
+              "Community-led welcome",
+              "People-focused photography and the rainbow Umeed identity introduce the LGBTQ+ matrimony context."
+          ],
+          [
+              "Focused account entry",
+              "Labeled email and password fields sit together inside a single translucent panel with a prominent sign-in action."
+          ],
+          [
+              "Sign-in and recovery options",
+              "Login, OTP Login, and Forgot Password appear together in the visible account-entry navigation."
+          ],
+          [
+              "Registration and policies",
+              "Create New Account is separated from the sign-in action, with terms, privacy, and child-policy links beneath the form."
+          ]
+      ],
+      "presentation": {
+          "title": "One identity. A closer look.",
+          "overview": "The complete account-entry reference and its focused panel detail share the same warm palette, rainbow identity, and clear form hierarchy.",
+          "note": "Explore the full screen, the login detail, and the desktop presentation in the gallery.",
+          "caption": "Desktop browser presentation"
+      }
   },
   whizlume: {
     summary: 'A learning website with course discovery, program cards, instructor-onboarding forms, and a teaching workspace.',

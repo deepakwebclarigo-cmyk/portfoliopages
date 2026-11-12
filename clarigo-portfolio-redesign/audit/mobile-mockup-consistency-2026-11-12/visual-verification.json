@@ -1,0 +1,677 @@
+{
+  "routes": 25,
+  "hoverChecks": 50,
+  "checks": [
+    {
+      "slug": "app-livsocial",
+      "density": 1,
+      "source": "/images/thumbnails/app-livsocial-621f8c7540-card.webp",
+      "contrastRatio": 0.9848443675477057,
+      "pixelDifference": 10.160074869791666
+    },
+    {
+      "slug": "app-simplyscouted",
+      "density": 1,
+      "source": "/images/thumbnails/app-simplyscouted-6f32bf367a-card.webp",
+      "contrastRatio": 1.0041401768596392,
+      "pixelDifference": 8.084228515625
+    },
+    {
+      "slug": "app-infinote",
+      "density": 1,
+      "source": "/images/thumbnails/app-infinote-3c6a49c944-card.webp",
+      "contrastRatio": 0.998805306832248,
+      "pixelDifference": 6.173665364583333
+    },
+    {
+      "slug": "app-silaflow",
+      "density": 1,
+      "source": "/images/thumbnails/app-silaflow-d1ba8096eb-card.webp",
+      "contrastRatio": 0.9762136389454324,
+      "pixelDifference": 9.190185546875
+    },
+    {
+      "slug": "app-habitstride",
+      "density": 1,
+      "source": "/images/thumbnails/app-habitstride-1440ef7a7c-card.webp",
+      "contrastRatio": 0.9560916544257438,
+      "pixelDifference": 5.611653645833333
+    },
+    {
+      "slug": "app-tukora-connect",
+      "density": 1,
+      "source": "/images/thumbnails/app-tukora-connect-46ee8030f5-card.webp",
+      "contrastRatio": 0.9708436162201222,
+      "pixelDifference": 7.927001953125
+    },
+    {
+      "slug": "app-pace-of-play",
+      "density": 1,
+      "source": "/images/thumbnails/app-pace-of-play-0709165e4e-card.webp",
+      "contrastRatio": 0.9787852290015995,
+      "pixelDifference": 9.025309244791666
+    },
+    {
+      "slug": "app-qcop-app",
+      "density": 1,
+      "source": "/images/thumbnails/app-qcop-app-15be1540cd-card.webp",
+      "contrastRatio": 0.9324498434114757,
+      "pixelDifference": 6.947428385416667
+    },
+    {
+      "slug": "app-little-butterflies",
+      "density": 1,
+      "source": "/images/thumbnails/app-little-butterflies-bd39862386-card.webp",
+      "contrastRatio": 0.8736558467665009,
+      "pixelDifference": 6.301676432291667
+    },
+    {
+      "slug": "app-case-management-ase",
+      "density": 1,
+      "source": "/images/thumbnails/app-case-management-ase-1f8105e017-card.webp",
+      "contrastRatio": 0.9428053907717608,
+      "pixelDifference": 7.654622395833333
+    },
+    {
+      "slug": "app-printlific",
+      "density": 1,
+      "source": "/images/thumbnails/app-printlific-60b792aab9-card.webp",
+      "contrastRatio": 1.005559855596545,
+      "pixelDifference": 8.31787109375
+    },
+    {
+      "slug": "app-racepace",
+      "density": 1,
+      "source": "/images/thumbnails/app-racepace-af9306f034-card.webp",
+      "contrastRatio": 1.001403325766297,
+      "pixelDifference": 8.965576171875
+    },
+    {
+      "slug": "app-been-there",
+      "density": 1,
+      "source": "/images/thumbnails/app-been-there-1c8db88324-card.webp",
+      "contrastRatio": 0.9993226779553706,
+      "pixelDifference": 6.724202473958333
+    },
+    {
+      "slug": "app-pantryone",
+      "density": 1,
+      "source": "/images/thumbnails/app-pantryone-765a8b31d6-card.webp",
+      "contrastRatio": 0.9785607340362645,
+      "pixelDifference": 6.986979166666667
+    },
+    {
+      "slug": "app-escapethehoa",
+      "density": 1,
+      "source": "/images/thumbnails/app-escapethehoa-a3ef78f610-card.webp",
+      "contrastRatio": 0.9754601820345742,
+      "pixelDifference": 9.70654296875
+    },
+    {
+      "slug": "app-dateflow",
+      "density": 1,
+      "source": "/images/thumbnails/app-dateflow-5ec171fbe0-card.webp",
+      "contrastRatio": 0.8908923226353634,
+      "pixelDifference": 5.867513020833333
+    },
+    {
+      "slug": "app-meravyaah",
+      "density": 1,
+      "source": "/images/thumbnails/app-meravyaah-7d8acfe3d1-card.webp",
+      "contrastRatio": 0.9626014399858195,
+      "pixelDifference": 10.000406901041666
+    },
+    {
+      "slug": "app-beliri",
+      "density": 1,
+      "source": "/images/thumbnails/app-beliri-68f1a9817d-card.webp",
+      "contrastRatio": 1.003993424591255,
+      "pixelDifference": 7.524332682291667
+    },
+    {
+      "slug": "app-fynmate",
+      "density": 1,
+      "source": "/images/thumbnails/app-fynmate-ce8e71406c-card.webp",
+      "contrastRatio": 0.8735192105996561,
+      "pixelDifference": 7.818277994791667
+    },
+    {
+      "slug": "app-streetslate",
+      "density": 1,
+      "source": "/images/thumbnails/app-streetslate-f05e2bbcc3-card.webp",
+      "contrastRatio": 1.0008383153247242,
+      "pixelDifference": 7.650716145833333
+    },
+    {
+      "slug": "app-ummed",
+      "density": 1,
+      "source": "/images/thumbnails/app-ummed-e78a99ca68-card.webp",
+      "contrastRatio": 0.8984978493191339,
+      "pixelDifference": 8.451090494791666
+    },
+    {
+      "slug": "app-bubble",
+      "density": 1,
+      "source": "/images/thumbnails/app-bubble-8297d62f9c-card.webp",
+      "contrastRatio": 0.9299220962888228,
+      "pixelDifference": 7.654378255208333
+    },
+    {
+      "slug": "app-kegeltempo",
+      "density": 1,
+      "source": "/images/thumbnails/app-kegeltempo-b60bb9e056-card.webp",
+      "contrastRatio": 0.967495903630307,
+      "pixelDifference": 7.343424479166667
+    },
+    {
+      "slug": "app-heartsync",
+      "density": 1,
+      "source": "/images/thumbnails/app-heartsync-a80c36b0bd-card.webp",
+      "contrastRatio": 0.996834193294402,
+      "pixelDifference": 13.62109375
+    },
+    {
+      "slug": "app-supplement-management",
+      "density": 1,
+      "source": "/images/thumbnails/app-supplement-management-79766bb230-card.webp",
+      "contrastRatio": 0.9080776058037341,
+      "pixelDifference": 7.385579427083333
+    },
+    {
+      "slug": "app-livsocial",
+      "density": 2,
+      "source": "/images/thumbnails/app-livsocial-621f8c7540-medium.webp",
+      "contrastRatio": 0.9740918994449315,
+      "pixelDifference": 10.991129557291666
+    },
+    {
+      "slug": "app-simplyscouted",
+      "density": 2,
+      "source": "/images/thumbnails/app-simplyscouted-6f32bf367a-medium.webp",
+      "contrastRatio": 0.9990343828643099,
+      "pixelDifference": 7.869547526041667
+    },
+    {
+      "slug": "app-infinote",
+      "density": 2,
+      "source": "/images/thumbnails/app-infinote-3c6a49c944-medium.webp",
+      "contrastRatio": 0.9879405640943361,
+      "pixelDifference": 5.744303385416667
+    },
+    {
+      "slug": "app-silaflow",
+      "density": 2,
+      "source": "/images/thumbnails/app-silaflow-d1ba8096eb-medium.webp",
+      "contrastRatio": 0.9368519366416866,
+      "pixelDifference": 10.002604166666666
+    },
+    {
+      "slug": "app-habitstride",
+      "density": 2,
+      "source": "/images/thumbnails/app-habitstride-1440ef7a7c-medium.webp",
+      "contrastRatio": 0.9360238539156531,
+      "pixelDifference": 5.813395182291667
+    },
+    {
+      "slug": "app-tukora-connect",
+      "density": 2,
+      "source": "/images/thumbnails/app-tukora-connect-46ee8030f5-medium.webp",
+      "contrastRatio": 0.9563934328388192,
+      "pixelDifference": 8.596598307291666
+    },
+    {
+      "slug": "app-pace-of-play",
+      "density": 2,
+      "source": "/images/thumbnails/app-pace-of-play-0709165e4e-medium.webp",
+      "contrastRatio": 0.9689010467645474,
+      "pixelDifference": 10.182047526041666
+    },
+    {
+      "slug": "app-qcop-app",
+      "density": 2,
+      "source": "/images/thumbnails/app-qcop-app-15be1540cd-medium.webp",
+      "contrastRatio": 0.901144731187928,
+      "pixelDifference": 7.937662760416667
+    },
+    {
+      "slug": "app-little-butterflies",
+      "density": 2,
+      "source": "/images/thumbnails/app-little-butterflies-bd39862386-medium.webp",
+      "contrastRatio": 0.8289364526839067,
+      "pixelDifference": 6.388264973958333
+    },
+    {
+      "slug": "app-case-management-ase",
+      "density": 2,
+      "source": "/images/thumbnails/app-case-management-ase-1f8105e017-medium.webp",
+      "contrastRatio": 0.8877203390879269,
+      "pixelDifference": 8.776529947916666
+    },
+    {
+      "slug": "app-printlific",
+      "density": 2,
+      "source": "/images/thumbnails/app-printlific-60b792aab9-medium.webp",
+      "contrastRatio": 0.9992066681092504,
+      "pixelDifference": 8.328776041666666
+    },
+    {
+      "slug": "app-racepace",
+      "density": 2,
+      "source": "/images/thumbnails/app-racepace-af9306f034-medium.webp",
+      "contrastRatio": 0.9924290020804795,
+      "pixelDifference": 9.141764322916666
+    },
+    {
+      "slug": "app-been-there",
+      "density": 2,
+      "source": "/images/thumbnails/app-been-there-1c8db88324-medium.webp",
+      "contrastRatio": 0.9919548622621586,
+      "pixelDifference": 7.733968098958333
+    },
+    {
+      "slug": "app-pantryone",
+      "density": 2,
+      "source": "/images/thumbnails/app-pantryone-765a8b31d6-medium.webp",
+      "contrastRatio": 0.9646796278004232,
+      "pixelDifference": 6.971110026041667
+    },
+    {
+      "slug": "app-escapethehoa",
+      "density": 2,
+      "source": "/images/thumbnails/app-escapethehoa-a3ef78f610-medium.webp",
+      "contrastRatio": 0.9638221839331992,
+      "pixelDifference": 9.207682291666666
+    },
+    {
+      "slug": "app-dateflow",
+      "density": 2,
+      "source": "/images/thumbnails/app-dateflow-5ec171fbe0-medium.webp",
+      "contrastRatio": 0.8081330726505268,
+      "pixelDifference": 6.732666015625
+    },
+    {
+      "slug": "app-meravyaah",
+      "density": 2,
+      "source": "/images/thumbnails/app-meravyaah-7d8acfe3d1-medium.webp",
+      "contrastRatio": 0.9448504283598199,
+      "pixelDifference": 9.887288411458334
+    },
+    {
+      "slug": "app-beliri",
+      "density": 2,
+      "source": "/images/thumbnails/app-beliri-68f1a9817d-medium.webp",
+      "contrastRatio": 0.9995351153990972,
+      "pixelDifference": 7.794270833333333
+    },
+    {
+      "slug": "app-fynmate",
+      "density": 2,
+      "source": "/images/thumbnails/app-fynmate-ce8e71406c-medium.webp",
+      "contrastRatio": 0.8326090185584115,
+      "pixelDifference": 8.406575520833334
+    },
+    {
+      "slug": "app-streetslate",
+      "density": 2,
+      "source": "/images/thumbnails/app-streetslate-f05e2bbcc3-medium.webp",
+      "contrastRatio": 0.9902738197922795,
+      "pixelDifference": 7.4033203125
+    },
+    {
+      "slug": "app-ummed",
+      "density": 2,
+      "source": "/images/thumbnails/app-ummed-e78a99ca68-medium.webp",
+      "contrastRatio": 0.8709135530399684,
+      "pixelDifference": 8.554361979166666
+    },
+    {
+      "slug": "app-bubble",
+      "density": 2,
+      "source": "/images/thumbnails/app-bubble-8297d62f9c-medium.webp",
+      "contrastRatio": 0.8753333838044899,
+      "pixelDifference": 8.920003255208334
+    },
+    {
+      "slug": "app-kegeltempo",
+      "density": 2,
+      "source": "/images/thumbnails/app-kegeltempo-b60bb9e056-medium.webp",
+      "contrastRatio": 0.948829859014288,
+      "pixelDifference": 7.599365234375
+    },
+    {
+      "slug": "app-heartsync",
+      "density": 2,
+      "source": "/images/thumbnails/app-heartsync-a80c36b0bd-medium.webp",
+      "contrastRatio": 0.9928068596042212,
+      "pixelDifference": 13.927408854166666
+    },
+    {
+      "slug": "app-supplement-management",
+      "density": 2,
+      "source": "/images/thumbnails/app-supplement-management-79766bb230-medium.webp",
+      "contrastRatio": 0.8753500307523433,
+      "pixelDifference": 8.24267578125
+    }
+  ],
+  "responsive": [
+    {
+      "label": "tablet",
+      "width": 768,
+      "checked": 25,
+      "noOverflow": true,
+      "images": [
+        {
+          "slug": "app-livsocial",
+          "src": "/images/thumbnails/app-livsocial-621f8c7540-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-simplyscouted",
+          "src": "/images/thumbnails/app-simplyscouted-6f32bf367a-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-infinote",
+          "src": "/images/thumbnails/app-infinote-3c6a49c944-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-silaflow",
+          "src": "/images/thumbnails/app-silaflow-d1ba8096eb-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-habitstride",
+          "src": "/images/thumbnails/app-habitstride-1440ef7a7c-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-tukora-connect",
+          "src": "/images/thumbnails/app-tukora-connect-46ee8030f5-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-pace-of-play",
+          "src": "/images/thumbnails/app-pace-of-play-0709165e4e-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-qcop-app",
+          "src": "/images/thumbnails/app-qcop-app-15be1540cd-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-little-butterflies",
+          "src": "/images/thumbnails/app-little-butterflies-bd39862386-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-case-management-ase",
+          "src": "/images/thumbnails/app-case-management-ase-1f8105e017-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-printlific",
+          "src": "/images/thumbnails/app-printlific-60b792aab9-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-racepace",
+          "src": "/images/thumbnails/app-racepace-af9306f034-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-been-there",
+          "src": "/images/thumbnails/app-been-there-1c8db88324-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-pantryone",
+          "src": "/images/thumbnails/app-pantryone-765a8b31d6-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-escapethehoa",
+          "src": "/images/thumbnails/app-escapethehoa-a3ef78f610-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-dateflow",
+          "src": "/images/thumbnails/app-dateflow-5ec171fbe0-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-meravyaah",
+          "src": "/images/thumbnails/app-meravyaah-7d8acfe3d1-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-beliri",
+          "src": "/images/thumbnails/app-beliri-68f1a9817d-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-fynmate",
+          "src": "/images/thumbnails/app-fynmate-ce8e71406c-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-streetslate",
+          "src": "/images/thumbnails/app-streetslate-f05e2bbcc3-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-ummed",
+          "src": "/images/thumbnails/app-ummed-e78a99ca68-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-bubble",
+          "src": "/images/thumbnails/app-bubble-8297d62f9c-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-kegeltempo",
+          "src": "/images/thumbnails/app-kegeltempo-b60bb9e056-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-heartsync",
+          "src": "/images/thumbnails/app-heartsync-a80c36b0bd-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-supplement-management",
+          "src": "/images/thumbnails/app-supplement-management-79766bb230-card.webp",
+          "fit": "contain",
+          "centered": true
+        }
+      ]
+    },
+    {
+      "label": "mobile",
+      "width": 390,
+      "checked": 25,
+      "noOverflow": true,
+      "images": [
+        {
+          "slug": "app-livsocial",
+          "src": "/images/thumbnails/app-livsocial-621f8c7540-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-simplyscouted",
+          "src": "/images/thumbnails/app-simplyscouted-6f32bf367a-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-infinote",
+          "src": "/images/thumbnails/app-infinote-3c6a49c944-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-silaflow",
+          "src": "/images/thumbnails/app-silaflow-d1ba8096eb-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-habitstride",
+          "src": "/images/thumbnails/app-habitstride-1440ef7a7c-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-tukora-connect",
+          "src": "/images/thumbnails/app-tukora-connect-46ee8030f5-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-pace-of-play",
+          "src": "/images/thumbnails/app-pace-of-play-0709165e4e-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-qcop-app",
+          "src": "/images/thumbnails/app-qcop-app-15be1540cd-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-little-butterflies",
+          "src": "/images/thumbnails/app-little-butterflies-bd39862386-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-case-management-ase",
+          "src": "/images/thumbnails/app-case-management-ase-1f8105e017-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-printlific",
+          "src": "/images/thumbnails/app-printlific-60b792aab9-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-racepace",
+          "src": "/images/thumbnails/app-racepace-af9306f034-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-been-there",
+          "src": "/images/thumbnails/app-been-there-1c8db88324-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-pantryone",
+          "src": "/images/thumbnails/app-pantryone-765a8b31d6-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-escapethehoa",
+          "src": "/images/thumbnails/app-escapethehoa-a3ef78f610-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-dateflow",
+          "src": "/images/thumbnails/app-dateflow-5ec171fbe0-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-meravyaah",
+          "src": "/images/thumbnails/app-meravyaah-7d8acfe3d1-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-beliri",
+          "src": "/images/thumbnails/app-beliri-68f1a9817d-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-fynmate",
+          "src": "/images/thumbnails/app-fynmate-ce8e71406c-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-streetslate",
+          "src": "/images/thumbnails/app-streetslate-f05e2bbcc3-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-ummed",
+          "src": "/images/thumbnails/app-ummed-e78a99ca68-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-bubble",
+          "src": "/images/thumbnails/app-bubble-8297d62f9c-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-kegeltempo",
+          "src": "/images/thumbnails/app-kegeltempo-b60bb9e056-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-heartsync",
+          "src": "/images/thumbnails/app-heartsync-a80c36b0bd-card.webp",
+          "fit": "contain",
+          "centered": true
+        },
+        {
+          "slug": "app-supplement-management",
+          "src": "/images/thumbnails/app-supplement-management-79766bb230-card.webp",
+          "fit": "contain",
+          "centered": true
+        }
+      ]
+    }
+  ],
+  "gpuErrors": [],
+  "pageErrors": [],
+  "unchangedWebThumbnails": 19
+}

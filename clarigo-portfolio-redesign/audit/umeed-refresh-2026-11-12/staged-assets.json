@@ -1,0 +1,62 @@
+{
+  "poster": {
+    "src": "/images/projects/umeed-preview-29a3a780b8.webp",
+    "width": 1600,
+    "height": 1325,
+    "role": "composition",
+    "gallery": false,
+    "sha256": "29a3a780b8e6b88cb8dc9cdfaf6adf412bfd2d98327c156f6b92433808b933aa",
+    "bytes": 98262,
+    "originalBytes": 918686,
+    "label": "Umeed web presentation",
+    "description": "The supplied Umeed account-entry screenshot in a warm browser presentation."
+  },
+  "images": [
+    {
+      "src": "/images/projects/umeed-login-6a985d0266.webp",
+      "width": 1920,
+      "height": 917,
+      "role": "screen",
+      "gallery": true,
+      "sha256": "6a985d02663dfa9d4b4e3790b992524907a52083b603b7421f8da821e351da53",
+      "bytes": 93770,
+      "originalBytes": 1284482,
+      "label": "Account-entry screen",
+      "description": "The complete user-supplied Umeed login screenshot."
+    },
+    {
+      "src": "/images/projects/umeed-login-detail-85896aae48.webp",
+      "width": 520,
+      "height": 690,
+      "role": "composition",
+      "gallery": true,
+      "sha256": "85896aae48b053227cd6e9442590094118fb2184eb24e63483a9936dfc6b543a",
+      "bytes": 33558,
+      "originalBytes": 422947,
+      "label": "Login panel detail",
+      "description": "A close-up from the supplied screenshot showing the welcome, account-entry tabs, form, and policy links."
+    },
+    {
+      "src": "/images/projects/umeed-desktop-b0d475a999.webp",
+      "width": 1600,
+      "height": 1325,
+      "role": "composition",
+      "gallery": true,
+      "sha256": "b0d475a999da63322fd61417bf30079bc6e3c5afe32f61b210dde4c1229e5c91",
+      "bytes": 80812,
+      "originalBytes": 877905,
+      "label": "Desktop presentation",
+      "description": "The complete supplied screenshot presented within a desktop browser frame."
+    }
+  ],
+  "derivative": {
+    "slug": "umeed",
+    "src": "/images/projects/umeed-preview-29a3a780b8-medium.webp",
+    "width": 960,
+    "height": 795,
+    "bytes": 37626,
+    "source": "/images/projects/umeed-preview-29a3a780b8.webp",
+    "sourceSha256": "29a3a780b8e6b88cb8dc9cdfaf6adf412bfd2d98327c156f6b92433808b933aa",
+    "sha256": "c140adaa7fbf5c5109ffb9210eb9fd0a32865905311c688170dfa969552763a5"
+  }
+}

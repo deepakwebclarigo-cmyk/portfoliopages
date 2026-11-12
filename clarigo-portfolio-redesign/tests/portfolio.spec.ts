@@ -1,6 +1,7 @@
 import { test, expect } from '@playwright/test';
 import inventory from '../lib/project-inventory.json';
 import assets from '../lib/project-assets.json';
+import thumbnails from '../lib/project-thumbnails.json';
 import { projectContent } from '../lib/project-content';
 import { projectStories } from '../lib/project-story';
 
@@ -26,6 +27,11 @@ test('inventory and all listing cards remain complete', async ({ page }) => {
   }));
   expect(artwork).toHaveLength(inventory.length);
   for (const image of artwork) expect(image).toEqual({ fit: 'contain', position: '50% 50%', uniform: true, inside: true, centered: true });
+  const loadedSources = await page.locator('.projectArt img').evaluateAll(images => images.map(element => new URL((element as HTMLImageElement).currentSrc || (element as HTMLImageElement).src).pathname));
+  for (const [index, project] of inventory.entries()) {
+    const thumbnail = (thumbnails as Record<string, { src: string; card: { src: string }; medium: { src: string } }>)[project.slug];
+    expect([thumbnail.src, thumbnail.card.src, thumbnail.medium.src], project.slug).toContain(loadedSources[index]);
+  }
   const links = await page.locator('.projectLink').evaluateAll((elements) => elements.map((el) => el.getAttribute('href')));
   expect(links).toEqual(inventory.map(({ slug }) => '/portfolio/' + slug));
   await expect(page.locator('.heroScene')).toHaveCount(0);

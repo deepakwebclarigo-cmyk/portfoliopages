@@ -1,0 +1,9 @@
+{
+  "build": "passed",
+  "typecheck": "passed",
+  "newBrowserTestsPassed": 4,
+  "existingBrowserTestsPassed": 24,
+  "visualComparisons": 94,
+  "gpuUploadErrors": 0,
+  "cssUnchanged": true
+}

@@ -770,45 +770,53 @@
   },
   "umeed": {
     "poster": {
-      "src": "/images/projects/umeed-1cd14b2de8.webp",
+      "src": "/images/projects/umeed-preview-29a3a780b8.webp",
       "width": 1600,
       "height": 1325,
       "role": "composition",
       "gallery": false,
-      "sha256": "db0f712a4d6187f40a9f4c3a16364383de4f9c4321be30e20622a72f7325b95c",
-      "bytes": 81766,
-      "originalBytes": 588530
+      "sha256": "29a3a780b8e6b88cb8dc9cdfaf6adf412bfd2d98327c156f6b92433808b933aa",
+      "bytes": 98262,
+      "originalBytes": 918686,
+      "label": "Umeed web presentation",
+      "description": "The supplied Umeed account-entry screenshot in a warm browser presentation."
     },
     "images": [
       {
-        "src": "/images/projects/umeed-1cd14b2de8.webp",
+        "src": "/images/projects/umeed-login-6a985d0266.webp",
+        "width": 1920,
+        "height": 917,
+        "role": "screen",
+        "gallery": true,
+        "sha256": "6a985d02663dfa9d4b4e3790b992524907a52083b603b7421f8da821e351da53",
+        "bytes": 93770,
+        "originalBytes": 1284482,
+        "label": "Account-entry screen",
+        "description": "The complete user-supplied Umeed login screenshot."
+      },
+      {
+        "src": "/images/projects/umeed-login-detail-85896aae48.webp",
+        "width": 520,
+        "height": 690,
+        "role": "composition",
+        "gallery": true,
+        "sha256": "85896aae48b053227cd6e9442590094118fb2184eb24e63483a9936dfc6b543a",
+        "bytes": 33558,
+        "originalBytes": 422947,
+        "label": "Login panel detail",
+        "description": "A close-up from the supplied screenshot showing the welcome, account-entry tabs, form, and policy links."
+      },
+      {
+        "src": "/images/projects/umeed-desktop-b0d475a999.webp",
         "width": 1600,
         "height": 1325,
         "role": "composition",
-        "gallery": false,
-        "sha256": "db0f712a4d6187f40a9f4c3a16364383de4f9c4321be30e20622a72f7325b95c",
-        "bytes": 81766,
-        "originalBytes": 588530
-      },
-      {
-        "src": "/images/projects/umeed-95403b46a7.webp",
-        "width": 1495,
-        "height": 2200,
-        "role": "composition",
-        "gallery": false,
-        "sha256": "3aff52020fd4e330b65be8fe1723a3f5a220b66154cdbaea5988fbd690e78d7a",
-        "bytes": 154668,
-        "originalBytes": 329685
-      },
-      {
-        "src": "/images/projects/umeed-89d20b4567.webp",
-        "width": 999,
-        "height": 1273,
-        "role": "composition",
-        "gallery": false,
-        "sha256": "6328134f6753eab634c50061458278f4fd9ae22eb28d479e53b73214ab51f16b",
-        "bytes": 238666,
-        "originalBytes": 876902
+        "gallery": true,
+        "sha256": "b0d475a999da63322fd61417bf30079bc6e3c5afe32f61b210dde4c1229e5c91",
+        "bytes": 80812,
+        "originalBytes": 877905,
+        "label": "Desktop presentation",
+        "description": "The complete supplied screenshot presented within a desktop browser frame."
       }
     ]
   },

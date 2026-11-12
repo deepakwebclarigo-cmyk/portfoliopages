@@ -92,13 +92,50 @@ export const webStories = {
     cta: "Modernizing an internal workflow? Let's connect its records, responsibilities, and daily operating views."
   },
   "umeed": {
-    featureIntro: "A relationship-focused web introduction presenting Umeed's community identity alongside original mobile product compositions.",
-    workflowIntro: "The supplied pages introduce the community and registration proposition before showing the companion app experience.",
-    steps: [["Understand the community", "The website's opening information introduces Umeed and its relationship-oriented proposition."], ["Read the introduction", "Supporting content explains the visible community focus within a dark, restrained public website."], ["Explore the app presentation", "Original device imagery gives a preview of the mobile interface without asserting current store availability."]],
-    problem: { title: "Introduce a personal product with a clear identity.", text: "Relationship products need an understandable public introduction before visitors reach profile-based screens. Umeed's website gives the community proposition space alongside a preview of the mobile experience." },
-    solutions: [["A focused opening message", "The public page introduces registration and connection without crowding the first screen."], ["Community information", "Supporting sections add context to the relationship-oriented product introduction."], ["An app preview in context", "Device compositions connect the public website with the visual language of its mobile product."]],
-    engineering: { title: "A public entry to a profile-led product.", text: "The available website designs present community information and app-oriented promotional content. They do not establish matching logic, moderation systems, membership entitlements, or current download links; the case study stays with the visible product presentation.", topics: ["Community introduction", "Registration proposition", "Mobile preview"] },
-    cta: "Introducing a people-focused product? Let's make its audience and first steps easy to recognize."
+      "featureIntro": "Umeed's account-entry design balances an expressive community backdrop with a calm, clearly grouped sign-in panel.",
+      "workflowIntro": "The supplied reference keeps the opening journey within one focused account-entry surface: recognize the community, choose an entry option, and reach the relevant form action.",
+      "steps": [
+          [
+              "Recognize the community",
+              "The rainbow mark, people-led photograph, and relationship-oriented introduction establish the context before the form."
+          ],
+          [
+              "Choose an entry option",
+              "The visible tabs distinguish standard login, OTP login, and password recovery within the same account panel."
+          ],
+          [
+              "Continue with the form",
+              "Email and password fields lead to Sign In; a separate Create New Account action provides the registration entry point."
+          ]
+      ],
+      "problem": {
+          "title": "Let the community shine without losing the form.",
+          "text": "A richly colored photograph can compete with the controls placed over it. Umeed groups its account fields within a translucent panel and uses light input surfaces to separate interaction from the surrounding community imagery."
+      },
+      "solutions": [
+          [
+              "A contained account panel",
+              "The centered glass-style surface groups the logo, welcome message, tabs, fields, and account actions in a predictable order."
+          ],
+          [
+              "A distinct primary action",
+              "A purple-to-pink sign-in button creates a visual anchor below the email and password fields."
+          ],
+          [
+              "Supporting choices in context",
+              "Registration and policy links remain close to the main form while retaining their own visual grouping."
+          ]
+      ],
+      "engineering": {
+          "title": "A clear account-entry interface.",
+          "text": "The supplied screen shows the structure of the email/password form, alternative entry tabs, registration action, and policy navigation. These visible interface elements guide the presentation; the reference does not establish backend authentication behavior or a project-specific technology stack.",
+          "topics": [
+              "Account-entry hierarchy",
+              "Form and tab structure",
+              "Registration and policy navigation"
+          ]
+      },
+      "cta": "Building a community-focused product? Let's create a welcome that makes its identity and first steps easy to understand."
   },
   "alumvia": {
     featureIntro: "An education website connecting an online-learning proposition with student-facing services and account-oriented pages.",

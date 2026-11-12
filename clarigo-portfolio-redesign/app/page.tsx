@@ -25,7 +25,7 @@ export default function Home() {
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, '\\u003c') }} />
       <SiteHeader />
       <main id="main-content" tabIndex={-1}>
-        <PortfolioClient projects={projects.map(({ slug, name, archiveName, category, kind, image, accent, summary, discipline }) => ({ slug, name, archiveName, category, kind, image, accent, summary, discipline }))} />
+        <PortfolioClient projects={projects.map(({ slug, name, archiveName, category, kind, image, thumbnail, accent, summary, discipline }) => ({ slug, name, archiveName, category, kind, image, thumbnail, accent, summary, discipline }))} />
       </main>
       <footer className="siteFooter shell">
         <Link href="/" className="footerBrand" aria-label="Clarigo portfolio home">
