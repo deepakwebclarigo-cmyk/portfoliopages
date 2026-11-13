@@ -1,0 +1,30 @@
+{
+  "buildId": "KFgJVpM4ir4JrfXVNBjH1",
+  "build": "passed; all 48 routes validated",
+  "typecheck": "passed",
+  "desktop": {
+    "startTime": "2026-11-13T10:50:31.400Z",
+    "duration": 48533.438,
+    "expected": 5,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "responsive": {
+    "startTime": "2026-11-13T10:51:23.342Z",
+    "duration": 23071.009000000002,
+    "expected": 8,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "mainThumbnails": 48,
+  "densities": [
+    1,
+    2
+  ],
+  "imageSourceOpacityAndTransformUnchangedOnHover": true,
+  "thumbnailWebGLDisabled": true,
+  "assetsAndThemesPreserved": true,
+  "preview": "http://127.0.0.1:3100/#portfolio"
+}

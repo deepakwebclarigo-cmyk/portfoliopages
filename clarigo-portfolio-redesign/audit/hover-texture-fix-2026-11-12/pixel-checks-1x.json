@@ -1,289 +1,313 @@
 {
   "density": 1,
-  "checked": 47,
+  "checked": 51,
   "gpuErrors": [],
   "results": [
     {
       "slug": "livsocial",
-      "baselineContrast": 54.637839486323166,
-      "hoveredContrast": 53.12360307351033,
-      "meanPixelDifference": 15.4296875
+      "baselineContrast": 54.64189025489416,
+      "hoveredContrast": 53.104445183618665,
+      "meanPixelDifference": 15.159993489583334
     },
     {
       "slug": "streamdexa",
-      "baselineContrast": 100.27585628786562,
-      "hoveredContrast": 99.80408379218319,
-      "meanPixelDifference": 14.905843098958334
+      "baselineContrast": 77.81909770382958,
+      "hoveredContrast": 79.46550924327661,
+      "meanPixelDifference": 17.694254557291668
     },
     {
       "slug": "little-butterflies",
       "baselineContrast": 29.341967747634328,
-      "hoveredContrast": 28.115458306848907,
-      "meanPixelDifference": 4.179361979166667
+      "hoveredContrast": 28.11534904783979,
+      "meanPixelDifference": 4.117431640625
     },
     {
       "slug": "tukora-connect",
-      "baselineContrast": 17.339441238166902,
-      "hoveredContrast": 14.869553796220963,
-      "meanPixelDifference": 2.073486328125
+      "baselineContrast": 55.692573454805014,
+      "hoveredContrast": 54.046262632291864,
+      "meanPixelDifference": 14.970133463541666
     },
     {
       "slug": "beliri",
       "baselineContrast": 82.62669487134258,
-      "hoveredContrast": 82.76889613382187,
-      "meanPixelDifference": 11.697509765625
+      "hoveredContrast": 82.76950139142248,
+      "meanPixelDifference": 11.688720703125
     },
     {
       "slug": "printlific",
       "baselineContrast": 63.2005797678608,
-      "hoveredContrast": 61.92427733570616,
+      "hoveredContrast": 61.9241387706553,
       "meanPixelDifference": 21.534261067708332
     },
     {
       "slug": "nerdrabbit",
       "baselineContrast": 75.91335178890205,
-      "hoveredContrast": 74.66145531657193,
-      "meanPixelDifference": 15.835774739583334
+      "hoveredContrast": 74.59833313711164,
+      "meanPixelDifference": 15.400797526041666
     },
     {
       "slug": "paranest",
-      "baselineContrast": 37.569897966297724,
-      "hoveredContrast": 37.23388452801011,
-      "meanPixelDifference": 3.8063151041666665
+      "baselineContrast": 32.81342947899565,
+      "hoveredContrast": 32.70200826530784,
+      "meanPixelDifference": 3.7660319010416665
     },
     {
       "slug": "glocal-expert",
       "baselineContrast": 17.21902675933382,
-      "hoveredContrast": 15.754216011940736,
-      "meanPixelDifference": 2.5113932291666665
+      "hoveredContrast": 15.75334757758185,
+      "meanPixelDifference": 2.51416015625
     },
     {
       "slug": "mercury-mailroom",
       "baselineContrast": 62.21385770375652,
-      "hoveredContrast": 61.68521040205565,
-      "meanPixelDifference": 13.538411458333334
+      "hoveredContrast": 61.68609951625987,
+      "meanPixelDifference": 13.554443359375
     },
     {
       "slug": "umeed",
       "baselineContrast": 52.48521555890216,
-      "hoveredContrast": 52.608639508893056,
-      "meanPixelDifference": 11.943766276041666
+      "hoveredContrast": 52.61017118418641,
+      "meanPixelDifference": 11.965983072916666
     },
     {
       "slug": "alumvia",
-      "baselineContrast": 35.887078783728626,
-      "hoveredContrast": 33.62427706907077,
-      "meanPixelDifference": 8.162841796875
+      "baselineContrast": 32.99672993130765,
+      "hoveredContrast": 30.78912984604292,
+      "meanPixelDifference": 8.311686197916666
     },
     {
       "slug": "kegeltempo",
-      "baselineContrast": 83.98142753397876,
-      "hoveredContrast": 83.94819632043915,
-      "meanPixelDifference": 10.588704427083334
+      "baselineContrast": 80.59045378854113,
+      "hoveredContrast": 80.83569683480091,
+      "meanPixelDifference": 10.3046875
     },
     {
       "slug": "rallybridge",
-      "baselineContrast": 89.0580114062107,
-      "hoveredContrast": 88.86077685794871,
-      "meanPixelDifference": 9.31787109375
+      "baselineContrast": 86.96236172440005,
+      "hoveredContrast": 87.05876119480193,
+      "meanPixelDifference": 9.451253255208334
     },
     {
       "slug": "network-capital",
       "baselineContrast": 42.1965554306519,
-      "hoveredContrast": 40.47723383821821,
-      "meanPixelDifference": 6.624837239583333
+      "hoveredContrast": 40.394435288818315,
+      "meanPixelDifference": 6.380452473958333
     },
     {
       "slug": "whizlume",
-      "baselineContrast": 51.25817751203397,
-      "hoveredContrast": 48.8350074555319,
-      "meanPixelDifference": 12.739420572916666
+      "baselineContrast": 49.423897710685935,
+      "hoveredContrast": 47.254392355338254,
+      "meanPixelDifference": 12.4482421875
     },
     {
       "slug": "estrata",
-      "baselineContrast": 68.78979941290066,
-      "hoveredContrast": 69.2649660252663,
-      "meanPixelDifference": 4.090006510416667
+      "baselineContrast": 57.83651248420221,
+      "hoveredContrast": 58.611099812852984,
+      "meanPixelDifference": 3.8788248697916665
     },
     {
       "slug": "been-there",
       "baselineContrast": 41.31175396748026,
-      "hoveredContrast": 38.59027779240528,
-      "meanPixelDifference": 10.117594401041666
+      "hoveredContrast": 38.59014605390923,
+      "meanPixelDifference": 10.138020833333334
     },
     {
       "slug": "leadforma",
-      "baselineContrast": 50.00977129066956,
-      "hoveredContrast": 49.143096612718956,
-      "meanPixelDifference": 16.551188151041668
+      "baselineContrast": 48.76118747583855,
+      "hoveredContrast": 47.99747478347321,
+      "meanPixelDifference": 16.480305989583332
     },
     {
       "slug": "app-livsocial",
-      "baselineContrast": 45.13785692700265,
-      "hoveredContrast": 42.421150881968245,
-      "meanPixelDifference": 8.151529947916666
+      "baselineContrast": 53.20835549055466,
+      "hoveredContrast": 52.45978640038889,
+      "meanPixelDifference": 10.335205078125
     },
     {
       "slug": "app-simplyscouted",
-      "baselineContrast": 80.41063080692064,
-      "hoveredContrast": 79.68810378091167,
-      "meanPixelDifference": 16.063395182291668
+      "baselineContrast": 90.50714049374425,
+      "hoveredContrast": 90.84992045760669,
+      "meanPixelDifference": 11.238688151041666
     },
     {
       "slug": "app-infinote",
-      "baselineContrast": 58.81926964631775,
-      "hoveredContrast": 56.686461947354736,
-      "meanPixelDifference": 14.867024739583334
+      "baselineContrast": 52.32997426793045,
+      "hoveredContrast": 52.474657909469855,
+      "meanPixelDifference": 6.685791015625
     },
     {
       "slug": "app-silaflow",
-      "baselineContrast": 53.347122039421556,
-      "hoveredContrast": 49.221755154785114,
-      "meanPixelDifference": 17.972086588541668
+      "baselineContrast": 41.638422316889674,
+      "hoveredContrast": 39.987670857954775,
+      "meanPixelDifference": 9.623697916666666
     },
     {
       "slug": "app-habitstride",
-      "baselineContrast": 45.344548205107394,
-      "hoveredContrast": 40.94526469531038,
-      "meanPixelDifference": 14.82861328125
+      "baselineContrast": 33.4659978892474,
+      "hoveredContrast": 31.97089883060687,
+      "meanPixelDifference": 6.791910807291667
     },
     {
       "slug": "app-tukora-connect",
-      "baselineContrast": 41.42634121941946,
-      "hoveredContrast": 35.70477344373791,
-      "meanPixelDifference": 17.292317708333332
+      "baselineContrast": 47.26648043267399,
+      "hoveredContrast": 46.120703353219696,
+      "meanPixelDifference": 8.203776041666666
     },
     {
       "slug": "app-pace-of-play",
-      "baselineContrast": 62.712081431371665,
-      "hoveredContrast": 59.79332607980324,
-      "meanPixelDifference": 18.329020182291668
+      "baselineContrast": 55.74008424953523,
+      "hoveredContrast": 54.669600499564304,
+      "meanPixelDifference": 9.355875651041666
     },
     {
       "slug": "app-qcop-app",
-      "baselineContrast": 43.52362004516034,
-      "hoveredContrast": 38.71093791975655,
-      "meanPixelDifference": 17.400309244791668
+      "baselineContrast": 33.73881068239144,
+      "hoveredContrast": 31.59053447986656,
+      "meanPixelDifference": 7.379313151041667
     },
     {
       "slug": "app-little-butterflies",
-      "baselineContrast": 41.37516614193138,
-      "hoveredContrast": 35.504903100811696,
-      "meanPixelDifference": 16.79150390625
+      "baselineContrast": 27.506809367369257,
+      "hoveredContrast": 24.093872641824873,
+      "meanPixelDifference": 6.138346354166667
     },
     {
       "slug": "app-case-management-ase",
-      "baselineContrast": 44.67632721436068,
-      "hoveredContrast": 39.484255222293704,
-      "meanPixelDifference": 17.181966145833332
+      "baselineContrast": 35.23775265673895,
+      "hoveredContrast": 32.47799609296123,
+      "meanPixelDifference": 7.715169270833333
     },
     {
       "slug": "app-printlific",
-      "baselineContrast": 78.44248309756551,
-      "hoveredContrast": 77.43171810384025,
-      "meanPixelDifference": 17.640543619791668
+      "baselineContrast": 72.09462351750844,
+      "hoveredContrast": 72.58105926221256,
+      "meanPixelDifference": 8.179280598958334
     },
     {
       "slug": "app-racepace",
-      "baselineContrast": 73.6833915711898,
-      "hoveredContrast": 72.80396627914169,
-      "meanPixelDifference": 14.737223307291666
+      "baselineContrast": 67.83603884332017,
+      "hoveredContrast": 67.9303676546953,
+      "meanPixelDifference": 8.950358072916666
     },
     {
       "slug": "app-been-there",
-      "baselineContrast": 83.21247538399668,
-      "hoveredContrast": 82.35686471939763,
-      "meanPixelDifference": 19.132893880208332
+      "baselineContrast": 59.257959173820886,
+      "hoveredContrast": 59.33368835422934,
+      "meanPixelDifference": 7.07666015625
     },
     {
       "slug": "app-pantryone",
-      "baselineContrast": 56.69912156530312,
-      "hoveredContrast": 54.34634058658887,
-      "meanPixelDifference": 15.540690104166666
+      "baselineContrast": 39.97565073414479,
+      "hoveredContrast": 39.005365711603375,
+      "meanPixelDifference": 7.321858723958333
     },
     {
       "slug": "app-escapethehoa",
-      "baselineContrast": 60.686717655731705,
-      "hoveredContrast": 57.29658683761716,
-      "meanPixelDifference": 19.749593098958332
+      "baselineContrast": 53.83664712171768,
+      "hoveredContrast": 52.63716287641877,
+      "meanPixelDifference": 9.111083984375
     },
     {
       "slug": "app-dateflow",
-      "baselineContrast": 47.93570296059995,
-      "hoveredContrast": 44.12319932246897,
-      "meanPixelDifference": 17.192545572916668
+      "baselineContrast": 25.011466739296722,
+      "hoveredContrast": 21.381183132831886,
+      "meanPixelDifference": 6.01123046875
     },
     {
       "slug": "app-meravyaah",
-      "baselineContrast": 66.1434506540238,
-      "hoveredContrast": 63.10253027441754,
-      "meanPixelDifference": 22.377278645833332
+      "baselineContrast": 50.67751994746653,
+      "hoveredContrast": 48.811498519160736,
+      "meanPixelDifference": 10.150390625
     },
     {
       "slug": "app-beliri",
-      "baselineContrast": 77.50654810538038,
-      "hoveredContrast": 76.3787388060083,
-      "meanPixelDifference": 17.885416666666668
+      "baselineContrast": 74.58383044610002,
+      "hoveredContrast": 74.99347322534658,
+      "meanPixelDifference": 7.705891927083333
     },
     {
       "slug": "app-fynmate",
-      "baselineContrast": 40.878879842397026,
-      "hoveredContrast": 35.277162398825126,
-      "meanPixelDifference": 16.698893229166668
+      "baselineContrast": 29.195408868879273,
+      "hoveredContrast": 25.720963459835325,
+      "meanPixelDifference": 7.380615234375
     },
     {
       "slug": "app-streetslate",
-      "baselineContrast": 82.52832014839765,
-      "hoveredContrast": 82.14768954390195,
-      "meanPixelDifference": 15.851481119791666
+      "baselineContrast": 93.76376843609306,
+      "hoveredContrast": 93.48921666537233,
+      "meanPixelDifference": 10.137044270833334
     },
     {
       "slug": "app-ummed",
-      "baselineContrast": 40.24364693067931,
-      "hoveredContrast": 34.18379227276388,
-      "meanPixelDifference": 17.046061197916668
+      "baselineContrast": 33.00797482740003,
+      "hoveredContrast": 29.89765271053832,
+      "meanPixelDifference": 8.538818359375
     },
     {
       "slug": "app-bubble",
-      "baselineContrast": 48.04515480217286,
-      "hoveredContrast": 43.28467213299524,
-      "meanPixelDifference": 17.637288411458332
+      "baselineContrast": 33.31055106590826,
+      "hoveredContrast": 30.23717452171455,
+      "meanPixelDifference": 8.304931640625
     },
     {
       "slug": "app-kegeltempo",
-      "baselineContrast": 54.215717358003936,
-      "hoveredContrast": 50.43903033502898,
-      "meanPixelDifference": 17.762125651041668
+      "baselineContrast": 35.87542523572725,
+      "hoveredContrast": 34.09557270159403,
+      "meanPixelDifference": 7.68896484375
     },
     {
       "slug": "app-heartsync",
-      "baselineContrast": 74.81382603943133,
-      "hoveredContrast": 74.30847477553216,
-      "meanPixelDifference": 14.757486979166666
+      "baselineContrast": 76.47424361182516,
+      "hoveredContrast": 76.28479518178005,
+      "meanPixelDifference": 13.983968098958334
     },
     {
       "slug": "app-supplement-management",
-      "baselineContrast": 27.882734634165555,
-      "hoveredContrast": 26.973945627266712,
-      "meanPixelDifference": 6.707356770833333
+      "baselineContrast": 31.53787734277793,
+      "hoveredContrast": 28.77388061208349,
+      "meanPixelDifference": 8.082194010416666
+    },
+    {
+      "slug": "app-strivaro",
+      "baselineContrast": 88.76463586486541,
+      "hoveredContrast": 89.3960844151973,
+      "meanPixelDifference": 11.594401041666666
+    },
+    {
+      "slug": "app-axorabid",
+      "baselineContrast": 57.13464720856684,
+      "hoveredContrast": 57.40774792809644,
+      "meanPixelDifference": 7.17041015625
+    },
+    {
+      "slug": "axorabid",
+      "baselineContrast": 41.01349379995429,
+      "hoveredContrast": 38.65206383004062,
+      "meanPixelDifference": 6.861979166666667
+    },
+    {
+      "slug": "app-calivora",
+      "baselineContrast": 79.72337450648284,
+      "hoveredContrast": 81.01529542960806,
+      "meanPixelDifference": 7.028401692708333
     },
     {
       "slug": "related:/portfolio/alumvia",
-      "baselineContrast": 35.46211183664374,
-      "hoveredContrast": 33.45695443877246,
-      "meanPixelDifference": 10.19482421875
+      "baselineContrast": 32.50328543589516,
+      "hoveredContrast": 30.427940514215926,
+      "meanPixelDifference": 10.222737630208334
     },
     {
       "slug": "related:/portfolio/kegeltempo",
-      "baselineContrast": 83.18128562211139,
-      "hoveredContrast": 83.28834067942265,
-      "meanPixelDifference": 11.466552734375
+      "baselineContrast": 79.60729139155119,
+      "hoveredContrast": 79.94829880044492,
+      "meanPixelDifference": 11.223388671875
     },
     {
       "slug": "related:/portfolio/rallybridge",
-      "baselineContrast": 88.51438737612744,
-      "hoveredContrast": 88.4019745847798,
-      "meanPixelDifference": 9.446858723958334
+      "baselineContrast": 86.17279627755703,
+      "hoveredContrast": 86.3399989704894,
+      "meanPixelDifference": 9.581380208333334
     }
   ]
 }

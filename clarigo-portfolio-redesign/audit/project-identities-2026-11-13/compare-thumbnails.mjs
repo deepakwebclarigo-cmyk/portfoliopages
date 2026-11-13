@@ -1,0 +1,5 @@
+﻿import fs from 'node:fs/promises';import sharp from 'sharp';
+const d='audit/project-identities-2026-11-13',out='exports/Project-Identity-Themes-2026-11-13',old=JSON.parse(await fs.readFile(d+'/before/files/lib__project-thumbnails.json.before','utf8')),now=JSON.parse(await fs.readFile('lib/project-thumbnails.json','utf8'));
+const choices=['streamdexa','tukora-connect','whizlume','app-infinote','app-calivora','app-strivaro'],layers=[];
+for(const[i,slug]of choices.entries())for(const[j,data]of[old,now].entries()){const x=j*460,y=i*395;layers.push({input:await sharp('public'+data[slug].src).resize(440,364).png().toBuffer(),left:x+10,top:y+27});layers.push({input:Buffer.from('<svg width="460" height="25"><text x="10" y="19" font-family="Arial" font-size="15">'+slug+' / '+(j?'after':'before')+'</text></svg>'),left:x,top:y});}
+await sharp({create:{width:920,height:2370,channels:3,background:'#ffffff'}}).composite(layers).png().toFile(out+'/Thumbnail-Before-After.png');console.log('Saved thumbnail color comparison');

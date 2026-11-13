@@ -3,6 +3,7 @@ import './brand-fonts.css';
 import './case-stories.css';
 import './motion.css';
 import './quality.css';
+import './project-identities.css';
 import type { Metadata } from 'next';
 import ScrollMotion from '../components/ScrollMotion';
 import PortfolioWebGL from '../components/PortfolioWebGL';

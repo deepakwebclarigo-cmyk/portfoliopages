@@ -1,4 +1,5 @@
 import { execFile } from 'node:child_process';
+import { thumbnailThemeCss } from './project-thumbnail-theme.mjs';
 import { promisify } from 'node:util';
 ﻿import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -42,7 +43,7 @@ try{
    let image=sharp(bytes);if(source.crop)image=image.extract(source.crop);
    const png=await image.png().toBuffer();images.push('<img class="sourceArtwork" src="data:image/png;base64,'+png.toString('base64')+'" alt="'+escape(p.name)+' supplied interface">');
   }
-  const html='<!doctype html><html><head><meta charset="utf-8"><style>'+css+'</style></head><body><div class="heading"><h1>'+escape(p.name)+'<span class="dot">.</span></h1><span class="kind">'+(p.kind==='web'?'WEB EXPERIENCE':'MOBILE EXPERIENCE')+'</span></div><p class="discipline">'+escape(p.discipline)+'</p><div class="stage"><div class="bar"><i></i><i></i><i></i><span>'+escape(p.name)+' / '+(p.kind==='web'?'Web':'Mobile')+'</span></div><div class="artwork '+p.layout+'">'+images.join('')+'</div></div><div class="foot"><span class="mark">Clarigo Infotech</span><span class="footerLabel">SELECTED WORK / '+(p.kind==='web'?'WEB':'MOBILE')+'</span></div></body></html>';
+  const html='<!doctype html><html><head><meta charset="utf-8"><style>'+css+thumbnailThemeCss(p.slug)+'</style></head><body><div class="heading"><h1>'+escape(p.name)+'<span class="dot">.</span></h1><span class="kind">'+(p.kind==='web'?'WEB EXPERIENCE':'MOBILE EXPERIENCE')+'</span></div><p class="discipline">'+escape(p.discipline)+'</p><div class="stage"><div class="bar"><i></i><i></i><i></i><span>'+escape(p.name)+' / '+(p.kind==='web'?'Web':'Mobile')+'</span></div><div class="artwork '+p.layout+'">'+images.join('')+'</div></div><div class="foot"><span class="mark">Clarigo Infotech</span><span class="footerLabel">SELECTED WORK / '+(p.kind==='web'?'WEB':'MOBILE')+'</span></div></body></html>';
   await page.setContent(html);await page.evaluate(async()=>{await document.fonts.ready;await Promise.all([...document.images].map(i=>i.decode()));});
   const fit=await page.evaluate(()=>{const title=document.querySelector('h1'),pill=document.querySelector('.kind'),stage=document.querySelector('.artwork').getBoundingClientRect();return {titleFits:title.scrollWidth<=title.clientWidth&&title.getBoundingClientRect().right<pill.getBoundingClientRect().left-15,images:[...document.images].every(img=>{const r=img.getBoundingClientRect();return img.naturalWidth>0&&r.left>=stage.left&&r.right<=stage.right&&r.top>=stage.top&&r.bottom<=stage.bottom;})};});
   if(!fit.titleFits||!fit.images)throw Error('Layout overflow: '+p.slug+' '+JSON.stringify(fit));

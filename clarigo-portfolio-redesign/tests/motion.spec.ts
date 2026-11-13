@@ -33,16 +33,13 @@ test('card hover stays bounded without distorting artwork and filtering keeps ke
   await expect.poll(() => card.evaluate(el => getComputedStyle(el).opacity)).toBe('1');
   await expect(card).toHaveAttribute('data-depth-enabled', info.project.name === 'desktop' ? 'true' : 'false');
   if (info.project.name === 'desktop') {
-    const canvas=page.locator('.portfolioWebgl');await expect(canvas).toHaveAttribute('data-engine','three');
-    const box = (await card.boundingBox())!;
-    await page.mouse.move(box.x + box.width * .8, box.y + box.height * .3);
-    await expect(canvas).toHaveAttribute('data-card-active','true');
-    await expect.poll(()=>canvas.evaluate(node=>Number((node as HTMLElement).dataset.cardTilt))).toBeGreaterThan(.01);
-    const scale=await canvas.evaluate(node=>Number((node as HTMLElement).dataset.cardScale));expect(scale).toBeGreaterThanOrEqual(.955);expect(scale).toBeLessThanOrEqual(.99);
-    expect(await card.locator('.depthSurface').evaluate(element => { const matrix = new DOMMatrixReadOnly(getComputedStyle(element).transform); return matrix.m11 === 1 && matrix.m22 === 1 && matrix.m12 === 0 && matrix.m21 === 0; })).toBe(true);
+    const link = card.locator('.projectLink');
+    await link.hover();
+    await expect.poll(() => link.evaluate(el => new DOMMatrixReadOnly(getComputedStyle(el).transform).m42)).toBe(-2);
+    expect(await card.locator('.visual img').evaluate(el => ({ transform: getComputedStyle(el).transform, opacity: getComputedStyle(el).opacity }))).toEqual({ transform: 'none', opacity: '1' });
+    await expect(card.locator('.visual')).not.toHaveAttribute('data-webgl-artwork', 'active');
     await page.mouse.move(1, 1);
-    await expect(canvas).not.toHaveAttribute('data-card-active','true');
-    await expect.poll(()=>card.locator('.visual img').evaluate(el=>getComputedStyle(el).opacity)).toBe('1');
+    await expect.poll(() => link.evaluate(el => new DOMMatrixReadOnly(getComputedStyle(el).transform).m42)).toBe(0);
   }
   await page.getByRole('searchbox').fill('Tukora Connect');
   await expect(page.locator('.projectCard')).toHaveCount(2);

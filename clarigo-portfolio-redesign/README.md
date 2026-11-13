@@ -92,7 +92,7 @@ The document-scanning mobile project is now Infinote at /portfolio/app-infinote.
 
 ## Consistent project thumbnails
 
-All 48 project cards use the shared cream/blush thumbnail family in `lib/project-thumbnails.json`, with 720px, 960px, and 1600px WebP variants. The `thumbnail` field is passed through the listing card data and used for small `ProjectVisual` presentations; `image` retains the existing detail-page artwork. High-resolution PNGs are in `exports/Clarigo-consistent-thumbnails/`.
+All 48 project cards use the shared thumbnail layout in `lib/project-thumbnails.json`, with 720px, 960px, and 1600px WebP variants. The 21 previously rebranded projects use logo-matched background palettes; the remaining 27 retain the original cream/blush presentation. The `thumbnail` field is passed through the listing card data and used for small `ProjectVisual` presentations; `image` retains the existing detail-page artwork. High-resolution PNGs are in `exports/Clarigo-consistent-thumbnails/`.
 
 The authoring template is `scripts/render-portfolio-thumbnails.mjs`; audited project-owned source selections and generation records are in `audit/thumbnail-system-2026-11-12/`. After changing sources or the template, regenerate and review the images before updating the runtime manifest. Integrity, preservation, route, browser, and export evidence is recorded alongside the source plan.
 
@@ -123,4 +123,16 @@ Calivora is available at `/portfolio/app-calivora`. The active collection now co
 
 ## Project palette refresh
 
-The color-only refresh covers 18 previously rebranded identities across 21 existing Web and Mobile pages. `lib/project-themes.json` supplies their coordinated presentation surfaces. All 179 owning screen and cover assets were refreshed in place without resampling, and 84 current logo/icon/export files retain their exact alpha silhouettes and sizes. Affected thumbnails are regenerated from the recolored owning artwork using the existing crop coordinates and shared layout. The other 27 projects, project names/routes, content, components, typography, motion, and interactions are retained. The original color assets remain available, with the checkpoint and image mappings in `audit/color-theme-refresh-2026-11-12/`. Run `node audit/color-theme-refresh-2026-11-12/verify-refresh.mjs` to verify source preservation, fixed geometry, protected photographic pixels, logo silhouettes, and unrelated implementation files. `exports/Project-Theme-Refresh-2026-11-12/` contains the palette guide and 18 transparent 1000 x 1000 logo PNGs.
+The color-only refresh covers 18 previously rebranded identities across 21 existing Web and Mobile pages. `lib/project-themes.json` supplies their coordinated presentation surfaces. All 179 owning screen and cover assets were refreshed in place without resampling, and 84 current logo/icon/export files retain their exact alpha silhouettes and sizes. Affected thumbnails are regenerated from the recolored owning artwork using the existing crop coordinates and shared layout. The other 27 projects, project names/routes, content, components, typography, motion, and interactions are retained. The original color assets remain available, with the checkpoint and image mappings in `audit/color-theme-refresh-2026-11-12/`. The preceding raster audit records source preservation, fixed geometry, protected photographic pixels, logo silhouettes, and the implementation checkpoint for that phase. `exports/Project-Theme-Refresh-2026-11-12/` contains the palette guide and 18 transparent 1000 x 1000 logo PNGs.
+
+## Visible project identity themes
+
+The 18 updated-logo identities (21 pages) now apply their palette throughout the case study using `lib/project-theme.ts` and `app/project-identities.css`. Every CSS rule is scoped to `main.casePage[data-project-theme]`; the shared Clarigo header/footer and all 27 other projects keep their existing appearance. Existing screenshot colors and the 84 already refined logo variants are preserved. `scripts/project-thumbnail-theme.mjs` applies the same palettes to only the selected thumbnail backgrounds without changing the device layout or source-image crop.
+
+The checkpoint, responsive geometry comparisons, hover checks, contrast evidence, and final verification are in `audit/project-identities-2026-11-13/`. Run `node audit/project-identities-2026-11-13/verify-preservation.mjs` for scope, unchanged artwork, logo hashes, thumbnail fit, and unrelated-source checks. `exports/Project-Identity-Themes-2026-11-13/` contains the palette guide, transparent logo copies, and page comparison.
+
+## Simple thumbnail interaction
+
+Listing and related thumbnails always use their native images. Three.js image handoffs, tilt, zoom and opacity switching are disabled for these cards. A 250ms fade, 2px card lift and soft shadow/color transitions provide the only thumbnail motion. Reduced-motion preferences disable these effects. The existing hero and large case artwork retain their own rendering. Project artwork, palettes, layout and image fitting are preserved.
+
+The hover tests verify every project at 1x and 2x density, including related cards, and check that native images never change source, opacity or transform during hover. The earlier tablet case-fragment reveal-readiness fix is retained. Current verification is in audit/thumbnail-simple-2026-11-13/.

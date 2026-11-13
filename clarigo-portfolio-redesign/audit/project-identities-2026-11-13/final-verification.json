@@ -1,0 +1,40 @@
+{
+  "buildId": "5edbvA8kOrXPZ7u2cl-5y",
+  "generatedAt": "2026-11-13T06:43:11.993Z",
+  "scope": {
+    "identities": 18,
+    "updatedPages": 21,
+    "otherProjectsUnchanged": 27,
+    "inventory": 48
+  },
+  "productionBuild": "passed including postbuild validation of all 48 routes",
+  "typecheck": "passed",
+  "browser": {
+    "startTime": "2026-11-13T06:38:11.833Z",
+    "duration": 275039.302,
+    "expected": 78,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "responsiveComparisons": 69,
+  "viewports": [
+    1440,
+    768,
+    390
+  ],
+  "layoutChanges": 0,
+  "typographyChanges": 0,
+  "hoverPixelChecks": 42,
+  "pixelDensities": [
+    1,
+    2
+  ],
+  "decodedThumbnailVariants": 144,
+  "pngExports": 48,
+  "adjustedLogoVariantsPreserved": 84,
+  "suppliedProjectArtworkUnchanged": 48,
+  "localPreview": "http://127.0.0.1:3100",
+  "deployment": "Local implementation and production preview; no live deployment performed",
+  "errors": []
+}

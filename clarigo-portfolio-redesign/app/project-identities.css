@@ -1,0 +1,46 @@
+﻿/* Project identities change paint only; layout, type, device geometry and motion remain shared. */
+.casePage[data-project-theme] {
+  color: var(--ink);
+  background: linear-gradient(155deg, var(--project-surface), var(--project-canvas) 760px);
+}
+.casePage[data-project-theme] .caseNav {
+  border-color: var(--project-border);
+  background: color-mix(in srgb, var(--project-canvas) 94%, transparent);
+}
+.casePage[data-project-theme] .caseNav a:hover { color: var(--accent); background: var(--project-surface); }
+.casePage[data-project-theme] .caseNav a[aria-current='location'] { background: var(--accent); color: #fff; }
+.casePage[data-project-theme] .statusDot { box-shadow: 0 0 0 4px rgba(var(--project-rgb), .12); }
+.casePage[data-project-theme] .caseBand { background: linear-gradient(120deg, var(--project-surface), var(--project-soft)); }
+.casePage[data-project-theme] .workflowSection { background: var(--project-canvas); }
+.casePage[data-project-theme] .featureIcon,
+.casePage[data-project-theme] .solutionCheck { border-color: var(--project-border); background: var(--project-soft); color: var(--accent); }
+.casePage[data-project-theme] .workflowStepTop span,
+.casePage[data-project-theme] .approachNumber { background: var(--project-surface); color: var(--accent); }
+.casePage[data-project-theme] .caseField,
+.casePage[data-project-theme] .featurePanel,
+.casePage[data-project-theme] .disciplineTag,
+.casePage[data-project-theme] .sourceNote { border-color: var(--project-border); background: var(--project-canvas); }
+.casePage[data-project-theme] .designEvidence svg { color: var(--accent); }
+.casePage[data-project-theme] .solutionArtwork { border-color: var(--project-border); background: linear-gradient(145deg, var(--project-soft), var(--project-surface)); }
+.casePage[data-project-theme] .screenSection { background: var(--project-surface); }
+.casePage[data-project-theme] .projectGallery > figure { border-color: var(--project-border); background: var(--project-canvas); }
+.casePage[data-project-theme] .galleryOpen { background: var(--project-soft); }
+.casePage[data-project-theme] .galleryDialog { border-color: var(--project-border); background: var(--project-deep); }
+.casePage[data-project-theme] .galleryDialogBar { background: var(--project-deep); color: #fff; }
+.casePage[data-project-theme] .galleryDialogBar button { border-color: #ffffff55; background: #ffffff16; color: #fff; }
+.casePage[data-project-theme] .engineeringSection { background: var(--project-deep); }
+.casePage[data-project-theme] .engineeringSection .sectionLabel,
+.casePage[data-project-theme] .engineeringSection p,
+.casePage[data-project-theme] .engineeringToolkit .eyebrow { color: #e3e7ee; }
+.casePage[data-project-theme] .engineeringSection .sectionLabel > span,
+.casePage[data-project-theme] .engineeringTopics svg { color: var(--project-on-deep); }
+.casePage[data-project-theme] .toolkitTags span { background: #ffffff0d; border-color: #ffffff33; color: #f7f9fc; }
+.casePage[data-project-theme] .toolkitOrbit { border-color: var(--project-on-deep); }
+.casePage[data-project-theme] .engineeringToolkit a:hover { color: var(--project-on-deep); }
+.casePage[data-project-theme] .caseCta { background: linear-gradient(115deg, var(--project-soft), var(--project-surface)); }
+.casePage[data-project-theme] .buttonPrimary { background: var(--accent); color: #fff; box-shadow: 0 5px 16px rgba(var(--project-rgb), .16); }
+.casePage[data-project-theme] .buttonPrimary:hover { background: var(--accent-dark); box-shadow: 0 8px 22px rgba(var(--project-rgb), .24); }
+.casePage[data-project-theme] .buttonSecondary { border-color: var(--project-border); }
+.casePage[data-project-theme] .buttonSecondary:hover { color: var(--accent-dark); border-color: var(--accent); background: var(--project-soft); }
+.casePage[data-project-theme] .nextProjectBand { border-color: var(--project-border); background: var(--project-soft); }
+.casePage[data-project-theme] .nextProjectLink > svg { color: var(--accent); }

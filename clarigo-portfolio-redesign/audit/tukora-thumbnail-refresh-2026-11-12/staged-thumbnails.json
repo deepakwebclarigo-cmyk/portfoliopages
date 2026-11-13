@@ -1,25 +1,25 @@
 {
   "tukora-connect": {
-    "src": "/images/thumbnails/tukora-connect-88d0eee5d7.webp",
+    "src": "/images/thumbnails/tukora-connect-453f1b29db.webp",
     "width": 1600,
     "height": 1325,
-    "sha256": "ac7bb55fe65884c9a5815111c6cb5b18a0b13225c211e644e004a19784bd75f9",
-    "bytes": 80502,
+    "sha256": "a83017de476a882bb49d4f214a18f2022f9116f9f2d31c26689eff91efd3aada",
+    "bytes": 78288,
     "card": {
-      "src": "/images/thumbnails/tukora-connect-88d0eee5d7-card.webp",
+      "src": "/images/thumbnails/tukora-connect-453f1b29db-card.webp",
       "width": 720,
       "height": 596,
-      "sha256": "e9a2cd022bbf4c4da9ebe2bfce9bbf95567ce32cc3229ee02873f6ac08858f14",
-      "bytes": 28220
+      "sha256": "d631ba97a95d79cddc0423fd3bed9103c8073bfeb8969f58c746ca73f296463a",
+      "bytes": 28044
     },
     "medium": {
-      "src": "/images/thumbnails/tukora-connect-88d0eee5d7-medium.webp",
+      "src": "/images/thumbnails/tukora-connect-453f1b29db-medium.webp",
       "width": 960,
       "height": 795,
-      "sha256": "6a7898fcde217f1bd3a9e0bfff3b7a37d546226ba746828cfd44ee879e27ee02",
-      "bytes": 41706
+      "sha256": "df2c93c71a87d2a0d93a9368926f16ef8f92ea340409b6485f2e0ef3b1024e4e",
+      "bytes": 40778
     },
-    "exportSha256": "88d0eee5d751b728e7c10545514207d748f476a2aaf46688adf045a78ac7f0f7",
+    "exportSha256": "453f1b29dbd2773dc7fdc6d2c66eba60fc21ed745a4cd381833c8e1165cd1d60",
     "sourceRefs": [
       {
         "src": "/images/projects/tukora-connect-theme-screen-c7cc07c436.webp",

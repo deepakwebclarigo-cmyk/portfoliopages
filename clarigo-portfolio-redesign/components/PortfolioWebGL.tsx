@@ -26,7 +26,7 @@ export default function PortfolioWebGL() {
     const track = (event: PointerEvent) => {
       if (event.pointerType !== 'mouse') return;
       pointer = event;
-      if (event.target instanceof Element && event.target.closest('.projectLink,.relatedCard,.caseVisual')) void boot();
+      if (event.target instanceof Element && event.target.closest('.caseVisual')) void boot();
     };
     const resize = () => {
       if (!media.matches || contrast.matches) { dispose?.(); dispose = undefined; pointer = undefined; canvas.dataset.engine = 'static'; }

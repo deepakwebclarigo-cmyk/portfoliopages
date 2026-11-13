@@ -11,7 +11,7 @@ import HeroAmbient from './HeroAmbient';
 
 const filters = ['All projects', 'Web & web apps', 'Mobile apps'] as const;
 
-export type PortfolioCard = Pick<Project, 'slug' | 'name' | 'archiveName' | 'category' | 'kind' | 'image' | 'thumbnail' | 'accent' | 'summary' | 'discipline'>;
+export type PortfolioCard = Pick<Project, 'slug' | 'name' | 'archiveName' | 'category' | 'kind' | 'image' | 'thumbnail' | 'thumbnailBackground' | 'accent' | 'summary' | 'discipline'>;
 
 export default function PortfolioClient({ projects }: { projects: PortfolioCard[] }) {
   const webProjects = projects.filter((project) => project.kind === 'web');

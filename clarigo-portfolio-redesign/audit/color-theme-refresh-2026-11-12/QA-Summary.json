@@ -1,0 +1,76 @@
+{
+  "scope": {
+    "identities": 18,
+    "pages": 21,
+    "unchangedProjects": 27,
+    "totalProjects": 48
+  },
+  "build": {
+    "production": "passed",
+    "staticProjectPages": 48,
+    "typescript": "passed",
+    "buildId": "e-NnzCmYHDrvOpUg-lOjf"
+  },
+  "responsiveBrowserTests": {
+    "passed": 78,
+    "failed": 0,
+    "flaky": 0,
+    "viewports": [
+      1440,
+      768,
+      390
+    ]
+  },
+  "hover": {
+    "pixelChecks": 42,
+    "densities": [
+      1,
+      2
+    ],
+    "browserErrors": []
+  },
+  "artwork": {
+    "verifiedImages": 179,
+    "verifiedLogoFiles": 84,
+    "dimensionsAndAlphaPreserved": true,
+    "thumbnailGeometryPreserved": true,
+    "unchangedImplementationFiles": 94,
+    "protectedRegionPixelChanges": 0
+  },
+  "assets": {
+    "projects": 48,
+    "selectedImages": 359,
+    "decodedResponsiveVariants": 96,
+    "errors": []
+  },
+  "thumbnails": {
+    "projects": 48,
+    "web": 20,
+    "mobile": 28,
+    "decodedWebpVariants": 144,
+    "verifiedPngExports": 48,
+    "existingDetailArtworkUnchanged": false,
+    "approvedPaletteArtwork": true,
+    "documentedColorUpdates": 179,
+    "existingInventoryUnchanged": true,
+    "canvas": [
+      1600,
+      1325
+    ],
+    "widths": [
+      720,
+      960,
+      1600
+    ],
+    "averageCardKB": 23.8,
+    "errors": []
+  },
+  "delivery": {
+    "logos": 18,
+    "format": "1000 x 1000 transparent PNG",
+    "archive": "exports/Project-Theme-Refresh-2026-11-12.zip",
+    "paletteGuide": "exports/Project-Theme-Refresh-2026-11-12/Palette-Guide.md"
+  },
+  "preview": "http://localhost:3100",
+  "deployment": "Local production preview"
+}

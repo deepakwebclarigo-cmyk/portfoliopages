@@ -27,7 +27,7 @@
 .showcaseFallbackLabel { position: absolute; left: 8%; bottom: 12%; padding: 12px 18px; border-radius: 12px; background: white; color: var(--ink); font-size: 12px; box-shadow: 0 6px 20px #70223c0c; }
 .heroSculpture { transition: opacity .2s ease; }
 .portfolioWebgl { position: fixed; inset: 0; width: 100vw; height: 100vh; pointer-events: none; z-index: 20; }
-.visual[data-webgl-artwork='active'] img { opacity: 0; }
+.visual[data-webgl-artwork='active'] img { opacity: var(--webgl-dom-opacity, 0); will-change: opacity; }
 .heroSculptureFloat { width: 100%; height: 100%; }
 .heroSculpture svg { display: block; width: 100%; height: 100%; overflow: visible; filter: drop-shadow(0 12px 14px rgba(223,44,73,.06)); }
 .heroCopy .motionWordMask { perspective: 900px; }
@@ -38,7 +38,7 @@
 .heroParticle { position: absolute; display: block; width: var(--particle-size); height: var(--particle-size); border-radius: 50%; background: var(--accent); opacity: .25; }
 .heroParticle:nth-of-type(even) { background: #9993c4; }
 @media (hover: hover) and (pointer: fine) and (min-width: 1001px) and (prefers-reduced-motion: no-preference) {
-  .projectArt .visual img, .relatedImage .visual img, .caseVisual .visual img { transform: scale(.955) !important; }
+  .caseVisual .visual img { transform: scale(.955) !important; }
   .projectLink:hover { border-color: rgba(244,65,90,.22); box-shadow: 0 14px 34px rgba(38,40,51,.09); }
 }
 @media (max-width: 1000px) { .heroAmbient { left: 60%; opacity: .65; } }
@@ -59,7 +59,7 @@
 @media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
   .motionDepth:hover>.depthSurface { will-change: transform; }
   .galleryOpen:hover img { transform: translateY(-4px) scale(1.015); }
-  .projectLink:active, .galleryOpen:active .galleryExpand { transform: scale(.995); }
+  .galleryOpen:active .galleryExpand { transform: scale(.995); }
 }
 .galleryDialogImageFrame { display: flex; align-items: center; justify-content: center; min-width: 0; max-width: 100%; }
 .galleryOpen img, .visual img { transition-duration: .55s; transition-timing-function: var(--ease-out); }
@@ -94,4 +94,25 @@ html[data-motion='reduced'] :is(.motionWord,.depthSurface,.caseIntro>*,.heroCopy
   .portfolioProgress { display: none; }
   .heroAmbient { display: none; }
   .portfolioWebgl { display: none; }
+}
+
+/* Thumbnail artwork stays native, fully visible, and stationary inside each card. */
+.projectArt .visual img, .relatedImage .visual img {
+  transform: none !important; opacity: 1 !important;
+  transition: none !important; animation: none !important; will-change: auto !important;
+}
+@keyframes thumbnailFadeIn { from { opacity: .8; } to { opacity: 1; } }
+@media (prefers-reduced-motion: no-preference) {
+  .projectEntrance { animation: thumbnailFadeIn .25s ease-out both; }
+}
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  .projectLink, .relatedCard { transition: transform .24s ease-out, border-color .24s ease-out, box-shadow .24s ease-out; }
+  .projectLink:hover, .relatedCard:hover { transform: translateY(-2px); }
+  .projectLink:active { transform: translateY(0); }
+  .projectArrow { transition: color .24s ease-out, background-color .24s ease-out, border-color .24s ease-out; }
+  .relatedCard:hover>svg { transform: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .projectEntrance { animation: none !important; }
+  .projectLink, .relatedCard { transition: none !important; transform: none !important; }
 }

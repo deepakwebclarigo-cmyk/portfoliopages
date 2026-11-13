@@ -1,0 +1,5 @@
+{
+  "file": "components/ScrollMotion.tsx",
+  "old": "document.fonts.ready.then(() => { if (alive && !context.isReverted) ScrollTrigger.refresh(); });",
+  "next": "document.fonts.ready.then(() => {\n        if (alive && !context.isReverted) {\n          ScrollTrigger.refresh();\n          // Native fragment navigation can finish before hydration installs hashchange.\n          // Settle only the linked case-study section; listing scroll reveals stay staggered.\n          if (location.hash && document.querySelector('.casePage')) hashChanged();\n        }\n      });"
+}

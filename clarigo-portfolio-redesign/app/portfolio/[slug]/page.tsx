@@ -13,6 +13,7 @@ import { EngineeringSection, FeatureShowcase, ProblemSection, ProjectClosing, Wo
 import { mobileProjects, projects, webProjects } from '../../../lib/projects';
 import { projectContent } from '../../../lib/project-content';
 import { projectStories, storyVisuals } from '../../../lib/project-story';
+import { getProjectTheme, projectThemeStyle } from '../../../lib/project-theme';
 
 type DetailProps = { params: Promise<{ slug: string }> };
 export const dynamicParams = false;
@@ -49,6 +50,7 @@ export default async function Detail({ params }: DetailProps) {
   const project = projects.find((item) => item.slug === slug);
   if (!project) notFound();
   const content = projectContent[slug];
+  const theme = getProjectTheme(slug);
   const projectList = project.kind === 'web' ? webProjects : mobileProjects;
   const index = projectList.indexOf(project);
   const next = projectList[(index + 1) % projectList.length];
@@ -75,7 +77,7 @@ export default async function Detail({ params }: DetailProps) {
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, '\\u003c') }} />
       <SiteHeader />
-      <main id="main-content" tabIndex={-1} className={'casePage ' + project.kind + 'Case'} style={{ '--project-color': project.accent } as React.CSSProperties}>
+      <main id="main-content" tabIndex={-1} className={'casePage ' + project.kind + 'Case'} data-project-theme={theme ? project.slug : undefined} style={projectThemeStyle(theme, project.accent)}>
         <section className="caseHero shell">
           <Link className="backLink" href="/#portfolio"><ArrowLeft size={16} /> All projects</Link>
           <div className="caseHeroGrid">

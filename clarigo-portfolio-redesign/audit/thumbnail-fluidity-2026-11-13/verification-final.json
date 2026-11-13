@@ -1,0 +1,37 @@
+{
+  "buildId": "c58f3aJhaEk8pfUgBB-WR",
+  "productionBuild": "passed, all 48 route artifacts validated",
+  "typecheck": "passed",
+  "desktopBrowserChecks": 12,
+  "responsiveBrowserChecks": 10,
+  "finalMotionRegressionChecks": 20,
+  "nonDesktopMouseOnlyChecksSkipped": 4,
+  "mainThumbnails": 48,
+  "densityChecks": [
+    {
+      "density": 1,
+      "checked": 51,
+      "gpuErrors": 0
+    },
+    {
+      "density": 2,
+      "checked": 51,
+      "gpuErrors": 0
+    }
+  ],
+  "smoothHandoff": {
+    "baselineMaximumOpacityStep": 1,
+    "finalMaximumOpacityStep": 0.28345056,
+    "baselineIntermediateFrames": 0,
+    "finalIntermediateFrames": 25,
+    "simultaneousViews": 2
+  },
+  "projectArtworkAndThemesUnchanged": true,
+  "heroStartupUnchanged": true,
+  "scrollTimingUnchanged": true,
+  "caseHashReadinessFixed": true,
+  "layoutAndImageFitUnchanged": true,
+  "localPreview": "http://127.0.0.1:3100/#portfolio",
+  "physicalDeviceOrUniversal60fpsClaim": false,
+  "errors": []
+}

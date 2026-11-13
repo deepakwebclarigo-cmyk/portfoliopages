@@ -1,0 +1,128 @@
+{
+  "streamdexa": {
+    "name": "StreamDexa",
+    "primary": "#5144b7",
+    "surface": "#f3f2fb",
+    "palette": "Midnight indigo with softened periwinkle"
+  },
+  "tukora-connect": {
+    "name": "Tukora Connect",
+    "primary": "#337db9",
+    "surface": "#edf4fa",
+    "palette": "Refined azure and mint"
+  },
+  "app-tukora-connect": {
+    "name": "Tukora Connect",
+    "primary": "#337db9",
+    "surface": "#edf4fa",
+    "palette": "Refined azure and mint"
+  },
+  "paranest": {
+    "name": "ParaNest",
+    "primary": "#438fc1",
+    "surface": "#eff6fa",
+    "palette": "Calm sky blue and soft apricot"
+  },
+  "alumvia": {
+    "name": "Alumvia",
+    "primary": "#118b91",
+    "surface": "#edf7f5",
+    "palette": "Balanced teal and cool ivory"
+  },
+  "kegeltempo": {
+    "name": "KegelTempo",
+    "primary": "#b98211",
+    "surface": "#fcf6e7",
+    "palette": "Warm amber and clean cream"
+  },
+  "app-kegeltempo": {
+    "name": "KegelTempo",
+    "primary": "#b98211",
+    "surface": "#fcf6e7",
+    "palette": "Warm amber and clean cream"
+  },
+  "rallybridge": {
+    "name": "RallyBridge",
+    "primary": "#304f8b",
+    "surface": "#eff3f8",
+    "palette": "Slate navy with restrained blue"
+  },
+  "whizlume": {
+    "name": "Whizlume",
+    "primary": "#6543af",
+    "surface": "#f4f0fa",
+    "palette": "Purple-led learning UI with warm tangerine accents"
+  },
+  "estrata": {
+    "name": "EStrata",
+    "primary": "#206c9f",
+    "surface": "#eef4f8",
+    "palette": "Measured steel blue"
+  },
+  "leadforma": {
+    "name": "LeadForma",
+    "primary": "#cc682a",
+    "surface": "#fbf3ed",
+    "palette": "Softened copper orange"
+  },
+  "app-simplyscouted": {
+    "name": "SimplyScouted",
+    "primary": "#294c84",
+    "surface": "#f0f3f8",
+    "palette": "A polished blue-navy sports workspace"
+  },
+  "app-infinote": {
+    "name": "Infinote",
+    "primary": "#3c574b",
+    "surface": "#f0f5f1",
+    "palette": "Quiet forest green and sage"
+  },
+  "app-silaflow": {
+    "name": "SilaFlow",
+    "primary": "#397e24",
+    "surface": "#f1f7ec",
+    "palette": "Fresh leaf green with a gentler saturation"
+  },
+  "app-habitstride": {
+    "name": "HabitStride",
+    "primary": "#7762d3",
+    "surface": "#f4f1fb",
+    "palette": "Soft violet and lavender"
+  },
+  "app-pantryone": {
+    "name": "PantryOne",
+    "primary": "#52942d",
+    "surface": "#f3f8ec",
+    "palette": "Natural orchard green"
+  },
+  "app-streetslate": {
+    "name": "StreetSlate",
+    "primary": "#57308e",
+    "surface": "#f3eff8",
+    "palette": "Slate violet with a muted gold accent"
+  },
+  "app-strivaro": {
+    "name": "Strivaro",
+    "primary": "#6f3d91",
+    "surface": "#f4eff8",
+    "palette": "Deep plum and warm coral"
+  },
+  "axorabid": {
+    "name": "AxoraBid",
+    "primary": "#3159d3",
+    "surface": "#eef3fb",
+    "palette": "Refined cobalt across Web and Mobile"
+  },
+  "app-axorabid": {
+    "name": "AxoraBid",
+    "primary": "#3159d3",
+    "surface": "#eef3fb",
+    "palette": "Refined cobalt across Web and Mobile"
+  },
+  "app-calivora": {
+    "name": "Calivora",
+    "primary": "#10a98f",
+    "surface": "#eaf5f1",
+    "palette": "Emerald-teal on a slightly cooler plum foundation"
+  }
+}

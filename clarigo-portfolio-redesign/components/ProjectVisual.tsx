@@ -9,7 +9,7 @@ export default function ProjectVisual({
   large = false,
   priority = false,
 }: {
-  project: Pick<Project, 'name' | 'image' | 'thumbnail' | 'accent'>;
+  project: Pick<Project, 'name' | 'image' | 'thumbnail' | 'thumbnailBackground' | 'accent'>;
   large?: boolean;
   priority?: boolean;
 }) {
@@ -23,7 +23,7 @@ export default function ProjectVisual({
     : '(max-width: 700px) 100vw, (max-width: 1000px) 50vw, 33vw';
 
   return (
-    <div className={'visual ' + (large ? 'visualLarge' : 'thumbnailVisual')} style={{ background: large ? project.accent : '#fff8e9' }}>
+    <div className={'visual ' + (large ? 'visualLarge' : 'thumbnailVisual')} style={{ background: large ? project.accent : project.thumbnailBackground ?? '#fff8e9' }}>
       <div className="visualGlow" />
       {!failed ? (
         <picture className="visualPicture">

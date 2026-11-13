@@ -1,0 +1,1120 @@
+{
+  "pages": 69,
+  "affectedPages": 21,
+  "identities": 18,
+  "unselectedControls": 2,
+  "viewports": [
+    1440,
+    768,
+    390
+  ],
+  "geometryUnchanged": true,
+  "typographyUnchanged": true,
+  "browserErrors": [],
+  "results": [
+    {
+      "slug": "streamdexa",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "streamdexa",
+        "button": "rgb(81, 68, 183)",
+        "navigation": "rgb(81, 68, 183)",
+        "engineering": "rgb(36, 35, 78)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(230, 228, 250), rgb(251, 251, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(230, 228, 250), rgb(244, 243, 253))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "tukora-connect",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "tukora-connect",
+        "button": "rgb(43, 102, 152)",
+        "navigation": "rgb(43, 102, 152)",
+        "engineering": "rgb(27, 52, 79)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(226, 238, 249), rgb(251, 252, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(226, 238, 249), rgb(243, 248, 252))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "paranest",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "paranest",
+        "button": "rgb(53, 108, 147)",
+        "navigation": "rgb(53, 108, 147)",
+        "engineering": "rgb(31, 58, 81)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(223, 240, 247), rgb(250, 253, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(223, 240, 247), rgb(241, 249, 252))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "alumvia",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "alumvia",
+        "button": "rgb(17, 113, 120)",
+        "navigation": "rgb(17, 113, 120)",
+        "engineering": "rgb(16, 56, 67)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(223, 242, 239), rgb(250, 253, 253) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(223, 242, 239), rgb(241, 249, 248))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "kegeltempo",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "kegeltempo",
+        "button": "rgb(127, 93, 22)",
+        "navigation": "rgb(127, 93, 22)",
+        "engineering": "rgb(67, 54, 28)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(252, 240, 208), rgb(255, 253, 248) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(252, 240, 208), rgb(254, 249, 235))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "rallybridge",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "rallybridge",
+        "button": "rgb(48, 79, 139)",
+        "navigation": "rgb(48, 79, 139)",
+        "engineering": "rgb(26, 38, 65)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(227, 234, 245), rgb(251, 252, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(227, 234, 245), rgb(243, 246, 251))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "whizlume",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "whizlume",
+        "button": "rgb(101, 67, 175)",
+        "navigation": "rgb(101, 67, 175)",
+        "engineering": "rgb(42, 35, 76)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(238, 228, 251), rgb(252, 251, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(238, 228, 251), rgb(248, 243, 253))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "estrata",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "estrata",
+        "button": "rgb(31, 101, 149)",
+        "navigation": "rgb(31, 101, 149)",
+        "engineering": "rgb(21, 47, 71)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(223, 237, 245), rgb(250, 252, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(223, 237, 245), rgb(241, 247, 251))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "leadforma",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "leadforma",
+        "button": "rgb(150, 80, 39)",
+        "navigation": "rgb(150, 80, 39)",
+        "engineering": "rgb(72, 46, 36)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(251, 233, 220), rgb(254, 252, 250) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(251, 233, 220), rgb(253, 246, 240))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-simplyscouted",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-simplyscouted",
+        "button": "rgb(41, 76, 132)",
+        "navigation": "rgb(41, 76, 132)",
+        "engineering": "rgb(24, 38, 63)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(226, 234, 245), rgb(251, 252, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(226, 234, 245), rgb(243, 246, 251))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-infinote",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-infinote",
+        "button": "rgb(60, 87, 75)",
+        "navigation": "rgb(60, 87, 75)",
+        "engineering": "rgb(29, 41, 46)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(227, 238, 230), rgb(251, 252, 251) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(227, 238, 230), rgb(243, 248, 244))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-silaflow",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-silaflow",
+        "button": "rgb(54, 118, 36)",
+        "navigation": "rgb(54, 118, 36)",
+        "engineering": "rgb(28, 53, 34)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(233, 243, 222), rgb(252, 253, 250) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(233, 243, 222), rgb(246, 250, 241))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-habitstride",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-habitstride",
+        "button": "rgb(96, 81, 172)",
+        "navigation": "rgb(96, 81, 172)",
+        "engineering": "rgb(47, 44, 86)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(235, 228, 251), rgb(252, 251, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(235, 228, 251), rgb(246, 243, 253))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-tukora-connect",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-tukora-connect",
+        "button": "rgb(43, 102, 152)",
+        "navigation": "rgb(43, 102, 152)",
+        "engineering": "rgb(27, 52, 79)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(226, 238, 249), rgb(251, 252, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(226, 238, 249), rgb(243, 248, 252))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-pantryone",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-pantryone",
+        "button": "rgb(64, 112, 41)",
+        "navigation": "rgb(64, 112, 41)",
+        "engineering": "rgb(36, 59, 37)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(236, 244, 217), rgb(252, 253, 249) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(236, 244, 217), rgb(247, 250, 239))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-streetslate",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-streetslate",
+        "button": "rgb(87, 48, 142)",
+        "navigation": "rgb(87, 48, 142)",
+        "engineering": "rgb(37, 29, 66)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(233, 224, 245), rgb(252, 250, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(233, 224, 245), rgb(246, 242, 251))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-kegeltempo",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-kegeltempo",
+        "button": "rgb(127, 93, 22)",
+        "navigation": "rgb(127, 93, 22)",
+        "engineering": "rgb(67, 54, 28)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(252, 240, 208), rgb(255, 253, 248) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(252, 240, 208), rgb(254, 249, 235))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-strivaro",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-strivaro",
+        "button": "rgb(111, 61, 145)",
+        "navigation": "rgb(111, 61, 145)",
+        "engineering": "rgb(45, 33, 67)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(240, 225, 244), rgb(253, 251, 253) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(240, 225, 244), rgb(249, 242, 250))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-axorabid",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-axorabid",
+        "button": "rgb(49, 89, 211)",
+        "navigation": "rgb(49, 89, 211)",
+        "engineering": "rgb(26, 41, 86)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(225, 233, 255), rgb(251, 252, 255) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(225, 233, 255), rgb(242, 246, 255))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "axorabid",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "axorabid",
+        "button": "rgb(49, 89, 211)",
+        "navigation": "rgb(49, 89, 211)",
+        "engineering": "rgb(26, 41, 86)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(225, 233, 255), rgb(251, 252, 255) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(225, 233, 255), rgb(242, 246, 255))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-calivora",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-calivora",
+        "button": "rgb(16, 111, 100)",
+        "navigation": "rgb(16, 111, 100)",
+        "engineering": "rgb(16, 65, 66)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(219, 242, 234), rgb(250, 253, 252) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(219, 242, 234), rgb(240, 249, 246))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "livsocial",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": null,
+        "button": "rgb(227, 25, 59)",
+        "navigation": "rgb(38, 40, 51)",
+        "engineering": "rgb(38, 40, 51)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "none",
+        "featureBackground": "linear-gradient(118deg, rgb(249, 248, 255), rgb(255, 244, 244))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-heartsync",
+      "width": 1440,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": null,
+        "button": "rgb(227, 25, 59)",
+        "navigation": "rgb(38, 40, 51)",
+        "engineering": "rgb(38, 40, 51)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "none",
+        "featureBackground": "linear-gradient(118deg, rgb(249, 248, 255), rgb(255, 244, 244))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "streamdexa",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "streamdexa",
+        "button": "rgb(81, 68, 183)",
+        "navigation": "rgb(81, 68, 183)",
+        "engineering": "rgb(36, 35, 78)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(230, 228, 250), rgb(251, 251, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(230, 228, 250), rgb(244, 243, 253))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "tukora-connect",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "tukora-connect",
+        "button": "rgb(43, 102, 152)",
+        "navigation": "rgb(43, 102, 152)",
+        "engineering": "rgb(27, 52, 79)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(226, 238, 249), rgb(251, 252, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(226, 238, 249), rgb(243, 248, 252))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "paranest",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "paranest",
+        "button": "rgb(53, 108, 147)",
+        "navigation": "rgb(53, 108, 147)",
+        "engineering": "rgb(31, 58, 81)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(223, 240, 247), rgb(250, 253, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(223, 240, 247), rgb(241, 249, 252))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "alumvia",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "alumvia",
+        "button": "rgb(17, 113, 120)",
+        "navigation": "rgb(17, 113, 120)",
+        "engineering": "rgb(16, 56, 67)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(223, 242, 239), rgb(250, 253, 253) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(223, 242, 239), rgb(241, 249, 248))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "kegeltempo",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "kegeltempo",
+        "button": "rgb(127, 93, 22)",
+        "navigation": "rgb(127, 93, 22)",
+        "engineering": "rgb(67, 54, 28)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(252, 240, 208), rgb(255, 253, 248) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(252, 240, 208), rgb(254, 249, 235))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "rallybridge",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "rallybridge",
+        "button": "rgb(48, 79, 139)",
+        "navigation": "rgb(48, 79, 139)",
+        "engineering": "rgb(26, 38, 65)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(227, 234, 245), rgb(251, 252, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(227, 234, 245), rgb(243, 246, 251))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "whizlume",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "whizlume",
+        "button": "rgb(101, 67, 175)",
+        "navigation": "rgb(101, 67, 175)",
+        "engineering": "rgb(42, 35, 76)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(238, 228, 251), rgb(252, 251, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(238, 228, 251), rgb(248, 243, 253))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "estrata",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "estrata",
+        "button": "rgb(31, 101, 149)",
+        "navigation": "rgb(31, 101, 149)",
+        "engineering": "rgb(21, 47, 71)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(223, 237, 245), rgb(250, 252, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(223, 237, 245), rgb(241, 247, 251))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "leadforma",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "leadforma",
+        "button": "rgb(150, 80, 39)",
+        "navigation": "rgb(150, 80, 39)",
+        "engineering": "rgb(72, 46, 36)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(251, 233, 220), rgb(254, 252, 250) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(251, 233, 220), rgb(253, 246, 240))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-simplyscouted",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-simplyscouted",
+        "button": "rgb(41, 76, 132)",
+        "navigation": "rgb(41, 76, 132)",
+        "engineering": "rgb(24, 38, 63)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(226, 234, 245), rgb(251, 252, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(226, 234, 245), rgb(243, 246, 251))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-infinote",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-infinote",
+        "button": "rgb(60, 87, 75)",
+        "navigation": "rgb(60, 87, 75)",
+        "engineering": "rgb(29, 41, 46)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(227, 238, 230), rgb(251, 252, 251) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(227, 238, 230), rgb(243, 248, 244))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-silaflow",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-silaflow",
+        "button": "rgb(54, 118, 36)",
+        "navigation": "rgb(54, 118, 36)",
+        "engineering": "rgb(28, 53, 34)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(233, 243, 222), rgb(252, 253, 250) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(233, 243, 222), rgb(246, 250, 241))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-habitstride",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-habitstride",
+        "button": "rgb(96, 81, 172)",
+        "navigation": "rgb(96, 81, 172)",
+        "engineering": "rgb(47, 44, 86)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(235, 228, 251), rgb(252, 251, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(235, 228, 251), rgb(246, 243, 253))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-tukora-connect",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-tukora-connect",
+        "button": "rgb(43, 102, 152)",
+        "navigation": "rgb(43, 102, 152)",
+        "engineering": "rgb(27, 52, 79)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(226, 238, 249), rgb(251, 252, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(226, 238, 249), rgb(243, 248, 252))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-pantryone",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-pantryone",
+        "button": "rgb(64, 112, 41)",
+        "navigation": "rgb(64, 112, 41)",
+        "engineering": "rgb(36, 59, 37)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(236, 244, 217), rgb(252, 253, 249) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(236, 244, 217), rgb(247, 250, 239))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-streetslate",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-streetslate",
+        "button": "rgb(87, 48, 142)",
+        "navigation": "rgb(87, 48, 142)",
+        "engineering": "rgb(37, 29, 66)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(233, 224, 245), rgb(252, 250, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(233, 224, 245), rgb(246, 242, 251))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-kegeltempo",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-kegeltempo",
+        "button": "rgb(127, 93, 22)",
+        "navigation": "rgb(127, 93, 22)",
+        "engineering": "rgb(67, 54, 28)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(252, 240, 208), rgb(255, 253, 248) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(252, 240, 208), rgb(254, 249, 235))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-strivaro",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-strivaro",
+        "button": "rgb(111, 61, 145)",
+        "navigation": "rgb(111, 61, 145)",
+        "engineering": "rgb(45, 33, 67)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(240, 225, 244), rgb(253, 251, 253) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(240, 225, 244), rgb(249, 242, 250))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-axorabid",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-axorabid",
+        "button": "rgb(49, 89, 211)",
+        "navigation": "rgb(49, 89, 211)",
+        "engineering": "rgb(26, 41, 86)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(225, 233, 255), rgb(251, 252, 255) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(225, 233, 255), rgb(242, 246, 255))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "axorabid",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "axorabid",
+        "button": "rgb(49, 89, 211)",
+        "navigation": "rgb(49, 89, 211)",
+        "engineering": "rgb(26, 41, 86)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(225, 233, 255), rgb(251, 252, 255) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(225, 233, 255), rgb(242, 246, 255))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-calivora",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-calivora",
+        "button": "rgb(16, 111, 100)",
+        "navigation": "rgb(16, 111, 100)",
+        "engineering": "rgb(16, 65, 66)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(219, 242, 234), rgb(250, 253, 252) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(219, 242, 234), rgb(240, 249, 246))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "livsocial",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": null,
+        "button": "rgb(227, 25, 59)",
+        "navigation": "rgb(38, 40, 51)",
+        "engineering": "rgb(38, 40, 51)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "none",
+        "featureBackground": "linear-gradient(118deg, rgb(249, 248, 255), rgb(255, 244, 244))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-heartsync",
+      "width": 768,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": null,
+        "button": "rgb(227, 25, 59)",
+        "navigation": "rgb(38, 40, 51)",
+        "engineering": "rgb(38, 40, 51)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "none",
+        "featureBackground": "linear-gradient(118deg, rgb(249, 248, 255), rgb(255, 244, 244))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "streamdexa",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "streamdexa",
+        "button": "rgb(81, 68, 183)",
+        "navigation": "rgb(81, 68, 183)",
+        "engineering": "rgb(36, 35, 78)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(230, 228, 250), rgb(251, 251, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(230, 228, 250), rgb(244, 243, 253))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "tukora-connect",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "tukora-connect",
+        "button": "rgb(43, 102, 152)",
+        "navigation": "rgb(43, 102, 152)",
+        "engineering": "rgb(27, 52, 79)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(226, 238, 249), rgb(251, 252, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(226, 238, 249), rgb(243, 248, 252))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "paranest",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "paranest",
+        "button": "rgb(53, 108, 147)",
+        "navigation": "rgb(53, 108, 147)",
+        "engineering": "rgb(31, 58, 81)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(223, 240, 247), rgb(250, 253, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(223, 240, 247), rgb(241, 249, 252))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "alumvia",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "alumvia",
+        "button": "rgb(17, 113, 120)",
+        "navigation": "rgb(17, 113, 120)",
+        "engineering": "rgb(16, 56, 67)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(223, 242, 239), rgb(250, 253, 253) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(223, 242, 239), rgb(241, 249, 248))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "kegeltempo",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "kegeltempo",
+        "button": "rgb(127, 93, 22)",
+        "navigation": "rgb(127, 93, 22)",
+        "engineering": "rgb(67, 54, 28)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(252, 240, 208), rgb(255, 253, 248) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(252, 240, 208), rgb(254, 249, 235))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "rallybridge",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "rallybridge",
+        "button": "rgb(48, 79, 139)",
+        "navigation": "rgb(48, 79, 139)",
+        "engineering": "rgb(26, 38, 65)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(227, 234, 245), rgb(251, 252, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(227, 234, 245), rgb(243, 246, 251))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "whizlume",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "whizlume",
+        "button": "rgb(101, 67, 175)",
+        "navigation": "rgb(101, 67, 175)",
+        "engineering": "rgb(42, 35, 76)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(238, 228, 251), rgb(252, 251, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(238, 228, 251), rgb(248, 243, 253))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "estrata",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "estrata",
+        "button": "rgb(31, 101, 149)",
+        "navigation": "rgb(31, 101, 149)",
+        "engineering": "rgb(21, 47, 71)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(223, 237, 245), rgb(250, 252, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(223, 237, 245), rgb(241, 247, 251))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "leadforma",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "leadforma",
+        "button": "rgb(150, 80, 39)",
+        "navigation": "rgb(150, 80, 39)",
+        "engineering": "rgb(72, 46, 36)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(251, 233, 220), rgb(254, 252, 250) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(251, 233, 220), rgb(253, 246, 240))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-simplyscouted",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-simplyscouted",
+        "button": "rgb(41, 76, 132)",
+        "navigation": "rgb(41, 76, 132)",
+        "engineering": "rgb(24, 38, 63)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(226, 234, 245), rgb(251, 252, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(226, 234, 245), rgb(243, 246, 251))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-infinote",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-infinote",
+        "button": "rgb(60, 87, 75)",
+        "navigation": "rgb(60, 87, 75)",
+        "engineering": "rgb(29, 41, 46)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(227, 238, 230), rgb(251, 252, 251) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(227, 238, 230), rgb(243, 248, 244))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-silaflow",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-silaflow",
+        "button": "rgb(54, 118, 36)",
+        "navigation": "rgb(54, 118, 36)",
+        "engineering": "rgb(28, 53, 34)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(233, 243, 222), rgb(252, 253, 250) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(233, 243, 222), rgb(246, 250, 241))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-habitstride",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-habitstride",
+        "button": "rgb(96, 81, 172)",
+        "navigation": "rgb(96, 81, 172)",
+        "engineering": "rgb(47, 44, 86)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(235, 228, 251), rgb(252, 251, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(235, 228, 251), rgb(246, 243, 253))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-tukora-connect",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-tukora-connect",
+        "button": "rgb(43, 102, 152)",
+        "navigation": "rgb(43, 102, 152)",
+        "engineering": "rgb(27, 52, 79)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(226, 238, 249), rgb(251, 252, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(226, 238, 249), rgb(243, 248, 252))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-pantryone",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-pantryone",
+        "button": "rgb(64, 112, 41)",
+        "navigation": "rgb(64, 112, 41)",
+        "engineering": "rgb(36, 59, 37)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(236, 244, 217), rgb(252, 253, 249) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(236, 244, 217), rgb(247, 250, 239))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-streetslate",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-streetslate",
+        "button": "rgb(87, 48, 142)",
+        "navigation": "rgb(87, 48, 142)",
+        "engineering": "rgb(37, 29, 66)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(233, 224, 245), rgb(252, 250, 254) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(233, 224, 245), rgb(246, 242, 251))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-kegeltempo",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-kegeltempo",
+        "button": "rgb(127, 93, 22)",
+        "navigation": "rgb(127, 93, 22)",
+        "engineering": "rgb(67, 54, 28)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(252, 240, 208), rgb(255, 253, 248) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(252, 240, 208), rgb(254, 249, 235))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-strivaro",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-strivaro",
+        "button": "rgb(111, 61, 145)",
+        "navigation": "rgb(111, 61, 145)",
+        "engineering": "rgb(45, 33, 67)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(240, 225, 244), rgb(253, 251, 253) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(240, 225, 244), rgb(249, 242, 250))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-axorabid",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-axorabid",
+        "button": "rgb(49, 89, 211)",
+        "navigation": "rgb(49, 89, 211)",
+        "engineering": "rgb(26, 41, 86)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(225, 233, 255), rgb(251, 252, 255) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(225, 233, 255), rgb(242, 246, 255))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "axorabid",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "axorabid",
+        "button": "rgb(49, 89, 211)",
+        "navigation": "rgb(49, 89, 211)",
+        "engineering": "rgb(26, 41, 86)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(225, 233, 255), rgb(251, 252, 255) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(225, 233, 255), rgb(242, 246, 255))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-calivora",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": "app-calivora",
+        "button": "rgb(16, 111, 100)",
+        "navigation": "rgb(16, 111, 100)",
+        "engineering": "rgb(16, 65, 66)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "linear-gradient(155deg, rgb(219, 242, 234), rgb(250, 253, 252) 760px)",
+        "featureBackground": "linear-gradient(120deg, rgb(219, 242, 234), rgb(240, 249, 246))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "livsocial",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": null,
+        "button": "rgb(227, 25, 59)",
+        "navigation": "rgb(38, 40, 51)",
+        "engineering": "rgb(38, 40, 51)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "none",
+        "featureBackground": "linear-gradient(118deg, rgb(249, 248, 255), rgb(255, 244, 244))",
+        "overflow": false
+      }
+    },
+    {
+      "slug": "app-heartsync",
+      "width": 390,
+      "geometryUnchanged": true,
+      "typographyUnchanged": true,
+      "paint": {
+        "theme": null,
+        "button": "rgb(227, 25, 59)",
+        "navigation": "rgb(38, 40, 51)",
+        "engineering": "rgb(38, 40, 51)",
+        "headerCta": "rgb(227, 25, 59)",
+        "mainBackground": "none",
+        "featureBackground": "linear-gradient(118deg, rgb(249, 248, 255), rgb(255, 244, 244))",
+        "overflow": false
+      }
+    }
+  ]
+}

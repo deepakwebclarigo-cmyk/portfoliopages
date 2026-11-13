@@ -1,0 +1,72 @@
+import { execFile } from 'node:child_process';
+import { promisify } from 'node:util';
+﻿import fs from 'node:fs/promises';
+import path from 'node:path';
+import crypto from 'node:crypto';
+import sharp from 'sharp';
+import {chromium} from '@playwright/test';
+const audit='audit/thumbnail-system-2026-11-12',plan=JSON.parse(await fs.readFile(audit+'/source-plan.json','utf8')),sets=JSON.parse(await fs.readFile('lib/project-assets.json','utf8')),hash=b=>crypto.createHash('sha256').update(b).digest('hex'),escape=s=>s.replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;');
+const only=new Set((process.argv.find(v=>v.startsWith('--only='))?.slice(7)??'').split(',').filter(Boolean));
+await fs.mkdir('public/images/thumbnails',{recursive:true});await fs.mkdir('exports/Clarigo-consistent-thumbnails',{recursive:true});await fs.mkdir(audit+'/rendered',{recursive:true});
+const font='data:font/woff2;base64,'+(await fs.readFile('public/fonts/geist-9b6f5ff45b.woff2')).toString('base64');
+const css="@font-face{font-family:Geist;src:url('"+font+"')}*{box-sizing:border-box}html,body{margin:0;width:1600px;height:1325px;overflow:hidden}body{font-family:Geist,Arial,sans-serif;color:#302a30;background:radial-gradient(ellipse at 87% 95%,#eddcf3a8,transparent 63%),radial-gradient(ellipse at 10% 0%,#ffe5b47a,transparent 63%),#fff8e9}.heading{position:absolute;left:90px;right:90px;top:76px;display:flex;align-items:center;justify-content:space-between;gap:32px}h1{margin:0;font-size:74px;line-height:1.2;font-weight:600;letter-spacing:-3.7px;white-space:nowrap;max-width:1040px}.dot{color:#ea1b3d}.kind{display:flex;align-items:center;justify-content:center;width:296px;height:60px;flex:none;border:1px solid #dacdbd;border-radius:40px;font-size:18px;font-weight:500;letter-spacing:1.7px;color:#53434b}.discipline{position:absolute;left:94px;top:180px;margin:0;font-size:30px;line-height:1.4;color:#76616b;letter-spacing:-.4px}.stage{position:absolute;left:80px;top:298px;width:1440px;height:880px;border:2px solid #fff;border-radius:25px;overflow:hidden;background:linear-gradient(145deg,#fffefd,#fffaf6);box-shadow:0 27px 65px #6d48401b,0 3px 10px #7d455506}.bar{height:49px;position:relative;display:flex;align-items:center;gap:11px;padding:0 24px;border-bottom:1px solid #e8dfd680;background:#fffdfb}.bar i{display:block;width:11px;height:11px;border-radius:50%;background:#d8bab4}.bar i:nth-child(2){background:#ddcca0}.bar i:nth-child(3){background:#b8cbb9}.bar span{position:absolute;left:0;right:0;text-align:center;font-size:17px;color:#8a7780;letter-spacing:.15px}.artwork{height:827px;display:flex;align-items:center;justify-content:center;gap:48px;padding:38px;overflow:hidden}.artwork img{display:block;max-width:100%;max-height:747px;width:auto;height:auto;object-fit:contain;filter:drop-shadow(0 13px 20px #53415b12)}.phones img{height:720px;max-width:365px;object-fit:contain}.foot{position:absolute;left:94px;right:94px;bottom:83px;display:flex;align-items:center;justify-content:space-between;color:#806974;font-size:19px;line-height:1.4;letter-spacing:.2px}.mark{display:flex;align-items:center;gap:12px}.mark:before{content:'';width:27px;height:2px;background:#ea1b3d}.footerLabel{font-size:17px;letter-spacing:1.9px}";
+// Brand-specific showcases retain the shared frame but use their own audited layouts.
+const custom = {};
+for (const [renderer, script, manifest, renderDir] of [
+ ['tukora-showcase','audit/tukora-thumbnail-refresh-2026-11-12/render-thumbnails.mjs','audit/tukora-thumbnail-refresh-2026-11-12/staged-thumbnails.json','audit/tukora-thumbnail-refresh-2026-11-12/renders/'],
+ ['mobile-showcase','scripts/render-mobile-thumbnails.mjs','audit/mobile-mockup-consistency-2026-11-12/staged-thumbnails.json','audit/mobile-mockup-consistency-2026-11-12/renders/'],
+]) {
+ const selected = plan.filter(p => p.renderer === renderer && (!only.size || only.has(p.slug)));
+ if (!selected.length) continue;
+ const rendered = await promisify(execFile)(process.execPath, [script, '--only=' + selected.map(p => p.slug).join(',')]);
+ process.stdout.write(rendered.stdout);
+ const staged = JSON.parse(await fs.readFile(manifest, 'utf8'));
+ for (const {slug} of selected) {
+  if (!staged[slug]?.fit.images || !staged[slug]?.fit.titleFits) throw Error('Missing custom thumbnail: ' + slug);
+  custom[slug] = staged[slug];
+  await fs.copyFile(renderDir + slug + '.png', 'exports/Clarigo-consistent-thumbnails/' + slug + '.png');
+ }
+}
+const browser=await chromium.launch({channel:'chrome',headless:true});let results={};try{results=JSON.parse(await fs.readFile(audit+'/rendered-thumbnails.json','utf8'));}catch(e){if(e.code!=='ENOENT')throw e;}
+Object.assign(results, custom);
+await fs.writeFile(audit+'/rendered-thumbnails.json', JSON.stringify(results,null,2));
+try{
+ const page=await browser.newPage({viewport:{width:1600,height:1325},deviceScaleFactor:1});
+ for(const p of plan){
+  if(only.size&&!only.has(p.slug))continue;
+  if(p.renderer==='tukora-showcase'||p.renderer==='mobile-showcase')continue;
+  const allowed=[sets[p.slug].poster,...sets[p.slug].images],images=[];
+  for(const source of p.sources){
+   const asset=allowed.find(a=>a.src===source.src);if(!asset||asset.sha256!==source.sha256)throw Error('Source ownership differs for '+p.slug);
+   const bytes=await fs.readFile('public'+source.src);if(hash(bytes)!==source.sha256)throw Error('Source bytes changed for '+p.slug);
+   let image=sharp(bytes);if(source.crop)image=image.extract(source.crop);
+   const png=await image.png().toBuffer();images.push('<img class="sourceArtwork" src="data:image/png;base64,'+png.toString('base64')+'" alt="'+escape(p.name)+' supplied interface">');
+  }
+  const html='<!doctype html><html><head><meta charset="utf-8"><style>'+css+'</style></head><body><div class="heading"><h1>'+escape(p.name)+'<span class="dot">.</span></h1><span class="kind">'+(p.kind==='web'?'WEB EXPERIENCE':'MOBILE EXPERIENCE')+'</span></div><p class="discipline">'+escape(p.discipline)+'</p><div class="stage"><div class="bar"><i></i><i></i><i></i><span>'+escape(p.name)+' / '+(p.kind==='web'?'Web':'Mobile')+'</span></div><div class="artwork '+p.layout+'">'+images.join('')+'</div></div><div class="foot"><span class="mark">Clarigo Infotech</span><span class="footerLabel">SELECTED WORK / '+(p.kind==='web'?'WEB':'MOBILE')+'</span></div></body></html>';
+  await page.setContent(html);await page.evaluate(async()=>{await document.fonts.ready;await Promise.all([...document.images].map(i=>i.decode()));});
+  const fit=await page.evaluate(()=>{const title=document.querySelector('h1'),pill=document.querySelector('.kind'),stage=document.querySelector('.artwork').getBoundingClientRect();return {titleFits:title.scrollWidth<=title.clientWidth&&title.getBoundingClientRect().right<pill.getBoundingClientRect().left-15,images:[...document.images].every(img=>{const r=img.getBoundingClientRect();return img.naturalWidth>0&&r.left>=stage.left&&r.right<=stage.right&&r.top>=stage.top&&r.bottom<=stage.bottom;})};});
+  if(!fit.titleFits||!fit.images)throw Error('Layout overflow: '+p.slug+' '+JSON.stringify(fit));
+  const png=await page.screenshot(),sha=hash(png),src='/images/thumbnails/'+p.slug+'-'+sha.slice(0,10)+'.webp',variants={};
+  await fs.writeFile('exports/Clarigo-consistent-thumbnails/'+p.slug+'.png',png);
+  for(const[label,width]of[['original',1600],['card',720],['medium',960]]){
+   const encoded=await sharp(png).resize({width}).webp({quality:90,effort:5}).toBuffer({resolveWithObject:true}),url=label==='original'?src:src.replace('.webp','-'+label+'.webp');
+   await fs.writeFile('public'+url,encoded.data);variants[label]={src:url,width:encoded.info.width,height:encoded.info.height,sha256:hash(encoded.data),bytes:encoded.data.length};
+  }
+  results[p.slug]={src,width:1600,height:1325,sha256:variants.original.sha256,bytes:variants.original.bytes,card:variants.card,medium:variants.medium,exportSha256:sha,sourceRefs:p.sources,fit};
+  await fs.writeFile(audit+'/rendered-thumbnails.json',JSON.stringify(results,null,2));console.log(p.slug+' '+(Object.keys(results).length)+'/'+plan.length);
+ }
+ await page.close();
+}finally{await browser.close();}
+for(const kind of ['web','mobile']){
+ const group=plan.filter(p=>p.kind===kind&&results[p.slug]),layers=[];if(!group.length)continue;
+ for(let i=0;i<group.length;i++){const p=group[i],x=i%4*400,y=Math.floor(i/4)*350;layers.push({input:await sharp('public'+results[p.slug].src).resize(390,323).png().toBuffer(),left:x+5,top:y+5});}
+ await sharp({create:{width:1600,height:Math.ceil(group.length/4)*350,channels:3,background:'#fff'}}).composite(layers).png().toFile(audit+'/after-'+kind+'.png');
+}
+console.log(JSON.stringify({rendered:Object.keys(results).length,planned:plan.length,style:'shared cream-blush stage, Geist, 1600x1325, native project artwork'}));
+
+
+if (process.argv.includes('--write-manifest')) {
+  if (plan.some(p => !results[p.slug]?.fit.images || !results[p.slug]?.fit.titleFits)) throw Error('Thumbnail set is incomplete.');
+  const current = Object.fromEntries(plan.map(p => { const {src,width,height,sha256,bytes,card,medium} = results[p.slug]; return [p.slug,{src,width,height,sha256,bytes,card,medium}]; }));
+  await fs.writeFile('lib/project-thumbnails.json', JSON.stringify(current,null,2)+'\n');
+}

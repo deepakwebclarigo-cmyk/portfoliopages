@@ -12,6 +12,15 @@ function step(s: Spring, target: number, dt: number, stiffness = 105, damping = 
   return s.value;
 }
 const clamp = THREE.MathUtils.clamp;
+// Exact critically damped integration keeps pointer follow consistent across frame rates.
+// The hero retains its existing motion; this solver is used only for thumbnail poses.
+function stepCard(s: Spring, target: number, dt: number, frequency = 14) {
+  const offset = s.value - target, impulse = s.velocity + frequency * offset;
+  const decay = Math.exp(-frequency * dt);
+  s.value = target + (offset + impulse * dt) * decay;
+  s.velocity = (s.velocity - frequency * impulse * dt) * decay;
+  return s.value;
+}
 
 function roundedTile(size: number, depth: number) {
   const half = size / 2, r = .2, shape = new THREE.Shape();
@@ -66,9 +75,12 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointe
   let heroAssetsReady = !hero;
   let alive = true, contextAvailable = true, shown = true, focused = true, dirty = true, lastPainted = false;
   let width = 0, height = 0, frame = 0, previous = 0, time = 0, frames = 0, slowFrames = 0;
-  const heroX = spring(), heroY = spring(), expansion = spring(), cardX = spring(), cardY = spring(), cardHover = spring();
+  const heroX = spring(), heroY = spring(), expansion = spring();
   const ray = new THREE.Raycaster(), pointer = new THREE.Vector2();
-  let card: { link: HTMLElement; visual: HTMLElement; rect: DOMRect; badge: DOMRect | null; hovered: boolean; x: number; y: number; imageRatio: number } | null = null;
+  type Thumbnail = { link: HTMLElement; visual: HTMLElement; rect: DOMRect; badge: DOMRect | null; hovered: boolean; x: number; y: number; imageRatio: number; texture: THREE.Texture; tiltX: Spring; tiltY: Spring; hover: Spring; blend: number; nativeOpacity: number };
+  let card: Thumbnail | null = null;
+  const outgoingCards: Thumbnail[] = [];
+  let cardShadersReady = false;
   let pendingLink: HTMLElement | null = null, pointerX = 0, pointerY = 0;
   canvas.dataset.engine = 'three'; canvas.dataset.geometry = 'ExtrudeGeometry'; canvas.dataset.scene = 'uiux-ecosystem';
   canvas.dataset.heroObjects = String(showcase?.items.length ?? 0); canvas.dataset.assets = hero ? 'loading' : 'ready';
@@ -80,10 +92,31 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointe
   const cameraTween = hero ? gsap.to(scroll, { progress: 1, ease: 'none', scrollTrigger: { trigger: hero.closest('.heroSection'), start: 'top top', end: 'bottom top', scrub: .7 } }) : undefined;
   if (reduce.matches) cameraTween?.scrollTrigger?.disable(false);
 
+  function restoreVisual(view: Thumbnail) {
+    delete view.visual.dataset.webglArtwork;
+    delete view.visual.dataset.webglScale;
+    view.visual.style.removeProperty('--webgl-dom-opacity');
+  }
+  function retireCard() {
+    if (!card) return;
+    card.hovered = false;
+    outgoingCards.push(card); card = null;
+    // A few simultaneous exits keep rapid card changes fluid without unbounded GPU work.
+    if (outgoingCards.length > 3) restoreVisual(outgoingCards.shift()!);
+  }
   function restoreCard() {
-    if (card) delete card.visual.dataset.webglArtwork;
-    card = null; pendingLink = null; cardHover.value = cardHover.velocity = cardX.value = cardX.velocity = cardY.value = cardY.velocity = 0;
+    if (card) restoreVisual(card);
+    outgoingCards.forEach(restoreVisual); outgoingCards.length = 0;
+    card = null; pendingLink = null;
     delete canvas.dataset.cardActive;
+    canvas.dataset.cardViews = '0';
+  }
+  function trimTextures() {
+    const used = new Set([card?.texture, ...outgoingCards.map(view => view.texture)]);
+    for (const [source, texture] of textures) {
+      if (textures.size <= 6) break;
+      if (!used.has(texture)) { textures.delete(source); texture.dispose(); }
+    }
   }
   function measure() {
     dirty = false;
@@ -96,7 +129,7 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointe
       camera.fov = THREE.MathUtils.radToDeg(2 * Math.atan(Math.tan(THREE.MathUtils.degToRad(34) / 2) * Math.max(1, 1.1 / camera.aspect)));
       camera.updateProjectionMatrix();
     }
-    if (card) { card.rect = card.visual.getBoundingClientRect(); card.badge = card.link.querySelector('.projectIndex')?.getBoundingClientRect() ?? null; }
+    for (const view of [...outgoingCards, ...(card ? [card] : [])]) { view.rect = view.visual.getBoundingClientRect(); view.badge = view.link.querySelector('.projectIndex')?.getBoundingClientRect() ?? null; }
   }
   function wake() { if (alive && contextAvailable && shown && focused && !document.hidden && !frame) frame = requestAnimationFrame(paint); }
   function updateBounds() { dirty = true; wake(); }
@@ -112,7 +145,29 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointe
       if (!pendingLink.isConnected || reduce.matches || !fine.matches) pendingLink = null;
       else { const target = pendingLink; pendingLink = null; over({ pointerType: 'mouse', target }); }
     }
-    if (card && (!card.link.isConnected || !fine.matches || reduce.matches || card.rect.bottom < 0 || card.rect.top > height)) restoreCard();
+    if ((!fine.matches || reduce.matches) && (card || outgoingCards.length)) restoreCard();
+    const cardViews: Thumbnail[] = [];
+    for (const view of [...outgoingCards, ...(card ? [card] : [])]) {
+      const connected = view.link.isConnected && view.rect.bottom > 0 && view.rect.top < height;
+      const h = stepCard(view.hover, view.hovered ? 1 : 0, dt);
+      stepCard(view.tiltX, view.hovered ? -view.y * .065 : 0, dt, 16);
+      stepCard(view.tiltY, view.hovered ? view.x * .08 : 0, dt, 16);
+      // Overlap the handoff: the native image stays opaque until the GPU is ready,
+      // and is restored beneath it before the 3D layer fades out. Colors never wash out.
+      view.nativeOpacity = THREE.MathUtils.damp(view.nativeOpacity, !view.hovered || view.blend < .995 ? 1 : 0, 20, dt);
+      if (view.nativeOpacity > .999) view.nativeOpacity = 1;
+      else if (view.nativeOpacity < .001) view.nativeOpacity = 0;
+      const blendTarget = view.hovered || view.nativeOpacity > .995 ? clamp(h * 5, 0, 1) : 1;
+      view.blend = THREE.MathUtils.damp(view.blend, blendTarget, 20, dt);
+      if (view.hovered && view.blend > .999) view.blend = 1;
+      const settled = !view.hovered && h < .001 && Math.abs(view.hover.velocity) < .01 && view.blend < .001 && view.nativeOpacity === 1 && Math.abs(view.tiltX.value) + Math.abs(view.tiltY.value) < .0001;
+      if (!connected || settled) {
+        restoreVisual(view);
+        if (card === view) card = null;
+        const index = outgoingCards.indexOf(view); if (index >= 0) outgoingCards.splice(index, 1);
+      } else cardViews.push(view);
+    }
+    if (!cardViews.length) { delete canvas.dataset.cardActive; canvas.dataset.cardViews = '0'; }
     const reduced = reduce.matches;
     const activeHero = heroVisible && heroAssetsReady && !reduced;
     if (activeHero) time += dt;
@@ -125,30 +180,37 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointe
       const hit=ray.intersectObjects(showcase.picks.filter(mesh=>mesh.parent?.visible),false)[0];
       hovered=Boolean(hit);hoveredIndex=hit?hit.object.userData.showcaseIndex:-1;
     }
-    const anyView = (heroVisible && heroAssetsReady) || Boolean(card);
+    const anyView = (heroVisible && heroAssetsReady) || cardViews.length > 0;
     if (anyView || lastPainted) {
       renderer.setScissorTest(false); renderer.clear(); renderer.setScissorTest(true);
       if (heroVisible && heroAssetsReady && heroRect) { viewport(heroRect); renderer.render(scene, camera); if (hero && hero.dataset.renderer !== 'three') hero.dataset.renderer = 'three'; }
-      if (card) {
-        const h = step(cardHover, card.hovered ? 1 : 0, dt, 135, 21);
-        cardGroup.rotation.set(step(cardX, card.hovered ? -card.y * .065 : 0, dt, 135, 21), step(cardY, card.hovered ? card.x * .08 : 0, dt, 135, 21), 0);
-        const aspect = card.rect.width / card.rect.height, maxWidth = aspect * 2, scale = .955 + h * .03;
-        const w = Math.min(maxWidth, 2 * card.imageRatio), hImage = w / card.imageRatio;
+      for (const view of cardViews) {
+        cardGroup.rotation.set(view.tiltX.value, view.tiltY.value, 0);
+        const aspect = view.rect.width / view.rect.height, maxWidth = aspect * 2, scale = .955 + view.hover.value * .03;
+        const w = Math.min(maxWidth, 2 * view.imageRatio), hImage = w / view.imageRatio;
         imageMesh.scale.set(w * scale, hImage * scale, 1); backing.scale.set(w * scale + .012, hImage * scale + .012, 1);
+        if (imageMaterial.map !== view.texture) imageMaterial.map = view.texture;
+        imageMaterial.opacity = view.blend; backingMaterial.opacity = .65 * view.blend;
         cardCamera.left = -aspect; cardCamera.right = aspect; cardCamera.updateProjectionMatrix();
-        viewport(card.rect);
+        viewport(view.rect);
         // Keep the existing HTML project-number badge unobscured by the canvas.
-        const badge = card.badge;
+        const badge = view.badge;
         if (badge) {
-          const r = card.rect, left = badge.left - 2, right = badge.right + 2, top = badge.top - 2, bottom = badge.bottom + 2;
+          const r = view.rect, left = badge.left - 2, right = badge.right + 2, top = badge.top - 2, bottom = badge.bottom + 2;
           const clips = [[r.left, r.top, r.width, Math.max(0, top - r.top)], [r.left, bottom, r.width, Math.max(0, r.bottom - bottom)], [r.left, top, Math.max(0, left - r.left), bottom - top], [right, top, Math.max(0, r.right - right), bottom - top]];
           for (const [cx, cy, cw, ch] of clips) if (cw > 0 && ch > 0) { renderer.setScissor(cx, height - cy - ch, cw, ch); renderer.render(cardScene, cardCamera); }
         } else renderer.render(cardScene, cardCamera);
-        card.visual.dataset.webglArtwork = 'active';
+        view.visual.style.setProperty('--webgl-dom-opacity', String(view.nativeOpacity));
+        view.visual.dataset.webglScale = scale.toFixed(5);
+        if (view.visual.dataset.webglArtwork !== 'active') view.visual.dataset.webglArtwork = 'active';
         if (canvas.dataset.cardActive !== 'true') canvas.dataset.cardActive = 'true';
-        if (frames % 6 === 0) { canvas.dataset.cardScale = scale.toFixed(4); canvas.dataset.cardTilt = Math.max(Math.abs(cardGroup.rotation.x), Math.abs(cardGroup.rotation.y)).toFixed(4); }
-        if (!card.hovered && Math.abs(h) < .001 && Math.abs(cardHover.velocity) < .003) restoreCard();
+        if (view === card && frames % 6 === 0) {
+          canvas.dataset.cardScale = scale.toFixed(4);
+          canvas.dataset.cardTilt = Math.max(Math.abs(view.tiltX.value), Math.abs(view.tiltY.value)).toFixed(4);
+          canvas.dataset.cardBlend = view.blend.toFixed(4);
+        }
       }
+      if (cardViews.length) canvas.dataset.cardViews = String(cardViews.length);
       lastPainted = anyView;
     }
     if (anyView) frames++;
@@ -162,10 +224,10 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointe
     if (hero) { const state = activeHero ? 'running' : 'static'; if (hero.dataset.threeState !== state) hero.dataset.threeState = state; }
     if (activeHero && dt > .027) slowFrames++; else slowFrames = Math.max(0, slowFrames - 1);
     if (slowFrames > 35 && dpr > .85) { dpr = Math.max(.85, dpr - .2); renderer.setPixelRatio(dpr); renderer.setSize(width, height, false); canvas.dataset.pixelRatio = dpr.toFixed(2); slowFrames = 0; }
-    if (!reduced && (activeHero || card || pendingLink)) wake(); else previous = 0;
+    if (!reduced && (activeHero || cardViews.length || pendingLink)) wake(); else previous = 0;
   }
 
-  function linkAt(target: EventTarget | null) { return target instanceof Element ? target.closest<HTMLElement>('.projectLink,.relatedCard,.caseVisual') : null; }
+  function linkAt(target: EventTarget | null) { return target instanceof Element ? target.closest<HTMLElement>('.caseVisual') : null; }
   function over(event: Pick<PointerEvent, 'pointerType' | 'target'> & Partial<Pick<PointerEvent, 'clientX' | 'clientY'>>) {
     if (!fine.matches || reduce.matches || event.pointerType !== 'mouse') return;
     if (event.clientX !== undefined) pointerX = event.clientX;
@@ -177,7 +239,7 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointe
     if (link.classList.contains('caseVisual') && Number(getComputedStyle(link).opacity) < .99) { pendingLink = link; wake(); return; }
     const visual = link.querySelector<HTMLElement>('.visual'), image = visual?.querySelector('img');
     if (!visual || !image?.complete || !image.naturalWidth) return;
-    restoreCard();
+    retireCard();
     const source = image.currentSrc || image.src;
     const texture = textures.get(source);
     if (!texture) {
@@ -186,21 +248,24 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointe
       // A responsive DOM image reports density-adjusted dimensions. Uploading it
       // directly can allocate a smaller texture than its decoded bitmap. Load the
       // selected URL independently so GPU storage uses the real pixel dimensions.
-      textureLoader.load(source, loaded => {
-        loadingTextures.delete(source);
+      textureLoader.load(source, async loaded => {
         if (!alive) { loaded.dispose(); return; }
         try {
           loaded.colorSpace = THREE.SRGBColorSpace;
           loaded.anisotropy = Math.min(4, renderer.capabilities.getMaxAnisotropy());
           renderer.initTexture(loaded);
+          // Compile the textured shader before handing off from the already visible DOM image.
+          if (!cardShadersReady) {
+            imageMaterial.map = loaded; imageMaterial.needsUpdate = true;
+            await renderer.compileAsync(cardScene, cardCamera);
+            cardShadersReady = true;
+          }
+          if (!alive) { loaded.dispose(); return; }
         } catch {
-          loaded.dispose(); failedTextures.add(source); return;
+          loadingTextures.delete(source); loaded.dispose(); failedTextures.add(source); return;
         }
-        textures.set(source, loaded);
-        if (textures.size > 3) {
-          const oldest = [...textures].find(([key, cached]) => key !== source && cached !== imageMaterial.map);
-          if (oldest) { oldest[1].dispose(); textures.delete(oldest[0]); }
-        }
+        loadingTextures.delete(source); textures.set(source, loaded);
+        trimTextures();
         // Keep the DOM thumbnail visible while loading. Ignore a late completion
         // after pointer leave, filtering, navigation, or reduced-motion changes.
         if (link.isConnected && link.matches(':hover')) over({ pointerType: 'mouse', target: link });
@@ -208,8 +273,10 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointe
       return;
     }
     if (!contextAvailable) return;
-    imageMaterial.map = texture; imageMaterial.needsUpdate = true;
-    card = { link, visual, rect: visual.getBoundingClientRect(), badge: link.querySelector('.projectIndex')?.getBoundingClientRect() ?? null, hovered: true, x: 0, y: 0, imageRatio: image.naturalWidth / image.naturalHeight };
+    const returning = outgoingCards.findIndex(view => view.link === link);
+    card = returning >= 0 ? outgoingCards.splice(returning, 1)[0] : { link, visual, rect: visual.getBoundingClientRect(), badge: link.querySelector('.projectIndex')?.getBoundingClientRect() ?? null, hovered: true, x: 0, y: 0, imageRatio: image.naturalWidth / image.naturalHeight, texture, tiltX: spring(), tiltY: spring(), hover: spring(), blend: 0, nativeOpacity: 1 };
+    card.hovered = true;
+    textures.delete(source); textures.set(source, texture);
     card.x = clamp((pointerX - card.rect.left) / card.rect.width * 2 - 1, -1, 1); card.y = clamp((pointerY - card.rect.top) / card.rect.height * 2 - 1, -1, 1);
     dirty = true; wake();
   }
@@ -261,7 +328,7 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointe
   reduce.addEventListener('change', preference); fine.addEventListener('change', preference);
   canvas.addEventListener('webglcontextlost', lost); canvas.addEventListener('webglcontextrestored', restored);
   measure(); wake();
-  if (initialPointer && initialPointer.target instanceof Element && initialPointer.target.isConnected && initialPointer.target.closest('.projectLink,.relatedCard,.caseVisual')?.matches(':hover')) over(initialPointer);
+  if (initialPointer && initialPointer.target instanceof Element && initialPointer.target.isConnected && initialPointer.target.closest('.caseVisual')?.matches(':hover')) over(initialPointer);
   showcase?.ready.then(() => {
     if (!alive) return;
     // Prepare physical-material shaders before the visible entrance clock starts.

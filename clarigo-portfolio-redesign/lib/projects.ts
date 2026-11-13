@@ -14,6 +14,7 @@ export type Project = {
   category: 'Web & web apps' | 'Mobile apps';
   image: string;
   thumbnail: string;
+  thumbnailBackground?: string;
   legacy?: string;
   rebranded?: boolean;
   summary: string;
@@ -51,6 +52,7 @@ export const projects: Project[] = inventory.map((item) => {
     slug: item.slug, name: content.displayName ?? item.name, archiveName: item.name, kind,
     category: kind === 'web' ? 'Web & web apps' : 'Mobile apps',
     image: local.poster.src, thumbnail: thumbnail.src, artwork: local.poster,
+    thumbnailBackground: (themePalettes as Record<string, { thumbnailBackground: string }>)[item.slug]?.thumbnailBackground,
     gallery: local.images,
     rebranded: 'rebranded' in item && Boolean(item.rebranded),
     legacy: item.page ? host + '/landing%20page/' + encodeURIComponent(item.page) : undefined,

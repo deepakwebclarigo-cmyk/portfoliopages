@@ -84,7 +84,9 @@ export default function ScrollMotion() {
       register(select('.projectGallery > figure'), true);
       const scanCards = context.add('scanCards', () => {
         triggers.forEach(trigger => { if (trigger.trigger && !trigger.trigger.isConnected) { trigger.kill(); triggers.delete(trigger); } });
-        register(select('.projectEntrance'));
+        // Listing cards use a brief CSS fade and subtle hover lift only.
+        // Keep their native artwork out of scroll transforms and image masks.
+        select('.projectEntrance').forEach(element => { completed.add(element); element.dataset.motionReveal = 'revealed'; });
         ScrollTrigger.refresh();
       });
       scanCards();
@@ -159,7 +161,14 @@ export default function ScrollMotion() {
       document.addEventListener('focusin', focused);
       window.addEventListener('hashchange', hashChanged);
       window.addEventListener('pageshow', restored);
-      document.fonts.ready.then(() => { if (alive && !context.isReverted) ScrollTrigger.refresh(); });
+      document.fonts.ready.then(() => {
+        if (alive && !context.isReverted) {
+          ScrollTrigger.refresh();
+          // Native fragment navigation can finish before hydration installs hashchange.
+          // Settle only the linked case-study section; listing scroll reveals stay staggered.
+          if (location.hash && document.querySelector('.casePage')) hashChanged();
+        }
+      });
       return () => {
         settleCounters();
         select('.heroCopy .motionWord').forEach(word => word.setAttribute('data-word-revealed', ''));

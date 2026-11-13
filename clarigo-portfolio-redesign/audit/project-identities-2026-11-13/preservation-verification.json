@@ -1,0 +1,24 @@
+{
+  "projects": 48,
+  "themedPages": 21,
+  "identities": 18,
+  "unselectedProjectsUnchanged": 27,
+  "suppliedArtworkUnchanged": 48,
+  "adjustedLogoVariantsPreserved": 84,
+  "transparent1000pxLogoCopies": 18,
+  "thumbnailCropsAndDimensionsUnchanged": true,
+  "unrelatedSourceFilesUnchanged": 89,
+  "changedExistingSources": [
+    "app/layout.tsx",
+    "app/page.tsx",
+    "app/portfolio/[slug]/page.tsx",
+    "components/PortfolioClient.tsx",
+    "components/ProjectVisual.tsx",
+    "lib/project-themes.json",
+    "lib/project-thumbnails.json",
+    "lib/projects.ts",
+    "scripts/render-mobile-thumbnails.mjs",
+    "scripts/render-portfolio-thumbnails.mjs"
+  ],
+  "errors": []
+}

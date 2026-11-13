@@ -1,0 +1,690 @@
+{
+  "config": {
+    "argv": [
+      "C:\\Program Files\\nodejs\\node.exe",
+      "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\node_modules\\@playwright\\test\\cli.js",
+      "test",
+      "tests/thumbnail-motion.spec.ts",
+      "tests/hover-artwork.spec.ts",
+      "tests/motion.spec.ts",
+      "--project=desktop",
+      "--workers=2"
+    ],
+    "configFile": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\playwright.config.ts",
+    "rootDir": "D:/Clarigo_Portfolio_NextJS_Fixed/clarigo-portfolio-redesign/tests",
+    "failOnFlakyTests": false,
+    "forbidOnly": false,
+    "fullyParallel": true,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 2
+    },
+    "preserveOutput": "always",
+    "projects": [
+      {
+        "outputDir": "D:/Clarigo_Portfolio_NextJS_Fixed/clarigo-portfolio-redesign/audit/thumbnail-fluidity-2026-11-13/test-results-final",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 2
+        },
+        "id": "desktop",
+        "name": "desktop",
+        "testDir": "D:/Clarigo_Portfolio_NextJS_Fixed/clarigo-portfolio-redesign/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 45000
+      },
+      {
+        "outputDir": "D:/Clarigo_Portfolio_NextJS_Fixed/clarigo-portfolio-redesign/audit/thumbnail-fluidity-2026-11-13/test-results-final",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 2
+        },
+        "id": "tablet",
+        "name": "tablet",
+        "testDir": "D:/Clarigo_Portfolio_NextJS_Fixed/clarigo-portfolio-redesign/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 45000
+      },
+      {
+        "outputDir": "D:/Clarigo_Portfolio_NextJS_Fixed/clarigo-portfolio-redesign/audit/thumbnail-fluidity-2026-11-13/test-results-final",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 2
+        },
+        "id": "mobile",
+        "name": "mobile",
+        "testDir": "D:/Clarigo_Portfolio_NextJS_Fixed/clarigo-portfolio-redesign/tests",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 45000
+      }
+    ],
+    "filteredProjects": [
+      {
+        "grep": {},
+        "grepInvert": null,
+        "outputDir": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\thumbnail-fluidity-2026-11-13\\test-results-final",
+        "repeatEach": 1,
+        "retries": 0,
+        "metadata": {
+          "actualWorkers": 2
+        },
+        "name": "desktop",
+        "testDir": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests",
+        "snapshotDir": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests",
+        "testIgnore": [],
+        "testMatch": "**/*.@(spec|test).?(c|m)[jt]s?(x)",
+        "timeout": 45000,
+        "use": {
+          "baseURL": "http://127.0.0.1:3100",
+          "channel": "chrome",
+          "headless": true,
+          "screenshot": "only-on-failure",
+          "trace": "retain-on-failure",
+          "viewport": {
+            "width": 1440,
+            "height": 1000
+          }
+        },
+        "dependencies": [],
+        "ignoreSnapshots": false,
+        "__projectId": "desktop"
+      }
+    ],
+    "quiet": false,
+    "reporter": [
+      [
+        "list",
+        null
+      ],
+      [
+        "json",
+        {
+          "outputFile": "audit/thumbnail-fluidity-2026-11-13/browser-final.json"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 300000
+    },
+    "shard": null,
+    "tags": [],
+    "updateSnapshots": "default",
+    "updateSourceMethod": "patch",
+    "version": "1.64.1",
+    "workers": 2,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "hover-artwork.spec.ts",
+      "file": "hover-artwork.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "all 48 thumbnails retain their rendered image on hover at 1x density",
+          "ok": false,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 240000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 0,
+                  "parallelIndex": 0,
+                  "status": "timedOut",
+                  "duration": 240193,
+                  "error": {
+                    "message": "\u001b[31mTest timeout of 240000ms exceeded.\u001b[39m",
+                    "stack": "\u001b[31mTest timeout of 240000ms exceeded.\u001b[39m"
+                  },
+                  "errors": [
+                    {
+                      "message": "\u001b[31mTest timeout of 240000ms exceeded.\u001b[39m"
+                    },
+                    {
+                      "location": {
+                        "file": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests\\hover-artwork.spec.ts",
+                        "column": 17,
+                        "line": 62
+                      },
+                      "message": "Error: browserContext.close: Test ended.\nBrowser logs:\n\n<launching> C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,AvoidCorsURLLoaderRestartOnRedirect,Translate,AutoDeElevate,OptimizationHints,NetworkTimeServiceQuerying,AimEnabled,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --user-data-dir=C:\\Users\\lenovo\\AppData\\Local\\Temp\\playwright_chromiumdev_profile-sidbZn --remote-debugging-pipe --no-startup-window\n<launched> pid=6380\n[pid=6380] <gracefully close start>\n\n  60 |       expect(gpuErrors).toEqual([]);\n  61 |       await writeFile('audit/hover-texture-fix-2026-11-12/pixel-checks-' + density + 'x.json', JSON.stringify({ density, checked: results.length, gpuErrors, results }, null, 2));\n> 62 |     } finally { await context.close(); }\n     |                 ^\n  63 |   });\n  64 | }\n  65 |\n    at D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests\\hover-artwork.spec.ts:62:17"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-13T09:49:08.915Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\thumbnail-fluidity-2026-11-13\\test-results-final\\hover-artwork-all-48-thumb-9d3f3-mage-on-hover-at-1x-density-desktop\\test-failed-1.png"
+                    },
+                    {
+                      "name": "error-context",
+                      "contentType": "text/markdown",
+                      "path": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\thumbnail-fluidity-2026-11-13\\test-results-final\\hover-artwork-all-48-thumb-9d3f3-mage-on-hover-at-1x-density-desktop\\error-context.md"
+                    },
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\thumbnail-fluidity-2026-11-13\\test-results-final\\hover-artwork-all-48-thumb-9d3f3-mage-on-hover-at-1x-density-desktop\\trace.zip"
+                    }
+                  ]
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "ddab61d6690b07a09746-28a0dd58a1de151e8cfc",
+          "file": "hover-artwork.spec.ts",
+          "line": 44,
+          "column": 7
+        },
+        {
+          "title": "all 48 thumbnails retain their rendered image on hover at 2x density",
+          "ok": false,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 240000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 1,
+                  "parallelIndex": 1,
+                  "status": "failed",
+                  "duration": 128039,
+                  "error": {
+                    "message": "Error: Timeout 15000ms exceeded while waiting on the predicate",
+                    "stack": "Error: Timeout 15000ms exceeded while waiting on the predicate\n    at visibleHover (D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests\\hover-artwork.spec.ts:30:95)\n    at D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests\\hover-artwork.spec.ts:53:44",
+                    "location": {
+                      "file": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests\\hover-artwork.spec.ts",
+                      "column": 95,
+                      "line": 30
+                    },
+                    "snippet": "  28 |     return !reveal || getComputedStyle(reveal).opacity === '1';\n  29 |   })).toBe(true);\n> 30 |   await expect.poll(() => visual.locator('img').evaluate(el => getComputedStyle(el).opacity)).toBe('1');\n     |                                                                                               ^\n  31 |   const before = await pixels(await visual.screenshot());\n  32 |   const box = (await visual.boundingBox())!;\n  33 |   await page.mouse.move(box.x + box.width * .78, box.y + box.height * .38);"
+                  },
+                  "errors": [
+                    {
+                      "location": {
+                        "file": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests\\hover-artwork.spec.ts",
+                        "column": 95,
+                        "line": 30
+                      },
+                      "message": "Error: Timeout 15000ms exceeded while waiting on the predicate\n\n  28 |     return !reveal || getComputedStyle(reveal).opacity === '1';\n  29 |   })).toBe(true);\n> 30 |   await expect.poll(() => visual.locator('img').evaluate(el => getComputedStyle(el).opacity)).toBe('1');\n     |                                                                                               ^\n  31 |   const before = await pixels(await visual.screenshot());\n  32 |   const box = (await visual.boundingBox())!;\n  33 |   await page.mouse.move(box.x + box.width * .78, box.y + box.height * .38);\n    at visibleHover (D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests\\hover-artwork.spec.ts:30:95)\n    at D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests\\hover-artwork.spec.ts:53:44"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-13T09:49:08.939Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\thumbnail-fluidity-2026-11-13\\test-results-final\\hover-artwork-all-48-thumb-4829c-mage-on-hover-at-2x-density-desktop\\test-failed-1.png"
+                    },
+                    {
+                      "name": "error-context",
+                      "contentType": "text/markdown",
+                      "path": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\thumbnail-fluidity-2026-11-13\\test-results-final\\hover-artwork-all-48-thumb-4829c-mage-on-hover-at-2x-density-desktop\\error-context.md"
+                    },
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\thumbnail-fluidity-2026-11-13\\test-results-final\\hover-artwork-all-48-thumb-4829c-mage-on-hover-at-2x-density-desktop\\trace.zip"
+                    }
+                  ],
+                  "errorLocation": {
+                    "file": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests\\hover-artwork.spec.ts",
+                    "column": 95,
+                    "line": 30
+                  }
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "ddab61d6690b07a09746-9986026eb6852ee91a22",
+          "file": "hover-artwork.spec.ts",
+          "line": 44,
+          "column": 7
+        },
+        {
+          "title": "delayed texture loads retain the native image and cannot activate a card after pointer leave",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 15061,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-13T09:51:28.495Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "ddab61d6690b07a09746-3fe6b59462d3fc7601b3",
+          "file": "hover-artwork.spec.ts",
+          "line": 66,
+          "column": 5
+        },
+        {
+          "title": "a failed optional WebGL image request leaves the actual thumbnail visible",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 5314,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-13T09:51:44.013Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "ddab61d6690b07a09746-46d988f2ce1838662e00",
+          "file": "hover-artwork.spec.ts",
+          "line": 87,
+          "column": 5
+        }
+      ]
+    },
+    {
+      "title": "motion.spec.ts",
+      "file": "motion.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "hero words, scroll reveals, image masks and progress animate then settle",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 3666,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-13T09:51:49.706Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "472f259022e25a651642-0ec46dd142288dde5710",
+          "file": "motion.spec.ts",
+          "line": 4,
+          "column": 5
+        },
+        {
+          "title": "card hover stays bounded without distorting artwork and filtering keeps keyboard targets visible",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 15407,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-13T09:51:53.564Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "472f259022e25a651642-dafb68cfa1bd281ad5a2",
+          "file": "motion.spec.ts",
+          "line": 28,
+          "column": 5
+        },
+        {
+          "title": "live reduced motion, deep links and dialog navigation preserve readable content",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 5114,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-13T09:52:08.994Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "472f259022e25a651642-77ae9ca7cb73ad6fe472",
+          "file": "motion.spec.ts",
+          "line": 61,
+          "column": 5
+        },
+        {
+          "title": "the portfolio and detail content stay usable with JavaScript disabled",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 4743,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-13T09:52:14.130Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "472f259022e25a651642-155db0e0c0d083cbd747",
+          "file": "motion.spec.ts",
+          "line": 83,
+          "column": 5
+        },
+        {
+          "title": "back navigation restores a readable portfolio and complete metadata",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 4724,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-13T09:52:18.902Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "472f259022e25a651642-8d60fdd7cd8e209f79cd",
+          "file": "motion.spec.ts",
+          "line": 96,
+          "column": 5
+        }
+      ]
+    },
+    {
+      "title": "thumbnail-motion.spec.ts",
+      "file": "thumbnail-motion.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [
+        {
+          "title": "thumbnail handoff interpolates and rapid card changes preserve an animated exit",
+          "ok": false,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 2,
+                  "parallelIndex": 1,
+                  "status": "failed",
+                  "duration": 50935,
+                  "error": {
+                    "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoHaveAttribute\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nLocator:  locator('.portfolioWebgl')\nExpected: \u001b[32m\"paused\"\u001b[39m\nReceived: \u001b[31m\"running\"\u001b[39m\nTimeout:  15000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveAttribute\" locator('.portfolioWebgl') with timeout 15000ms\u001b[22m\n\u001b[2m  - waiting for locator('.portfolioWebgl')\u001b[22m\n\u001b[2m    2 × locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"936\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0351\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m      - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"942\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0356\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"954\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0364\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"960\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0368\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"990\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0384\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1020\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0395\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1092\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0395\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1134\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0377\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1164\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0358\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1194\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0334\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1224\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0302\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1254\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0264\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1284\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0225\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1308\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0192\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1362\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0105\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1404\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0037\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1452\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0042\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1482\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0090\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1518\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0145\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1548\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0193\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1590\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0252\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1614\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0286\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1674\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0347\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1704\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0369\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1734\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0387\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n",
+                    "stack": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoHaveAttribute\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nLocator:  locator('.portfolioWebgl')\nExpected: \u001b[32m\"paused\"\u001b[39m\nReceived: \u001b[31m\"running\"\u001b[39m\nTimeout:  15000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveAttribute\" locator('.portfolioWebgl') with timeout 15000ms\u001b[22m\n\u001b[2m  - waiting for locator('.portfolioWebgl')\u001b[22m\n\u001b[2m    2 × locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"936\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0351\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m      - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"942\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0356\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"954\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0364\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"960\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0368\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"990\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0384\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1020\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0395\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1092\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0395\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1134\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0377\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1164\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0358\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1194\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0334\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1224\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0302\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1254\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0264\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1284\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0225\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1308\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0192\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1362\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0105\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1404\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0037\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1452\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0042\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1482\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0090\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1518\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0145\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1548\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0193\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1590\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0252\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1614\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0286\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1674\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0347\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1704\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0369\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1734\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0387\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\n    at D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests\\thumbnail-motion.spec.ts:53:60",
+                    "location": {
+                      "file": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests\\thumbnail-motion.spec.ts",
+                      "column": 60,
+                      "line": 53
+                    },
+                    "snippet": "  51 |     requestAnimationFrame(sample);\n  52 |   }));\n> 53 |   await page.mouse.move(box.x + box.width * .8, box.y + box.height * .35);\n     |                                                            ^\n  54 |   const values = await capture;\n  55 |   expect(values.filter(v => v > .01 && v < .99).length).toBeGreaterThan(3);\n  56 |   expect(Math.max(...values.slice(1).map((v, i) => Math.abs(v - values[i])))).toBeLessThan(.55);"
+                  },
+                  "errors": [
+                    {
+                      "location": {
+                        "file": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests\\thumbnail-motion.spec.ts",
+                        "column": 60,
+                        "line": 53
+                      },
+                      "message": "Error: \u001b[2mexpect(\u001b[22m\u001b[31mlocator\u001b[39m\u001b[2m).\u001b[22mtoHaveAttribute\u001b[2m(\u001b[22m\u001b[32mexpected\u001b[39m\u001b[2m)\u001b[22m failed\n\nLocator:  locator('.portfolioWebgl')\nExpected: \u001b[32m\"paused\"\u001b[39m\nReceived: \u001b[31m\"running\"\u001b[39m\nTimeout:  15000ms\n\nCall log:\n\u001b[2m  - Expect \"toHaveAttribute\" locator('.portfolioWebgl') with timeout 15000ms\u001b[22m\n\u001b[2m  - waiting for locator('.portfolioWebgl')\u001b[22m\n\u001b[2m    2 × locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"936\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0351\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m      - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"942\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0356\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"954\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0364\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"960\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0368\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"990\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0384\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1020\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0395\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1092\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0395\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1134\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0377\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1164\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0358\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1194\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0334\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1224\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0302\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1254\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0264\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1284\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0225\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1308\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0192\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1362\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0105\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1404\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-expansion=\"0.0000\" data-hero-rotation=\"-0.0037\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1452\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0042\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1482\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0090\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1518\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0145\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1548\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0193\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1590\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0252\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1614\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0286\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1674\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0347\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1704\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0369\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\u001b[2m    - locator resolved to <canvas width=\"1440\" height=\"1000\" data-frame=\"1734\" aria-hidden=\"true\" data-engine=\"three\" data-assets=\"ready\" data-card-views=\"0\" data-pixel-ratio=\"1\" data-state=\"running\" data-hero-objects=\"5\" data-draw-calls=\"126\" class=\"portfolioWebgl\" data-triangles=\"31530\" data-hero-hover=\"false\" data-card-tilt=\"0.0000\" data-card-scale=\"0.9550\" data-card-blend=\"0.0011\" data-scene=\"uiux-ecosystem\" data-hero-rotation=\"0.0387\" data-hero-expansion=\"0.0000\" data-geometry=\"ExtrudeGeometry\"></canvas>\u001b[22m\n\u001b[2m    - unexpected value \"running\"\u001b[22m\n\n\n  51 |     requestAnimationFrame(sample);\n  52 |   }));\n> 53 |   await page.mouse.move(box.x + box.width * .8, box.y + box.height * .35);\n     |                                                            ^\n  54 |   const values = await capture;\n  55 |   expect(values.filter(v => v > .01 && v < .99).length).toBeGreaterThan(3);\n  56 |   expect(Math.max(...values.slice(1).map((v, i) => Math.abs(v - values[i])))).toBeLessThan(.55);\n    at D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests\\thumbnail-motion.spec.ts:53:60"
+                    }
+                  ],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-13T09:52:23.742Z",
+                  "annotations": [],
+                  "attachments": [
+                    {
+                      "name": "screenshot",
+                      "contentType": "image/png",
+                      "path": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\thumbnail-fluidity-2026-11-13\\test-results-final\\thumbnail-motion-thumbnail-470b7-s-preserve-an-animated-exit-desktop\\test-failed-1.png"
+                    },
+                    {
+                      "name": "error-context",
+                      "contentType": "text/markdown",
+                      "path": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\thumbnail-fluidity-2026-11-13\\test-results-final\\thumbnail-motion-thumbnail-470b7-s-preserve-an-animated-exit-desktop\\error-context.md"
+                    },
+                    {
+                      "name": "trace",
+                      "contentType": "application/zip",
+                      "path": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\audit\\thumbnail-fluidity-2026-11-13\\test-results-final\\thumbnail-motion-thumbnail-470b7-s-preserve-an-animated-exit-desktop\\trace.zip"
+                    }
+                  ],
+                  "errorLocation": {
+                    "file": "D:\\Clarigo_Portfolio_NextJS_Fixed\\clarigo-portfolio-redesign\\tests\\thumbnail-motion.spec.ts",
+                    "column": 60,
+                    "line": 53
+                  }
+                }
+              ],
+              "status": "unexpected"
+            }
+          ],
+          "id": "0c757ea4385507d9c445-8e48ac97bde0a21cf5d3",
+          "file": "thumbnail-motion.spec.ts",
+          "line": 18,
+          "column": 5
+        },
+        {
+          "title": "a warm thumbnail has intermediate crossfade frames without a one-frame visibility jump",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 3,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 7999,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-13T09:53:28.328Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "0c757ea4385507d9c445-6207e731f1090f3dcb23",
+          "file": "thumbnail-motion.spec.ts",
+          "line": 45,
+          "column": 5
+        },
+        {
+          "title": "touch and reduced-motion preferences retain stable readable thumbnails",
+          "ok": true,
+          "tags": [],
+          "tests": [
+            {
+              "timeout": 45000,
+              "annotations": [],
+              "expectedStatus": "passed",
+              "projectId": "desktop",
+              "projectName": "desktop",
+              "results": [
+                {
+                  "workerIndex": 3,
+                  "parallelIndex": 1,
+                  "status": "passed",
+                  "duration": 2626,
+                  "errors": [],
+                  "stdout": [],
+                  "stderr": [],
+                  "retry": 0,
+                  "startTime": "2026-11-13T09:53:36.825Z",
+                  "annotations": [],
+                  "attachments": []
+                }
+              ],
+              "status": "expected"
+            }
+          ],
+          "id": "0c757ea4385507d9c445-cf0c2133c9c44bb678e6",
+          "file": "thumbnail-motion.spec.ts",
+          "line": 61,
+          "column": 5
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2026-11-13T09:49:07.297Z",
+    "duration": 282251.318,
+    "expected": 9,
+    "skipped": 0,
+    "unexpected": 3,
+    "flaky": 0
+  }
+}
