@@ -136,13 +136,9 @@ export default function ScrollMotion() {
           });
         }
         const artwork = select('.caseVisual');
-        if (artwork.length) gsap.fromTo(artwork, { y: wide ? 26 : 14, scale: .975, opacity: .45, rotationX: wide ? 3 : 0 }, { y: 0, scale: 1, opacity: 1, rotationX: 0, duration: .95, delay: .08, ease: 'clarigo', clearProps: properties });
+        if (artwork.length) gsap.fromTo(artwork, { y: 12, opacity: .7 }, { y: 0, opacity: 1, duration: .5, delay: .08, ease: 'clarigo', clearProps: properties });
       } else { settleCounters(); if (document.querySelector('.heroCopy')) root.dataset.heroTimeline = 'complete'; }
-      // A few device frames receive depth; mobile retains stable, direct scrolling.
-      if (wide) select('.featureImageFrame, .solutionImageFrame, .deviceImageFrame').forEach(element => {
-        element.setAttribute('data-motion-parallax', '');
-        gsap.fromTo(element, { y: 9 }, { y: -9, ease: 'none', scrollTrigger: { trigger: element.parentElement, start: 'top bottom', end: 'bottom top', scrub: .65 } });
-      });
+      // Mockup frames stay stationary so native artwork remains neatly contained.
       if (progress.current) gsap.to(progress.current, { scaleX: 1, ease: 'none', scrollTrigger: { start: 0, end: 'max', scrub: .16 } });
 
       const focused = context.add('focused', (event: FocusEvent) => {

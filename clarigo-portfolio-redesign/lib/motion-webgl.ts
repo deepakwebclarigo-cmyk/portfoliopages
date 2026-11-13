@@ -36,7 +36,7 @@ function roundedTile(size: number, depth: number) {
 
 // A single renderer draws the hero and the currently hovered image through scissor views.
 // Original DOM images, names, links, and labels remain the source of truth.
-export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointer?: Pick<PointerEvent, 'target' | 'pointerType' | 'clientX' | 'clientY'>) {
+export function createPortfolioRenderer(canvas: HTMLCanvasElement) {
   const renderer = new THREE.WebGLRenderer({ canvas, alpha: true, antialias: true, powerPreference: 'high-performance' });
   renderer.setClearColor(0x000000, 0); renderer.autoClear = false;
   renderer.outputColorSpace = THREE.SRGBColorSpace;
@@ -283,7 +283,6 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointe
   function move(event: PointerEvent) {
     if (event.pointerType !== 'mouse' || !fine.matches || reduce.matches) return;
     pointerX = event.clientX; pointerY = event.clientY;
-    if (!card?.hovered && linkAt(event.target)) over(event);
     if (heroRect && heroVisible) {
       px = clamp((event.clientX - heroRect.left) / heroRect.width * 2 - 1, -1, 1); py = clamp((event.clientY - heroRect.top) / heroRect.height * 2 - 1, -1, 1);
       const inside = event.clientX > heroRect.left && event.clientX < heroRect.right && event.clientY > heroRect.top && event.clientY < heroRect.bottom;
@@ -321,14 +320,14 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointe
   }
   const gridObserver = new MutationObserver(() => { if (card) updateBounds(); });
   const grid = document.querySelector('.portfolioSection'); if (grid) gridObserver.observe(grid, { childList: true, subtree: true });
-  document.addEventListener('pointerover', over); document.addEventListener('pointermove', move, { passive: true }); document.addEventListener('pointerout', out);
+  // Pointer motion belongs to the hero; project artwork never enters this renderer.
+  document.addEventListener('pointermove', move, { passive: true }); document.addEventListener('pointerout', out);
   document.addEventListener('visibilitychange', visibility); window.addEventListener('resize', updateBounds, { passive: true }); window.addEventListener('scroll', updateBounds, { passive: true });
   document.addEventListener('focusin', handleFocus);
   window.addEventListener('blur', suspend); window.addEventListener('focus', resume); window.addEventListener('pagehide', hide); window.addEventListener('pageshow', resume);
   reduce.addEventListener('change', preference); fine.addEventListener('change', preference);
   canvas.addEventListener('webglcontextlost', lost); canvas.addEventListener('webglcontextrestored', restored);
   measure(); wake();
-  if (initialPointer && initialPointer.target instanceof Element && initialPointer.target.isConnected && initialPointer.target.closest('.caseVisual')?.matches(':hover')) over(initialPointer);
   showcase?.ready.then(() => {
     if (!alive) return;
     // Prepare physical-material shaders before the visible entrance clock starts.
@@ -341,7 +340,7 @@ export function createPortfolioRenderer(canvas: HTMLCanvasElement, initialPointe
   }).catch(() => { if (alive) canvas.dataset.assets = 'fallback'; });
   return () => {
     alive = false; if (frame) cancelAnimationFrame(frame); restoreCard(); if (hero) { delete hero.dataset.renderer; delete hero.dataset.threeState; }
-    document.removeEventListener('pointerover', over); document.removeEventListener('pointermove', move); document.removeEventListener('pointerout', out); document.removeEventListener('visibilitychange', visibility);
+    document.removeEventListener('pointermove', move); document.removeEventListener('pointerout', out); document.removeEventListener('visibilitychange', visibility);
     document.removeEventListener('focusin', handleFocus); gridObserver.disconnect();
     window.removeEventListener('resize', updateBounds); window.removeEventListener('scroll', updateBounds); window.removeEventListener('blur', suspend); window.removeEventListener('focus', resume); window.removeEventListener('pagehide', hide); window.removeEventListener('pageshow', resume);
     reduce.removeEventListener('change', preference); fine.removeEventListener('change', preference); canvas.removeEventListener('webglcontextlost', lost); canvas.removeEventListener('webglcontextrestored', restored);

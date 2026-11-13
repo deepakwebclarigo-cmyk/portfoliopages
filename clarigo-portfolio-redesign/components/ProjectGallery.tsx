@@ -1,7 +1,7 @@
 'use client';
 
 import Image from 'next/image';
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState, type CSSProperties } from 'react';
 import { ArrowLeft, ArrowRight, Expand, X } from 'lucide-react';
 import { motion, useReducedMotion } from 'framer-motion';
 import type { ProjectAsset } from '../lib/projects';
@@ -36,11 +36,10 @@ export default function ProjectGallery({ images, name, kind }: { images: Project
       <div className={`projectGallery ${kind === 'mobile' ? 'mobileGallery' : 'webGallery'} ${images.length === 1 ? 'singleImageGallery' : ''} ${images.length === 1 && images[0].height > images[0].width ? 'singlePortraitGallery' : ''}`}>
         {images.map((asset, index) => (
           <figure key={asset.src}>
-            <button className={'galleryOpen' + (asset.role === 'composition' && asset.width > asset.height ? ' galleryComposition' : '')} type="button" onClick={(event) => open(index, event.currentTarget)} aria-label={asset.label ? "Expand " + name + " " + asset.label.toLowerCase() : `Expand ${name} interface view ${index + 1}`}>
+            <button className={'galleryOpen' + (asset.role === 'composition' && asset.width > asset.height ? ' galleryComposition' : '')} style={{ '--image-ratio': asset.width / asset.height } as CSSProperties} type="button" onClick={(event) => open(index, event.currentTarget)} aria-label={asset.label ? "Expand " + name + " " + asset.label.toLowerCase() : `Expand ${name} interface view ${index + 1}`}>
               <Image src={asset.src} unoptimized alt={asset.description ?? `${name} — ${asset.role === 'screen' ? 'interface screen' : 'design composition'} ${index + 1}`} width={asset.width} height={asset.height} sizes="(max-width: 700px) 90vw, (max-width: 1000px) 45vw, 30vw" />
-              <span className="galleryExpand" aria-hidden="true"><Expand size={17} /></span>
             </button>
-            <figcaption><span>{asset.label?.toUpperCase() ?? (asset.role === 'screen' ? 'INTERFACE SCREEN' : 'DESIGN COMPOSITION')}</span><span>{String(index + 1).padStart(2, '0')}</span></figcaption>
+            <figcaption><span>{asset.label?.toUpperCase() ?? (asset.role === 'screen' ? 'INTERFACE SCREEN' : 'DESIGN COMPOSITION')}</span><span className="galleryFigureAction"><Expand size={15} aria-hidden="true" />{String(index + 1).padStart(2, '0')}</span></figcaption>
           </figure>
         ))}
       </div>

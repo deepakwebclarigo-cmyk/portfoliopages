@@ -9,7 +9,7 @@ export default function ProjectVisual({
   large = false,
   priority = false,
 }: {
-  project: Pick<Project, 'name' | 'image' | 'thumbnail' | 'thumbnailBackground' | 'accent'>;
+  project: Pick<Project, 'name' | 'image' | 'thumbnail' | 'thumbnailBackground' | 'accent'> & { artwork?: Pick<Project['artwork'], 'width' | 'height'> };
   large?: boolean;
   priority?: boolean;
 }) {
@@ -36,7 +36,7 @@ export default function ProjectVisual({
             unoptimized
             style={{ objectFit: 'contain', objectPosition: 'center' }}
             alt={project.name + ' — ' + (large ? 'original project artwork' : 'portfolio thumbnail')}
-            fill
+            {...(large && project.artwork ? { width: project.artwork.width, height: project.artwork.height } : { fill: true })}
             sizes={sizes}
             priority={priority && !large}
             loading={priority ? 'eager' : undefined}
