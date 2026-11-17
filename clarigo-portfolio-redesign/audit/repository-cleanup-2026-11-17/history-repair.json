@@ -1,0 +1,71 @@
+{
+  "base": "d70656335c02d498c3a8da7d88ce75869bc3b52c",
+  "before": "becbdd5faad1838b6d9dab8cc5e0ae75330b2f08",
+  "candidate": "refs/heads/maintenance/clean-history-2026-11-17",
+  "tip": "e71b378ff0635bad487b1818821d6dc162045f0b",
+  "commitCount": 12,
+  "entries": [
+    {
+      "old": "68234113864b6f78d5786deba5943cfa20126635",
+      "next": "8ffc0ced968257abe46e6197656a819435be0daa",
+      "removedGeneratedPaths": 3415
+    },
+    {
+      "old": "94ee767fc9d17571e6be9dd4adeb8ad5509d871c",
+      "next": "486a902eb953c72111289ec15cbe9fc12a445e2b",
+      "removedGeneratedPaths": 3415
+    },
+    {
+      "old": "9a8df77c7c8e18c3ef9ca33b411b72b3cd39898a",
+      "next": "9b8ea75940339fea19f5ec44195c57dec15584a1",
+      "removedGeneratedPaths": 3478
+    },
+    {
+      "old": "b979497de91440f6bf983ab3ab5a821a36ac1d7c",
+      "next": "3e99480cd2dd9b26b4470660a188261554ef332d",
+      "removedGeneratedPaths": 3492
+    },
+    {
+      "old": "90232341e1add5d4bd052b08f8bb23b509c53f37",
+      "next": "904f6cfface282939382ab2ab619b84b3c5680a7",
+      "removedGeneratedPaths": 3518
+    },
+    {
+      "old": "a36d688420e1ff974f448418757ea0acf11d77dd",
+      "next": "4fd43a6a2b0efd932f4ac66fbd531c53fd257e65",
+      "removedGeneratedPaths": 3525
+    },
+    {
+      "old": "5d483b492966a25c7a99ec1ecdbe214fd548700f",
+      "next": "ebfb1447ecc1f8995900cc139e1f1c0509fbba3a",
+      "removedGeneratedPaths": 3525
+    },
+    {
+      "old": "ed45b50b9b281c7eb152c8ab315bda5ece2fad3a",
+      "next": "404b69188d7ba6852c170de954ca06f5a038a073",
+      "removedGeneratedPaths": 4105
+    },
+    {
+      "old": "0127a883faf43f16f90ab7910da14f36b7a7f8f8",
+      "next": "d21032b16e915b1b0c42e28eabb4ec99422d50db",
+      "removedGeneratedPaths": 5724
+    },
+    {
+      "old": "1f4d405554499b0027b4f739d456375099234665",
+      "next": "cfe71969ff66cffb1e8f5f4f4d4cb995b5f1b25d",
+      "removedGeneratedPaths": 5725
+    },
+    {
+      "old": "96441e1bb5b2ec9a4648e609c479548132cfe046",
+      "next": "828b5cbdbb19819e865ccb25c03fd6f7b5b6a6cc",
+      "removedGeneratedPaths": 68
+    },
+    {
+      "old": "becbdd5faad1838b6d9dab8cc5e0ae75330b2f08",
+      "next": "e71b378ff0635bad487b1818821d6dc162045f0b",
+      "removedGeneratedPaths": 68
+    }
+  ],
+  "publishedHistoryUnchanged": true,
+  "onlyGeneratedFilesRemoved": true
+}

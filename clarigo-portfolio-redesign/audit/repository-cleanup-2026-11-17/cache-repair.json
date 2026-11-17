@@ -1,0 +1,12 @@
+[
+  {
+    "path": ".next-production/cache",
+    "missingTarget": "C:\\Users\\lenovo\\AppData\\Local\\Temp\\clarigo-production-cache-5de14b9239f643418d5ffd9f4e1919a8",
+    "action": "replaced broken link with local cache directory"
+  },
+  {
+    "path": "audit/thumbnail-fluidity-2026-11-13/test-results-final",
+    "missingTarget": "C:\\Users\\lenovo\\AppData\\Local\\Temp\\clarigo-test-artifacts-c0aa2d3f48564cd980c08ed8295e40d0",
+    "action": "removed dangling test-artifact link"
+  }
+]

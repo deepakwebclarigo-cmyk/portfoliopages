@@ -140,3 +140,11 @@ The hover tests verify every project at 1x and 2x density, including related car
 ## Mockup fitting and responsive presentation
 
 Project hero images use intrinsic dimensions with consistent insets. Thumbnail frames match the 1600 x 1325 source canvas, and gallery frames adapt to each image ratio. Artwork captions and expand controls sit outside the mockups. Tablet case heroes stack before the image becomes too small. The image viewer uses a bounded grid so its toolbar and complete image fit together at every viewport. Mockup parallax and pointer-driven image rendering are disabled; the main Three.js hero is retained and reinitializes correctly across route navigation. Project content, original artwork and palettes are preserved. Verification and cache-relocation evidence are in `audit/mockup-fit-2026-11-13/`.
+
+## Repository cleanup and Git recovery
+
+The 2026-11-17 cleanup removed obsolete build snapshots, reproducible test traces and OCR inputs, the redundant FFmpeg download ZIP, and a packaged export with byte-identical retained files. Unique archive contents, source artwork, working video tools, all public assets, and unpacked exports are retained. The audit under `audit/repository-cleanup-2026-11-17/` records the deleted files and verifies protected file hashes.
+
+Generated verification output, local binaries, and packaged ZIP exports are excluded from Git. Historical source assets, renderer plans, authoring scripts, production images, and unpacked deliverables remain available. The video renderer still uses the retained local FFmpeg/FFprobe executables; these tools must be installed separately on a fresh checkout. Recreate disposable test evidence with the existing verification scripts.
+
+A broken temporary-folder cache junction was replaced by a normal local `.next-production/cache` directory. Production and development builds continue using separate output directories. The pre-cleanup Git history and local changes are recoverable from verified bundles in `C:/Users/lenovo/Downloads/Clarigo-Git-Backup-2026-11-17/` on this workstation. Only unpublished commits are repaired; the published ancestor is preserved, so the repaired branch supports a normal fast-forward push.
