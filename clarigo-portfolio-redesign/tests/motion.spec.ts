@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 import inventory from '../lib/project-inventory.json';
 
-test('hero words, scroll reveals, image masks and progress animate then settle', async ({ page }, info) => {
+test('hero words, scroll reveals, image masks and progress animate then settle', async ({ page }) => {
   await page.addInitScript(() => {
     (window as typeof window & { wordEntrances: number }).wordEntrances = 0;
     document.addEventListener('animationstart', event => { if ((event as AnimationEvent).animationName === 'clarigoWordIn') (window as typeof window & { wordEntrances: number }).wordEntrances++; });
@@ -21,8 +21,7 @@ test('hero words, scroll reveals, image masks and progress animate then settle',
   expect(samples.some(value => value > 0 && value < 1)).toBe(true);
   await expect.poll(() => first.evaluate(el => ({ opacity: getComputedStyle(el).opacity, clip: getComputedStyle(el).clipPath, promotion: getComputedStyle(el).willChange })) ).toEqual({ opacity: '1', clip: 'none', promotion: 'auto' });
   expect(await page.locator('.portfolioProgress').evaluate(el => new DOMMatrixReadOnly(getComputedStyle(el).transform).a)).toBeGreaterThan(0);
-  if (info.project.name === 'desktop') expect(await page.locator('[data-motion-parallax]').count()).toBeGreaterThan(0);
-  else await expect(page.locator('[data-motion-parallax]')).toHaveCount(0);
+  await expect(page.locator('[data-motion-parallax]')).toHaveCount(0);
 });
 
 test('card hover stays bounded without distorting artwork and filtering keeps keyboard targets visible', async ({ page }, info) => {

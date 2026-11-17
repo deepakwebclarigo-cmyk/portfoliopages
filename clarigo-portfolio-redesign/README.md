@@ -133,6 +133,10 @@ The checkpoint, responsive geometry comparisons, hover checks, contrast evidence
 
 ## Simple thumbnail interaction
 
-Listing and related thumbnails always use their native images. Three.js image handoffs, tilt, zoom and opacity switching are disabled for these cards. A 250ms fade, 2px card lift and soft shadow/color transitions provide the only thumbnail motion. Reduced-motion preferences disable these effects. The existing hero and large case artwork retain their own rendering. Project artwork, palettes, layout and image fitting are preserved.
+Listing and related thumbnails always use their native images. Three.js image handoffs, tilt, zoom and opacity switching are disabled for these cards. A 250ms fade, 2px card lift and soft shadow/color transitions provide the only thumbnail motion. Reduced-motion preferences disable these effects. Three.js rendering is reserved for the main hero; project artwork remains native and stationary. Project artwork, palettes, layout and image fitting are preserved.
 
 The hover tests verify every project at 1x and 2x density, including related cards, and check that native images never change source, opacity or transform during hover. The earlier tablet case-fragment reveal-readiness fix is retained. Current verification is in audit/thumbnail-simple-2026-11-13/.
+
+## Mockup fitting and responsive presentation
+
+Project hero images use intrinsic dimensions with consistent insets. Thumbnail frames match the 1600 x 1325 source canvas, and gallery frames adapt to each image ratio. Artwork captions and expand controls sit outside the mockups. Tablet case heroes stack before the image becomes too small. The image viewer uses a bounded grid so its toolbar and complete image fit together at every viewport. Mockup parallax and pointer-driven image rendering are disabled; the main Three.js hero is retained and reinitializes correctly across route navigation. Project content, original artwork and palettes are preserved. Verification and cache-relocation evidence are in `audit/mockup-fit-2026-11-13/`.

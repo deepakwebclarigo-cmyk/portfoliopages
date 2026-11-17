@@ -3,7 +3,7 @@
 .caseVisual { background: var(--project-color, #f1f0f7); }
 .visualLarge { aspect-ratio: auto; padding: clamp(12px, 1.4vw, 20px); }
 .visualLarge .visualPicture { position: relative; inset: auto; height: auto; }
-.visualLarge img { position: static !important; width: 100% !important; height: auto !important; max-width: 100%; transform: none !important; opacity: 1 !important; transition: none !important; }
+.caseVisual .visualLarge img, .visualLarge img { position: static !important; width: 100% !important; height: auto !important; max-width: 100%; transform: none !important; opacity: 1 !important; transition: none !important; }
 .visualCaption { position: relative; inset: auto; display: inline-flex; margin: 0 16px 12px; max-width: calc(100% - 32px); }
 .featureImageFrame, .solutionImageFrame, .deviceImageFrame { max-width: 100%; min-width: 0; }
 .featureArtwork img, .solutionArtwork img, .devicePresentation img { object-fit: contain; transform: none !important; }
@@ -13,8 +13,10 @@
 .galleryFigureAction { display: inline-flex; align-items: center; gap: 8px; flex-shrink: 0; }
 .projectGallery figcaption { align-items: center; gap: 12px; }
 .projectGallery figcaption>span:first-child { min-width: 0; overflow-wrap: anywhere; }
-.galleryDialogImageFrame { width: 100%; }
-.galleryDialogImage img { max-width: 100%; object-fit: contain; }
+.galleryDialog[open] { display: grid; grid-template-rows: auto minmax(0, 1fr); height: min(880px, calc(100dvh - 32px)); }
+.galleryDialogImage { min-width: 0; min-height: 0; }
+.galleryDialogImageFrame { width: 100%; height: 100%; min-width: 0; min-height: 0; }
+.galleryDialogImage img { width: 100%; height: 100%; max-width: 100%; max-height: 100%; object-fit: contain; }
 .projectLink, .relatedCard, .featureColumn article>div, .caseBody { min-width: 0; }
 .projectInfo h3, .projectSummary, .featureColumn h3, .featureColumn p { overflow-wrap: anywhere; }
 .caseNav a { min-height: 44px; }

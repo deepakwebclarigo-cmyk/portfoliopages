@@ -1,0 +1,736 @@
+{
+  "pages": 48,
+  "responsivePageChecks": 144,
+  "widths": [
+    1440,
+    768,
+    390
+  ],
+  "imageFitObservations": 1584,
+  "viewerChecks": 9,
+  "artworkAndThemesUnchanged": true,
+  "sourceImagesPreserved": true,
+  "browserErrors": [],
+  "results": [
+    {
+      "slug": "livsocial",
+      "width": 1440,
+      "images": 12
+    },
+    {
+      "slug": "streamdexa",
+      "width": 1440,
+      "images": 12
+    },
+    {
+      "slug": "little-butterflies",
+      "width": 1440,
+      "images": 11
+    },
+    {
+      "slug": "tukora-connect",
+      "width": 1440,
+      "images": 12
+    },
+    {
+      "slug": "beliri",
+      "width": 1440,
+      "images": 12
+    },
+    {
+      "slug": "printlific",
+      "width": 1440,
+      "images": 12
+    },
+    {
+      "slug": "nerdrabbit",
+      "width": 1440,
+      "images": 5
+    },
+    {
+      "slug": "paranest",
+      "width": 1440,
+      "images": 12
+    },
+    {
+      "slug": "glocal-expert",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "mercury-mailroom",
+      "width": 1440,
+      "images": 13
+    },
+    {
+      "slug": "umeed",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "alumvia",
+      "width": 1440,
+      "images": 11
+    },
+    {
+      "slug": "kegeltempo",
+      "width": 1440,
+      "images": 12
+    },
+    {
+      "slug": "rallybridge",
+      "width": 1440,
+      "images": 11
+    },
+    {
+      "slug": "network-capital",
+      "width": 1440,
+      "images": 11
+    },
+    {
+      "slug": "whizlume",
+      "width": 1440,
+      "images": 12
+    },
+    {
+      "slug": "estrata",
+      "width": 1440,
+      "images": 11
+    },
+    {
+      "slug": "been-there",
+      "width": 1440,
+      "images": 11
+    },
+    {
+      "slug": "leadforma",
+      "width": 1440,
+      "images": 5
+    },
+    {
+      "slug": "app-livsocial",
+      "width": 1440,
+      "images": 5
+    },
+    {
+      "slug": "app-simplyscouted",
+      "width": 1440,
+      "images": 11
+    },
+    {
+      "slug": "app-infinote",
+      "width": 1440,
+      "images": 11
+    },
+    {
+      "slug": "app-silaflow",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "app-habitstride",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "app-tukora-connect",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "app-pace-of-play",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "app-qcop-app",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "app-little-butterflies",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "app-case-management-ase",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "app-printlific",
+      "width": 1440,
+      "images": 11
+    },
+    {
+      "slug": "app-racepace",
+      "width": 1440,
+      "images": 11
+    },
+    {
+      "slug": "app-been-there",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "app-pantryone",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "app-escapethehoa",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "app-dateflow",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "app-meravyaah",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "app-beliri",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "app-fynmate",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "app-streetslate",
+      "width": 1440,
+      "images": 12
+    },
+    {
+      "slug": "app-ummed",
+      "width": 1440,
+      "images": 11
+    },
+    {
+      "slug": "app-bubble",
+      "width": 1440,
+      "images": 10
+    },
+    {
+      "slug": "app-kegeltempo",
+      "width": 1440,
+      "images": 11
+    },
+    {
+      "slug": "app-heartsync",
+      "width": 1440,
+      "images": 9
+    },
+    {
+      "slug": "app-supplement-management",
+      "width": 1440,
+      "images": 9
+    },
+    {
+      "slug": "app-strivaro",
+      "width": 1440,
+      "images": 15
+    },
+    {
+      "slug": "app-axorabid",
+      "width": 1440,
+      "images": 17
+    },
+    {
+      "slug": "axorabid",
+      "width": 1440,
+      "images": 20
+    },
+    {
+      "slug": "app-calivora",
+      "width": 1440,
+      "images": 20
+    },
+    {
+      "slug": "livsocial",
+      "width": 768,
+      "images": 12
+    },
+    {
+      "slug": "streamdexa",
+      "width": 768,
+      "images": 12
+    },
+    {
+      "slug": "little-butterflies",
+      "width": 768,
+      "images": 11
+    },
+    {
+      "slug": "tukora-connect",
+      "width": 768,
+      "images": 12
+    },
+    {
+      "slug": "beliri",
+      "width": 768,
+      "images": 12
+    },
+    {
+      "slug": "printlific",
+      "width": 768,
+      "images": 12
+    },
+    {
+      "slug": "nerdrabbit",
+      "width": 768,
+      "images": 5
+    },
+    {
+      "slug": "paranest",
+      "width": 768,
+      "images": 12
+    },
+    {
+      "slug": "glocal-expert",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "mercury-mailroom",
+      "width": 768,
+      "images": 13
+    },
+    {
+      "slug": "umeed",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "alumvia",
+      "width": 768,
+      "images": 11
+    },
+    {
+      "slug": "kegeltempo",
+      "width": 768,
+      "images": 12
+    },
+    {
+      "slug": "rallybridge",
+      "width": 768,
+      "images": 11
+    },
+    {
+      "slug": "network-capital",
+      "width": 768,
+      "images": 11
+    },
+    {
+      "slug": "whizlume",
+      "width": 768,
+      "images": 12
+    },
+    {
+      "slug": "estrata",
+      "width": 768,
+      "images": 11
+    },
+    {
+      "slug": "been-there",
+      "width": 768,
+      "images": 11
+    },
+    {
+      "slug": "leadforma",
+      "width": 768,
+      "images": 5
+    },
+    {
+      "slug": "app-livsocial",
+      "width": 768,
+      "images": 5
+    },
+    {
+      "slug": "app-simplyscouted",
+      "width": 768,
+      "images": 11
+    },
+    {
+      "slug": "app-infinote",
+      "width": 768,
+      "images": 11
+    },
+    {
+      "slug": "app-silaflow",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "app-habitstride",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "app-tukora-connect",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "app-pace-of-play",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "app-qcop-app",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "app-little-butterflies",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "app-case-management-ase",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "app-printlific",
+      "width": 768,
+      "images": 11
+    },
+    {
+      "slug": "app-racepace",
+      "width": 768,
+      "images": 11
+    },
+    {
+      "slug": "app-been-there",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "app-pantryone",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "app-escapethehoa",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "app-dateflow",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "app-meravyaah",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "app-beliri",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "app-fynmate",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "app-streetslate",
+      "width": 768,
+      "images": 12
+    },
+    {
+      "slug": "app-ummed",
+      "width": 768,
+      "images": 11
+    },
+    {
+      "slug": "app-bubble",
+      "width": 768,
+      "images": 10
+    },
+    {
+      "slug": "app-kegeltempo",
+      "width": 768,
+      "images": 11
+    },
+    {
+      "slug": "app-heartsync",
+      "width": 768,
+      "images": 9
+    },
+    {
+      "slug": "app-supplement-management",
+      "width": 768,
+      "images": 9
+    },
+    {
+      "slug": "app-strivaro",
+      "width": 768,
+      "images": 15
+    },
+    {
+      "slug": "app-axorabid",
+      "width": 768,
+      "images": 17
+    },
+    {
+      "slug": "axorabid",
+      "width": 768,
+      "images": 20
+    },
+    {
+      "slug": "app-calivora",
+      "width": 768,
+      "images": 20
+    },
+    {
+      "slug": "livsocial",
+      "width": 390,
+      "images": 12
+    },
+    {
+      "slug": "streamdexa",
+      "width": 390,
+      "images": 12
+    },
+    {
+      "slug": "little-butterflies",
+      "width": 390,
+      "images": 11
+    },
+    {
+      "slug": "tukora-connect",
+      "width": 390,
+      "images": 12
+    },
+    {
+      "slug": "beliri",
+      "width": 390,
+      "images": 12
+    },
+    {
+      "slug": "printlific",
+      "width": 390,
+      "images": 12
+    },
+    {
+      "slug": "nerdrabbit",
+      "width": 390,
+      "images": 5
+    },
+    {
+      "slug": "paranest",
+      "width": 390,
+      "images": 12
+    },
+    {
+      "slug": "glocal-expert",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "mercury-mailroom",
+      "width": 390,
+      "images": 13
+    },
+    {
+      "slug": "umeed",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "alumvia",
+      "width": 390,
+      "images": 11
+    },
+    {
+      "slug": "kegeltempo",
+      "width": 390,
+      "images": 12
+    },
+    {
+      "slug": "rallybridge",
+      "width": 390,
+      "images": 11
+    },
+    {
+      "slug": "network-capital",
+      "width": 390,
+      "images": 11
+    },
+    {
+      "slug": "whizlume",
+      "width": 390,
+      "images": 12
+    },
+    {
+      "slug": "estrata",
+      "width": 390,
+      "images": 11
+    },
+    {
+      "slug": "been-there",
+      "width": 390,
+      "images": 11
+    },
+    {
+      "slug": "leadforma",
+      "width": 390,
+      "images": 5
+    },
+    {
+      "slug": "app-livsocial",
+      "width": 390,
+      "images": 5
+    },
+    {
+      "slug": "app-simplyscouted",
+      "width": 390,
+      "images": 11
+    },
+    {
+      "slug": "app-infinote",
+      "width": 390,
+      "images": 11
+    },
+    {
+      "slug": "app-silaflow",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "app-habitstride",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "app-tukora-connect",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "app-pace-of-play",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "app-qcop-app",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "app-little-butterflies",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "app-case-management-ase",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "app-printlific",
+      "width": 390,
+      "images": 11
+    },
+    {
+      "slug": "app-racepace",
+      "width": 390,
+      "images": 11
+    },
+    {
+      "slug": "app-been-there",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "app-pantryone",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "app-escapethehoa",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "app-dateflow",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "app-meravyaah",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "app-beliri",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "app-fynmate",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "app-streetslate",
+      "width": 390,
+      "images": 12
+    },
+    {
+      "slug": "app-ummed",
+      "width": 390,
+      "images": 11
+    },
+    {
+      "slug": "app-bubble",
+      "width": 390,
+      "images": 10
+    },
+    {
+      "slug": "app-kegeltempo",
+      "width": 390,
+      "images": 11
+    },
+    {
+      "slug": "app-heartsync",
+      "width": 390,
+      "images": 9
+    },
+    {
+      "slug": "app-supplement-management",
+      "width": 390,
+      "images": 9
+    },
+    {
+      "slug": "app-strivaro",
+      "width": 390,
+      "images": 15
+    },
+    {
+      "slug": "app-axorabid",
+      "width": 390,
+      "images": 17
+    },
+    {
+      "slug": "axorabid",
+      "width": 390,
+      "images": 20
+    },
+    {
+      "slug": "app-calivora",
+      "width": 390,
+      "images": 20
+    }
+  ]
+}
