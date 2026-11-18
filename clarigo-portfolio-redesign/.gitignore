@@ -35,3 +35,7 @@ audit/**/*.jpeg
 audit/**/*.gif
 audit/**/*.avif
 audit/**/*.mp4
+
+# Organized local review artwork; production images and exports retain their URLs.
+asset-library/**
+!asset-library/README.md

@@ -1,0 +1,12 @@
+{
+  "logoRecords": 84,
+  "allLogoReferencesByteIdentical": true,
+  "authoringImageSources": 18,
+  "allAuthoringSourcesExist": true,
+  "applicationLayoutUnchanged": true,
+  "historicalColorAudit": {
+    "status": "pre-existing baseline mismatch",
+    "file": "app/layout.tsx",
+    "reason": "The color-only checkpoint predates approved later layout work; this file is unchanged from the pre-organization commit."
+  }
+}

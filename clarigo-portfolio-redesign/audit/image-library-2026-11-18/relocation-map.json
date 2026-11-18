@@ -1,0 +1,2618 @@
+[
+  {
+    "oldPath": "audit/app-bubble-identity.png",
+    "path": "asset-library/reviews/projects/app-bubble/general/app-bubble-identity.png",
+    "sha256": "69b2500ed096a416c90f4fb6b53f82e1510b0f5870939d9cbd30c4deda171105",
+    "project": "app-bubble"
+  },
+  {
+    "oldPath": "audit/app-fynmate-identity.png",
+    "path": "asset-library/reviews/projects/app-fynmate/general/app-fynmate-identity.png",
+    "sha256": "b563870be8cebf452b4b162437905606b6a318c17d264a2e41d1d38ba6b16d5d",
+    "project": "app-fynmate"
+  },
+  {
+    "oldPath": "audit/app-infinote-identity.png",
+    "path": "asset-library/reviews/projects/app-infinote/general/app-infinote-identity.png",
+    "sha256": "a2b4ff62777f83646d50b7e6137aa174a7ef7a4c7e7a8efeec0ff5b4621b4b8f",
+    "project": "app-infinote"
+  },
+  {
+    "oldPath": "audit/app-simply-recruited-identity.png",
+    "path": "asset-library/reviews/projects/app-simplyscouted/general/app-simply-recruited-identity.png",
+    "sha256": "9b722429476fb1db8baf90a59ea5d4539f2cf2ccd033a536eb3b6e4c266d9a1a",
+    "project": "app-simplyscouted"
+  },
+  {
+    "oldPath": "audit/axorabid-project-2026-11-12/card-hover-1x.png",
+    "path": "asset-library/reviews/by-phase/axorabid-project-2026-11-12/card-hover-1x.png",
+    "sha256": "ba748a370a627258647b68b872fcd5bc7039d066f68afc3f5d7c641959ae0c06",
+    "project": null
+  },
+  {
+    "oldPath": "audit/axorabid-project-2026-11-12/card-hover-2x.png",
+    "path": "asset-library/reviews/by-phase/axorabid-project-2026-11-12/card-hover-2x.png",
+    "sha256": "cfd16940553edb5347bc2d9e51d75361c14cb45e1efe6ecc8aa6d0eee159eba7",
+    "project": null
+  },
+  {
+    "oldPath": "audit/axorabid-project-2026-11-12/detail-desktop-1x.png",
+    "path": "asset-library/reviews/by-phase/axorabid-project-2026-11-12/detail-desktop-1x.png",
+    "sha256": "4ced7c2341e0be23bd7356c89913c21e9da441ca3bb2f214e9901288fbae1901",
+    "project": null
+  },
+  {
+    "oldPath": "audit/axorabid-project-2026-11-12/detail-desktop-2x.png",
+    "path": "asset-library/reviews/by-phase/axorabid-project-2026-11-12/detail-desktop-2x.png",
+    "sha256": "5a80420c05372f475b6f4973cf298bc895fbc7748924db898d4e19a38d73522d",
+    "project": null
+  },
+  {
+    "oldPath": "audit/axorabid-project-2026-11-12/detail-mobile.png",
+    "path": "asset-library/reviews/by-phase/axorabid-project-2026-11-12/detail-mobile.png",
+    "sha256": "e150528f49af9e1529df71924f0c3f631707bbe25ca502b5b7565cbde142ba91",
+    "project": null
+  },
+  {
+    "oldPath": "audit/axorabid-project-2026-11-12/detail-tablet.png",
+    "path": "asset-library/reviews/by-phase/axorabid-project-2026-11-12/detail-tablet.png",
+    "sha256": "f5b2c922895d2acf61733103d9e896a5f36ae2c89d5850ac053e8239442ef7e1",
+    "project": null
+  },
+  {
+    "oldPath": "audit/axorabid-project-2026-11-12/onboarding-grid.png",
+    "path": "asset-library/reviews/by-phase/axorabid-project-2026-11-12/onboarding-grid.png",
+    "sha256": "05f9c678a8a39f72804978717ac4184c65d0b7c8d76d3d8b85f828d9070997e4",
+    "project": null
+  },
+  {
+    "oldPath": "audit/axorabid-web-2026-11-12/card-hover-1x.png",
+    "path": "asset-library/reviews/by-phase/axorabid-web-2026-11-12/card-hover-1x.png",
+    "sha256": "87edee44c0f84a37d874713c038ccf07c454d044307cfd09caa207178f7a202e",
+    "project": null
+  },
+  {
+    "oldPath": "audit/axorabid-web-2026-11-12/card-hover-2x.png",
+    "path": "asset-library/reviews/by-phase/axorabid-web-2026-11-12/card-hover-2x.png",
+    "sha256": "12269183395bebe63e2072c355d8df3f5f1958a5487d8c1a7513bd95f84fe1cf",
+    "project": null
+  },
+  {
+    "oldPath": "audit/axorabid-web-2026-11-12/detail-desktop-1x.png",
+    "path": "asset-library/reviews/by-phase/axorabid-web-2026-11-12/detail-desktop-1x.png",
+    "sha256": "8686ace7cf084d43d3ee0af8419366c0f73acdd91d560e41fa2ce7898bfa65ce",
+    "project": null
+  },
+  {
+    "oldPath": "audit/axorabid-web-2026-11-12/detail-desktop-2x.png",
+    "path": "asset-library/reviews/by-phase/axorabid-web-2026-11-12/detail-desktop-2x.png",
+    "sha256": "d49d6a944ae195d7970a4ba02efec171eff7d61194665833d09c0ab188d3d954",
+    "project": null
+  },
+  {
+    "oldPath": "audit/axorabid-web-2026-11-12/detail-mobile.png",
+    "path": "asset-library/reviews/by-phase/axorabid-web-2026-11-12/detail-mobile.png",
+    "sha256": "5d37a7452d9ae9b137124fbb3322c1127e40faca89034ac695883ec5da9f7b74",
+    "project": null
+  },
+  {
+    "oldPath": "audit/axorabid-web-2026-11-12/detail-tablet.png",
+    "path": "asset-library/reviews/by-phase/axorabid-web-2026-11-12/detail-tablet.png",
+    "sha256": "4762b8a0cdd6090b510707e2eae10a6b0fe82bb642ba611433d1119b46aad950",
+    "project": null
+  },
+  {
+    "oldPath": "audit/axorabid-web-2026-11-12/final-download-review.png",
+    "path": "asset-library/reviews/by-phase/axorabid-web-2026-11-12/final-download-review.png",
+    "sha256": "149039063b0e4454f86bf99e6d138351bccd5cbe9414b185c4f39903b4ee4ba8",
+    "project": null
+  },
+  {
+    "oldPath": "audit/axorabid-web-2026-11-12/final-phone-review.png",
+    "path": "asset-library/reviews/by-phase/axorabid-web-2026-11-12/final-phone-review.png",
+    "sha256": "402f527702e56cf3edf1432e79ad0cc333b0ae60d1c3778b9ace5cc311594718",
+    "project": null
+  },
+  {
+    "oldPath": "audit/axorabid-web-2026-11-12/homepage-branding-review.png",
+    "path": "asset-library/reviews/by-phase/axorabid-web-2026-11-12/homepage-branding-review.png",
+    "sha256": "6f47823220eaf519dae9f4d74c70dd431da920101fa33cb7b7f589602aacfee6",
+    "project": null
+  },
+  {
+    "oldPath": "audit/baseline-desktop.png",
+    "path": "asset-library/reviews/by-phase/general/baseline-desktop.png",
+    "sha256": "3cb1ea3fb66f9599a6d16453081b634ab869033a742110c03d3e5cb21b188408",
+    "project": null
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/header-review.png",
+    "path": "asset-library/reviews/by-phase/brand-refresh-2026-11-11/header-review.png",
+    "sha256": "0f99bc3ba8b1517deedb5d9003d341c90a064f086fda7aeb7bafb44fd0acfeed",
+    "project": null
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logo-review.png",
+    "path": "asset-library/reviews/by-phase/brand-refresh-2026-11-11/logo-review.png",
+    "sha256": "e25776d963d416f19fa2791443a9859e0398b2a91955491c6d083ab55d4fb653",
+    "project": null
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logos/alumvia-generated.png",
+    "path": "asset-library/reviews/projects/alumvia/brand-refresh-2026-11-11/logos/alumvia-generated.png",
+    "sha256": "d44f46ba3d571e36e04acd9bd25d0b5f8bf4d4c35cc2f35371f7cc8fc7c84027",
+    "project": "alumvia"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logos/alumvia-horizontal-light.png",
+    "path": "asset-library/reviews/projects/alumvia/brand-refresh-2026-11-11/logos/alumvia-horizontal-light.png",
+    "sha256": "54974b6f8707e7c32524ce242c7dae80600e8e807bb1a50091285def6a11fb6e",
+    "project": "alumvia"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logos/alumvia-icon.png",
+    "path": "asset-library/reviews/projects/alumvia/brand-refresh-2026-11-11/logos/alumvia-icon.png",
+    "sha256": "64f8adbb44ecb00e54ea66c22b182ea662ec2b315041312e8a632df6d85db713",
+    "project": "alumvia"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logos/alumvia-wordmark.png",
+    "path": "asset-library/reviews/projects/alumvia/brand-refresh-2026-11-11/logos/alumvia-wordmark.png",
+    "sha256": "376d0bd0fa1fb1e199bc7c330c2dc6b3381eec0bcffad164f276f96bdf2e520d",
+    "project": "alumvia"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logos/kegeltempo-generated.png",
+    "path": "asset-library/reviews/projects/kegeltempo/brand-refresh-2026-11-11/logos/kegeltempo-generated.png",
+    "sha256": "c8b4b7060abb75cd3b1d4e1ce3b42c21f6842b31415f6d644fd6554e0d51622a",
+    "project": "kegeltempo"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logos/kegeltempo-horizontal-light.png",
+    "path": "asset-library/reviews/projects/kegeltempo/brand-refresh-2026-11-11/logos/kegeltempo-horizontal-light.png",
+    "sha256": "28b240663f634a3c65de5676f501002529a87f2beb3a0bd38cd94ffa93862386",
+    "project": "kegeltempo"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logos/kegeltempo-icon.png",
+    "path": "asset-library/reviews/projects/kegeltempo/brand-refresh-2026-11-11/logos/kegeltempo-icon.png",
+    "sha256": "85a86b16b5b902c686b9e3822de67f82b2363bc25f2b867c8a5451e0faa4a43a",
+    "project": "kegeltempo"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logos/kegeltempo-wordmark.png",
+    "path": "asset-library/reviews/projects/kegeltempo/brand-refresh-2026-11-11/logos/kegeltempo-wordmark.png",
+    "sha256": "230bb1ff007a2343f664903f5f4e0c08344c300d0fef4961570e575548e67f16",
+    "project": "kegeltempo"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logos/tukora-connect-generated.png",
+    "path": "asset-library/reviews/projects/tukora-connect/brand-refresh-2026-11-11/logos/tukora-connect-generated.png",
+    "sha256": "66f79e4b4fc4733375e29f42c30b4c07ee0a44af3959ad5548ab9aeefda8dc7b",
+    "project": "tukora-connect"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logos/tukora-connect-horizontal-light.png",
+    "path": "asset-library/reviews/projects/tukora-connect/brand-refresh-2026-11-11/logos/tukora-connect-horizontal-light.png",
+    "sha256": "c0f204d31a5562a79a3a97eb0acd1dbb9b059d9d2b2b1eb4ec1d7618be8c716d",
+    "project": "tukora-connect"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logos/tukora-connect-icon.png",
+    "path": "asset-library/reviews/projects/tukora-connect/brand-refresh-2026-11-11/logos/tukora-connect-icon.png",
+    "sha256": "ebff8484b843dbfc39077453ddcf65043a5d29ba67405f4cf430be342846e897",
+    "project": "tukora-connect"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logos/tukora-connect-wordmark.png",
+    "path": "asset-library/reviews/projects/tukora-connect/brand-refresh-2026-11-11/logos/tukora-connect-wordmark.png",
+    "sha256": "3efe4dd0c6eb25aa1878fef9c924c13a6cda491a1e31e717b020c78fa2c03173",
+    "project": "tukora-connect"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logos/whizlume-generated.png",
+    "path": "asset-library/reviews/projects/whizlume/brand-refresh-2026-11-11/logos/whizlume-generated.png",
+    "sha256": "dbd6c55d9121238407b136e262d15bb4037517a732cef3a3d9e4fb01fca2ebcb",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logos/whizlume-horizontal-light.png",
+    "path": "asset-library/reviews/projects/whizlume/brand-refresh-2026-11-11/logos/whizlume-horizontal-light.png",
+    "sha256": "2adb90dfbdd1c2f760e09a59f29032ef625ea406aa5586ff4668161c149ffbc3",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logos/whizlume-icon.png",
+    "path": "asset-library/reviews/projects/whizlume/brand-refresh-2026-11-11/logos/whizlume-icon.png",
+    "sha256": "eb790ebdf664ec28ae61c5593f1023da20d34c5ea1865023c86b01baf639c5cf",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/logos/whizlume-wordmark.png",
+    "path": "asset-library/reviews/projects/whizlume/brand-refresh-2026-11-11/logos/whizlume-wordmark.png",
+    "sha256": "ab7e972a0cac73274cd3cc6c142488a5f09d87b053195ba648ab7ebb205e3cd3",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/retired-public-assets/alum-connect-preview-1d5319ec06-card.webp",
+    "path": "asset-library/reviews/projects/alumvia/brand-refresh-2026-11-11/retired-public-assets/alum-connect-preview-1d5319ec06-card.webp",
+    "sha256": "30f5d005bfdad4db78d2cea2708c4d55c24d5614ece639f15680d069d3c71fbb",
+    "project": "alumvia"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/retired-public-assets/alum-connect-preview-1d5319ec06-medium.webp",
+    "path": "asset-library/reviews/projects/alumvia/brand-refresh-2026-11-11/retired-public-assets/alum-connect-preview-1d5319ec06-medium.webp",
+    "sha256": "8668b076e8b652d39e692556e8f26a1c75519189fa21144ff0eb1820a367afaf",
+    "project": "alumvia"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/retired-public-assets/app-kegalklock-preview-920316dfe4-card.webp",
+    "path": "asset-library/reviews/projects/app-kegeltempo/brand-refresh-2026-11-11/retired-public-assets/app-kegalklock-preview-920316dfe4-card.webp",
+    "sha256": "a28248ddf800eafa5cff2f62194f0bf19083c5e5720b1fd1c56171f81c73401e",
+    "project": "app-kegeltempo"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/retired-public-assets/app-kegalklock-preview-920316dfe4-medium.webp",
+    "path": "asset-library/reviews/projects/app-kegeltempo/brand-refresh-2026-11-11/retired-public-assets/app-kegalklock-preview-920316dfe4-medium.webp",
+    "sha256": "4e8b76e2c643b89e0d20fd8685c685db1922c722327dbae2f1be965eb2f3d478",
+    "project": "app-kegeltempo"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/retired-public-assets/app-tukioconnect-preview-ca536c83f7-card.webp",
+    "path": "asset-library/reviews/projects/app-tukora-connect/brand-refresh-2026-11-11/retired-public-assets/app-tukioconnect-preview-ca536c83f7-card.webp",
+    "sha256": "00a6a72fe90d94c93319be1aac2fbe2e3fc49555899e6d06b40b8ac15e83ca0d",
+    "project": "app-tukora-connect"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/retired-public-assets/app-tukioconnect-preview-ca536c83f7-medium.webp",
+    "path": "asset-library/reviews/projects/app-tukora-connect/brand-refresh-2026-11-11/retired-public-assets/app-tukioconnect-preview-ca536c83f7-medium.webp",
+    "sha256": "c111a8e0d4edb779ba5e6438fdfb73b1d34a421397779860677fb8ef33149b1e",
+    "project": "app-tukora-connect"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/retired-public-assets/kegelklock-preview-611a87ce86-card.webp",
+    "path": "asset-library/reviews/projects/kegeltempo/brand-refresh-2026-11-11/retired-public-assets/kegelklock-preview-611a87ce86-card.webp",
+    "sha256": "9861b7127856f75fb3826bbc53ac8e90b3c01e4a048a768376d1f4710b9f3454",
+    "project": "kegeltempo"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/retired-public-assets/kegelklock-preview-611a87ce86-medium.webp",
+    "path": "asset-library/reviews/projects/kegeltempo/brand-refresh-2026-11-11/retired-public-assets/kegelklock-preview-611a87ce86-medium.webp",
+    "sha256": "eceb8c0cd9385e6530ddd7df90f8452d3d3ac6d31d04a9f4b21b93cd8dc5edc9",
+    "project": "kegeltempo"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/retired-public-assets/tukioconnect-preview-b03a1c3f96-card.webp",
+    "path": "asset-library/reviews/projects/tukora-connect/brand-refresh-2026-11-11/retired-public-assets/tukioconnect-preview-b03a1c3f96-card.webp",
+    "sha256": "9e6e22a4ab96b1734c6b4bc9f9d023426058b9f07b9c3307374d5e07b7b38bef",
+    "project": "tukora-connect"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/retired-public-assets/tukioconnect-preview-b03a1c3f96-medium.webp",
+    "path": "asset-library/reviews/projects/tukora-connect/brand-refresh-2026-11-11/retired-public-assets/tukioconnect-preview-b03a1c3f96-medium.webp",
+    "sha256": "9a9070f98c42c30e4819fc71503cd08e1eda4fa24ba5d6184925f9fef4ca8769",
+    "project": "tukora-connect"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/retired-public-assets/whizora-preview-89e6fa4af4-card.webp",
+    "path": "asset-library/reviews/projects/whizlume/brand-refresh-2026-11-11/retired-public-assets/whizora-preview-89e6fa4af4-card.webp",
+    "sha256": "80c05d197ee371efaa872c9d3d8a0cc19f35fd6f88c7578bfeefae7ce2689412",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/brand-refresh-2026-11-11/retired-public-assets/whizora-preview-89e6fa4af4-medium.webp",
+    "path": "asset-library/reviews/projects/whizlume/brand-refresh-2026-11-11/retired-public-assets/whizora-preview-89e6fa4af4-medium.webp",
+    "sha256": "96c8ebb00471cfdc4f4a42eac7073f99d8fe1f9422187a5e65ac782b0f052d40",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/calivora-project-2026-11-12/branding-review.png",
+    "path": "asset-library/reviews/by-phase/calivora-project-2026-11-12/branding-review.png",
+    "sha256": "f1312ba04fe3dfb558db5a6c195a20f1a924cd8c74f49109148c72e52ac603a8",
+    "project": null
+  },
+  {
+    "oldPath": "audit/calivora-project-2026-11-12/card-hover-1x.png",
+    "path": "asset-library/reviews/by-phase/calivora-project-2026-11-12/card-hover-1x.png",
+    "sha256": "3a56fc972167aaa555c64f737e8f82e2fabdc94200c0c47d2a51a727a00fc3c7",
+    "project": null
+  },
+  {
+    "oldPath": "audit/calivora-project-2026-11-12/card-hover-2x.png",
+    "path": "asset-library/reviews/by-phase/calivora-project-2026-11-12/card-hover-2x.png",
+    "sha256": "2e20e1c02a0bf924d7d2a0c32756052b24739a5ad60dacfa1c8e34d0bc710e21",
+    "project": null
+  },
+  {
+    "oldPath": "audit/calivora-project-2026-11-12/detail-desktop-1x.png",
+    "path": "asset-library/reviews/by-phase/calivora-project-2026-11-12/detail-desktop-1x.png",
+    "sha256": "1796d4f357c44b441aa38c8bd0a0c12200d607d82213176f18ad66f849ad0fcb",
+    "project": null
+  },
+  {
+    "oldPath": "audit/calivora-project-2026-11-12/detail-desktop-2x.png",
+    "path": "asset-library/reviews/by-phase/calivora-project-2026-11-12/detail-desktop-2x.png",
+    "sha256": "907aa6a160061607927667d6970fd5d837914d3f1c8d9bbf4414a811de26511b",
+    "project": null
+  },
+  {
+    "oldPath": "audit/calivora-project-2026-11-12/detail-mobile.png",
+    "path": "asset-library/reviews/by-phase/calivora-project-2026-11-12/detail-mobile.png",
+    "sha256": "ddaa9a173e6a1fc2965be493f83fe9f77629cac890f22e308b00c14140f59f73",
+    "project": null
+  },
+  {
+    "oldPath": "audit/calivora-project-2026-11-12/detail-tablet.png",
+    "path": "asset-library/reviews/by-phase/calivora-project-2026-11-12/detail-tablet.png",
+    "sha256": "511a2a6be707842bf8fe7c600809b0a62333372111240d55d011621d8b6b382b",
+    "project": null
+  },
+  {
+    "oldPath": "audit/calivora-project-2026-11-12/logo-generated.png",
+    "path": "asset-library/reviews/by-phase/calivora-project-2026-11-12/logo-generated.png",
+    "sha256": "c6fe2f227740a658956161ec437ae3415dda8db5a25953203aa3a1d3166702d1",
+    "project": null
+  },
+  {
+    "oldPath": "audit/cinematic-motion/4k-preview-0.00.png",
+    "path": "asset-library/reviews/by-phase/cinematic-motion/4k-preview-0.00.png",
+    "sha256": "6b9bcf77ed40f7421cfd40cfdb48110b8559a265725134ee0686aef47812fa77",
+    "project": null
+  },
+  {
+    "oldPath": "audit/cinematic-motion/4k-preview-0.35.png",
+    "path": "asset-library/reviews/by-phase/cinematic-motion/4k-preview-0.35.png",
+    "sha256": "c123558c3b8e7303f4eec4e293020226c6c930d5f016f3a69a517ac34f0c882e",
+    "project": null
+  },
+  {
+    "oldPath": "audit/cinematic-motion/4k-preview-1.10.png",
+    "path": "asset-library/reviews/by-phase/cinematic-motion/4k-preview-1.10.png",
+    "sha256": "64bb6e1c9282d3c7072b659632d15a175e11ada413f0a2d52fa2749e439afdbc",
+    "project": null
+  },
+  {
+    "oldPath": "audit/cinematic-motion/4k-preview-11.98.png",
+    "path": "asset-library/reviews/by-phase/cinematic-motion/4k-preview-11.98.png",
+    "sha256": "e6fefa532d3a78d91c16b14c1777ee97fa228d3bcd8e614e8bdae54423e0c912",
+    "project": null
+  },
+  {
+    "oldPath": "audit/cinematic-motion/4k-preview-2.00.png",
+    "path": "asset-library/reviews/by-phase/cinematic-motion/4k-preview-2.00.png",
+    "sha256": "a94d7629927794e061f9d8be960be0da19a409df556aa63b21b3beb08a0174fe",
+    "project": null
+  },
+  {
+    "oldPath": "audit/cinematic-motion/4k-preview-3.20.png",
+    "path": "asset-library/reviews/by-phase/cinematic-motion/4k-preview-3.20.png",
+    "sha256": "7455e36c0725b400e336f89c7b153b9f704148d73d6dcd168801290356fea467",
+    "project": null
+  },
+  {
+    "oldPath": "audit/cinematic-motion/4k-preview-4.40.png",
+    "path": "asset-library/reviews/by-phase/cinematic-motion/4k-preview-4.40.png",
+    "sha256": "7337940828dab5caf82de84c9aa41228bfbd9737ca26cdff76c4c8fad9131e28",
+    "project": null
+  },
+  {
+    "oldPath": "audit/cinematic-motion/4k-preview-8.00.png",
+    "path": "asset-library/reviews/by-phase/cinematic-motion/4k-preview-8.00.png",
+    "sha256": "f6e5d0f1059e97afba3ae1da12284f796ed327da5ca2b4536166a8f491f49a70",
+    "project": null
+  },
+  {
+    "oldPath": "audit/cinematic-motion/preview-0.00.png",
+    "path": "asset-library/reviews/by-phase/cinematic-motion/preview-0.00.png",
+    "sha256": "447d272cd9e47e5bde6ed77af4b94c7b0b869458a221e6476ff6d74830693139",
+    "project": null
+  },
+  {
+    "oldPath": "audit/cinematic-motion/preview-0.35.png",
+    "path": "asset-library/reviews/by-phase/cinematic-motion/preview-0.35.png",
+    "sha256": "250a033b5cf98cc1b7afd0338f3df301a807be4dcff9bac062e104de269ce6d4",
+    "project": null
+  },
+  {
+    "oldPath": "audit/cinematic-motion/preview-1.10.png",
+    "path": "asset-library/reviews/by-phase/cinematic-motion/preview-1.10.png",
+    "sha256": "ed0d65a589198081da6b8b1ec512335983ce863612b9b685c0f64845b5df9c77",
+    "project": null
+  },
+  {
+    "oldPath": "audit/cinematic-motion/preview-11.98.png",
+    "path": "asset-library/reviews/by-phase/cinematic-motion/preview-11.98.png",
+    "sha256": "b1a43f0b1e2203939ac23184972cbadc9173ab4620d8592042f71082c58c49cc",
+    "project": null
+  },
+  {
+    "oldPath": "audit/cinematic-motion/preview-2.00.png",
+    "path": "asset-library/reviews/by-phase/cinematic-motion/preview-2.00.png",
+    "sha256": "6eb2b5ec3afc759aa5b0f3f5f7b21e6d22a20c9219989055abe73e70331c8c92",
+    "project": null
+  },
+  {
+    "oldPath": "audit/cinematic-motion/preview-3.20.png",
+    "path": "asset-library/reviews/by-phase/cinematic-motion/preview-3.20.png",
+    "sha256": "2aa46a581ff71c23da356485eae304c638b6b7854cea0e660b03cb72340b8b8d",
+    "project": null
+  },
+  {
+    "oldPath": "audit/cinematic-motion/preview-4.40.png",
+    "path": "asset-library/reviews/by-phase/cinematic-motion/preview-4.40.png",
+    "sha256": "1146a66c60a087a4e3ea1cdb82a3c75578d1959aa1d223b362c979182fa8618c",
+    "project": null
+  },
+  {
+    "oldPath": "audit/cinematic-motion/preview-8.00.png",
+    "path": "asset-library/reviews/by-phase/cinematic-motion/preview-8.00.png",
+    "sha256": "64b8aa5d0eab370627e806bb93353ad7ea2f2a5d605359119dc85bdc1aa415e0",
+    "project": null
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/alumvia-after.png",
+    "path": "asset-library/reviews/projects/alumvia/color-theme-refresh-2026-11-12/review/alumvia-after.png",
+    "sha256": "182b428a9ebb23fcfd34d969b65ed041f0ae41ba286149479c98d97782db127a",
+    "project": "alumvia"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/alumvia-before.png",
+    "path": "asset-library/reviews/projects/alumvia/color-theme-refresh-2026-11-12/review/alumvia-before.png",
+    "sha256": "7adf19bd91cda648e62a61d6a60a331c648dfaed038b7f77421c4d48bd4fa918",
+    "project": "alumvia"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-axorabid-after.png",
+    "path": "asset-library/reviews/projects/app-axorabid/color-theme-refresh-2026-11-12/review/app-axorabid-after.png",
+    "sha256": "80baf006fc74ca3ebaec942d292c032863a03c2db27e9e685b6842c86849b2a1",
+    "project": "app-axorabid"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-axorabid-before.png",
+    "path": "asset-library/reviews/projects/app-axorabid/color-theme-refresh-2026-11-12/review/app-axorabid-before.png",
+    "sha256": "f597ba21d219bb15ba4a3f075701f37b09236a7745321adc9ec91e145965c506",
+    "project": "app-axorabid"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-calivora-after.png",
+    "path": "asset-library/reviews/projects/app-calivora/color-theme-refresh-2026-11-12/review/app-calivora-after.png",
+    "sha256": "43e8f8231b50e32747269868dd361fe25c90e43daa15275d87ade58d20315787",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-calivora-before.png",
+    "path": "asset-library/reviews/projects/app-calivora/color-theme-refresh-2026-11-12/review/app-calivora-before.png",
+    "sha256": "25b4f476412332f373ced59881bc57548dcf673e5bb0ea7bffef34310fab038c",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-habitstride-after.png",
+    "path": "asset-library/reviews/projects/app-habitstride/color-theme-refresh-2026-11-12/review/app-habitstride-after.png",
+    "sha256": "82609fb3e806129e9b2d61d7a802e744bd226817ce3134c0e765c95fe98eab39",
+    "project": "app-habitstride"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-habitstride-before.png",
+    "path": "asset-library/reviews/projects/app-habitstride/color-theme-refresh-2026-11-12/review/app-habitstride-before.png",
+    "sha256": "7e1dacaf484517b08fbc40ff819b201a596c7917019072353a93f6ee1f88cc71",
+    "project": "app-habitstride"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-infinote-after.png",
+    "path": "asset-library/reviews/projects/app-infinote/color-theme-refresh-2026-11-12/review/app-infinote-after.png",
+    "sha256": "da172d2fc11732e032ed33a6b457ef3f8d2cde5db13f3f7dc6b119c5baff4425",
+    "project": "app-infinote"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-infinote-before.png",
+    "path": "asset-library/reviews/projects/app-infinote/color-theme-refresh-2026-11-12/review/app-infinote-before.png",
+    "sha256": "c67fea1d6442546b16076c68a1dd82311f284e61f71b9727fad0ddb92bbc2734",
+    "project": "app-infinote"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-kegeltempo-after.png",
+    "path": "asset-library/reviews/projects/app-kegeltempo/color-theme-refresh-2026-11-12/review/app-kegeltempo-after.png",
+    "sha256": "bcac5ae4b04d51de054d12f250fb0acf5f3b25bd344bca212b4c004af3f2eba9",
+    "project": "app-kegeltempo"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-kegeltempo-before.png",
+    "path": "asset-library/reviews/projects/app-kegeltempo/color-theme-refresh-2026-11-12/review/app-kegeltempo-before.png",
+    "sha256": "2e17a0dfacebb12d94dc79dd1b8b70b9a0e965265f571c12bfeff03edf901fac",
+    "project": "app-kegeltempo"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-pantryone-after.png",
+    "path": "asset-library/reviews/projects/app-pantryone/color-theme-refresh-2026-11-12/review/app-pantryone-after.png",
+    "sha256": "895fa485455a0737bf7efec46250176a36817baf44679b0bb5615f62434bdb95",
+    "project": "app-pantryone"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-pantryone-before.png",
+    "path": "asset-library/reviews/projects/app-pantryone/color-theme-refresh-2026-11-12/review/app-pantryone-before.png",
+    "sha256": "fa2c28549e6ec88609a7d916518666bbeb446b65bc82dd7ce7f7b2a27569645a",
+    "project": "app-pantryone"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-silaflow-after.png",
+    "path": "asset-library/reviews/projects/app-silaflow/color-theme-refresh-2026-11-12/review/app-silaflow-after.png",
+    "sha256": "51bcdc68826bc3da0b42dc9f1c61f493827d0d03feaefad2b20a344ba5e17886",
+    "project": "app-silaflow"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-silaflow-before.png",
+    "path": "asset-library/reviews/projects/app-silaflow/color-theme-refresh-2026-11-12/review/app-silaflow-before.png",
+    "sha256": "db7bc16396955a1f1c8bbde15a71114847e2277e62820e106aadef8df6995884",
+    "project": "app-silaflow"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-simplyscouted-after.png",
+    "path": "asset-library/reviews/projects/app-simplyscouted/color-theme-refresh-2026-11-12/review/app-simplyscouted-after.png",
+    "sha256": "32523c5f68f556fb81dc544c27fa1a4621be36946059bbfdb394f6a8bb8f9e99",
+    "project": "app-simplyscouted"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-simplyscouted-before.png",
+    "path": "asset-library/reviews/projects/app-simplyscouted/color-theme-refresh-2026-11-12/review/app-simplyscouted-before.png",
+    "sha256": "f4a41855186d857b847310d36914552568e8087354882c067957dc8903553d16",
+    "project": "app-simplyscouted"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-streetslate-after.png",
+    "path": "asset-library/reviews/projects/app-streetslate/color-theme-refresh-2026-11-12/review/app-streetslate-after.png",
+    "sha256": "abf456a8f2a711f4f9e20c50a2967201a6307590b29e0b4a44f9a50a64e56797",
+    "project": "app-streetslate"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-streetslate-before.png",
+    "path": "asset-library/reviews/projects/app-streetslate/color-theme-refresh-2026-11-12/review/app-streetslate-before.png",
+    "sha256": "5a4a7eaffc5c2abf09fdf57463adcf05b7f602f02def8390ab32bb63cdec3a91",
+    "project": "app-streetslate"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-strivaro-after.png",
+    "path": "asset-library/reviews/projects/app-strivaro/color-theme-refresh-2026-11-12/review/app-strivaro-after.png",
+    "sha256": "fdbe744a8ff8b5ba39628e39938553094b8d32d924ba76777c9ed5072f1391df",
+    "project": "app-strivaro"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-strivaro-before.png",
+    "path": "asset-library/reviews/projects/app-strivaro/color-theme-refresh-2026-11-12/review/app-strivaro-before.png",
+    "sha256": "e20ce73f754004c0c6f7b6733302073f3bf32b34245e72f9424af22b41318da3",
+    "project": "app-strivaro"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-tukora-connect-after.png",
+    "path": "asset-library/reviews/projects/app-tukora-connect/color-theme-refresh-2026-11-12/review/app-tukora-connect-after.png",
+    "sha256": "79c24d120305afb2fbc63ed82199d28a78d76bd25df78296477d59d47803a3c6",
+    "project": "app-tukora-connect"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/app-tukora-connect-before.png",
+    "path": "asset-library/reviews/projects/app-tukora-connect/color-theme-refresh-2026-11-12/review/app-tukora-connect-before.png",
+    "sha256": "687d55d4b4eea84326b6e784ac1f3f616c05adc74b52c944c8689f656e0a8d1f",
+    "project": "app-tukora-connect"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/axorabid-after.png",
+    "path": "asset-library/reviews/projects/axorabid/color-theme-refresh-2026-11-12/review/axorabid-after.png",
+    "sha256": "3ca19cd025436029d142bb8366bee83c8d593e8e4b25888c7f426b16b071df2a",
+    "project": "axorabid"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/axorabid-before.png",
+    "path": "asset-library/reviews/projects/axorabid/color-theme-refresh-2026-11-12/review/axorabid-before.png",
+    "sha256": "faa658d8e581e33b2ad6a7e4ff74cb025bd44dcecd9d14438399475391563f15",
+    "project": "axorabid"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/card-hover-app-calivora-1x.png",
+    "path": "asset-library/reviews/projects/app-calivora/color-theme-refresh-2026-11-12/review/card-hover-app-calivora-1x.png",
+    "sha256": "1ae7152913da1762758a39e2621d1a62884b3ab7bb9652554f430bcd9f662b16",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/card-hover-app-calivora-2x.png",
+    "path": "asset-library/reviews/projects/app-calivora/color-theme-refresh-2026-11-12/review/card-hover-app-calivora-2x.png",
+    "sha256": "a36065d9c7a3439994289cd88d3207c029744e13a8adef7d5c42b3f5af1efecb",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/card-hover-axorabid-1x.png",
+    "path": "asset-library/reviews/projects/axorabid/color-theme-refresh-2026-11-12/review/card-hover-axorabid-1x.png",
+    "sha256": "61f437a6836b2bb3b1fe242b5a3e28764710b1ea9b864f5e81b98336de2d99ba",
+    "project": "axorabid"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/card-hover-axorabid-2x.png",
+    "path": "asset-library/reviews/projects/axorabid/color-theme-refresh-2026-11-12/review/card-hover-axorabid-2x.png",
+    "sha256": "b242e65e592077be804e0928f1599aebba5bf598a373ad88d04b034af6490203",
+    "project": "axorabid"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/card-hover-whizlume-1x.png",
+    "path": "asset-library/reviews/projects/whizlume/color-theme-refresh-2026-11-12/review/card-hover-whizlume-1x.png",
+    "sha256": "c3926147a17cba01c972b9075ad94046804761f90e6fbba6d37f12eb75a53b61",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/card-hover-whizlume-2x.png",
+    "path": "asset-library/reviews/projects/whizlume/color-theme-refresh-2026-11-12/review/card-hover-whizlume-2x.png",
+    "sha256": "75e64bf5e656b03ac99d526c5848cefc042a3324856c98fe92d039a1754b685a",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/estrata-after.png",
+    "path": "asset-library/reviews/projects/estrata/color-theme-refresh-2026-11-12/review/estrata-after.png",
+    "sha256": "83e1b1dd715f7946f1b9059c5c9b4531fd7058c070a9234aa76acdc400f47343",
+    "project": "estrata"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/estrata-before.png",
+    "path": "asset-library/reviews/projects/estrata/color-theme-refresh-2026-11-12/review/estrata-before.png",
+    "sha256": "0482d4088bb12966102a4bb5ae13dad384742f2da21caafd089fcb5c52ae6e1b",
+    "project": "estrata"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/kegeltempo-after.png",
+    "path": "asset-library/reviews/projects/kegeltempo/color-theme-refresh-2026-11-12/review/kegeltempo-after.png",
+    "sha256": "72b00f5e5c416685c0b65116ffdeb93629352967f5147538ea6b62e435df0250",
+    "project": "kegeltempo"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/kegeltempo-before.png",
+    "path": "asset-library/reviews/projects/kegeltempo/color-theme-refresh-2026-11-12/review/kegeltempo-before.png",
+    "sha256": "eadd794bdfa4ef1415ff0c918d0a08a55fc3efa61eaf544726216b4f1f1dc906",
+    "project": "kegeltempo"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/leadforma-after.png",
+    "path": "asset-library/reviews/projects/leadforma/color-theme-refresh-2026-11-12/review/leadforma-after.png",
+    "sha256": "8a15bc99e3aa5fdeb4e4d1b3304a67f9fe3b1b6930374fee6b93707996b467fc",
+    "project": "leadforma"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/leadforma-before.png",
+    "path": "asset-library/reviews/projects/leadforma/color-theme-refresh-2026-11-12/review/leadforma-before.png",
+    "sha256": "8da7f0b68447d4ebb8d24f13e6f5519f58aa82253274a48666275fbf3e2ad195",
+    "project": "leadforma"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/page-app-calivora-1440.png",
+    "path": "asset-library/reviews/projects/app-calivora/color-theme-refresh-2026-11-12/review/page-app-calivora-1440.png",
+    "sha256": "b9b3aa02d221a8dfa7807ba3bc46955e91f814ec7ac2567cedaaa94e331c72b5",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/page-app-calivora-390.png",
+    "path": "asset-library/reviews/projects/app-calivora/color-theme-refresh-2026-11-12/review/page-app-calivora-390.png",
+    "sha256": "bb6a1235d740bb690be4af746e366beaaea0258af6882c8ac331f7c5666d35af",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/page-app-calivora-768.png",
+    "path": "asset-library/reviews/projects/app-calivora/color-theme-refresh-2026-11-12/review/page-app-calivora-768.png",
+    "sha256": "7adc9d02f4d8fc13146c65a6c8064a032aa2f764eb82f4d9d1ebdae515ef4a9e",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/page-app-infinote-1440.png",
+    "path": "asset-library/reviews/projects/app-infinote/color-theme-refresh-2026-11-12/review/page-app-infinote-1440.png",
+    "sha256": "f4ff3514fc820673b2efa8c4fc75350b7ec6ea6d105589f39807fa2419a3137f",
+    "project": "app-infinote"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/page-app-infinote-390.png",
+    "path": "asset-library/reviews/projects/app-infinote/color-theme-refresh-2026-11-12/review/page-app-infinote-390.png",
+    "sha256": "22e8530587f558908fac975d297dd9314dcd8fc03a33cac2998d814b4c9f15e5",
+    "project": "app-infinote"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/page-app-infinote-768.png",
+    "path": "asset-library/reviews/projects/app-infinote/color-theme-refresh-2026-11-12/review/page-app-infinote-768.png",
+    "sha256": "f0cff1effc2bcf0aa31e5788b6e75f38ad99ddc1f093eb0c6d47efc008409afa",
+    "project": "app-infinote"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/page-axorabid-1440.png",
+    "path": "asset-library/reviews/projects/axorabid/color-theme-refresh-2026-11-12/review/page-axorabid-1440.png",
+    "sha256": "95bcee8b1711d2060b7aee5bea6773f2f89356ffe2b6b3fe2a2920ca465091e2",
+    "project": "axorabid"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/page-axorabid-390.png",
+    "path": "asset-library/reviews/projects/axorabid/color-theme-refresh-2026-11-12/review/page-axorabid-390.png",
+    "sha256": "5ded221a2c8241dcc3c2869de3c011f197cbca86988a0dfc777e724fdf8e9f69",
+    "project": "axorabid"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/page-axorabid-768.png",
+    "path": "asset-library/reviews/projects/axorabid/color-theme-refresh-2026-11-12/review/page-axorabid-768.png",
+    "sha256": "1f32190cbdf2cc8d8bc9ced660d13a35565b8399a74738060be1ed3cda18a7ca",
+    "project": "axorabid"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/page-whizlume-1440.png",
+    "path": "asset-library/reviews/projects/whizlume/color-theme-refresh-2026-11-12/review/page-whizlume-1440.png",
+    "sha256": "5f727dbfdfc5d9aba98d83e262c7f3b8e9992c713edf32822dc3ecfffed9e7ee",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/page-whizlume-390.png",
+    "path": "asset-library/reviews/projects/whizlume/color-theme-refresh-2026-11-12/review/page-whizlume-390.png",
+    "sha256": "782486c435a9743385da4c7712f42f1e9840612b0784de3d20ec805b723cba64",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/page-whizlume-768.png",
+    "path": "asset-library/reviews/projects/whizlume/color-theme-refresh-2026-11-12/review/page-whizlume-768.png",
+    "sha256": "eae4ae43fc363ae89874357f57be51afb573967f363542e2a5360a32d79927ca",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/paranest-after.png",
+    "path": "asset-library/reviews/projects/paranest/color-theme-refresh-2026-11-12/review/paranest-after.png",
+    "sha256": "447f2af1cd6247c2b998f74d85aeebb975b9d853ead87a768ce4245540945ffa",
+    "project": "paranest"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/paranest-before.png",
+    "path": "asset-library/reviews/projects/paranest/color-theme-refresh-2026-11-12/review/paranest-before.png",
+    "sha256": "9446a3c5c9b60d1e5804cbf51f5aa62b4a908108f851eb95f7cade6879436f77",
+    "project": "paranest"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/rallybridge-after.png",
+    "path": "asset-library/reviews/projects/rallybridge/color-theme-refresh-2026-11-12/review/rallybridge-after.png",
+    "sha256": "701c45642409123e0ccadf9bd74e0c3f72c7872c73463a90cd81a8173964dc99",
+    "project": "rallybridge"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/rallybridge-before.png",
+    "path": "asset-library/reviews/projects/rallybridge/color-theme-refresh-2026-11-12/review/rallybridge-before.png",
+    "sha256": "91a1d513123645ac01c3af36353a42dcd7885eea4c8b12fe06cb29d527e777c1",
+    "project": "rallybridge"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/streamdexa-after.png",
+    "path": "asset-library/reviews/projects/streamdexa/color-theme-refresh-2026-11-12/review/streamdexa-after.png",
+    "sha256": "42842b418121fefcfb00d741d6cbd330301719107973d608d9bd60529ec35094",
+    "project": "streamdexa"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/streamdexa-before.png",
+    "path": "asset-library/reviews/projects/streamdexa/color-theme-refresh-2026-11-12/review/streamdexa-before.png",
+    "sha256": "85cd29d170607796ec795bd173eda18f770377d06b5641a6a37298cd5cd5d031",
+    "project": "streamdexa"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/tukora-connect-after.png",
+    "path": "asset-library/reviews/projects/tukora-connect/color-theme-refresh-2026-11-12/review/tukora-connect-after.png",
+    "sha256": "fd51cf9c950babc0caf4286bcec878b538f7ca765139a545d42104bfad9e00be",
+    "project": "tukora-connect"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/tukora-connect-before.png",
+    "path": "asset-library/reviews/projects/tukora-connect/color-theme-refresh-2026-11-12/review/tukora-connect-before.png",
+    "sha256": "f49e384e80e1cf04dee5d802a336655a75b7d93fea16d5d5a0bdc1752a9f72f8",
+    "project": "tukora-connect"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/whizlume-after.png",
+    "path": "asset-library/reviews/projects/whizlume/color-theme-refresh-2026-11-12/review/whizlume-after.png",
+    "sha256": "00ffa94ce4c53a96316c471490d23dc0ee4fdff837963ba7abb700ebdde29041",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/color-theme-refresh-2026-11-12/review/whizlume-before.png",
+    "path": "asset-library/reviews/projects/whizlume/color-theme-refresh-2026-11-12/review/whizlume-before.png",
+    "sha256": "aa0250e5e853b1e8d4796498175daf09ef7fa4afdff28116a9198e8c04f03aa5",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/design-polish/case-desktop-after-viewer.png",
+    "path": "asset-library/reviews/by-phase/design-polish/case-desktop-after-viewer.png",
+    "sha256": "e02368cb88641b7b7a6ee84d7db6b0715b82d329600c342213d11134340bf199",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/case-desktop-after.png",
+    "path": "asset-library/reviews/by-phase/design-polish/case-desktop-after.png",
+    "sha256": "42cbcc51466123d5f63c780cecdbf3538bc285c1527a4d23b7f9e79841ba08e4",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/case-mobile-after-overview.png",
+    "path": "asset-library/reviews/by-phase/design-polish/case-mobile-after-overview.png",
+    "sha256": "ca41c37a5f68c533d5ed101776345bd8aca939764a52afe2328011495f2f45ba",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/case-mobile-after-top.png",
+    "path": "asset-library/reviews/by-phase/design-polish/case-mobile-after-top.png",
+    "sha256": "8a5151a974f4e8ed8c3e7e983d6636794118099b64ed56081d96ef8606c69c15",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/case-mobile-after-viewer.png",
+    "path": "asset-library/reviews/by-phase/design-polish/case-mobile-after-viewer.png",
+    "sha256": "e1fdc3f59fb02fd904e5ce8a07d6bf2347f03bc13b228e2d7eff17d479e5bace",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/case-mobile-after.png",
+    "path": "asset-library/reviews/by-phase/design-polish/case-mobile-after.png",
+    "sha256": "4c5dfdb2181638c21fdc56bfe01f594570a1aafa8d4371b6642acc26d2768672",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/case-tablet-after-overview.png",
+    "path": "asset-library/reviews/by-phase/design-polish/case-tablet-after-overview.png",
+    "sha256": "415729d5fcebc2c87c94e442852392440009434b9ec6e611592585e64e6a8333",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/case-tablet-after-top.png",
+    "path": "asset-library/reviews/by-phase/design-polish/case-tablet-after-top.png",
+    "sha256": "040ed474fee866e29ca65468f77faf879cc3246d92c39e50db47d144d5396afb",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/case-tablet-after-viewer.png",
+    "path": "asset-library/reviews/by-phase/design-polish/case-tablet-after-viewer.png",
+    "sha256": "fb99450979f968c01a0e3da8e52bb7305053073018432d52e973119df20989d6",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/case-tablet-after.png",
+    "path": "asset-library/reviews/by-phase/design-polish/case-tablet-after.png",
+    "sha256": "15dfde03b9562d2516629f5f385e24696f0d1aa094c4853915b78305a43860c7",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/home-desktop-after-cards.png",
+    "path": "asset-library/reviews/by-phase/design-polish/home-desktop-after-cards.png",
+    "sha256": "42aad6d03a805db731d4105420f3e6afc63a960e1cca1dd5413f10ab8dcae781",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/home-desktop-after-hover.png",
+    "path": "asset-library/reviews/by-phase/design-polish/home-desktop-after-hover.png",
+    "sha256": "d8dbe2918d329ce55952d72b3e4e3b1b2c5ca99fdb2f8ee244e04be6c4455187",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/home-desktop-after.png",
+    "path": "asset-library/reviews/by-phase/design-polish/home-desktop-after.png",
+    "sha256": "6c8783095b39f519c5235c00bf042e925cb0b42185bc1de728da6b434822b773",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/home-narrow-after-cards.png",
+    "path": "asset-library/reviews/by-phase/design-polish/home-narrow-after-cards.png",
+    "sha256": "55543de441a7880a678a905f260482ec90a55272b6ea79f0fe94ed94fec3c48b",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/home-narrow-after-hover.png",
+    "path": "asset-library/reviews/by-phase/design-polish/home-narrow-after-hover.png",
+    "sha256": "045b067c23e340fd5e0c337c317133750b0505aca01a70c25ab7b006ffb04bff",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/home-narrow-after-overview.png",
+    "path": "asset-library/reviews/by-phase/design-polish/home-narrow-after-overview.png",
+    "sha256": "edd2106ddfe23412c879e470518f645ca5ae4b14fd560bbc17d2afac55906890",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/home-narrow-after-top.png",
+    "path": "asset-library/reviews/by-phase/design-polish/home-narrow-after-top.png",
+    "sha256": "9746680ead1dd7ce59befefad7028dae68fa938640d89c087399dfe70558d8b6",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/home-narrow-after.png",
+    "path": "asset-library/reviews/by-phase/design-polish/home-narrow-after.png",
+    "sha256": "3b158f9fd7d310eeb2712ccbae510b85daeed1a0ec2040798e76eb55d662b639",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/mobile-viewer-settled.png",
+    "path": "asset-library/reviews/by-phase/design-polish/mobile-viewer-settled.png",
+    "sha256": "bac49e3cd022501fa06fce5edf8b116e7dfe59e903dcb2bcce05d1d132982468",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/platform-desktop-before-cards.png",
+    "path": "asset-library/reviews/by-phase/design-polish/platform-desktop-before-cards.png",
+    "sha256": "c8d5d5eee26c469beee34c8651dc1036c7c7a9f21fb93ec0844fd8fe5c91eb4b",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/platform-desktop-before.png",
+    "path": "asset-library/reviews/by-phase/design-polish/platform-desktop-before.png",
+    "sha256": "42ced05a482952e56e64513bec63fe573f6630f633e9b8dba5bf38e6a3da8437",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/platform-mobile-before-cards.png",
+    "path": "asset-library/reviews/by-phase/design-polish/platform-mobile-before-cards.png",
+    "sha256": "6f3af42e647d0ce2f190c6fccdce29524fe5cfd29e1e3d256c40f86b55f63f8b",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/platform-mobile-before.png",
+    "path": "asset-library/reviews/by-phase/design-polish/platform-mobile-before.png",
+    "sha256": "d1a9f355c96a4062a4b0373b2c1babcd9984718e386822feaf5461190d22ff12",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/reference-desktop-cards.png",
+    "path": "asset-library/reviews/by-phase/design-polish/reference-desktop-cards.png",
+    "sha256": "2770ed32bf2c9187a38b9c93cb7ef2cd068fe7080172b9b499e496461b7b0cec",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/reference-desktop.png",
+    "path": "asset-library/reviews/by-phase/design-polish/reference-desktop.png",
+    "sha256": "a77553ee3d567603dacae77fa973e5a692a9b9b8aa564ac21a50d39de154b281",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/reference-mobile-cards.png",
+    "path": "asset-library/reviews/by-phase/design-polish/reference-mobile-cards.png",
+    "sha256": "a5b873a2fe96def6da850cdc324de59387ecbe623475868d84d0e5dd6f98f592",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/reference-mobile.png",
+    "path": "asset-library/reviews/by-phase/design-polish/reference-mobile.png",
+    "sha256": "eacc7caf475cf6836dfa570c841b4c7ff6f5fd6d9e6b6aecfc76a14e522f2324",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/reference-service-cards.png",
+    "path": "asset-library/reviews/by-phase/design-polish/reference-service-cards.png",
+    "sha256": "5d53ce1e527ad3dc6827e3bd02106d024732b7656ba4eba8ae1bb7e81338e3e5",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/reference-service.png",
+    "path": "asset-library/reviews/by-phase/design-polish/reference-service.png",
+    "sha256": "89d7b5d658608b9e34b1fb44f1671208f1ef2c3fad5a28d7886f77aa5ea67136",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/reference-tablet-cards.png",
+    "path": "asset-library/reviews/by-phase/design-polish/reference-tablet-cards.png",
+    "sha256": "4464fff3098caca4b9c517ffcfc843a3f56ca87852a71f17ab463ac31214e22b",
+    "project": null
+  },
+  {
+    "oldPath": "audit/design-polish/reference-tablet.png",
+    "path": "asset-library/reviews/by-phase/design-polish/reference-tablet.png",
+    "sha256": "759c497c1e50d4d755e8529e2019e01f6aa8123b0e4b81b42d172a53be0e3a5d",
+    "project": null
+  },
+  {
+    "oldPath": "audit/desktop-app-digital-habit-tracker.png",
+    "path": "asset-library/reviews/projects/app-habitstride/general/desktop-app-digital-habit-tracker.png",
+    "sha256": "9341f8b356c856a6983ad7f90ea89a3737a1cb076cf8cbf3e38ecfba971d1dbb",
+    "project": "app-habitstride"
+  },
+  {
+    "oldPath": "audit/desktop-app-habitstride.png",
+    "path": "asset-library/reviews/projects/app-habitstride/general/desktop-app-habitstride.png",
+    "sha256": "01c56ea78e5c6850efe27eb7b63c95f8dadefa51570c023345e21dcb01d694b1",
+    "project": "app-habitstride"
+  },
+  {
+    "oldPath": "audit/desktop-app-heartsync.png",
+    "path": "asset-library/reviews/projects/app-heartsync/general/desktop-app-heartsync.png",
+    "sha256": "35134ed9741e64507831db6a8aa09e3fbc11b7070e6fc00d9fd89b2fa0fb3152",
+    "project": "app-heartsync"
+  },
+  {
+    "oldPath": "audit/desktop-app-supplement-management.png",
+    "path": "asset-library/reviews/projects/app-supplement-management/general/desktop-app-supplement-management.png",
+    "sha256": "529c1eefb653c3434d2e0de3bfd98ddf213595c44953338665124bb7b536675a",
+    "project": "app-supplement-management"
+  },
+  {
+    "oldPath": "audit/desktop-livsocial.png",
+    "path": "asset-library/reviews/projects/livsocial/general/desktop-livsocial.png",
+    "sha256": "e3511116c069abb54f92a42e5ecd11496525ddceccf0d8965ab7654ee258bad0",
+    "project": "livsocial"
+  },
+  {
+    "oldPath": "audit/final-case-desktop.png",
+    "path": "asset-library/reviews/by-phase/general/final-case-desktop.png",
+    "sha256": "e88eec6f006183d7f24060cf34f3e04d436a0331d4ce9cf5b1b22bcb553ff849",
+    "project": null
+  },
+  {
+    "oldPath": "audit/final-home-desktop.png",
+    "path": "asset-library/reviews/by-phase/general/final-home-desktop.png",
+    "sha256": "6127738fbcfe61ef1c8be94ccceeee47710e0bd0cdecdd9099279bd671cbd6b5",
+    "project": null
+  },
+  {
+    "oldPath": "audit/final-home-rendered.png",
+    "path": "asset-library/reviews/by-phase/general/final-home-rendered.png",
+    "sha256": "c487e70f19931938a6799e085e96ef0db25114860fc2b5f30b7106ec10ebfa7a",
+    "project": null
+  },
+  {
+    "oldPath": "audit/final-listing-desktop.png",
+    "path": "asset-library/reviews/by-phase/general/final-listing-desktop.png",
+    "sha256": "1cb825b482f86412bbe40789b0cb272212c7154336a422911d4b9a967dea01ab",
+    "project": null
+  },
+  {
+    "oldPath": "audit/four-project-images/legacy-contact-sheet.png",
+    "path": "asset-library/reviews/by-phase/four-project-images/legacy-contact-sheet.png",
+    "sha256": "dc45caae142c85099d3006fa4f49dafa489c0602aab69fa2ec2567d5e65556cf",
+    "project": null
+  },
+  {
+    "oldPath": "audit/four-project-images/restored-contact-sheet.png",
+    "path": "asset-library/reviews/by-phase/four-project-images/restored-contact-sheet.png",
+    "sha256": "ec162d8e5a1d1c6393e6aea18dce14b6552e090f0b089b9827ef07f4dcdfd6f3",
+    "project": null
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/desktop-app-supplement-management-caseHero.png",
+    "path": "asset-library/reviews/projects/app-supplement-management/four-project-images/screenshots/desktop-app-supplement-management-caseHero.png",
+    "sha256": "bdecb8f216ac8f326ad3726d784d398ec23409e3a2402d6ea3464ebf4d21e5a8",
+    "project": "app-supplement-management"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/desktop-app-supplement-management-features.png",
+    "path": "asset-library/reviews/projects/app-supplement-management/four-project-images/screenshots/desktop-app-supplement-management-features.png",
+    "sha256": "f050a32bdbe3a311c4a5e53808ac7b8809a7a9cbfd0d382005d4e94aea3b59ad",
+    "project": "app-supplement-management"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/desktop-app-supplement-management-gallery.png",
+    "path": "asset-library/reviews/projects/app-supplement-management/four-project-images/screenshots/desktop-app-supplement-management-gallery.png",
+    "sha256": "76ad93f062a1d9d59379c98cecc3abcfc67aa11a90caf8a159645e5941956cef",
+    "project": "app-supplement-management"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/desktop-app-supplement-management-solution.png",
+    "path": "asset-library/reviews/projects/app-supplement-management/four-project-images/screenshots/desktop-app-supplement-management-solution.png",
+    "sha256": "c597fc6d0e4ed04f427e0318b522581bb69fccb4b1db0e31cf7c213739aa189c",
+    "project": "app-supplement-management"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/desktop-glocal-expert-caseHero.png",
+    "path": "asset-library/reviews/projects/glocal-expert/four-project-images/screenshots/desktop-glocal-expert-caseHero.png",
+    "sha256": "770a24e1e2b6f74538d20fac319741b3c09b8823ea0c19edfad4149c853b625b",
+    "project": "glocal-expert"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/desktop-glocal-expert-features.png",
+    "path": "asset-library/reviews/projects/glocal-expert/four-project-images/screenshots/desktop-glocal-expert-features.png",
+    "sha256": "9baf9b1e32983f439a9f2884c3123929897e5e1d05de4b7e216ac2a934ed446e",
+    "project": "glocal-expert"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/desktop-glocal-expert-gallery.png",
+    "path": "asset-library/reviews/projects/glocal-expert/four-project-images/screenshots/desktop-glocal-expert-gallery.png",
+    "sha256": "a3534f74c55822cea26e591cd315209161df927cb764db32e45b730b0bf7768e",
+    "project": "glocal-expert"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/desktop-glocal-expert-solution.png",
+    "path": "asset-library/reviews/projects/glocal-expert/four-project-images/screenshots/desktop-glocal-expert-solution.png",
+    "sha256": "179010a682ad326ccda8146c2087ca9b0f8ef26b8bffceaafef3c5f1dc28fc45",
+    "project": "glocal-expert"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/desktop-mercury-mailroom-caseHero.png",
+    "path": "asset-library/reviews/projects/mercury-mailroom/four-project-images/screenshots/desktop-mercury-mailroom-caseHero.png",
+    "sha256": "7680a21346d597cf70a4aa80cd3c644613c938e3b076d79002e02c04d2021129",
+    "project": "mercury-mailroom"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/desktop-mercury-mailroom-features.png",
+    "path": "asset-library/reviews/projects/mercury-mailroom/four-project-images/screenshots/desktop-mercury-mailroom-features.png",
+    "sha256": "792d21d4042657280b838c5e85632901eba0004cf278f3841811aff691cc4579",
+    "project": "mercury-mailroom"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/desktop-mercury-mailroom-gallery.png",
+    "path": "asset-library/reviews/projects/mercury-mailroom/four-project-images/screenshots/desktop-mercury-mailroom-gallery.png",
+    "sha256": "14f6af167ead7a9a992e64187106c9d1adf52472105b3ca882022f53597b9ab2",
+    "project": "mercury-mailroom"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/desktop-mercury-mailroom-solution.png",
+    "path": "asset-library/reviews/projects/mercury-mailroom/four-project-images/screenshots/desktop-mercury-mailroom-solution.png",
+    "sha256": "cecc5c3de3564f429669acbe734e6f4ce76620c7d807d3d31c0102dfbc31ec4f",
+    "project": "mercury-mailroom"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/desktop-network-capital-caseHero.png",
+    "path": "asset-library/reviews/projects/network-capital/four-project-images/screenshots/desktop-network-capital-caseHero.png",
+    "sha256": "7a367563defaf8717ed25d5f158852bfe4c36dfa738dc1482a074e7c9ad9d501",
+    "project": "network-capital"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/desktop-network-capital-features.png",
+    "path": "asset-library/reviews/projects/network-capital/four-project-images/screenshots/desktop-network-capital-features.png",
+    "sha256": "06655be00895b1e66505d2562b1c236004b547350ab4f53f111ef7ce96d7de98",
+    "project": "network-capital"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/desktop-network-capital-gallery.png",
+    "path": "asset-library/reviews/projects/network-capital/four-project-images/screenshots/desktop-network-capital-gallery.png",
+    "sha256": "5bab500a403d3dc34a6976588ae3226adce5374c029363289fe5e3e9e7d8c080",
+    "project": "network-capital"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/desktop-network-capital-solution.png",
+    "path": "asset-library/reviews/projects/network-capital/four-project-images/screenshots/desktop-network-capital-solution.png",
+    "sha256": "4ce74708b099300492d253f6913a0cce526dc5eef0dff011423945c45bdaca85",
+    "project": "network-capital"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/mobile-app-supplement-management-gallery.png",
+    "path": "asset-library/reviews/projects/app-supplement-management/four-project-images/screenshots/mobile-app-supplement-management-gallery.png",
+    "sha256": "0bc9456d9afbc24097003e40efbb26f7c18371fe23449b9ebb3d2e9ca9c781c3",
+    "project": "app-supplement-management"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/mobile-glocal-expert-gallery.png",
+    "path": "asset-library/reviews/projects/glocal-expert/four-project-images/screenshots/mobile-glocal-expert-gallery.png",
+    "sha256": "06ab2a8988a5b468d1acd9ec38fce79b2017f116bdc439894e9fb0e80818c4b0",
+    "project": "glocal-expert"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/mobile-mercury-mailroom-gallery.png",
+    "path": "asset-library/reviews/projects/mercury-mailroom/four-project-images/screenshots/mobile-mercury-mailroom-gallery.png",
+    "sha256": "440f3a6a1a75ed37ad0206cf971613d3a0b1065f79c9982a0006831a5888b0fa",
+    "project": "mercury-mailroom"
+  },
+  {
+    "oldPath": "audit/four-project-images/screenshots/mobile-network-capital-gallery.png",
+    "path": "asset-library/reviews/projects/network-capital/four-project-images/screenshots/mobile-network-capital-gallery.png",
+    "sha256": "eeb69f81d3714873b89150b6008c1844b2ee8db4d7cff097032bf0bdc106f0d9",
+    "project": "network-capital"
+  },
+  {
+    "oldPath": "audit/gallery-1.png",
+    "path": "asset-library/reviews/by-phase/general/gallery-1.png",
+    "sha256": "a68335106df0d986092d212c01c23603613b12d2034c4fe92c1a07cdc6d5b700",
+    "project": null
+  },
+  {
+    "oldPath": "audit/gallery-17.png",
+    "path": "asset-library/reviews/by-phase/general/gallery-17.png",
+    "sha256": "a44c12545ef9315a9fb1990d8fa420fd64282813761900196240c186defe9c24",
+    "project": null
+  },
+  {
+    "oldPath": "audit/gallery-25.png",
+    "path": "asset-library/reviews/by-phase/general/gallery-25.png",
+    "sha256": "3f47a526132355bb86c0d001ab992a380f9d91da72fd699155dc8b15833fed08",
+    "project": null
+  },
+  {
+    "oldPath": "audit/gallery-33.png",
+    "path": "asset-library/reviews/by-phase/general/gallery-33.png",
+    "sha256": "27795e7875286742d9f431c246d90f2fd5a806c361a41f8b688467e8aea44b91",
+    "project": null
+  },
+  {
+    "oldPath": "audit/gallery-41.png",
+    "path": "asset-library/reviews/by-phase/general/gallery-41.png",
+    "sha256": "4eb8b65b3a3a0687cace3fb5c07c4ff5b6942df7d2421ac0dca22522469a184b",
+    "project": null
+  },
+  {
+    "oldPath": "audit/gallery-9.png",
+    "path": "asset-library/reviews/by-phase/general/gallery-9.png",
+    "sha256": "03d4e82fa617df7343fc2686f19a13c4f4293369e01db81a522d14153806e954",
+    "project": null
+  },
+  {
+    "oldPath": "audit/hero-redesign/hero-1195.png",
+    "path": "asset-library/reviews/by-phase/hero-redesign/hero-1195.png",
+    "sha256": "c1f1e391c3bf57ffbbfb6f11e911a8ed4b3033c300eb88f48557dffdb44d91f0",
+    "project": null
+  },
+  {
+    "oldPath": "audit/hero-redesign/hero-1440.png",
+    "path": "asset-library/reviews/by-phase/hero-redesign/hero-1440.png",
+    "sha256": "108680d6bf868121fb6d9ee9e3a68e01b1affcf3fd16d41d39db058b5d875a36",
+    "project": null
+  },
+  {
+    "oldPath": "audit/hero-redesign/hero-390.png",
+    "path": "asset-library/reviews/by-phase/hero-redesign/hero-390.png",
+    "sha256": "632c09fd2279ebc6f3bd7402ac22580de453b1cf526baf83e6fe2d2f1c98f7ec",
+    "project": null
+  },
+  {
+    "oldPath": "audit/hero-redesign/hero-768.png",
+    "path": "asset-library/reviews/by-phase/hero-redesign/hero-768.png",
+    "sha256": "a2277b91b1ab953a296296eb4fda56c7e78c1ae56cf4cea0cd65ded9c6a8d258",
+    "project": null
+  },
+  {
+    "oldPath": "audit/lead-management-identity.png",
+    "path": "asset-library/reviews/projects/leadforma/general/lead-management-identity.png",
+    "sha256": "48b398c336f9a82a621031d5d4c96c763649db3ce6fa822f34e78548a46ec1e7",
+    "project": "leadforma"
+  },
+  {
+    "oldPath": "audit/logo-export/1000px-review.png",
+    "path": "asset-library/reviews/by-phase/logo-export/1000px-review.png",
+    "sha256": "635800de0347dd8439b20a34775394d04c999afd28d249bd0b4280e9b3b260c7",
+    "project": null
+  },
+  {
+    "oldPath": "audit/logo-export/candidates.png",
+    "path": "asset-library/reviews/by-phase/logo-export/candidates.png",
+    "sha256": "e12a0652fdee4e8ab673cf255e52d96b7d57a293d319bf87c237dab8c1b64b8d",
+    "project": null
+  },
+  {
+    "oldPath": "audit/logo-export/export-review-final.png",
+    "path": "asset-library/reviews/by-phase/logo-export/export-review-final.png",
+    "sha256": "b37e73de52d94dbb538c05225389ca354fef4ab599a10e22f8c6200932808c0c",
+    "project": null
+  },
+  {
+    "oldPath": "audit/logo-export/export-review.png",
+    "path": "asset-library/reviews/by-phase/logo-export/export-review.png",
+    "sha256": "12e38966c9e391dd35db2b5868d003b17cbf33f8e2f1f3ec38488beddbac856b",
+    "project": null
+  },
+  {
+    "oldPath": "audit/mobile-app-digital-habit-tracker.png",
+    "path": "asset-library/reviews/projects/app-habitstride/general/mobile-app-digital-habit-tracker.png",
+    "sha256": "8b94d3cd96acac1ee6ba359d8eee834b8c54b0de7fca65c694a485f5e191bbf9",
+    "project": "app-habitstride"
+  },
+  {
+    "oldPath": "audit/mobile-app-habitstride.png",
+    "path": "asset-library/reviews/projects/app-habitstride/general/mobile-app-habitstride.png",
+    "sha256": "ceba723e6cd43255201492f49a6beffa7c32c2424cd0642730392a4d8f27b405",
+    "project": "app-habitstride"
+  },
+  {
+    "oldPath": "audit/mobile-app-heartsync.png",
+    "path": "asset-library/reviews/projects/app-heartsync/general/mobile-app-heartsync.png",
+    "sha256": "63e5f05eac96dffed3c4ee4120a6476e1367a7beb4fcccedfa078febfd20cd61",
+    "project": "app-heartsync"
+  },
+  {
+    "oldPath": "audit/mobile-app-supplement-management.png",
+    "path": "asset-library/reviews/projects/app-supplement-management/general/mobile-app-supplement-management.png",
+    "sha256": "e01030ce30a5247085bf703cadb9aed406a69c852c93b99557e228dcfba6cfa6",
+    "project": "app-supplement-management"
+  },
+  {
+    "oldPath": "audit/mobile-livsocial.png",
+    "path": "asset-library/reviews/projects/livsocial/general/mobile-livsocial.png",
+    "sha256": "90c97ab94d463a5a75a26c4c0f332eb7e1e7f1457d04ce09ea63add7861f0ca2",
+    "project": "livsocial"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/app-bubble-source.png",
+    "path": "asset-library/reviews/projects/app-bubble/mobile-mockup-consistency-2026-11-12/app-bubble-source.png",
+    "sha256": "d45daf8116f989c83c89cfb38b68e90406200c67bae6f3f41ec13a5ebce530f8",
+    "project": "app-bubble"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/app-fynmate-source.png",
+    "path": "asset-library/reviews/projects/app-fynmate/mobile-mockup-consistency-2026-11-12/app-fynmate-source.png",
+    "sha256": "5a40e88c28c45638ba64df40b3461fc73ca98c63f359cfde3f2c1b3a49528362",
+    "project": "app-fynmate"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/app-heartsync-source.png",
+    "path": "asset-library/reviews/projects/app-heartsync/mobile-mockup-consistency-2026-11-12/app-heartsync-source.png",
+    "sha256": "cc4653278f54814a6189bf2a8359c58abf2aeac06e4a5f2214799822e6c52ec3",
+    "project": "app-heartsync"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/app-silaflow-source.png",
+    "path": "asset-library/reviews/projects/app-silaflow/mobile-mockup-consistency-2026-11-12/app-silaflow-source.png",
+    "sha256": "f75aaefd455a3b6b471a964068f91b6d8a958a8c23d19a32d6a4d190d47bc909",
+    "project": "app-silaflow"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/examined-login-grid.png",
+    "path": "asset-library/reviews/by-phase/mobile-mockup-consistency-2026-11-12/examined-login-grid.png",
+    "sha256": "5721442db6dbf761714b22a9316681dc5ef3d82b898fbccf5c74a476b4b67a4d",
+    "project": null
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/examined-register-grid.png",
+    "path": "asset-library/reviews/by-phase/mobile-mockup-consistency-2026-11-12/examined-register-grid.png",
+    "sha256": "2c91dd595474ca38a4f8aa1b68d45abd961908bf3728a4b982519b13cf9e3628",
+    "project": null
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/livsocial-intro-grid.png",
+    "path": "asset-library/reviews/projects/livsocial/mobile-mockup-consistency-2026-11-12/livsocial-intro-grid.png",
+    "sha256": "3d0c42b46759f698ff10924fb480d3872be3760da5beb992356a6c3282d840be",
+    "project": "livsocial"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/mobile-mobile-cards.png",
+    "path": "asset-library/reviews/by-phase/mobile-mockup-consistency-2026-11-12/mobile-mobile-cards.png",
+    "sha256": "c1d83b2e09ce8c239313a232d10d789db2c2bdd6a77e49e55e937789db4c9114",
+    "project": null
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/racepace-top-check.png",
+    "path": "asset-library/reviews/by-phase/mobile-mockup-consistency-2026-11-12/racepace-top-check.png",
+    "sha256": "5d1358d9f0491308fa8a154e565ce5c287add38dc339a56ea19323d44aa9447d",
+    "project": null
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-axorabid-0.png",
+    "path": "asset-library/reviews/projects/app-axorabid/mobile-mockup-consistency-2026-11-12/screens/app-axorabid-0.png",
+    "sha256": "f944c4c9a044fb942bf8cbbefc55f7c6336e6042ffaa717648aed1740492876c",
+    "project": "app-axorabid"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-axorabid-1.png",
+    "path": "asset-library/reviews/projects/app-axorabid/mobile-mockup-consistency-2026-11-12/screens/app-axorabid-1.png",
+    "sha256": "14fec60cabbdf618a577c61b03453adeb18e9c38f1e4d746ab557fc90d8ddb8b",
+    "project": "app-axorabid"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-been-there-0.png",
+    "path": "asset-library/reviews/projects/app-been-there/mobile-mockup-consistency-2026-11-12/screens/app-been-there-0.png",
+    "sha256": "7aa7096a6a511c38070d64a96a582bd3ac95090afc0b0deef15b3f809a4d1aab",
+    "project": "app-been-there"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-been-there-1.png",
+    "path": "asset-library/reviews/projects/app-been-there/mobile-mockup-consistency-2026-11-12/screens/app-been-there-1.png",
+    "sha256": "236dcf2a91a8b0e5d27b0be7484074f50cc84ac94754dd1ffceb8753d7626f3f",
+    "project": "app-been-there"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-beliri-0.png",
+    "path": "asset-library/reviews/projects/app-beliri/mobile-mockup-consistency-2026-11-12/screens/app-beliri-0.png",
+    "sha256": "5d4e69eba043215abd5300e532361c068db1d56371b664465bd4b6f5f116a4a6",
+    "project": "app-beliri"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-beliri-1.png",
+    "path": "asset-library/reviews/projects/app-beliri/mobile-mockup-consistency-2026-11-12/screens/app-beliri-1.png",
+    "sha256": "baea38ef37729d55a14f828df04a0c47dcf2f14fa87e0d87903a766fac978db1",
+    "project": "app-beliri"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-bubble-0.png",
+    "path": "asset-library/reviews/projects/app-bubble/mobile-mockup-consistency-2026-11-12/screens/app-bubble-0.png",
+    "sha256": "bd35de2f66038183c8d41344ae7dc32189a9692f6c5c8025291ecd02638ad760",
+    "project": "app-bubble"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-bubble-1.png",
+    "path": "asset-library/reviews/projects/app-bubble/mobile-mockup-consistency-2026-11-12/screens/app-bubble-1.png",
+    "sha256": "7dfe9286d237ca9ba0f11cbae1bdd3a5fe921ee6306ac3dd97eaf1fe6c79ae7e",
+    "project": "app-bubble"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-calivora-0.png",
+    "path": "asset-library/reviews/projects/app-calivora/mobile-mockup-consistency-2026-11-12/screens/app-calivora-0.png",
+    "sha256": "fefdb695b7b6547fe728918e941295cc41afea4ed8b1320dfa55e3a17dbd5633",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-calivora-1.png",
+    "path": "asset-library/reviews/projects/app-calivora/mobile-mockup-consistency-2026-11-12/screens/app-calivora-1.png",
+    "sha256": "c5ae06e88dc7ac0b652a4e652295bea5474c11000b0917bbb2ffc7f00626b560",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-case-management-ase-0.png",
+    "path": "asset-library/reviews/projects/app-case-management-ase/mobile-mockup-consistency-2026-11-12/screens/app-case-management-ase-0.png",
+    "sha256": "51ce5476e7dbeca65c417f23fd0a2029fecbfeb572bce8feb42089c7957a47b3",
+    "project": "app-case-management-ase"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-case-management-ase-1.png",
+    "path": "asset-library/reviews/projects/app-case-management-ase/mobile-mockup-consistency-2026-11-12/screens/app-case-management-ase-1.png",
+    "sha256": "22a8d46761b6b46fc8b5b10d1e2dcb1493ae8a725b6019915eea51067ed6147b",
+    "project": "app-case-management-ase"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-dateflow-0.png",
+    "path": "asset-library/reviews/projects/app-dateflow/mobile-mockup-consistency-2026-11-12/screens/app-dateflow-0.png",
+    "sha256": "ecac30fbf295ca2c82bd655ac94012d8b9d3fc3b5ccd3e8bff3ada04100beac6",
+    "project": "app-dateflow"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-dateflow-1.png",
+    "path": "asset-library/reviews/projects/app-dateflow/mobile-mockup-consistency-2026-11-12/screens/app-dateflow-1.png",
+    "sha256": "66bcd2de4ed3be90c6486b9db93f59789367d2f5831fd655a190428d89c16ef0",
+    "project": "app-dateflow"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-escapethehoa-0.png",
+    "path": "asset-library/reviews/projects/app-escapethehoa/mobile-mockup-consistency-2026-11-12/screens/app-escapethehoa-0.png",
+    "sha256": "1e8d0acbe83ef283ece4760ac6138a940b6ca5c99aac9fd792f736f9fc0aa946",
+    "project": "app-escapethehoa"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-escapethehoa-1.png",
+    "path": "asset-library/reviews/projects/app-escapethehoa/mobile-mockup-consistency-2026-11-12/screens/app-escapethehoa-1.png",
+    "sha256": "b8f4da2c30fb4307ec524bbc13b7a18db4a96fdbb5adbbdcbd48b70167702f3e",
+    "project": "app-escapethehoa"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-fynmate-0.png",
+    "path": "asset-library/reviews/projects/app-fynmate/mobile-mockup-consistency-2026-11-12/screens/app-fynmate-0.png",
+    "sha256": "77efdab72541d04b033fc636b957185d2a14d4062d1d04deee0ea2926e28179e",
+    "project": "app-fynmate"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-fynmate-1.png",
+    "path": "asset-library/reviews/projects/app-fynmate/mobile-mockup-consistency-2026-11-12/screens/app-fynmate-1.png",
+    "sha256": "9dd295e4a4f5b752e4dbb3ba6d734dc8059ae9d75fc1446cb2b3be2ef42912f0",
+    "project": "app-fynmate"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-habitstride-0.png",
+    "path": "asset-library/reviews/projects/app-habitstride/mobile-mockup-consistency-2026-11-12/screens/app-habitstride-0.png",
+    "sha256": "d3012c1c92952754b57040e73c484c3175aea73e0d3a86e8c65dd48e2a38cfae",
+    "project": "app-habitstride"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-habitstride-1.png",
+    "path": "asset-library/reviews/projects/app-habitstride/mobile-mockup-consistency-2026-11-12/screens/app-habitstride-1.png",
+    "sha256": "5aa9820dfb1d1cba253dfb3329f2b2325fff1c1798cf560317cfbe3895072d49",
+    "project": "app-habitstride"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-heartsync-0.png",
+    "path": "asset-library/reviews/projects/app-heartsync/mobile-mockup-consistency-2026-11-12/screens/app-heartsync-0.png",
+    "sha256": "58fbd7082d2fe8a7261d5803b99ed51d5893af87ac1c3601d9f57988941823ab",
+    "project": "app-heartsync"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-heartsync-1.png",
+    "path": "asset-library/reviews/projects/app-heartsync/mobile-mockup-consistency-2026-11-12/screens/app-heartsync-1.png",
+    "sha256": "94767d3ce39bc7891f6a125c35e57c90e961a92bc37f4b36932592fc25e85f6d",
+    "project": "app-heartsync"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-infinote-0.png",
+    "path": "asset-library/reviews/projects/app-infinote/mobile-mockup-consistency-2026-11-12/screens/app-infinote-0.png",
+    "sha256": "ce5612b7c80ace00072169f371eb2447e5190fe2c4a95605c5de4bd8f7ab39a1",
+    "project": "app-infinote"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-infinote-1.png",
+    "path": "asset-library/reviews/projects/app-infinote/mobile-mockup-consistency-2026-11-12/screens/app-infinote-1.png",
+    "sha256": "917caa1cf08a84b320215968ae8326fd51646a9d21df5dacb23b3ddbaf0a76e7",
+    "project": "app-infinote"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-kegeltempo-0.png",
+    "path": "asset-library/reviews/projects/app-kegeltempo/mobile-mockup-consistency-2026-11-12/screens/app-kegeltempo-0.png",
+    "sha256": "ec3c4bdaaf76010bcd022563f02dddc8142d3a22655373867a837d77e099dd7d",
+    "project": "app-kegeltempo"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-kegeltempo-1.png",
+    "path": "asset-library/reviews/projects/app-kegeltempo/mobile-mockup-consistency-2026-11-12/screens/app-kegeltempo-1.png",
+    "sha256": "991f8b8cde3327cc2bec8cf193d7a2e02b67dc4aa4cfdcf3a3cf04d5b05ed51b",
+    "project": "app-kegeltempo"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-little-butterflies-0.png",
+    "path": "asset-library/reviews/projects/app-little-butterflies/mobile-mockup-consistency-2026-11-12/screens/app-little-butterflies-0.png",
+    "sha256": "503ffeda3a299b026f90f1d13b3426c601eb465e1413ead7f41e31c2a84d4b9d",
+    "project": "app-little-butterflies"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-little-butterflies-1.png",
+    "path": "asset-library/reviews/projects/app-little-butterflies/mobile-mockup-consistency-2026-11-12/screens/app-little-butterflies-1.png",
+    "sha256": "a0386addaf0a4bca325532af3ae34ef97ed730095bece258873ead72d10debf9",
+    "project": "app-little-butterflies"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-livsocial-0.png",
+    "path": "asset-library/reviews/projects/app-livsocial/mobile-mockup-consistency-2026-11-12/screens/app-livsocial-0.png",
+    "sha256": "0c907364764afdc3682e4ae95693c4a78a6b9edd40209c5bf809654492bfdf8f",
+    "project": "app-livsocial"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-livsocial-1.png",
+    "path": "asset-library/reviews/projects/app-livsocial/mobile-mockup-consistency-2026-11-12/screens/app-livsocial-1.png",
+    "sha256": "d9902519d19cf300ce990b8af9fbe436a93873635c7f9714ea3d51c5f60726be",
+    "project": "app-livsocial"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-meravyaah-0.png",
+    "path": "asset-library/reviews/projects/app-meravyaah/mobile-mockup-consistency-2026-11-12/screens/app-meravyaah-0.png",
+    "sha256": "3dcd08cfc67dfb9d6c5c077cc8ba30ba1049ff8f8b55d48102a5947512ee1921",
+    "project": "app-meravyaah"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-meravyaah-1.png",
+    "path": "asset-library/reviews/projects/app-meravyaah/mobile-mockup-consistency-2026-11-12/screens/app-meravyaah-1.png",
+    "sha256": "41b69d7c342ca8ebf4dc7cb3dfe06e44900d294739da31d76861c2e8c0f07271",
+    "project": "app-meravyaah"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-pace-of-play-0.png",
+    "path": "asset-library/reviews/projects/app-pace-of-play/mobile-mockup-consistency-2026-11-12/screens/app-pace-of-play-0.png",
+    "sha256": "0aa07da01c0e9503927b63631a4bbb63a2496d626067dd521835e06006310dae",
+    "project": "app-pace-of-play"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-pace-of-play-1.png",
+    "path": "asset-library/reviews/projects/app-pace-of-play/mobile-mockup-consistency-2026-11-12/screens/app-pace-of-play-1.png",
+    "sha256": "5e58a6c784ffeacb171d0c129f714df27e4597edce021fecdf72a74dfd5f5c65",
+    "project": "app-pace-of-play"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-pantryone-0.png",
+    "path": "asset-library/reviews/projects/app-pantryone/mobile-mockup-consistency-2026-11-12/screens/app-pantryone-0.png",
+    "sha256": "86da8ef160da2b58ae25c928b494578a8e22d5555c610a9ec92447fae60473e7",
+    "project": "app-pantryone"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-pantryone-1.png",
+    "path": "asset-library/reviews/projects/app-pantryone/mobile-mockup-consistency-2026-11-12/screens/app-pantryone-1.png",
+    "sha256": "c4aef464507ccbf207266a8074c13e2160561f94b2f1eeea27ea915ad38971c7",
+    "project": "app-pantryone"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-printlific-0.png",
+    "path": "asset-library/reviews/projects/app-printlific/mobile-mockup-consistency-2026-11-12/screens/app-printlific-0.png",
+    "sha256": "f2bc7900e4d21e752b416772b2742d76dc224295560503077668099ec0169f13",
+    "project": "app-printlific"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-printlific-1.png",
+    "path": "asset-library/reviews/projects/app-printlific/mobile-mockup-consistency-2026-11-12/screens/app-printlific-1.png",
+    "sha256": "8333af77fe4a6ab2a8c10375d54f5ddaa072bbbc74584879d55e2505e8ebc0da",
+    "project": "app-printlific"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-qcop-app-0.png",
+    "path": "asset-library/reviews/projects/app-qcop-app/mobile-mockup-consistency-2026-11-12/screens/app-qcop-app-0.png",
+    "sha256": "89361e50d758a73a65a2d00a8f39490ba87128b306a7f35d4f3c6d0a723f53f7",
+    "project": "app-qcop-app"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-qcop-app-1.png",
+    "path": "asset-library/reviews/projects/app-qcop-app/mobile-mockup-consistency-2026-11-12/screens/app-qcop-app-1.png",
+    "sha256": "823f0381059464368c2034548ed9f6bd4e401a3dbc0710c3cfb295338e94f205",
+    "project": "app-qcop-app"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-racepace-0.png",
+    "path": "asset-library/reviews/projects/app-racepace/mobile-mockup-consistency-2026-11-12/screens/app-racepace-0.png",
+    "sha256": "ff373fadbb094f9fcab61e6d3b5d6e6ab6c339ef78e7b69eb32ad4701a826c72",
+    "project": "app-racepace"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-racepace-1.png",
+    "path": "asset-library/reviews/projects/app-racepace/mobile-mockup-consistency-2026-11-12/screens/app-racepace-1.png",
+    "sha256": "91f0c750782b161e1917c438ba973f7c070f6693c8ae206d362bfc57e3f6bff3",
+    "project": "app-racepace"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-silaflow-0.png",
+    "path": "asset-library/reviews/projects/app-silaflow/mobile-mockup-consistency-2026-11-12/screens/app-silaflow-0.png",
+    "sha256": "bc6abc8eada8f33a1e6ac4d903a29d38e1c61c5e2919480f403123332bbdb923",
+    "project": "app-silaflow"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-silaflow-1.png",
+    "path": "asset-library/reviews/projects/app-silaflow/mobile-mockup-consistency-2026-11-12/screens/app-silaflow-1.png",
+    "sha256": "ad1e8333d62e5e700bb641cb99a6a2dd5bbd932d8ddca883e8438d95e576d2d8",
+    "project": "app-silaflow"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-simplyscouted-0.png",
+    "path": "asset-library/reviews/projects/app-simplyscouted/mobile-mockup-consistency-2026-11-12/screens/app-simplyscouted-0.png",
+    "sha256": "49a30839fda7e6bb3c6369056e6eeec29c06587565ff5f0b2154321d7877cd7a",
+    "project": "app-simplyscouted"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-simplyscouted-1.png",
+    "path": "asset-library/reviews/projects/app-simplyscouted/mobile-mockup-consistency-2026-11-12/screens/app-simplyscouted-1.png",
+    "sha256": "ed255f022daaa5f8e1a9dc8d56e458fee03eebee49e15c5bc8f71f46e37eb07e",
+    "project": "app-simplyscouted"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-streetslate-0.png",
+    "path": "asset-library/reviews/projects/app-streetslate/mobile-mockup-consistency-2026-11-12/screens/app-streetslate-0.png",
+    "sha256": "3fe758d82e657484facc655aafdbd36231e95149f3773ed5663a85022389cdd0",
+    "project": "app-streetslate"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-streetslate-1.png",
+    "path": "asset-library/reviews/projects/app-streetslate/mobile-mockup-consistency-2026-11-12/screens/app-streetslate-1.png",
+    "sha256": "ea97f831fa3819160e9fa5eb62ff79a7e021392eb349056747d5f814827f9c6a",
+    "project": "app-streetslate"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-strivaro-0.png",
+    "path": "asset-library/reviews/projects/app-strivaro/mobile-mockup-consistency-2026-11-12/screens/app-strivaro-0.png",
+    "sha256": "8b1488181b45dfb1edffbebdbdfee2bc9aee7f1493ad9284051cc8d36a91c32a",
+    "project": "app-strivaro"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-strivaro-1.png",
+    "path": "asset-library/reviews/projects/app-strivaro/mobile-mockup-consistency-2026-11-12/screens/app-strivaro-1.png",
+    "sha256": "2e6337fe628acf93387c8fb2ae077bd1750e50749d68d7bceb1ec27533ea9f4a",
+    "project": "app-strivaro"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-supplement-management-0.png",
+    "path": "asset-library/reviews/projects/app-supplement-management/mobile-mockup-consistency-2026-11-12/screens/app-supplement-management-0.png",
+    "sha256": "b14a6b66fd04bc5cd0aabaed4767573b8846745d049c88d99626c4da67d7e54d",
+    "project": "app-supplement-management"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-supplement-management-1.png",
+    "path": "asset-library/reviews/projects/app-supplement-management/mobile-mockup-consistency-2026-11-12/screens/app-supplement-management-1.png",
+    "sha256": "9775dc62f2bc7df482a85f48d716ef38113c6ad7809529269d885deca1660258",
+    "project": "app-supplement-management"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-tukora-connect-0.png",
+    "path": "asset-library/reviews/projects/app-tukora-connect/mobile-mockup-consistency-2026-11-12/screens/app-tukora-connect-0.png",
+    "sha256": "c5efac79cfbff869aec52b1a8e99d68efd0468f640c69d5e4715ec391337cc9c",
+    "project": "app-tukora-connect"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-tukora-connect-1.png",
+    "path": "asset-library/reviews/projects/app-tukora-connect/mobile-mockup-consistency-2026-11-12/screens/app-tukora-connect-1.png",
+    "sha256": "a14b65179e2464b214d50f6a25ffab4a678376e2323eed760dc1e45fc124f3c1",
+    "project": "app-tukora-connect"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-ummed-0.png",
+    "path": "asset-library/reviews/projects/app-ummed/mobile-mockup-consistency-2026-11-12/screens/app-ummed-0.png",
+    "sha256": "0d8edf273d942b687180780d7f425cbc54fff8630e10131f633db73ec1521ede",
+    "project": "app-ummed"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/screens/app-ummed-1.png",
+    "path": "asset-library/reviews/projects/app-ummed/mobile-mockup-consistency-2026-11-12/screens/app-ummed-1.png",
+    "sha256": "8028da0569773409499022209cada342d1e64c8f95553f90c436c770a2e62796",
+    "project": "app-ummed"
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/source-tops.png",
+    "path": "asset-library/reviews/by-phase/mobile-mockup-consistency-2026-11-12/source-tops.png",
+    "sha256": "17f92d897d7ea7b8036fe72bf50b73cad148923a6f3ca96fe7c8f08c7650a8a3",
+    "project": null
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/tablet-mobile-cards.png",
+    "path": "asset-library/reviews/by-phase/mobile-mockup-consistency-2026-11-12/tablet-mobile-cards.png",
+    "sha256": "bcb4a9c7923d49fa2997b206430e82c3553465cf40621dd1a0c12865e915d2ed",
+    "project": null
+  },
+  {
+    "oldPath": "audit/mobile-mockup-consistency-2026-11-12/umeed-profile-grid.png",
+    "path": "asset-library/reviews/projects/umeed/mobile-mockup-consistency-2026-11-12/umeed-profile-grid.png",
+    "sha256": "23b55ad63acb42770b4d37c6483a8ec148344e1d1327ac9e6725af2031960ccd",
+    "project": "umeed"
+  },
+  {
+    "oldPath": "audit/mockup-fit-2026-11-13/review/app-calivora-1440.png",
+    "path": "asset-library/reviews/projects/app-calivora/mockup-fit-2026-11-13/review/app-calivora-1440.png",
+    "sha256": "ff9b9f2c595272abf8e37f9671e15381c6822d0d80bf5e7699007c8a894dac50",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/mockup-fit-2026-11-13/review/app-calivora-390.png",
+    "path": "asset-library/reviews/projects/app-calivora/mockup-fit-2026-11-13/review/app-calivora-390.png",
+    "sha256": "562bfc405bc8505af04dd0c58cac8b9baed5f87c8d44e4b574d5ca8c326e4377",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/mockup-fit-2026-11-13/review/app-calivora-768.png",
+    "path": "asset-library/reviews/projects/app-calivora/mockup-fit-2026-11-13/review/app-calivora-768.png",
+    "sha256": "3679370dfd952f4a2ab653961fd717f7b0a8b6b532a34ca8298b910cc66aaeeb",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/mockup-fit-2026-11-13/review/axorabid-1440.png",
+    "path": "asset-library/reviews/projects/axorabid/mockup-fit-2026-11-13/review/axorabid-1440.png",
+    "sha256": "d533e7bc371be564ed18d5412c1c386d2e5aef6244a86a3636ba1e5ccaee6a4c",
+    "project": "axorabid"
+  },
+  {
+    "oldPath": "audit/mockup-fit-2026-11-13/review/axorabid-390.png",
+    "path": "asset-library/reviews/projects/axorabid/mockup-fit-2026-11-13/review/axorabid-390.png",
+    "sha256": "e93de2be4f27ec430b97b835195a13c7bbaa1719c294d6f6ea519ec6af901ab5",
+    "project": "axorabid"
+  },
+  {
+    "oldPath": "audit/mockup-fit-2026-11-13/review/axorabid-768.png",
+    "path": "asset-library/reviews/projects/axorabid/mockup-fit-2026-11-13/review/axorabid-768.png",
+    "sha256": "c65c91df76744e463713a17790d9c742c9f4229aa265e6c5369c7e59f38a0ceb",
+    "project": "axorabid"
+  },
+  {
+    "oldPath": "audit/mockup-fit-2026-11-13/review/nerdrabbit-1440.png",
+    "path": "asset-library/reviews/projects/nerdrabbit/mockup-fit-2026-11-13/review/nerdrabbit-1440.png",
+    "sha256": "ec9a48fe4120e9dc485c2420f6e056c990bb3dffee0fb94b93e751a9e8de1d77",
+    "project": "nerdrabbit"
+  },
+  {
+    "oldPath": "audit/mockup-fit-2026-11-13/review/nerdrabbit-390.png",
+    "path": "asset-library/reviews/projects/nerdrabbit/mockup-fit-2026-11-13/review/nerdrabbit-390.png",
+    "sha256": "6e46cfe90199e127c4c6a3161d1dc980ac7c585b969efba6e81246eb3f9438b2",
+    "project": "nerdrabbit"
+  },
+  {
+    "oldPath": "audit/mockup-fit-2026-11-13/review/nerdrabbit-768.png",
+    "path": "asset-library/reviews/projects/nerdrabbit/mockup-fit-2026-11-13/review/nerdrabbit-768.png",
+    "sha256": "b068abe7b2d846e041e875e9eb4b55f671f2ab9936d11625b90a287c8c7039da",
+    "project": "nerdrabbit"
+  },
+  {
+    "oldPath": "audit/portfolio-showcase/development/hero-1195.png",
+    "path": "asset-library/reviews/by-phase/portfolio-showcase/development/hero-1195.png",
+    "sha256": "911a4f461f637775ee7ddcf7545e98ad29872dc38f3f1a93d99fecec12094daa",
+    "project": null
+  },
+  {
+    "oldPath": "audit/portfolio-showcase/development/hero-1440.png",
+    "path": "asset-library/reviews/by-phase/portfolio-showcase/development/hero-1440.png",
+    "sha256": "53a502d25f0b832cd734bf5d0422b4a3a6bb0d8fd8475562376f0f880da2b52a",
+    "project": null
+  },
+  {
+    "oldPath": "audit/portfolio-showcase/development/hero-768.png",
+    "path": "asset-library/reviews/by-phase/portfolio-showcase/development/hero-768.png",
+    "sha256": "b29131b1d17e2aca9f4933955fe2cb2d6a8a78e63b1f300ab7285a5e9a654f58",
+    "project": null
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/after-app-calivora-1440.png",
+    "path": "asset-library/reviews/projects/app-calivora/project-identities-2026-11-13/review/after-app-calivora-1440.png",
+    "sha256": "6e8cc67ffcae768f785816d6a4f8a640ee5d28898a98fb696613ad6324323c4d",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/after-app-calivora-768.png",
+    "path": "asset-library/reviews/projects/app-calivora/project-identities-2026-11-13/review/after-app-calivora-768.png",
+    "sha256": "2365b07021991ee5a629255db7acb5a585cdd801a24bce497f26c84d378ae78d",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/after-app-infinote-768.png",
+    "path": "asset-library/reviews/projects/app-infinote/project-identities-2026-11-13/review/after-app-infinote-768.png",
+    "sha256": "919dc9ef8be1f1b724cbad6b6d7df132505fae4f13d62af8736a104efc6c4637",
+    "project": "app-infinote"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/before-app-calivora-1440.png",
+    "path": "asset-library/reviews/projects/app-calivora/project-identities-2026-11-13/review/before-app-calivora-1440.png",
+    "sha256": "044d30c4efc9c105bf4074e44e5cee86f1e300e1f99de1dc5345ca2c17e9eb7d",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/before-app-infinote-1440.png",
+    "path": "asset-library/reviews/projects/app-infinote/project-identities-2026-11-13/review/before-app-infinote-1440.png",
+    "sha256": "d4662b46eb9dca16aa7465b4a3f70d8a968c9bddbee7dd3017a1f71cc7318d34",
+    "project": "app-infinote"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/before-whizlume-1440.png",
+    "path": "asset-library/reviews/projects/whizlume/project-identities-2026-11-13/review/before-whizlume-1440.png",
+    "sha256": "82acf6c51d3361de5f5247ca7021cb39b2833a82bb9f6e8fb9493b70ec1d628c",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/card-hover-app-calivora-1x.png",
+    "path": "asset-library/reviews/projects/app-calivora/project-identities-2026-11-13/review/card-hover-app-calivora-1x.png",
+    "sha256": "ab57d3f43fa91b00cb2ddb0e9f27e051728d9a1b575f623b37b5c3077013bf07",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/card-hover-app-calivora-2x.png",
+    "path": "asset-library/reviews/projects/app-calivora/project-identities-2026-11-13/review/card-hover-app-calivora-2x.png",
+    "sha256": "e95eb941cb453498a0f6d519998e4e13463e7858684c7db802a987c06524bf41",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/card-hover-axorabid-1x.png",
+    "path": "asset-library/reviews/projects/axorabid/project-identities-2026-11-13/review/card-hover-axorabid-1x.png",
+    "sha256": "f0f4e752a0a6571a0a6468129cfdb5f099cf68e6a56ff1cb74d1891fd44c4a71",
+    "project": "axorabid"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/card-hover-axorabid-2x.png",
+    "path": "asset-library/reviews/projects/axorabid/project-identities-2026-11-13/review/card-hover-axorabid-2x.png",
+    "sha256": "908286cf3a7ff4a2b4ad3fe1d824fcd66d192f471c3813e0a54035077662d8eb",
+    "project": "axorabid"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/card-hover-whizlume-1x.png",
+    "path": "asset-library/reviews/projects/whizlume/project-identities-2026-11-13/review/card-hover-whizlume-1x.png",
+    "sha256": "50b256ee560afd1bea3f3ffdb18ffc557cecd8cd8776fac92f43a3bf50846633",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/card-hover-whizlume-2x.png",
+    "path": "asset-library/reviews/projects/whizlume/project-identities-2026-11-13/review/card-hover-whizlume-2x.png",
+    "sha256": "0979d2470f3f999e2b52aa772ad786c0939704caa19c6da147d3a85d955b2f9a",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/page-app-calivora-1440.png",
+    "path": "asset-library/reviews/projects/app-calivora/project-identities-2026-11-13/review/page-app-calivora-1440.png",
+    "sha256": "a32bc651f543b37264bad7e1cb2b29cb93ebc915adf830520fa1d1b61ee32afa",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/page-app-calivora-390.png",
+    "path": "asset-library/reviews/projects/app-calivora/project-identities-2026-11-13/review/page-app-calivora-390.png",
+    "sha256": "8e9cf6e9845cb923d17f37eb79c9a68c64a364836c8f3c85c3e3842f99e1d451",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/page-app-calivora-768.png",
+    "path": "asset-library/reviews/projects/app-calivora/project-identities-2026-11-13/review/page-app-calivora-768.png",
+    "sha256": "0e40d309d66cd6b7c5e024a2c96d28149b4f0b84c80855ee6e46bd9b3ebbbb6d",
+    "project": "app-calivora"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/page-app-infinote-1440.png",
+    "path": "asset-library/reviews/projects/app-infinote/project-identities-2026-11-13/review/page-app-infinote-1440.png",
+    "sha256": "da4de2c1d471c3bc6342d900e4a159087d83a10f3c2ef8ee58706fab0253b158",
+    "project": "app-infinote"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/page-app-infinote-390.png",
+    "path": "asset-library/reviews/projects/app-infinote/project-identities-2026-11-13/review/page-app-infinote-390.png",
+    "sha256": "94b3d597ac3b142d460282739e890c5d555cc05cc1437f1effeea1549da2ee0a",
+    "project": "app-infinote"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/page-app-infinote-768.png",
+    "path": "asset-library/reviews/projects/app-infinote/project-identities-2026-11-13/review/page-app-infinote-768.png",
+    "sha256": "63b8ec6dac5c890505e8fa3cad2949ca16f31b074d5494033e0b3720dcab4b92",
+    "project": "app-infinote"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/page-axorabid-1440.png",
+    "path": "asset-library/reviews/projects/axorabid/project-identities-2026-11-13/review/page-axorabid-1440.png",
+    "sha256": "eeb386dc08ccb5a3186a13538c1111f4e8d49385630fb93893eda7ab4e0f348c",
+    "project": "axorabid"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/page-axorabid-390.png",
+    "path": "asset-library/reviews/projects/axorabid/project-identities-2026-11-13/review/page-axorabid-390.png",
+    "sha256": "bb05eefada57ad0a7fd1ede3ca6aecc95b5eb6dc8fed939980a26233c022890f",
+    "project": "axorabid"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/page-axorabid-768.png",
+    "path": "asset-library/reviews/projects/axorabid/project-identities-2026-11-13/review/page-axorabid-768.png",
+    "sha256": "267075d53d931ef1c23357a7f6afabc5780a889645bf57432ee5be02309b795e",
+    "project": "axorabid"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/page-whizlume-1440.png",
+    "path": "asset-library/reviews/projects/whizlume/project-identities-2026-11-13/review/page-whizlume-1440.png",
+    "sha256": "bf5aac321ca64ca26f2134a529ddbc2e2d08f90597d7637463707f0a1b5bf2e6",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/page-whizlume-390.png",
+    "path": "asset-library/reviews/projects/whizlume/project-identities-2026-11-13/review/page-whizlume-390.png",
+    "sha256": "a84f0de0a5a329663eda83b3762edee5a55b1df5c247b4da34140f54e43a314a",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/project-identities-2026-11-13/review/page-whizlume-768.png",
+    "path": "asset-library/reviews/projects/whizlume/project-identities-2026-11-13/review/page-whizlume-768.png",
+    "sha256": "85c234d2c6b47f87203114b4fbd898228c93b4c942e7da7c9c6a907317d502b9",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/projects-1.png",
+    "path": "asset-library/reviews/by-phase/general/projects-1.png",
+    "sha256": "858d5f291ef1ff5c7a8678d75e6bd829c9f8c9e70cb99c14d2a2fe0171c6bc96",
+    "project": null
+  },
+  {
+    "oldPath": "audit/projects-10.png",
+    "path": "asset-library/reviews/by-phase/general/projects-10.png",
+    "sha256": "b11f4953f97a43ce372e47f2f1f1c108320aa5eaba5b1e69146da1e3a25de720",
+    "project": null
+  },
+  {
+    "oldPath": "audit/projects-19.png",
+    "path": "asset-library/reviews/by-phase/general/projects-19.png",
+    "sha256": "c3d72eb1339f675e4e2eefa95d8df316f7a31b7b0c752950e67922a671cf7a2f",
+    "project": null
+  },
+  {
+    "oldPath": "audit/projects-28.png",
+    "path": "asset-library/reviews/by-phase/general/projects-28.png",
+    "sha256": "3781de7fe414ed7b15da21f042b2216af3c1a3a79d74382ddf1f422c9a076cf4",
+    "project": null
+  },
+  {
+    "oldPath": "audit/projects-37.png",
+    "path": "asset-library/reviews/by-phase/general/projects-37.png",
+    "sha256": "1e04ab590f4e76019b672763f634328f1abb2cd929dfd4da05e92b9ce43bcbca",
+    "project": null
+  },
+  {
+    "oldPath": "audit/projects-46.png",
+    "path": "asset-library/reviews/by-phase/general/projects-46.png",
+    "sha256": "e9c8945502071a91f7657e90d0e40f550833c29f69e202fe7981c2d713d5101f",
+    "project": null
+  },
+  {
+    "oldPath": "audit/rebrand/preview-sheet-desktop-gallery.png",
+    "path": "asset-library/reviews/by-phase/rebrand/preview-sheet-desktop-gallery.png",
+    "sha256": "526b305c15f451763518de64bd4afd6a3c01d9443894023714628bba62c075b2",
+    "project": null
+  },
+  {
+    "oldPath": "audit/rebrand/preview-sheet-desktop-hero.png",
+    "path": "asset-library/reviews/by-phase/rebrand/preview-sheet-desktop-hero.png",
+    "sha256": "2f6d768f4c5846df37c78bc270a888c9659c8ac3fb6eafc61b67bba8dea02718",
+    "project": null
+  },
+  {
+    "oldPath": "audit/rebrand/preview-sheet-mobile-gallery.png",
+    "path": "asset-library/reviews/by-phase/rebrand/preview-sheet-mobile-gallery.png",
+    "sha256": "9b8419193822782ea53bf1419f9d368077d71a62f3eaf012b8b11980da414769",
+    "project": null
+  },
+  {
+    "oldPath": "audit/rebrand/preview-sheet-mobile-hero.png",
+    "path": "asset-library/reviews/by-phase/rebrand/preview-sheet-mobile-hero.png",
+    "sha256": "e4db14a55c71852c13d742f8d55f31c25ad3ab3c90c45d44f3db7fb79b519bb8",
+    "project": null
+  },
+  {
+    "oldPath": "audit/rebrand/regions-1.png",
+    "path": "asset-library/reviews/by-phase/rebrand/regions-1.png",
+    "sha256": "4f6e36b68b847787665a7385e7992d96df8586ab729ef5410cfe358f59de063f",
+    "project": null
+  },
+  {
+    "oldPath": "audit/rebrand/regions-2.png",
+    "path": "asset-library/reviews/by-phase/rebrand/regions-2.png",
+    "sha256": "5553ad9f57c57d1ee897a257e11721ed46fafc6c16314332410f4f8e654b7f42",
+    "project": null
+  },
+  {
+    "oldPath": "audit/rebrand/regions-3.png",
+    "path": "asset-library/reviews/by-phase/rebrand/regions-3.png",
+    "sha256": "f67489a708f6d5e157aa7f75700317be5bac83f53aca6c6e35daedd04b1f727a",
+    "project": null
+  },
+  {
+    "oldPath": "audit/rebrand/regions-4.png",
+    "path": "asset-library/reviews/by-phase/rebrand/regions-4.png",
+    "sha256": "4532120cdc1463d8acd31cbcac7500cfb49f6c0bb38d0abdd34480981fb41939",
+    "project": null
+  },
+  {
+    "oldPath": "audit/rebrand/regions-5.png",
+    "path": "asset-library/reviews/by-phase/rebrand/regions-5.png",
+    "sha256": "c1e19ae56c750adb2f518d2c05d4d0798fdaded5b7c0634071451256693fee7e",
+    "project": null
+  },
+  {
+    "oldPath": "audit/rebrand/regions-6.png",
+    "path": "asset-library/reviews/by-phase/rebrand/regions-6.png",
+    "sha256": "7361bdd3ac9f5ab0e5e51d9c985f136b7e555aca80bd476d04fe30570009a7c4",
+    "project": null
+  },
+  {
+    "oldPath": "audit/rebrand/regions-7.png",
+    "path": "asset-library/reviews/by-phase/rebrand/regions-7.png",
+    "sha256": "e1cc1b57ce367aa72b0ad6baffbc03c51fd379b416eccf927bb2db31cd8c2a69",
+    "project": null
+  },
+  {
+    "oldPath": "audit/rebrand/sheets/app-digital-habit-tracker.png",
+    "path": "asset-library/reviews/projects/app-habitstride/rebrand/sheets/app-digital-habit-tracker.png",
+    "sha256": "4e7ebcff47f554b0cb3dbdc5a01e35e15f05d78c85072a459e852411be1c2e9c",
+    "project": "app-habitstride"
+  },
+  {
+    "oldPath": "audit/rebrand/sheets/app-infinote.png",
+    "path": "asset-library/reviews/projects/app-infinote/rebrand/sheets/app-infinote.png",
+    "sha256": "c7c6a0fb32e88998369bdb7a9e6f4e7c70af0d54755ef4026143ce6d1c405785",
+    "project": "app-infinote"
+  },
+  {
+    "oldPath": "audit/rebrand/sheets/app-one-pantry.png",
+    "path": "asset-library/reviews/projects/app-pantryone/rebrand/sheets/app-one-pantry.png",
+    "sha256": "517e95554ca8665209df02e54e86cb7b12fe2dd6926c8b6aea673f21f89f113c",
+    "project": "app-pantryone"
+  },
+  {
+    "oldPath": "audit/rebrand/sheets/app-silasync.png",
+    "path": "asset-library/reviews/projects/app-silaflow/rebrand/sheets/app-silasync.png",
+    "sha256": "a5974ef057e658a5cc0d32fc165d61f6fbf1dce1fee26adfb2b1b9c3fc0eadb3",
+    "project": "app-silaflow"
+  },
+  {
+    "oldPath": "audit/rebrand/sheets/app-simply-recruited.png",
+    "path": "asset-library/reviews/projects/app-simplyscouted/rebrand/sheets/app-simply-recruited.png",
+    "sha256": "d86ebf53c257f0470248a0a158b4ebb3c7a56ce2648bed883a19e25b0034673d",
+    "project": "app-simplyscouted"
+  },
+  {
+    "oldPath": "audit/rebrand/sheets/app-street-sheets.png",
+    "path": "asset-library/reviews/projects/app-streetslate/rebrand/sheets/app-street-sheets.png",
+    "sha256": "3a4cfa00c57760e9f86174ca4c8d299bed0ce22a5a66756e0e574f4eeb8ef866",
+    "project": "app-streetslate"
+  },
+  {
+    "oldPath": "audit/rebrand/sheets/app-tukeeconnect.png",
+    "path": "asset-library/reviews/projects/app-tukora-connect/rebrand/sheets/app-tukeeconnect.png",
+    "sha256": "3da0e68fd5e93a88bfed5ca976956674666d7f5f6976ef4e85725f1e962aadd2",
+    "project": "app-tukora-connect"
+  },
+  {
+    "oldPath": "audit/rebrand/sheets/br-tennis.png",
+    "path": "asset-library/reviews/projects/rallybridge/rebrand/sheets/br-tennis.png",
+    "sha256": "4f17fb150a6df01b9eaefc3f3b89f9c0f08dfca743029f8a334ef3fe61ea864f",
+    "project": "rallybridge"
+  },
+  {
+    "oldPath": "audit/rebrand/sheets/es-platform.png",
+    "path": "asset-library/reviews/projects/estrata/rebrand/sheets/es-platform.png",
+    "sha256": "58fa27acc994ed946e2db993bbc97a31664ae67ec41d287e8db85b1061c269b6",
+    "project": "estrata"
+  },
+  {
+    "oldPath": "audit/rebrand/sheets/lead-management.png",
+    "path": "asset-library/reviews/projects/leadforma/rebrand/sheets/lead-management.png",
+    "sha256": "24eec23b0c937289354115bd5fc86cb23d078721b58352133494f408429a6124",
+    "project": "leadforma"
+  },
+  {
+    "oldPath": "audit/rebrand/sheets/parachute.png",
+    "path": "asset-library/reviews/projects/paranest/rebrand/sheets/parachute.png",
+    "sha256": "88a0c350195d25fc6584e40656b2c39cb15a4034f9368aa40f320dfb1c2959c1",
+    "project": "paranest"
+  },
+  {
+    "oldPath": "audit/rebrand/sheets/streamdatax.png",
+    "path": "asset-library/reviews/projects/streamdexa/rebrand/sheets/streamdatax.png",
+    "sha256": "bf55f7f0cdd849afd631ced6f807e8dc07e74b2398f4de918864c0561e6824e4",
+    "project": "streamdexa"
+  },
+  {
+    "oldPath": "audit/rebrand/sheets/tukeeconnect.png",
+    "path": "asset-library/reviews/projects/tukora-connect/rebrand/sheets/tukeeconnect.png",
+    "sha256": "88c0e0c3a705fc4d56ae4d4fb0ab08cf4a5b2212250d9201d243d44e42de4c1d",
+    "project": "tukora-connect"
+  },
+  {
+    "oldPath": "audit/rebrand/sheets/whizara.png",
+    "path": "asset-library/reviews/projects/whizlume/rebrand/sheets/whizara.png",
+    "sha256": "bdeb7fe27aa55b66043152a36317f5f1693a255909560e1423e9576b1d1b3ab4",
+    "project": "whizlume"
+  },
+  {
+    "oldPath": "audit/rebrand/test-wordmark.png",
+    "path": "asset-library/reviews/by-phase/rebrand/test-wordmark.png",
+    "sha256": "141f746c5f600fe78ec092223c948dd1b9ff541603a8505321bb5da4460d8fe9",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-desktop-after-review.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-desktop-after-review.png",
+    "sha256": "fa514d4b49c779964ef6d9ff79e68e5c67f984d90a83de7ded7973885797be32",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-desktop-after-viewer.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-desktop-after-viewer.png",
+    "sha256": "b59fdac12d45879c73ee7102711bedcdb3e04a20b18867cf697aa87dc94fa6f1",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-desktop-after.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-desktop-after.png",
+    "sha256": "28377aea5a8e8deffdbb1b0d3c683ae98c7bb09aa3b9a1be2a3fdc5529e9f10d",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-document-after-viewer.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-document-after-viewer.png",
+    "sha256": "fe4dc411a861d5fc6e7918a31ad07f83924b6043347d187096046413c500dff0",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-document-after.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-document-after.png",
+    "sha256": "d9d8fcf37b4021fb4483cdd529ad52c0bb979bcd312da15a3cadc01b40157ff6",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-document-top-final.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-document-top-final.png",
+    "sha256": "c322ecac8868bcbc5137915fcd2bd00df0e129af9ae21ef793608af9a08c3ce4",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-finance-after-viewer.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-finance-after-viewer.png",
+    "sha256": "a5dd16c2977982df5eb036d99bb579ca18b37b54998e017bb1bfc85b1860ce3f",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-finance-after.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-finance-after.png",
+    "sha256": "89d5f32fca4d836e9ff624a6166b880767864116bfdf373cc2bc15052891fa26",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-form-after-final-review.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-form-after-final-review.png",
+    "sha256": "6d7cfd20c77ddef221dec4735f81ebca6af7bdc341608d0ac2c0b6f0db18aa49",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-form-after-review.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-form-after-review.png",
+    "sha256": "b78fe7dc34a1af31b1919ee9ff17e190eed87029800dc1199dc55fbbbc56c7c7",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-form-after-viewer.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-form-after-viewer.png",
+    "sha256": "726a496baca38a5b0e907222a7b3a46a2bd4b451340c61dfa592d2b1fe804cfa",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-form-after.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-form-after.png",
+    "sha256": "e7a3781c0a97b7adbc21bdbbd8ac7df67241829c386273ca6ead47b62283937a",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-mobile-after-review.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-mobile-after-review.png",
+    "sha256": "a433fb29a26d07e425851ffa7d7b339715df6298ecbd710e7a5c1e9ac06cb950",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-mobile-after-viewer.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-mobile-after-viewer.png",
+    "sha256": "c9f235e31dc3f0d90017c531820d9b90ed5e5b1e6c2c4755625ebcd871b145e1",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-mobile-after.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-mobile-after.png",
+    "sha256": "8d68f3b993f12ac4ba7310d72282a87496fc3b1d1f4b797fb1c01b4d63352fd0",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-tablet-after-viewer.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-tablet-after-viewer.png",
+    "sha256": "ee7e297cdb731d320d53903544e4c12e4f47e29ce856f381d0d9d4b6e1e3e892",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-tablet-after.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/case-tablet-after.png",
+    "sha256": "57f5951cee3c6061581cc6832205e3a4d54a28e838d9807dc81ae262c85cf760",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-umeed-after-final-review.png",
+    "path": "asset-library/reviews/projects/umeed/reference-case-studies/case-umeed-after-final-review.png",
+    "sha256": "81cf6c6b5579644ca9a9b9049f1b4cd725617dc60fe174ce6297795de77e04e2",
+    "project": "umeed"
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-umeed-after-viewer.png",
+    "path": "asset-library/reviews/projects/umeed/reference-case-studies/case-umeed-after-viewer.png",
+    "sha256": "8fac6a3e85f024c8fa95717d2e99450d89fb750cc884bb139b353e12785cb467",
+    "project": "umeed"
+  },
+  {
+    "oldPath": "audit/reference-case-studies/case-umeed-after.png",
+    "path": "asset-library/reviews/projects/umeed/reference-case-studies/case-umeed-after.png",
+    "sha256": "cb755ecb6fcfac297d36d2cbdf8dc9c45d5a5b2036215b91eac724adb40e8cc6",
+    "project": "umeed"
+  },
+  {
+    "oldPath": "audit/reference-case-studies/home-compact-desktop-after-cards.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/home-compact-desktop-after-cards.png",
+    "sha256": "e963dc571b9a2ecb30693485e885306c5a7c581484e5fe036510d4eddf9944e1",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/home-compact-desktop-after-hover.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/home-compact-desktop-after-hover.png",
+    "sha256": "945a37f7460b9d4eee4368ad6488a9f608de99d682ea246074644e9c73a4f871",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/home-compact-desktop-after.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/home-compact-desktop-after.png",
+    "sha256": "574ad288cbdec0195a57484884ff082b5ba22d0255be3b2dbe47f5b51a88e2d5",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/home-desktop-after-cards.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/home-desktop-after-cards.png",
+    "sha256": "adeb0eacaac05fb0ee83f186598473ee33e683f247d3345ec4cbe207535eafb4",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/home-desktop-after-hover.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/home-desktop-after-hover.png",
+    "sha256": "39b8882074380647eb4ca47aed46bee62509b2e1d0c3b1fa2dbe4cef244d16ae",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/home-desktop-after.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/home-desktop-after.png",
+    "sha256": "5a89aff7ac99894adb70aba783a74003daf336a08db97b27ba9f41151bf9acba",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/home-mobile-after-cards.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/home-mobile-after-cards.png",
+    "sha256": "781624bf3f19a3ef3064a32bdd528989dcf03d809678dba1eb4b1130204c3e7b",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/home-mobile-after-hover.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/home-mobile-after-hover.png",
+    "sha256": "a52e00779f966e6fab1def551f2a08c29fa84da023fc6ac5513e24e70a2b0cca",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/home-mobile-after.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/home-mobile-after.png",
+    "sha256": "d7b6d7f5b17268cb3f25df08905d835a653e5b7e93aec464c48dbf464c7405d5",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/home-narrow-after-cards.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/home-narrow-after-cards.png",
+    "sha256": "e049513695e784f52be4f11c89e0848cbf435a36897a8d1d6f23e5df43c0de0f",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/home-narrow-after-hover.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/home-narrow-after-hover.png",
+    "sha256": "677a72847af8f20a73622699765172fa166542ed8d77a02612acfea5999491f3",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/home-narrow-after.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/home-narrow-after.png",
+    "sha256": "b26fcf201717811023db9a449c431fa06ac703e17a6b1f8437836d7f8bb8f83f",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/home-tablet-after-cards.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/home-tablet-after-cards.png",
+    "sha256": "eca87a17b42eb40fac6c9544b41b829ea3371b52188343895c5b86c5305f3ede",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/home-tablet-after-hover.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/home-tablet-after-hover.png",
+    "sha256": "c0fc7ef26111fb8e170a53e09e964df702bc06dbb604d9cc7964121cd83bf712",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/home-tablet-after.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/home-tablet-after.png",
+    "sha256": "bda65f8d19f7c7db0370d9e5248d80722d0c98196000e10c84f7e3e28f765bd5",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/poster-sheet-1.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/poster-sheet-1.png",
+    "sha256": "2b43db31bd2f42e39632cd6196fd06a57d5f068f7e063cdcfe740d259e3b6c6f",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/poster-sheet-17.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/poster-sheet-17.png",
+    "sha256": "ccdf07e854b484bd58e27f5c3330d33bc0a5b67594d8310ceb27a5c8955b419f",
+    "project": null
+  },
+  {
+    "oldPath": "audit/reference-case-studies/poster-sheet-33.png",
+    "path": "asset-library/reviews/by-phase/reference-case-studies/poster-sheet-33.png",
+    "sha256": "437b4fc4686df2b7f3d9dd7aad893ff2d38a043b50071f6336f32c163503c4ae",
+    "project": null
+  },
+  {
+    "oldPath": "audit/source-material-removal/desktop.png",
+    "path": "asset-library/reviews/by-phase/source-material-removal/desktop.png",
+    "sha256": "393f48e244b4ef4fd89fed2b2fb67a4469d268e666f30bcd3cee6f618ca6e2db",
+    "project": null
+  },
+  {
+    "oldPath": "audit/source-material-removal/mobile.png",
+    "path": "asset-library/reviews/by-phase/source-material-removal/mobile.png",
+    "sha256": "c5e2bd99bf09a82ebb14dae8b07ab1ed6fd43143a3162cba546215cd2cd9a8e1",
+    "project": null
+  },
+  {
+    "oldPath": "audit/strivaro-project-2026-11-12/card-hover-1x.png",
+    "path": "asset-library/reviews/by-phase/strivaro-project-2026-11-12/card-hover-1x.png",
+    "sha256": "157fed4b8da025fd3c6c4c082806a84793586c253f1cf6219bd86ae454ada6ce",
+    "project": null
+  },
+  {
+    "oldPath": "audit/strivaro-project-2026-11-12/card-hover-2x.png",
+    "path": "asset-library/reviews/by-phase/strivaro-project-2026-11-12/card-hover-2x.png",
+    "sha256": "d9063e6f64b4ad2721f73313406f54d7decb001544fefb360760202bbadbfcb1",
+    "project": null
+  },
+  {
+    "oldPath": "audit/strivaro-project-2026-11-12/detail-desktop-1x.png",
+    "path": "asset-library/reviews/by-phase/strivaro-project-2026-11-12/detail-desktop-1x.png",
+    "sha256": "0ab6e884472c5c648964de14ede9723ccc536945ea965c74802ffa5244afef09",
+    "project": null
+  },
+  {
+    "oldPath": "audit/strivaro-project-2026-11-12/detail-desktop-2x.png",
+    "path": "asset-library/reviews/by-phase/strivaro-project-2026-11-12/detail-desktop-2x.png",
+    "sha256": "12193bab585271603d86d1c4eb8b30ef555f0601bc903ee44329b68b1962bd84",
+    "project": null
+  },
+  {
+    "oldPath": "audit/strivaro-project-2026-11-12/detail-mobile.png",
+    "path": "asset-library/reviews/by-phase/strivaro-project-2026-11-12/detail-mobile.png",
+    "sha256": "72714c822817cd7086e7eebe0571f257c5f880447b1d46a5c8c74001e060a36c",
+    "project": null
+  },
+  {
+    "oldPath": "audit/strivaro-project-2026-11-12/detail-tablet.png",
+    "path": "asset-library/reviews/by-phase/strivaro-project-2026-11-12/detail-tablet.png",
+    "sha256": "2f04bcce7a16eedf071f7d9aaa8a8ff646b2f71b307a9353a4241479e4d75446",
+    "project": null
+  },
+  {
+    "oldPath": "audit/tablet-app-digital-habit-tracker.png",
+    "path": "asset-library/reviews/projects/app-habitstride/general/tablet-app-digital-habit-tracker.png",
+    "sha256": "25cad043dbdfe944794ec497f490ef5fb4224772286fefd5de8baef5f5041e00",
+    "project": "app-habitstride"
+  },
+  {
+    "oldPath": "audit/tablet-app-habitstride.png",
+    "path": "asset-library/reviews/projects/app-habitstride/general/tablet-app-habitstride.png",
+    "sha256": "334e3b8522002d078c4fc884266f6bbe063114bb736bd180fb44d1940752df70",
+    "project": "app-habitstride"
+  },
+  {
+    "oldPath": "audit/tablet-app-heartsync.png",
+    "path": "asset-library/reviews/projects/app-heartsync/general/tablet-app-heartsync.png",
+    "sha256": "a2707fbdf03acb7b081574bebf7dd89a7fa6daf40089b50404b1be73f82d7ec6",
+    "project": "app-heartsync"
+  },
+  {
+    "oldPath": "audit/tablet-app-supplement-management.png",
+    "path": "asset-library/reviews/projects/app-supplement-management/general/tablet-app-supplement-management.png",
+    "sha256": "a594761799e4664bed2ce77b8499703e9bd9dd16e002464cc5c189648c2d5053",
+    "project": "app-supplement-management"
+  },
+  {
+    "oldPath": "audit/tablet-livsocial.png",
+    "path": "asset-library/reviews/projects/livsocial/general/tablet-livsocial.png",
+    "sha256": "6d1a8fb4ef600c01871bd06319255c23073935e212b20c5e2d68cb44b1ce7511",
+    "project": "livsocial"
+  },
+  {
+    "oldPath": "audit/thumbnail-system-2026-11-12/before-mobile.png",
+    "path": "asset-library/reviews/by-phase/thumbnail-system-2026-11-12/before-mobile.png",
+    "sha256": "aa78598cc0981cc200bd71bae6725ff119080fd973bf8625c5d6bdecf0568dab",
+    "project": null
+  },
+  {
+    "oldPath": "audit/thumbnail-system-2026-11-12/before-web.png",
+    "path": "asset-library/reviews/by-phase/thumbnail-system-2026-11-12/before-web.png",
+    "sha256": "d355310876c41fe6f78fd26bae8cb564647e44709f2596ddb100163739c1b171",
+    "project": null
+  },
+  {
+    "oldPath": "audit/thumbnail-system-2026-11-12/desktop-mobile-cards.png",
+    "path": "asset-library/reviews/by-phase/thumbnail-system-2026-11-12/desktop-mobile-cards.png",
+    "sha256": "4f9d0a38b74cc2958a486e80ff87daf5d7e95aa0bed645f54f41718a33616966",
+    "project": null
+  },
+  {
+    "oldPath": "audit/thumbnail-system-2026-11-12/desktop-web-cards.png",
+    "path": "asset-library/reviews/by-phase/thumbnail-system-2026-11-12/desktop-web-cards.png",
+    "sha256": "c72397b9499cc0a064ef104a23b89def72b125b3945839fb6576e7d5c716e9bb",
+    "project": null
+  },
+  {
+    "oldPath": "audit/thumbnail-system-2026-11-12/mobile-mobile-cards.png",
+    "path": "asset-library/reviews/by-phase/thumbnail-system-2026-11-12/mobile-mobile-cards.png",
+    "sha256": "3ad0af9bb15e449d0869c308f6c4904ab07b7a9c5ae611a85019e12c8a9b28f5",
+    "project": null
+  },
+  {
+    "oldPath": "audit/thumbnail-system-2026-11-12/mobile-web-cards.png",
+    "path": "asset-library/reviews/by-phase/thumbnail-system-2026-11-12/mobile-web-cards.png",
+    "sha256": "b720396ac2cb6692a4775e20ba7a0bc8dfcfcec2bbbee92095e8f2f3eda2dae5",
+    "project": null
+  },
+  {
+    "oldPath": "audit/tukora-thumbnail-refresh-2026-11-12/app-tukora-connect-before.png",
+    "path": "asset-library/reviews/projects/app-tukora-connect/tukora-thumbnail-refresh-2026-11-12/app-tukora-connect-before.png",
+    "sha256": "2a5485b434d2c8ec7c8640fc73b6a2d2fdf04e56972ec4dbfc20090f807b63eb",
+    "project": "app-tukora-connect"
+  },
+  {
+    "oldPath": "audit/tukora-thumbnail-refresh-2026-11-12/app-tukora-connect-hover-1x.png",
+    "path": "asset-library/reviews/projects/app-tukora-connect/tukora-thumbnail-refresh-2026-11-12/app-tukora-connect-hover-1x.png",
+    "sha256": "e1a3a08cabcad14fb581ab4747231fbe4f4ad880f180d8b20f821c445e9a70be",
+    "project": "app-tukora-connect"
+  },
+  {
+    "oldPath": "audit/tukora-thumbnail-refresh-2026-11-12/app-tukora-connect-hover-2x.png",
+    "path": "asset-library/reviews/projects/app-tukora-connect/tukora-thumbnail-refresh-2026-11-12/app-tukora-connect-hover-2x.png",
+    "sha256": "80d5e6dfc5445ffd8e97e1ef1342a5811e128f9c510a76242ce535c71d87b130",
+    "project": "app-tukora-connect"
+  },
+  {
+    "oldPath": "audit/tukora-thumbnail-refresh-2026-11-12/app-tukora-connect-mobile-card.png",
+    "path": "asset-library/reviews/projects/app-tukora-connect/tukora-thumbnail-refresh-2026-11-12/app-tukora-connect-mobile-card.png",
+    "sha256": "d37e664a8ab420f09cb6eafeed7a453a551a5718ab319efad42b1b034f241ff1",
+    "project": "app-tukora-connect"
+  },
+  {
+    "oldPath": "audit/tukora-thumbnail-refresh-2026-11-12/tukora-connect-before.png",
+    "path": "asset-library/reviews/projects/tukora-connect/tukora-thumbnail-refresh-2026-11-12/tukora-connect-before.png",
+    "sha256": "0f868144aecc90bb43ecc638cc41a89841b511d2678a49f7ace96e8e90758a2f",
+    "project": "tukora-connect"
+  },
+  {
+    "oldPath": "audit/tukora-thumbnail-refresh-2026-11-12/tukora-connect-hover-1x.png",
+    "path": "asset-library/reviews/projects/tukora-connect/tukora-thumbnail-refresh-2026-11-12/tukora-connect-hover-1x.png",
+    "sha256": "b5c54b00a1aba59936673b99f620b80656323907f6a485974964596e877d0f80",
+    "project": "tukora-connect"
+  },
+  {
+    "oldPath": "audit/tukora-thumbnail-refresh-2026-11-12/tukora-connect-hover-2x.png",
+    "path": "asset-library/reviews/projects/tukora-connect/tukora-thumbnail-refresh-2026-11-12/tukora-connect-hover-2x.png",
+    "sha256": "81be5afc46135bed0d4998632f189bb1835eea2e196c92cfc03bfdcf854e5300",
+    "project": "tukora-connect"
+  },
+  {
+    "oldPath": "audit/tukora-thumbnail-refresh-2026-11-12/tukora-connect-mobile-card.png",
+    "path": "asset-library/reviews/projects/tukora-connect/tukora-thumbnail-refresh-2026-11-12/tukora-connect-mobile-card.png",
+    "sha256": "7e1a1daffbd180c22918d4e420349b50e20fb270851c7bb69eab829d299b6dc9",
+    "project": "tukora-connect"
+  },
+  {
+    "oldPath": "audit/uiux-ecosystem/card-hover.png",
+    "path": "asset-library/reviews/by-phase/uiux-ecosystem/card-hover.png",
+    "sha256": "76932f2ab9ca62bf3834af7bf67ab9bd383538ade60fd840a33fa870713b8f9c",
+    "project": null
+  },
+  {
+    "oldPath": "audit/uiux-ecosystem/development/card-hover.png",
+    "path": "asset-library/reviews/by-phase/uiux-ecosystem/development/card-hover.png",
+    "sha256": "fd7148eeef11045641fe5d3ef5cd7a067a01f47104fff7b82f415f83c34c195d",
+    "project": null
+  },
+  {
+    "oldPath": "audit/uiux-ecosystem/development/hero-1195.png",
+    "path": "asset-library/reviews/by-phase/uiux-ecosystem/development/hero-1195.png",
+    "sha256": "41789fe06641523e249d9bf906695a4353a79b9ee6793e19969878b5e9047c63",
+    "project": null
+  },
+  {
+    "oldPath": "audit/uiux-ecosystem/development/hero-1440.png",
+    "path": "asset-library/reviews/by-phase/uiux-ecosystem/development/hero-1440.png",
+    "sha256": "22fcdee60368548893f50109954d0751d0a5c8932a695b344dcea38fbb0be9a5",
+    "project": null
+  },
+  {
+    "oldPath": "audit/uiux-ecosystem/development/hero-390.png",
+    "path": "asset-library/reviews/by-phase/uiux-ecosystem/development/hero-390.png",
+    "sha256": "4a306bbf7ab7608a34b672ddc867f642b92e31b485b8bbb0ea3d799a2f81d4e8",
+    "project": null
+  },
+  {
+    "oldPath": "audit/uiux-ecosystem/development/hero-768.png",
+    "path": "asset-library/reviews/by-phase/uiux-ecosystem/development/hero-768.png",
+    "sha256": "605d9df10b5ef95c84defca3678c8cf47af97915fda463cfb5ee85cd8f44e533",
+    "project": null
+  },
+  {
+    "oldPath": "audit/uiux-ecosystem/development/hover-hero.png",
+    "path": "asset-library/reviews/by-phase/uiux-ecosystem/development/hover-hero.png",
+    "sha256": "e47345225bbd76d01f351b2b1f404f88647e8821613fbcee7a00a894b791a4fc",
+    "project": null
+  },
+  {
+    "oldPath": "audit/uiux-ecosystem/hero-1195.png",
+    "path": "asset-library/reviews/by-phase/uiux-ecosystem/hero-1195.png",
+    "sha256": "4b991aae7f4297387a4f9d875d09deb183ff4c8c9766bf2655c8df59a3154f62",
+    "project": null
+  },
+  {
+    "oldPath": "audit/uiux-ecosystem/hero-1440.png",
+    "path": "asset-library/reviews/by-phase/uiux-ecosystem/hero-1440.png",
+    "sha256": "7cfd217b816963a64598f91bd28f43c4f70d26890f6428b768561ae4ea5360dc",
+    "project": null
+  },
+  {
+    "oldPath": "audit/uiux-ecosystem/hero-390.png",
+    "path": "asset-library/reviews/by-phase/uiux-ecosystem/hero-390.png",
+    "sha256": "f24969183c4dc9c9ec1596bce638118ad75e3e5a3548094f90ba470fbf3deac4",
+    "project": null
+  },
+  {
+    "oldPath": "audit/uiux-ecosystem/hero-768.png",
+    "path": "asset-library/reviews/by-phase/uiux-ecosystem/hero-768.png",
+    "sha256": "edb6829253b6181e5ffe97006413023a4da044861e1f263339e087acbc135c9f",
+    "project": null
+  },
+  {
+    "oldPath": "audit/uiux-ecosystem/hover-hero.png",
+    "path": "asset-library/reviews/by-phase/uiux-ecosystem/hover-hero.png",
+    "sha256": "3f0693b3f33712e3eb08226c2a18128452241ad0eb46f185600c5e8b8eb10636",
+    "project": null
+  },
+  {
+    "oldPath": "audit/umeed-refresh-2026-11-12/retired-public-assets/umeed-1cd14b2de8-card.webp",
+    "path": "asset-library/reviews/projects/umeed/umeed-refresh-2026-11-12/retired-public-assets/umeed-1cd14b2de8-card.webp",
+    "sha256": "6091c9cb9fb8b90e9d34d08f3c8cd170fb1f9a4cc56cde1a20a3ba756492778a",
+    "project": "umeed"
+  },
+  {
+    "oldPath": "audit/umeed-refresh-2026-11-12/retired-public-assets/umeed-1cd14b2de8-medium.webp",
+    "path": "asset-library/reviews/projects/umeed/umeed-refresh-2026-11-12/retired-public-assets/umeed-1cd14b2de8-medium.webp",
+    "sha256": "353cc66ef89660ecf1b5db8cc69974db2f8c6a76c8245f304e8881edce5a0838",
+    "project": "umeed"
+  },
+  {
+    "oldPath": "audit/umeed-refresh-2026-11-12/retired-public-assets/umeed-1cd14b2de8.webp",
+    "path": "asset-library/reviews/projects/umeed/umeed-refresh-2026-11-12/retired-public-assets/umeed-1cd14b2de8.webp",
+    "sha256": "db0f712a4d6187f40a9f4c3a16364383de4f9c4321be30e20622a72f7325b95c",
+    "project": "umeed"
+  },
+  {
+    "oldPath": "audit/umeed-refresh-2026-11-12/retired-public-assets/umeed-89d20b4567.webp",
+    "path": "asset-library/reviews/projects/umeed/umeed-refresh-2026-11-12/retired-public-assets/umeed-89d20b4567.webp",
+    "sha256": "6328134f6753eab634c50061458278f4fd9ae22eb28d479e53b73214ab51f16b",
+    "project": "umeed"
+  },
+  {
+    "oldPath": "audit/umeed-refresh-2026-11-12/retired-public-assets/umeed-95403b46a7.webp",
+    "path": "asset-library/reviews/projects/umeed/umeed-refresh-2026-11-12/retired-public-assets/umeed-95403b46a7.webp",
+    "sha256": "3aff52020fd4e330b65be8fe1723a3f5a220b66154cdbaea5988fbd690e78d7a",
+    "project": "umeed"
+  },
+  {
+    "oldPath": "audit/whizara-identity.png",
+    "path": "asset-library/reviews/projects/whizlume/general/whizara-identity.png",
+    "sha256": "366d4ee57463a85a65ac2e407bb53765032d1b0ffb87af2ea3b2f6c3848f507e",
+    "project": "whizlume"
+  }
+]
