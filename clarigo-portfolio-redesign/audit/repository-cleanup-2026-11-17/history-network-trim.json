@@ -1,0 +1,66 @@
+{
+  "base": "486a902eb953c72111289ec15cbe9fc12a445e2b",
+  "before": "451af913dad0527b2e33e2e3298711ae1b872891",
+  "candidate": "refs/heads/maintenance/lean-history-2026-11-18",
+  "tip": "ad0f3448d65ab256299fa7986c7d680c35b69108",
+  "commitCount": 11,
+  "entries": [
+    {
+      "old": "9b8ea75940339fea19f5ec44195c57dec15584a1",
+      "next": "201601a2703018b27d1f5ae7a97106c01129261f",
+      "removedGeneratedPaths": 1004
+    },
+    {
+      "old": "3e99480cd2dd9b26b4470660a188261554ef332d",
+      "next": "e120ced64dc6bc7b8b8a606c21bdd3f997d0b80a",
+      "removedGeneratedPaths": 1168
+    },
+    {
+      "old": "904f6cfface282939382ab2ab619b84b3c5680a7",
+      "next": "601c3f1cd56b645981ba097af58a11194d1322c5",
+      "removedGeneratedPaths": 1312
+    },
+    {
+      "old": "4fd43a6a2b0efd932f4ac66fbd531c53fd257e65",
+      "next": "1848241bbd592233d401e4048041cff2c76d4193",
+      "removedGeneratedPaths": 1824
+    },
+    {
+      "old": "ebfb1447ecc1f8995900cc139e1f1c0509fbba3a",
+      "next": "f74bfcbd4a2372a4c6be5974a8873c0799ce10aa",
+      "removedGeneratedPaths": 1824
+    },
+    {
+      "old": "404b69188d7ba6852c170de954ca06f5a038a073",
+      "next": "d4d5fbc7abe2d641c82f2c379b0e198f3adc5fb6",
+      "removedGeneratedPaths": 1824
+    },
+    {
+      "old": "d21032b16e915b1b0c42e28eabb4ec99422d50db",
+      "next": "23ed8c2892590e3fd5d439cf0306a157ad1d00fb",
+      "removedGeneratedPaths": 1860
+    },
+    {
+      "old": "cfe71969ff66cffb1e8f5f4f4d4cb995b5f1b25d",
+      "next": "6b1c00cf82fabecf599379a4e37349c7aef8d90d",
+      "removedGeneratedPaths": 1860
+    },
+    {
+      "old": "828b5cbdbb19819e865ccb25c03fd6f7b5b6a6cc",
+      "next": "81001c005bacd09fe9bd94c59b3ff5f931bd3207",
+      "removedGeneratedPaths": 1770
+    },
+    {
+      "old": "e71b378ff0635bad487b1818821d6dc162045f0b",
+      "next": "3f1268fc6f015647a834399e5e85c273827eab43",
+      "removedGeneratedPaths": 1770
+    },
+    {
+      "old": "451af913dad0527b2e33e2e3298711ae1b872891",
+      "next": "ad0f3448d65ab256299fa7986c7d680c35b69108",
+      "removedGeneratedPaths": 1770
+    }
+  ],
+  "publishedHistoryUnchanged": true,
+  "onlyGeneratedFilesRemoved": true
+}

@@ -26,3 +26,12 @@ audit/**/*.log
 audit/**/*.html
 audit/**/*.trace
 exports/**/*.zip
+
+# Raster authoring checkpoints stay local; public assets and exports stay tracked.
+audit/**/*.png
+audit/**/*.webp
+audit/**/*.jpg
+audit/**/*.jpeg
+audit/**/*.gif
+audit/**/*.avif
+audit/**/*.mp4
